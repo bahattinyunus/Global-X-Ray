@@ -1,0 +1,28 @@
+{
+  "country": "Çad",
+  "official_name": "Çad Devleti",
+  "iso_code": "TCD",
+  "currency": "XAF",
+  "gdp_nominal_billion_usd": 12.7,
+  "gdp_per_capita_usd": 710,
+  "inflation_rate_pct": 5.5,
+  "unemployment_rate_pct": 6.8,
+  "top_exports": [
+    "Doğal Kaynaklar",
+    "Tarım Ürünleri",
+    "Hafif Sanayi Malları"
+  ],
+  "top_imports": [
+    "Petrol Ürünleri",
+    "Makineler & Ekipman",
+    "Tüketim Malları",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "Bölgesel Komşular",
+    "Çin",
+    "ABD",
+    "Avrupa Birliği"
+  ],
+  "shadow_economy_pct_gdp": 25.0
+}

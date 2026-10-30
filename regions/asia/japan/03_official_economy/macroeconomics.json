@@ -1,0 +1,31 @@
+{
+  "country": "Japonya",
+  "official_name": "Japonya",
+  "iso_code": "JPN",
+  "currency": "JPY",
+  "gdp_nominal_billion_usd": 4212.0,
+  "gdp_per_capita_usd": 33800,
+  "inflation_rate_pct": 2.8,
+  "unemployment_rate_pct": 2.5,
+  "top_exports": [
+    "Otomobil & Araç Parçaları",
+    "Entegre Devreler",
+    "Endüstriyel Robotlar",
+    "Optik Cihazlar"
+  ],
+  "top_imports": [
+    "Ham Petrol",
+    "LNG",
+    "Kömür",
+    "Yarı İletkenler",
+    "Gıda"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Çin",
+    "Güney Kore",
+    "Tayvan",
+    "Avustralya"
+  ],
+  "shadow_economy_pct_gdp": 9.1
+}

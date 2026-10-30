@@ -1,0 +1,31 @@
+{
+  "country": "İran",
+  "official_name": "İran İslam Cumhuriyeti",
+  "iso_code": "IRN",
+  "currency": "IRR",
+  "gdp_nominal_billion_usd": 403.5,
+  "gdp_per_capita_usd": 4670,
+  "inflation_rate_pct": 42.0,
+  "unemployment_rate_pct": 9.2,
+  "top_exports": [
+    "Ham Petrol (Gri/Gölge Tanker Filosu)",
+    "Petrokimya",
+    "Doğal Gaz",
+    "Çelik",
+    "Plastik"
+  ],
+  "top_imports": [
+    "Endüstriyel Makineler",
+    "İlaç & Tıbbi Cihaz",
+    "Tahıl",
+    "Elektronik"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Irak",
+    "BAE",
+    "Türkiye",
+    "Rusya"
+  ],
+  "shadow_economy_pct_gdp": 36.5
+}

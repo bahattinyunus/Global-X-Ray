@@ -1,0 +1,28 @@
+{
+  "country": "Nikaragua",
+  "official_name": "Nikaragua Devleti",
+  "iso_code": "NIC",
+  "currency": "NIO",
+  "gdp_nominal_billion_usd": 17.8,
+  "gdp_per_capita_usd": 2500,
+  "inflation_rate_pct": 5.5,
+  "unemployment_rate_pct": 6.8,
+  "top_exports": [
+    "Doğal Kaynaklar",
+    "Tarım Ürünleri",
+    "Hafif Sanayi Malları"
+  ],
+  "top_imports": [
+    "Petrol Ürünleri",
+    "Makineler & Ekipman",
+    "Tüketim Malları",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "Bölgesel Komşular",
+    "Çin",
+    "ABD",
+    "Avrupa Birliği"
+  ],
+  "shadow_economy_pct_gdp": 25.0
+}

@@ -1,0 +1,6 @@
+metric,value,unit,year,source
+total_population,281635,people,2024,UN / World Bank
+capital_population_estimate,42245,people,2024,National Statistics
+urban_population_pct,68.5,percent,2024,World Bank
+median_age,32.4,years,2024,UN Population Division
+shadow_economy_pct,25.0,percent_gdp,2024,IMF / Schneider Studies

@@ -1,0 +1,33 @@
+{
+  "country": "Almanya",
+  "official_name": "Almanya Federal Cumhuriyeti",
+  "iso_code": "DEU",
+  "currency": "EUR",
+  "gdp_nominal_billion_usd": 4456.0,
+  "gdp_per_capita_usd": 52800,
+  "inflation_rate_pct": 2.2,
+  "unemployment_rate_pct": 3.2,
+  "top_exports": [
+    "Otomobil & Araç Parçaları",
+    "İlaç & Aşı",
+    "Endüstriyel Makineler",
+    "Kimyasallar",
+    "Elektronik"
+  ],
+  "top_imports": [
+    "Petrol & Doğal Gaz",
+    "Elektronik Ekipman",
+    "Otomobil",
+    "Kimyasallar",
+    "İlaç"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Fransa",
+    "Çin",
+    "Hollanda",
+    "Polonya",
+    "İtalya"
+  ],
+  "shadow_economy_pct_gdp": 9.8
+}

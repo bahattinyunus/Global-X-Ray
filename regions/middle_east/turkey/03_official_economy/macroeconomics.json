@@ -1,0 +1,32 @@
+{
+  "country": "Türkiye",
+  "official_name": "Türkiye Cumhuriyeti",
+  "iso_code": "TUR",
+  "currency": "TRY",
+  "gdp_nominal_billion_usd": 1154.0,
+  "gdp_per_capita_usd": 13380,
+  "inflation_rate_pct": 48.6,
+  "unemployment_rate_pct": 8.7,
+  "top_exports": [
+    "Otomotiv",
+    "Makine & Kazanlar",
+    "Demir-Çelik",
+    "Tekstil ve Hazır Giyim",
+    "Savunma Sanayi Ürünleri (İHA/SİHA)"
+  ],
+  "top_imports": [
+    "Ham Petrol & Doğal Gaz",
+    "Altın & Kıymetli Madenler",
+    "Kazan & Makine",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "Rusya",
+    "Çin",
+    "İtalya",
+    "ABD",
+    "Irak"
+  ],
+  "shadow_economy_pct_gdp": 28.4
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Suriye",
+  "official_name": "Suriye Arap Cumhuriyeti",
+  "iso_code": "SYR",
+  "currency": "SYP",
+  "gdp_nominal_billion_usd": 12.0,
+  "gdp_per_capita_usd": 500,
+  "inflation_rate_pct": 95.0,
+  "unemployment_rate_pct": 35.0,
+  "top_exports": [
+    "Kaptagon (Sentetik Uyuşturucu - Yasadışı)",
+    "Zeytinyağı",
+    "Fosfat"
+  ],
+  "top_imports": [
+    "Petrol Ürünleri",
+    "Gıda",
+    "Silah"
+  ],
+  "major_trading_partners": [
+    "Rusya",
+    "İran",
+    "Çin",
+    "Lübnan"
+  ],
+  "shadow_economy_pct_gdp": 72.0
+}

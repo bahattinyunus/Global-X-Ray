@@ -1,0 +1,29 @@
+{
+  "country": "Ürdün",
+  "official_name": "Ürdün Haşimi Krallığı",
+  "iso_code": "JOR",
+  "currency": "JOD",
+  "gdp_nominal_billion_usd": 50.8,
+  "gdp_per_capita_usd": 4480,
+  "inflation_rate_pct": 2.2,
+  "unemployment_rate_pct": 21.4,
+  "top_exports": [
+    "Tekstil & Konfeksiyon",
+    "Potas & Fosfat",
+    "Kimyasallar",
+    "İlaç"
+  ],
+  "top_imports": [
+    "Ham Petrol & Doğal Gaz",
+    "Otomobil",
+    "Makineler"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Hindistan",
+    "Suudi Arabistan",
+    "Çin",
+    "Irak"
+  ],
+  "shadow_economy_pct_gdp": 26.0
+}

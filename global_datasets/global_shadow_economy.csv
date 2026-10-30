@@ -1,0 +1,37 @@
+country_code,country_name,region,shadow_economy_pct_gdp,corruption_rank_ti_2024,rule_of_law_score,data_source
+USA,United States,americas,8.5,24,0.69,IMF / NBER / Transparency International
+DEU,Germany,europe,9.8,9,0.83,IMF / Schneider Shadow Economy Study
+GBR,United Kingdom,europe,11.2,20,0.78,Schneider Studies / Transparency International
+FRA,France,europe,13.8,21,0.73,Insee / Schneider
+JPN,Japan,asia,9.1,16,0.79,Bank of Japan / IMF
+CHN,China,asia,12.7,76,0.47,World Bank / National Bureau of Statistics
+TUR,Turkey,middle_east,28.4,115,0.41,Schneider / TÜİK / OECD
+RUS,Russia,europe,38.2,141,0.38,Federal Customs / Rosstat / OCCRP
+UKR,Ukraine,europe,32.6,104,0.49,Ministry of Economy Ukraine / World Bank
+IRN,Iran,middle_east,36.5,149,0.34,Central Bank of Iran / Transparency Int
+SAU,Saudi Arabia,middle_east,16.2,52,0.58,SAMA / IMF
+ARE,United Arab Emirates,middle_east,18.0,26,0.67,FATF Evaluation / IMF
+ISR,Israel,middle_east,18.5,33,0.68,Bank of Israel / OECD
+EGY,Egypt,africa,34.8,108,0.35,CAPMAS / World Bank
+NGA,Nigeria,africa,52.4,145,0.32,NBS / IMF African Dept
+ZAF,South Africa,africa,24.1,83,0.54,SARS / IMF
+BRA,Brazil,americas,33.5,104,0.49,IBGE / FGV Ibre
+MEX,Mexico,americas,29.8,126,0.42,INEGI / SAT
+ARG,Argentina,americas,27.2,98,0.52,INDEC / FMI
+IND,India,asia,22.4,93,0.50,RBI / NIPFP
+PAK,Pakistan,asia,35.6,133,0.39,State Bank of Pakistan / IMF
+IDN,Indonesia,asia,20.8,115,0.53,BPS / Transparency Int
+KOR,South Korea,asia,21.3,32,0.72,Bank of Korea / OECD
+TKM,Turkmenistan,asia,45.0,170,0.22,OCCRP / Crude Accountability
+KAZ,Kazakhstan,asia,28.5,93,0.52,KPMG Central Asia / Ministry of Finance
+UZB,Uzbekistan,asia,33.0,121,0.46,State Statistics Committee
+AZE,Azerbaijan,asia,38.0,154,0.31,OCCRP Azerbaijani Laundromat / World Bank
+GEO,Georgia,europe,22.0,49,0.61,GeoStat / Transparency Int
+BLR,Belarus,europe,31.0,98,0.36,BelStat / IMF
+POL,Poland,europe,19.2,47,0.64,GUS / Warsaw Institute
+ITA,Italy,europe,20.5,42,0.65,Istat / Bank of Italy
+ESP,Spain,europe,17.2,36,0.70,Funcas / Tax Agency
+GRC,Greece,europe,21.4,59,0.61,Bank of Greece / OECD
+SWE,Sweden,europe,7.8,6,0.86,Schneider / Skatteverket
+NOR,Norway,europe,8.2,4,0.89,SSB / IMF
+CHE,Switzerland,europe,6.4,7,0.87,SECO / Transparency Int

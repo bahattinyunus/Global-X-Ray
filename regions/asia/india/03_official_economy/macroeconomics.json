@@ -1,0 +1,32 @@
+{
+  "country": "Hindistan",
+  "official_name": "Hindistan Cumhuriyeti",
+  "iso_code": "IND",
+  "currency": "INR",
+  "gdp_nominal_billion_usd": 3937.0,
+  "gdp_per_capita_usd": 2730,
+  "inflation_rate_pct": 5.4,
+  "unemployment_rate_pct": 7.2,
+  "top_exports": [
+    "Rafine Petrol",
+    "Yazılım & BT Hizmetleri",
+    "Elmas & Mücevher",
+    "İlaç & Aşı",
+    "Otomotiv"
+  ],
+  "top_imports": [
+    "Ham Petrol",
+    "Kömür",
+    "Altın",
+    "Elektronik",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Çin",
+    "BAE",
+    "Rusya",
+    "Suudi Arabistan"
+  ],
+  "shadow_economy_pct_gdp": 22.4
+}

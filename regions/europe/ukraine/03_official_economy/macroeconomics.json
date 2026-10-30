@@ -1,0 +1,31 @@
+{
+  "country": "Ukrayna",
+  "official_name": "Ukrayna",
+  "iso_code": "UKR",
+  "currency": "UAH",
+  "gdp_nominal_billion_usd": 178.0,
+  "gdp_per_capita_usd": 4800,
+  "inflation_rate_pct": 6.5,
+  "unemployment_rate_pct": 15.0,
+  "top_exports": [
+    "Tahıl (Mısır, Buğday)",
+    "Demir-Çelik",
+    "Ayçiçek Yağı",
+    "Madenler"
+  ],
+  "top_imports": [
+    "Silah & Savunma Donanımı",
+    "Petrol Ürünleri",
+    "Doğal Gaz",
+    "Otomobil"
+  ],
+  "major_trading_partners": [
+    "Polonya",
+    "Almanya",
+    "Romanya",
+    "Çin",
+    "Türkiye",
+    "ABD"
+  ],
+  "shadow_economy_pct_gdp": 32.6
+}

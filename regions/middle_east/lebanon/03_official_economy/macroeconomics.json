@@ -1,0 +1,29 @@
+{
+  "country": "Lübnan",
+  "official_name": "Lübnan Cumhuriyeti",
+  "iso_code": "LBN",
+  "currency": "LBP",
+  "gdp_nominal_billion_usd": 21.0,
+  "gdp_per_capita_usd": 3900,
+  "inflation_rate_pct": 170.0,
+  "unemployment_rate_pct": 29.6,
+  "top_exports": [
+    "Mücevher",
+    "Kimyasallar",
+    "Meyve-Sebze"
+  ],
+  "top_imports": [
+    "Petrol Ürünleri",
+    "Otomotiv",
+    "Tahıl",
+    "İlaç"
+  ],
+  "major_trading_partners": [
+    "BAE",
+    "İsviçre",
+    "Türkiye",
+    "Çin",
+    "Yunanistan"
+  ],
+  "shadow_economy_pct_gdp": 54.0
+}

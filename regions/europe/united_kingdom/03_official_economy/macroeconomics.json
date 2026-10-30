@@ -1,0 +1,33 @@
+{
+  "country": "Birleşik Krallık",
+  "official_name": "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı",
+  "iso_code": "GBR",
+  "currency": "GBP",
+  "gdp_nominal_billion_usd": 3340.0,
+  "gdp_per_capita_usd": 48900,
+  "inflation_rate_pct": 2.6,
+  "unemployment_rate_pct": 4.1,
+  "top_exports": [
+    "Finansal ve Profesyonel Hizmetler",
+    "Otomotiv",
+    "Havacılık (Rolls-Royce)",
+    "İlaç",
+    "Ham Petrol"
+  ],
+  "top_imports": [
+    "Otomobil",
+    "Ham Petrol & Gaz",
+    "Tüketim Malları",
+    "İlaç",
+    "Mücevher"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Almanya",
+    "İrlanda",
+    "Hollanda",
+    "Çin",
+    "Fransa"
+  ],
+  "shadow_economy_pct_gdp": 11.2
+}

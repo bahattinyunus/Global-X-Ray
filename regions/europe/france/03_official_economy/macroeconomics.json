@@ -1,0 +1,32 @@
+{
+  "country": "Fransa",
+  "official_name": "Fransa Cumhuriyeti",
+  "iso_code": "FRA",
+  "currency": "EUR",
+  "gdp_nominal_billion_usd": 3030.0,
+  "gdp_per_capita_usd": 44500,
+  "inflation_rate_pct": 2.3,
+  "unemployment_rate_pct": 7.3,
+  "top_exports": [
+    "Havacılık (Airbus)",
+    "Lüks Tüketim (LVMH, Kering, Hermès)",
+    "İlaç",
+    "Nükleer & Enerji Teknolojisi",
+    "Şarap & Tarım"
+  ],
+  "top_imports": [
+    "Otomobil",
+    "Ham Petrol & Gaz",
+    "Kimyasallar",
+    "Elektronik"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "İtalya",
+    "ABD",
+    "İspanya",
+    "Belçika",
+    "İngiltere"
+  ],
+  "shadow_economy_pct_gdp": 13.8
+}

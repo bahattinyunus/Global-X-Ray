@@ -1,0 +1,23 @@
+{
+  "description": "Küresel Basın Özgürlüğü ve Medya Mülkiyeti Oligarşi Endeksi (RSF & OSINT Sentezi)",
+  "version": "2024.1",
+  "methodology": "RSF Press Freedom Index, CPJ data ve OCCRP medya sahiplik araştırmaları baz alınmıştır.",
+  "countries": {
+    "NOR": { "name": "Norway", "score": 91.89, "classification": "İyi", "state_monopoly": false, "oligarch_influence": "Düşük" },
+    "SWE": { "name": "Sweden", "score": 88.15, "classification": "İyi", "state_monopoly": false, "oligarch_influence": "Düşük" },
+    "DEU": { "name": "Germany", "score": 81.91, "classification": "Oldukça İyi", "state_monopoly": false, "oligarch_influence": "Düşük" },
+    "GBR": { "name": "United Kingdom", "score": 78.51, "classification": "Tatmin Edici", "state_monopoly": false, "oligarch_influence": "Orta (Tabloid Kartelleri)" },
+    "USA": { "name": "United States", "score": 75.80, "classification": "Tatmin Edici", "state_monopoly": false, "oligarch_influence": "Yüksek (6 Büyük Konglomera)" },
+    "FRA": { "name": "France", "score": 78.72, "classification": "Tatmin Edici", "state_monopoly": false, "oligarch_influence": "Yüksek (Milyarder Mülkiyeti)" },
+    "ITA": { "name": "Italy", "score": 76.16, "classification": "Sorunlu", "state_monopoly": false, "oligarch_influence": "Yüksek (Mediaset ve Siyasi Bağlantılı Gruplar)" },
+    "TUR": { "name": "Turkey", "score": 38.30, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "Kritik (%90 Kamu İhalesi Alan Gruplar)" },
+    "RUS": { "name": "Russia", "score": 29.98, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "Mutlak Devlet-Oligark Tekeli" },
+    "CHN": { "name": "China", "score": 22.97, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "ÇKP Propaganda Departmanı Tekeli" },
+    "IRN": { "name": "Iran", "score": 23.22, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "IRGC / Dini Lider Vesayeti" },
+    "SAU": { "name": "Saudi Arabia", "score": 32.43, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "Kraliyet Ailesi Doğrudan Kontrolü" },
+    "EGY": { "name": "Egypt", "score": 30.23, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "Askeri İstihbarat Şirketleri Tekeli" },
+    "TKM": { "name": "Turkmenistan", "score": 25.82, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "Totaliter Devlet Tekeli" },
+    "KOR": { "name": "South Korea", "score": 70.83, "classification": "Tatmin Edici", "state_monopoly": false, "oligarch_influence": "Yüksek (Chaebol Reklam Baskısı)" },
+    "JPN": { "name": "Japan", "score": 64.37, "classification": "Sorunlu", "state_monopoly": false, "oligarch_influence": "Kisha Kulübü Sistemi ve Zaibatsu Mirası" }
+  }
+}

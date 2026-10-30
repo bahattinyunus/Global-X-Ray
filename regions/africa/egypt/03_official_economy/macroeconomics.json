@@ -1,0 +1,33 @@
+{
+  "country": "Mısır",
+  "official_name": "Mısır Arap Cumhuriyeti",
+  "iso_code": "EGY",
+  "currency": "EGP",
+  "gdp_nominal_billion_usd": 395.0,
+  "gdp_per_capita_usd": 3500,
+  "inflation_rate_pct": 33.0,
+  "unemployment_rate_pct": 7.0,
+  "top_exports": [
+    "LNG & Doğal Gaz",
+    "Ham Petrol",
+    "Gübre",
+    "Tekstil",
+    "Tarımsal Ürünler"
+  ],
+  "top_imports": [
+    "Buğday & Tahıl",
+    "Petrol Ürünleri",
+    "İlaç",
+    "Makineler",
+    "Otomobil"
+  ],
+  "major_trading_partners": [
+    "Türkiye",
+    "İtalya",
+    "Suudi Arabistan",
+    "BAE",
+    "ABD",
+    "Çin"
+  ],
+  "shadow_economy_pct_gdp": 34.8
+}

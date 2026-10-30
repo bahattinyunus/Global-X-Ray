@@ -1,0 +1,31 @@
+{
+  "country": "Brezilya",
+  "official_name": "Brezilya Federal Cumhuriyeti",
+  "iso_code": "BRA",
+  "currency": "BRL",
+  "gdp_nominal_billion_usd": 2173.0,
+  "gdp_per_capita_usd": 10000,
+  "inflation_rate_pct": 4.2,
+  "unemployment_rate_pct": 7.5,
+  "top_exports": [
+    "Soya Fasulyesi",
+    "Demir Cevheri",
+    "Ham Petrol",
+    "Şeker & Kahve",
+    "Sığır Eti"
+  ],
+  "top_imports": [
+    "Gübre",
+    "Rafine Petrol",
+    "Otomobil Parçaları",
+    "Entegre Devreler"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "ABD",
+    "Arjantin",
+    "Hollanda",
+    "Almanya"
+  ],
+  "shadow_economy_pct_gdp": 33.5
+}

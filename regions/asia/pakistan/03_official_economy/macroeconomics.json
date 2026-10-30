@@ -1,0 +1,30 @@
+{
+  "country": "Pakistan",
+  "official_name": "Pakistan İslam Cumhuriyeti",
+  "iso_code": "PAK",
+  "currency": "PKR",
+  "gdp_nominal_billion_usd": 338.0,
+  "gdp_per_capita_usd": 1400,
+  "inflation_rate_pct": 23.0,
+  "unemployment_rate_pct": 8.5,
+  "top_exports": [
+    "Tekstil & Pamuk",
+    "Pirinç",
+    "Deri Ürünleri",
+    "Cerrahi Aletler"
+  ],
+  "top_imports": [
+    "Ham Petrol & LNG",
+    "Palm Yağı",
+    "Makineler",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "ABD",
+    "BAE",
+    "İngiltere",
+    "Almanya"
+  ],
+  "shadow_economy_pct_gdp": 35.6
+}

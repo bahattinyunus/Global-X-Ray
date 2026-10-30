@@ -1,0 +1,30 @@
+{
+  "country": "Katar",
+  "official_name": "Katar Devleti",
+  "iso_code": "QAT",
+  "currency": "QAR",
+  "gdp_nominal_billion_usd": 235.5,
+  "gdp_per_capita_usd": 82000,
+  "inflation_rate_pct": 1.5,
+  "unemployment_rate_pct": 0.1,
+  "top_exports": [
+    "Sıvılaştırılmış Doğal Gaz (LNG)",
+    "Ham Petrol",
+    "Gübre",
+    "Alüminyum"
+  ],
+  "top_imports": [
+    "Uçak & Parçaları",
+    "Otomobil",
+    "Mücevher",
+    "Elektronik"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Hindistan",
+    "Japonya",
+    "Güney Kore",
+    "İngiltere"
+  ],
+  "shadow_economy_pct_gdp": 14.5
+}

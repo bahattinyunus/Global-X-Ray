@@ -1,0 +1,28 @@
+{
+  "country": "Türkmenistan",
+  "official_name": "Türkmenistan",
+  "iso_code": "TKM",
+  "currency": "TMT",
+  "gdp_nominal_billion_usd": 60.0,
+  "gdp_per_capita_usd": 9200,
+  "inflation_rate_pct": 11.0,
+  "unemployment_rate_pct": 10.5,
+  "top_exports": [
+    "Boru Hattı Doğal Gazı (Ağırlıklı Çin'e)",
+    "Ham Petrol",
+    "Tekstil & Pamuk"
+  ],
+  "top_imports": [
+    "Gıda",
+    "Makine",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Türkiye",
+    "Rusya",
+    "BAE",
+    "İran"
+  ],
+  "shadow_economy_pct_gdp": 45.0
+}

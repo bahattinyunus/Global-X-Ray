@@ -1,0 +1,34 @@
+{
+  "country": "Amerika Birleşik Devletleri",
+  "official_name": "Amerika Birleşik Devletleri",
+  "iso_code": "USA",
+  "currency": "USD",
+  "gdp_nominal_billion_usd": 27360.0,
+  "gdp_per_capita_usd": 81600,
+  "inflation_rate_pct": 3.0,
+  "unemployment_rate_pct": 3.9,
+  "top_exports": [
+    "Rafine Petrol",
+    "Ham Petrol",
+    "Doğal Gaz",
+    "Sivil Havacılık (Boeing)",
+    "Yarı İletkenler & Yazılım",
+    "Tarım (Soya, Mısır)"
+  ],
+  "top_imports": [
+    "Otomobil",
+    "Bilgisayar & Akıllı Telefon",
+    "İlaç",
+    "Ham Petrol",
+    "Tüketim Malları"
+  ],
+  "major_trading_partners": [
+    "Kanada",
+    "Meksika",
+    "Çin",
+    "Japonya",
+    "Almanya",
+    "İngiltere"
+  ],
+  "shadow_economy_pct_gdp": 8.5
+}

@@ -197,18 +197,57 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
             "CASE_STUDY_1MDB.md",
             "CASE_STUDY_MAGNITSKY_AND_TROIKA_LAUNDROMAT.md",
             "CASE_STUDY_ODEBRECHT_LAVA_JATO.md",
-            "CASE_STUDY_PEGASUS_PROJECT.md"
+            "CASE_STUDY_PEGASUS_PROJECT.md",
+            "CASE_STUDY_PANDORA_PAPERS_AND_OFFSHORE_SECRECY.md",
+            "CASE_STUDY_NORD_STREAM_SABOTAGE_AND_ENERGY_WARFARE.md",
+            "CASE_STUDY_OPERATION_GLADIO_AND_STAY_BEHIND_NETWORKS.md"
         ]
         for case in expected_cases:
             case_path = dossiers_dir / case
             self.assertTrue(case_path.exists(), f"Eksik vaka analizi: {case}")
             self.assertGreater(case_path.stat().st_size, 2000, f"{case} dosyası en az 2KB olmalıdır!")
 
-        # Yeni datasetler
+        # Stratejik küresel veri setleri
         choke_file = self.datasets_dir / "chokepoints_registry.json"
         pmc_file = self.datasets_dir / "pmc_mercenary_groups.json"
-        self.assertTrue(choke_file.exists())
-        self.assertTrue(pmc_file.exists())
+        alliances_file = self.datasets_dir / "defense_alliances_and_treaties.json"
+        sanctions_file = self.datasets_dir / "sanctions_and_embargoes_registry.json"
+        minerals_file = self.datasets_dir / "critical_raw_materials_supply_chain.json"
+        cables_file = self.datasets_dir / "subsea_cables_and_sigint_stations.json"
+
+        self.assertTrue(choke_file.exists(), "chokepoints_registry.json eksik!")
+        self.assertTrue(pmc_file.exists(), "pmc_mercenary_groups.json eksik!")
+        self.assertTrue(alliances_file.exists(), "defense_alliances_and_treaties.json eksik!")
+        self.assertTrue(sanctions_file.exists(), "sanctions_and_embargoes_registry.json eksik!")
+        self.assertTrue(minerals_file.exists(), "critical_raw_materials_supply_chain.json eksik!")
+        self.assertTrue(cables_file.exists(), "subsea_cables_and_sigint_stations.json eksik!")
+
+    def test_strategic_datasets_structure(self):
+        """Yeni stratejik veri setlerinin JSON içerik ve şema bütünlüğü test edilir."""
+        # 1. Alliances
+        with open(self.datasets_dir / "defense_alliances_and_treaties.json", "r", encoding="utf-8") as f:
+            alliances = json.load(f)
+            self.assertIn("alliances", alliances)
+            self.assertGreaterEqual(len(alliances["alliances"]), 8)
+
+        # 2. Sanctions
+        with open(self.datasets_dir / "sanctions_and_embargoes_registry.json", "r", encoding="utf-8") as f:
+            sanctions = json.load(f)
+            self.assertIn("targeted_states", sanctions)
+            self.assertGreaterEqual(len(sanctions["targeted_states"]), 5)
+
+        # 3. Minerals
+        with open(self.datasets_dir / "critical_raw_materials_supply_chain.json", "r", encoding="utf-8") as f:
+            minerals = json.load(f)
+            self.assertIn("minerals", minerals)
+            self.assertGreaterEqual(len(minerals["minerals"]), 7)
+
+        # 4. Cables
+        with open(self.datasets_dir / "subsea_cables_and_sigint_stations.json", "r", encoding="utf-8") as f:
+            cables = json.load(f)
+            self.assertIn("critical_cable_corridors", cables)
+            self.assertIn("global_sigint_interception_stations", cables)
+            self.assertGreaterEqual(len(cables["critical_cable_corridors"]), 4)
 
 if __name__ == "__main__":
     unittest.main()

@@ -13,6 +13,10 @@ Kullanım:
   python scripts/xray_cli.py intel [ulke_adi]
   python scripts/xray_cli.py pmc [arama]
   python scripts/xray_cli.py chokepoints [arama]
+  python scripts/xray_cli.py alliances [pakt_kodu]
+  python scripts/xray_cli.py sanctions [ulke_kodu]
+  python scripts/xray_cli.py minerals [maden_id]
+  python scripts/xray_cli.py cables [bolge_id]
   python scripts/xray_cli.py cases
   python scripts/xray_cli.py list [bolge]
   python scripts/xray_cli.py stats
@@ -37,6 +41,10 @@ INTEL_PATH = BASE_DIR / "global_datasets" / "intelligence_agencies_registry.json
 MATRIX_PATH = BASE_DIR / "global_datasets" / "global_power_matrix.json"
 PMC_PATH = BASE_DIR / "global_datasets" / "pmc_mercenary_groups.json"
 CHOKE_PATH = BASE_DIR / "global_datasets" / "chokepoints_registry.json"
+ALLIANCES_PATH = BASE_DIR / "global_datasets" / "defense_alliances_and_treaties.json"
+SANCTIONS_PATH = BASE_DIR / "global_datasets" / "sanctions_and_embargoes_registry.json"
+MINERALS_PATH = BASE_DIR / "global_datasets" / "critical_raw_materials_supply_chain.json"
+CABLES_PATH = BASE_DIR / "global_datasets" / "subsea_cables_and_sigint_stations.json"
 DOSSIERS_DIR = BASE_DIR / "dossiers"
 
 def load_registry():
@@ -236,6 +244,98 @@ def show_chokepoints(query=None):
         print(f"  • Risk Seviyesi:         {c['geopolitical_risk_level']}")
         print("-" * 80)
 
+def show_alliances(query=None):
+    if not ALLIANCES_PATH.exists():
+        print("[-] Askeri ittifaklar veritabanı bulunamadı.")
+        return
+    with open(ALLIANCES_PATH, "r", encoding="utf-8") as f:
+        alliances = json.load(f).get("alliances", [])
+    if query:
+        q = query.lower()
+        alliances = [a for a in alliances if q in a["id"].lower() or q in a["name"].lower() or q in a["english_name"].lower()]
+    print(f"🛡️ KÜRESEL ASKERİ İTTİFAKLAR & SAVUNMA PAKTLARI ({len(alliances)} Pakt):")
+    print("=" * 80)
+    for a in alliances:
+        print(f"[{a['id']}] {a['name']}")
+        print(f"  • Kuruluş & Merkez:   {a['established']} / {a['headquarters']} ({a['member_count']} Üye)")
+        print(f"  • Tetikleyici Madde:  {a['core_trigger_article']}")
+        print(f"  • Nükleer Doktrin:    {a['nuclear_doctrine']}")
+        print(f"  • Kilit Üyeler:       {', '.join(a['key_members'])}")
+        print(f"  • Stratejik Odak:     {a['strategic_focus']}")
+        print(f"  • Ortak Bütçe:        ${a['combined_military_spending_usd_b']} Milyar")
+        print("-" * 80)
+
+def show_sanctions(query=None):
+    if not SANCTIONS_PATH.exists():
+        print("[-] Yaptırımlar veritabanı bulunamadı.")
+        return
+    with open(SANCTIONS_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    states = data.get("targeted_states", [])
+    if query:
+        q = query.lower()
+        states = [s for s in states if q in s["country"].lower() or q in s["code"].lower()]
+    print(f"⚠️ KÜRESEL YAPTIRIM REJİMLERİ & BYPASS KORİDORLARI ({len(states)} Hedef Rejim):")
+    print("=" * 80)
+    for s in states:
+        print(f"[{s['country']} ({s['code']})] - {s['regime_type']}")
+        print(f"  • Yaptırım Uygulayanlar: {', '.join(s['primary_sanctioners'])}")
+        print(f"  • Dondurulan Varlıklar:  ${s['frozen_assets_usd_b']} Milyar")
+        print("  • Temel Kısıtlamalar:")
+        for r in s['core_restrictions']:
+            print(f"    - {r}")
+        print("  • Bypass & Kaçınma Koridorları:")
+        for c in s['circumvention_corridors']:
+            print(f"    * {c}")
+        print("-" * 80)
+
+def show_minerals(query=None):
+    if not MINERALS_PATH.exists():
+        print("[-] Kritik madenler veritabanı bulunamadı.")
+        return
+    with open(MINERALS_PATH, "r", encoding="utf-8") as f:
+        minerals = json.load(f).get("minerals", [])
+    if query:
+        q = query.lower()
+        minerals = [m for m in minerals if q in m["id"].lower() or q in m["name"].lower()]
+    print(f"⛏️ KRİTİK HAMMADDELER VE RAFİNAJ TEKELLERİ ({len(minerals)} Maden/Element):")
+    print("=" * 80)
+    for m in minerals:
+        print(f"[{m['id']}] {m['name']} - Kategori: {m['strategic_category']} (Risk: {m['geopolitical_risk_score']}/10)")
+        print(f"  • Kullanım Alanı:  {m['critical_applications']}")
+        top_producers = [f"{t['country']} (%{t['share_pct']})" for t in m['top_mining_nations']]
+        print(f"  • Üretici Güçler:  {', '.join(top_producers)}")
+        ref = m['refining_monopoly']
+        print(f"  • Rafinaj Tekeli:  {ref['dominant_nation']} (%{ref['global_refining_share_pct']})")
+        print(f"  • Analitik Tehdit: {ref['vulnerability_analysis']}")
+        print("-" * 80)
+
+def show_cables(query=None):
+    if not CABLES_PATH.exists():
+        print("[-] Denizaltı kabloları veritabanı bulunamadı.")
+        return
+    with open(CABLES_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    corridors = data.get("critical_cable_corridors", [])
+    stations = data.get("global_sigint_interception_stations", [])
+    if query:
+        q = query.lower()
+        corridors = [c for c in corridors if q in c["id"].lower() or q in c["name"].lower()]
+        stations = [s for s in stations if q in s["station_name"].lower() or q in s["country"].lower()]
+    print(f"🌐 DENİZALTI FİBER KABLOLAR & SIGINT İSTASYONLARI:")
+    print("=" * 80)
+    for c in corridors:
+        print(f"[Kablo Koridoru: {c['name']}] (Risk: {c['geopolitical_risk']})")
+        print(f"  • Bağlantı:   {c['connected_regions']}")
+        print(f"  • Kilit Hatlar: {', '.join(c['key_cables'])}")
+        print(f"  • Kırılganlık:  {c['vulnerability']}")
+        print("-" * 80)
+    for s in stations:
+        print(f"[SIGINT İstasyonu: {s['station_name']} ({s['country']})]")
+        print(f"  • İşleten:    {s['operator']} / {s['location']}")
+        print(f"  • Kapasite:   {s['capabilities']}")
+        print("-" * 80)
+
 def show_case_studies():
     if not DOSSIERS_DIR.exists():
         print("[-] Vaka analizleri klasörü bulunamadı.")
@@ -325,6 +425,18 @@ def main():
         show_chokepoints(q)
     elif cmd in ["cases", "vaka", "dossiers"]:
         show_case_studies()
+    elif cmd in ["alliances", "ittifak", "pakt"]:
+        q = sys.argv[2] if len(sys.argv) > 2 else None
+        show_alliances(q)
+    elif cmd in ["sanctions", "yaptirim", "ambargo"]:
+        q = sys.argv[2] if len(sys.argv) > 2 else None
+        show_sanctions(q)
+    elif cmd in ["minerals", "maden", "hammadde"]:
+        q = sys.argv[2] if len(sys.argv) > 2 else None
+        show_minerals(q)
+    elif cmd in ["cables", "kablo", "sigint"]:
+        q = sys.argv[2] if len(sys.argv) > 2 else None
+        show_cables(q)
     elif cmd in ["stats", "istatistik"]:
         show_stats()
     elif cmd in ["list", "liste"]:

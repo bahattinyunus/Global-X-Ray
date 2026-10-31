@@ -10,8 +10,10 @@
   <img src="https://img.shields.io/badge/Coverage-205%20Countries%20%26%20Entities-blue?style=for-the-badge&logo=globe" alt="Coverage">
   <img src="https://img.shields.io/badge/Economic%20Classification-8%20Macro%20Archetypes-blueviolet?style=for-the-badge" alt="Economic Archetypes">
   <img src="https://img.shields.io/badge/Architecture-4--Layer%20Deep%20State-black?style=for-the-badge" alt="4-Layer">
-  <img src="https://img.shields.io/badge/Research%20Dossiers-8%20Deep%20Treatises-gold?style=for-the-badge" alt="Dossiers">
-  <img src="https://img.shields.io/badge/Case%20Studies-4%20Forensic%20Investigations-crimson?style=for-the-badge" alt="Case Studies">
+  <img src="https://img.shields.io/badge/Defense%20Alliances-8%20Global%20Pacts-navy?style=for-the-badge" alt="Alliances">
+  <img src="https://img.shields.io/badge/Sanctions%20Regimes-Tracked%20%26%20Mapped-darkred?style=for-the-badge" alt="Sanctions">
+  <img src="https://img.shields.io/badge/Case%20Studies-7%20Forensic%20Investigations-crimson?style=for-the-badge" alt="Case Studies">
+  <img src="https://img.shields.io/badge/Research%20Treatises-8%20Comprehensive%20Dossiers-gold?style=for-the-badge" alt="Treatises">
   <img src="https://img.shields.io/badge/Verification-Admiralty%20Code%20B2+-success?style=for-the-badge" alt="Verification">
   <img src="https://img.shields.io/badge/Global%20GDP%20Analyzed-$105.6%20Trillion-green?style=for-the-badge" alt="Global GDP">
   <img src="https://img.shields.io/badge/License-Open%20Intelligence%20(CC%20BY--SA%204.0)-purple?style=for-the-badge" alt="License">
@@ -29,16 +31,20 @@
 6. [💸 Kleptokrasi & Offshore Sermaye Kaçırma Döngüsü](#-kleptokrasi--offshore-sermaye-kaçirma-döngüsü)
 7. [🧠 Bilişsel Savaş & Siber İstihbarat Matrisi (5GW)](#-bilişsel-savaş--siber-istihbarat-matrisi-5gw)
 8. [🚢 Küresel Deniz Darboğazları & Jeopolitik Kilit Noktaları](#-küresel-deniz-darboğazlari--jeopolitik-kilit-noktalari)
-9. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
-10. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
-11. [⚔️ Özel Askeri Şirketler (PMC) & Paramiliter Şebekeler](#️-özel-askeri-şirketler-pmc--paramiliter-şebekeler)
-12. [🕵️ Küresel İstihbarat Teşkilatları & Güç Mimarisi](#️-küresel-istihbarat-teşkilatlari--güç-mimarisi)
-13. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
-14. [🗺️ 205 Ülkelik Küresel Atlas İndeksi (Ekonomik Modelleriyle)](#️-205-ülkelik-küresel-atlas-indeksi-ekonomik-modelleriyle)
-15. [🔬 Metodoloji ve OSINT Araştırma Kılavuzları (/methodology)](#-metodoloji-ve-osint-araştirma-kilavuzlari-methodology)
-16. [🛠️ CLI Terminal Aracı ile Kullanım (xray_cli.py)](#️-cli-terminal-araci-ile-kullanim-xray_clipy)
-17. [🧪 Bütünlük ve Veri Doğrulama Testleri](#-bütünlük-ve-veri-doğrulama-testleri)
-18. [⚖️ Etik, Hukuki Beyan ve Açık İstihbarat Lisansı](#️-etik-hukuki-beyan-ve-açik-istihbarat-lisansi)
+9. [🌐 Küresel Denizaltı Fiber Kablolar & SIGINT İstasyonları](#-küresel-denizalti-fiber-kablolar--sigint-istasyonlari)
+10. [🛡️ Savunma Paktları, Askeri İttifaklar & Nükleer Şemsiye](#️-savunma-paktlari-askeri-ittifaklar--nükleer-şemsiye)
+11. [⚠️ Finansal Yaptırım Rejimleri & Bypass Koridorları](#️-finansal-yaptirim-rejimleri--bypass-koridorlari)
+12. [⛏️ Kritik Madenler & Küresel Rafinaj Tekelleri](#️-kritik-madenler--küresel-rafinaj-tekelleri)
+13. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
+14. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
+15. [⚔️ Özel Askeri Şirketler (PMC) & Paramiliter Şebekeler](#️-özel-askeri-şirketler-pmc--paramiliter-şebekeler)
+16. [🕵️ Küresel İstihbarat Teşkilatları & Güç Mimarisi](#️-küresel-istihbarat-teşkilatlari--güç-mimarisi)
+17. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
+18. [🗺️ 205 Ülkelik Küresel Atlas İndeksi (Ekonomik Modelleriyle)](#️-205-ülkelik-küresel-atlas-indeksi-ekonomik-modelleriyle)
+19. [🔬 Metodoloji ve OSINT Araştırma Kılavuzları (/methodology)](#-metodoloji-ve-osint-araştirma-kilavuzlari-methodology)
+20. [🛠️ CLI Terminal Aracı ile Kullanım (xray_cli.py)](#️-cli-terminal-araci-ile-kullanim-xray_clipy)
+21. [🧪 Bütünlük ve Veri Doğrulama Testleri](#-bütünlük-ve-veri-doğrulama-testleri)
+22. [⚖️ Etik, Hukuki Beyan ve Açık İstihbarat Lisansı](#️-etik-hukuki-beyan-ve-açik-istihbarat-lisansi)
 
 ---
 
@@ -196,7 +202,7 @@ sequenceDiagram
   <img src="assets/images/geopolitical_chokepoints.jpg" alt="Geopolitical Chokepoints and Strategic Corridors" width="90%">
 </p>
 
-Dünya ticaretinin ve deniz yoluyla taşınan petrolün %60'ından fazlası daracık birkaç su yolundan geçmek zorundadır. Bu darboğazların kapanması, küresel tedarik zincirinde anında arz şoklarına ve enerji krizlerine yol açar (`global_datasets/chokepoints_registry.json`):
+Dünya ticaretinin ve deniz yoluyla taşınan petrolün %60'ından fazlası daracık birkaç su yolundan geçmek zorundadır (`global_datasets/chokepoints_registry.json`):
 
 | Boğaz / Kanal | Tip | Kıyıdaş Devletler | Günlük Petrol Transiti | Jeopolitik Risk Seviyesi |
 | :--- | :--- | :--- | :--- | :--- |
@@ -206,6 +212,76 @@ Dünya ticaretinin ve deniz yoluyla taşınan petrolün %60'ından fazlası dara
 | **Babülmendep Boğazı** (Bab el-Mandeb Strait) | Doğal Deniz Boğazı | Yemen, Cibuti, Eritre | 4,800,000 v/g (%8.0) | Kritik Savaş Alanı (Hostile) |
 | **Panama Kanalı** (Panama Canal) | Yapay Su Yolu (Kademeli Havuz Sistemi) | Panama | 1,000,000 v/g (%3.0) | Orta / Ekolojik Risk (Moderate) |
 | **İstanbul ve Çanakkale Boğazları** (Turkish Straits (Bosporus & Dardanelles)) | Doğal Deniz Boğazları (Montrö Rejimi) | Türkiye | 3,000,000 v/g (%3.5) | Stratejik & Hukuki Kilit (Strategic) |
+
+---
+
+## 🌐 KÜRESEL DENİZALTI FİBER KABLOLAR & SIGINT İSTASYONLARI
+
+Dünya internet trafiğinin ve SWIFT bankacılık mesajlarının aktığı denizaltı omurgaları ve dinleme merkezleri (`global_datasets/subsea_cables_and_sigint_stations.json`):
+
+### 🌊 Kritik Denizaltı Kablo Koridorları
+| Koridor Adı | Bağlantı Alanı | Örnek Hatlar | Zaafiyet & Sabotaj Riski | Risk |
+| :--- | :--- | :--- | :--- | :---: |
+| **Mısır Kara Köprüsü & Kızıldeniz Koridoru** | Avrupa - Ortadoğu - Güney Asya - Uzak Doğu | AAE-1, SEA-ME-WE 3, 4, 5, Europe India Gateway (EIG) | Tek Noktadan Arıza Riski (Single Point of Failure): Mısır Telekom teke... | `Kritik / Azami` |
+| **Kuzey Atlantik Koridoru (Bude / Cornwall - New York / Virginia)** | Kuzey Amerika - Batı Avrupa | Apollo, Grace Hopper, Amitié | Soğuk Savaş dönemi 'Operation Ivy Bells' benzeri gizli su altı dinleme... | `Yüksek` |
+| **Malakka Boğazı & Singapur Dijital Hub'ı** | Güneydoğu Asya - Doğu Asya - Hint Okyanusu | Asia-America Gateway (AAG), APCN-2, SeaMeWe-5 | Dünyanın en yoğun gemi trafiği; sığ sularda atılan gemi demirlerinin k... | `Yüksek` |
+| **Luzon Boğazı (Tayvan - Filipinler)** | Tayvan - Hong Kong - Filipinler - ABD | Trans-Pacific Express (TPE), EAC-C2C, SJC | Yüksek sismik aktivite (depremler ve denizaltı heyelanları) ve Çin Hal... | `Kritik / Çatışma Alanı` |
+
+### 📡 Küresel Sinyal İstihbaratı (SIGINT) Dinleme Merkezleri
+| İstasyon Adı | Ev Sahibi Ülke | İşleten Teşkilat / İttifak | Lokasyon |
+| :--- | :--- | :--- | :--- |
+| **GCHQ Bude (Cleave Camp)** | United Kingdom | Government Communications Headquarters (GCHQ) / NSA Ortaklığı | Cornwall, İngiltere |
+| **Pine Gap (Joint Defence Facility Pine Gap)** | Australia | Avustralya ASD / ABD CIA & NSA | Alice Springs, Avustralya |
+| **RAF Menwith Hill** | United Kingdom | ABD Ulusal Güvenlik Ajansı (NSA) / RAF | Harrogate, Kuzey Yorkshire, İngiltere |
+| **NSA Fort Meade (National Cryptologic Center)** | United States | National Security Agency (NSA) / US Cyber Command | Maryland, ABD |
+| **Diego Garcia Naval Support Facility** | British Indian Ocean Territory (BIOT) | ABD Donanması / Birleşik Krallık Savunma Bakanlığı | Chagos Takımadaları, Hint Okyanusu |
+
+---
+
+## 🛡️ SAVUNMA PAKTLARI, ASKERİ İTTİFAKLAR & NÜKLEER ŞEMSİYE
+
+Küresel güvenlik mimarisini belirleyen çok taraflı ve ikili savunma paktları (`global_datasets/defense_alliances_and_treaties.json`):
+
+| Pakt Kodu | İttifak Tam Adı | Kuruluş | Kapsam | Temel Tetikleyici Karşılıklı Yardım Maddesi | Askeri Bütçe |
+| :--- | :--- | :---: | :---: | :--- | :---: |
+| **NATO** | Kuzey Atlantik Antlaşması Örgütü (NATO) | `1949` | 32 Üye | Madde 5 (Bir üyeye yapılan silahlı saldırı, tüm üyelere yapılmış sayılır) | $1,340B |
+| **AUKUS** | AUKUS Üçlü Güvenlik Paktı | `2021` | 3 Üye | Pillar 1 (Avustralya'ya nükleer tahrikli denizaltı transferi) & Pillar 2 (Kuantum, hipersonik ve yapay zeka ortak geliştirme) | $995B |
+| **CSTO** | Kolektif Güvenlik Antlaşması Örgütü (KGAÖ / CSTO) | `1992` | 6 Üye | Madde 4 (Üye bir devlete karşı saldırganlık, antlaşmanın tüm taraflarına karşı saldırı olarak kabul edilir) | $115B |
+| **QUAD** | Dörtlü Güvenlik Diyaloğu (QUAD) | `2007` | 4 Üye | Deniz alanı farkındalığı (IPMDA), tedarik zinciri güvenliği, açık ve serbest Hint-Pasifik doktrini | $1,050B |
+| **SCO** | Şanghay İşbirliği Örgütü (ŞİÖ / SCO) | `2001` | 10 Üye | RATS (Bölgesel Terörle Mücadele Yapısı) - Ayrılıkçılık, aşırıcılık ve terörizme karşı ortak istihbarat ve güvenlik işbirliği | $420B |
+| **FIVE_EYES** | Beş Göz İstihbarat Paktı (FVEY) | `1946` | 5 Üye | Otomatik küresel SIGINT ve HUMINT paylaşımı; üyelerin birbirine karşı casusluk yapmama taahhüdü | $980B |
+| **US_BILATERAL_PACIFIC** | ABD-Japonya / ABD-Güney Kore Karşılıklı Güvenlik Paktları | `1951` | 3 Üye | Japonya Madde 5 ve ROK Madde 3: Topraklara yapılan saldırılara karşı ABD'nin doğrudan askeri müdahale zorunluluğu | $960B |
+| **TIAR_RIO** | Amerikalararası Karşılıklı Yardım Antlaşması (Rio Paktı) | `1947` | 18 Üye | Madde 3 (Bir Amerikan devletine yapılacak saldırı, tüm Amerikan devletlerine yapılmış kabul edilir) | $890B |
+
+---
+
+## ⚠️ FİNANSAL YAPTIRIM REJİMLERİ & BYPASS KORİDORLARI
+
+Küresel rezerv para (USD) bağımlılığının silah olarak kullanılması ve hedef ülkelerin karşı tedbirleri (`global_datasets/sanctions_and_embargoes_registry.json`):
+
+| Hedef Ülke | Yaptırım Rejiminin Kapsamı | Uygulayan Güçler | Dondurulan Rezerv | Birincil Bypass & Kaçınma Koridoru |
+| :--- | :--- | :--- | :---: | :--- |
+| **Russia** (`RUS`) | Kapsamlı Finansal, Enerji ve İleri Teknoloji Ambargosu (2014-2026) | USA (OFAC), EU, GBR, JPN, CAN, AUS, CHE | $300.0B | Gölge Tanker Filosu (Shadow Fleet): Bayraksız veya Liberya/Kamerun/Gabon bayraklı 600+ tankerle gizli taşıma |
+| **Iran** (`IRN`) | Kapsamlı Nükleer ve İkincil Finansal Ambargo (1979-2026) | USA (OFAC), EU, UN (tarihsel kararlar) | $100.0B | Çaydanlık Rafinerileri (Teapot Refineries): Çin'in Shandong eyaletindeki bağımsız rafinerilere Malezya/Umman menşei gösterilerek yapılan petrol sevkiyatı |
+| **North Korea** (`PRK`) | Tam Kapsamlı BM Güvenlik Konseyi ve ABD Ambargosu | UN_SC (Kararlar 1718, 2270, 2397), USA, EU, JPN, KOR | $5.0B | Sarı Deniz ve Doğu Çin Denizi'nde STS (Ship-to-Ship) petrol transferleri |
+| **Venezuela** (`VEN`) | Kamu Finansmanı ve Petrol Şirketi (PDVSA) Ambargosu | USA (OFAC), EU, CAN | $24.0B | Aracı tüccarlar (Alex Saab şebekesi) üzerinden gıda karşılığı ham petrol takası |
+| **Syria** (`SYR`) | Sezar Suriye Sivil Koruma Yasası (Caesar Act) & Kapsamlı Abluka | USA (Caesar Act 2020), EU | $10.0B | Kaptagon (Fenethyllin) Narko-Ekonomisi: Rejim generalleri (4. Zırhlı Tümen - Mahir Esad) kontrolünde üretilen ve Körfez'e kaçırılan yıllık $5-10B hacimli sentetik uyuşturucu trafiği |
+
+---
+
+## ⛏️ KRİTİK MADENLER & KÜRESEL RAFİNAJ TEKELLERİ
+
+Enerji dönüşümünün, yapay zeka çiplerinin ve savunma sanayisinin hammadde boğazları (`global_datasets/critical_raw_materials_supply_chain.json`):
+
+| Maden / Element | Stratejik Kullanım Kategorisi | En Büyük Maden Üreticileri | Küresel Rafinaj Tekeli | Jeopolitik Risk |
+| :--- | :--- | :--- | :--- | :---: |
+| **Nadir Toprak Elementleri (Neodimyum, Disprozyum, Terbiyum)** (`REE`) | Kritik Yüksek Teknoloji & Savunma | China (%70.0), United States (%14.0) | **China (%89.0)** | 9.5/10 |
+| **Lityum (Beyaz Petrol)** (`LITHIUM`) | Batarya & Enerji Depolama | Australia (%47.0), Chile (%30.0) | **China (%65.0)** | 8.8/10 |
+| **Kobalt** (`COBALT`) | Enerji Yoğun Bataryalar & Süper Alaşımlar | DR Congo (%74.0), Indonesia (%5.0) | **China (%77.0)** | 9.2/10 |
+| **Galyum ve Germanyum** (`GALLIUM_GERMANIUM`) | Yarı İletken, Optoelektronik ve Radar | China (%98.0), Russia (%1.0) | **China (%98.0)** | 9.8/10 |
+| **Doğal ve Sentetik Grafit** (`GRAPHITE`) | Batarya Anotları & Nükleer Reaktörler | China (%77.0), Madagascar (%9.0) | **China (%92.0)** | 9.0/10 |
+| **Titanyum Sünger ve Havacılık Alaşımları** (`TITANIUM`) | Havacılık, Uzay ve Denizaltı Gövdeleri | China (%52.0), Japan (%18.0) | **Russia (VSMPO-AVISMA) & China (%65.0)** | 8.5/10 |
+| **Uranyum (Sarı Pasta - U3O8)** (`URANIUM`) | Nükleer Enerji & Nükleer Başlıklar | Kazakhstan (%43.0), Canada (%15.0) | **Russia (Rosatom - Tenex) (%44.0)** | 9.4/10 |
 
 ---
 
@@ -226,14 +302,17 @@ Kıtalar bazında güç mimarisi, askeri ittifaklar ve derin çatışma hatları
 
 ## 📁 DERİN ADLİ OSINT VAKA ANALİZLERİ (/dossiers)
 
-Tarihin en büyük kleptokratik, yolsuzluk ve siber istihbarat operasyonlarının adli bilişim ve finansal akış analizleri:
+Tarihin en büyük kleptokratik, yolsuzluk, derin devlet ve siber istihbarat operasyonlarının adli bilişim ve finansal akış analizleri:
 
-| Vaka Dosyası | Konu | Temel Bulgular & Yöntem |
+| Vaka Dosyası | Konu | Temel Bulgular & Metodoloji |
 | :--- | :--- | :--- |
 | 💸 [**CASE_STUDY_1MDB.md**](dossiers/CASE_STUDY_1MDB.md) | 1MDB Egemen Varlık Fonu Soygunu | $4.5 Milyar kamu kaynağının Goldman Sachs tahvil ihraçları ve BVI paravan şirketleri üzerinden aklanması; Hollywood filmleri ve mega yat alımları. |
 | ⚖️ [**CASE_STUDY_MAGNITSKY_AND_TROIKA_LAUNDROMAT.md**](dossiers/CASE_STUDY_MAGNITSKY_AND_TROIKA_LAUNDROMAT.md) | Magnitsky & Rus Çamaşırhanesi | Moldova mahkeme sahte ilamları ve Danske Bank Estonya şubesi üzerinden $20+ milyar oligark parasının Avrupa'ya kaçırılması. |
 | 🏗️ [**CASE_STUDY_ODEBRECHT_LAVA_JATO.md**](dossiers/CASE_STUDY_ODEBRECHT_LAVA_JATO.md) | Odebrecht & Lava Jato Rüşvet Karteli | 12 Latin Amerika ülkesinde devlet başkanlarına ve bakanlara $788M rüşvet dağıtmak için kurulan resmi "Yapılandırılmış Operasyonlar Bölümü". |
 | 📱 [**CASE_STUDY_PEGASUS_PROJECT.md**](dossiers/CASE_STUDY_PEGASUS_PROJECT.md) | Pegasus Sıfır-Tıklama Siber Casusluk | NSO Group casus yazılımının Cemal Kaşıkçı cinayeti, 14 devlet başkanı ve 189 gazeteciye karşı adli telemetri analizi. |
+| 🗄️ [**CASE_STUDY_PANDORA_PAPERS_AND_OFFSHORE_SECRECY.md**](dossiers/CASE_STUDY_PANDORA_PAPERS_AND_OFFSHORE_SECRECY.md) | Pandora Belgeleri & ABD Vergi Cennetleri | 11.9 Milyon belgenin analizi; South Dakota trust yasaları, Ürdün Kralı, Tony Blair ve küresel liderlerin $32 Trilyonluk gizli servet mimarisi. |
+| 💥 [**CASE_STUDY_NORD_STREAM_SABOTAGE_AND_ENERGY_WARFARE.md**](dossiers/CASE_STUDY_NORD_STREAM_SABOTAGE_AND_ENERGY_WARFARE.md) | Kuzey Akım Boru Hattı Sabotajı | 26 Eylül 2022 Bornholm patlamaları; 2.3 Richter sismik analizi, saturasyon dalışı zorlukları, BALTOPS tatbikatı ve Almanya'nın sanayisizleşmesi. |
+| 🗡️ [**CASE_STUDY_OPERATION_GLADIO_AND_STAY_BEHIND_NETWORKS.md**](dossiers/CASE_STUDY_OPERATION_GLADIO_AND_STAY_BEHIND_NETWORKS.md) | Gladio & NATO Gizli Orduları | 1990 Andreotti itirafı; Gerginlik Stratejisi (Strategia della tensione), Bologna katliamı, P2 Mason Locası, Banco Ambrosiano ve Kontrgerilla. |
 
 ---
 
@@ -524,23 +603,32 @@ python scripts/xray_cli.py compare turkey iran
 # Ekonomik güç bloğuna göre ülkeleri filtrele ve analiz et
 python scripts/xray_cli.py economy 02_petro_ve_enerji_devleri
 
-# En yüksek kayıt dışı / gölge ekonomi oranına sahip ülkeleri sırala
-python scripts/xray_cli.py top-shadow 15
+# Küresel savunma paktları ve askeri ittifakları incele
+python scripts/xray_cli.py alliances nato
 
-# Dünyanın en büyük nominal GSYİH ekonomilerini listele
-python scripts/xray_cli.py top-gdp 15
+# Yaptırım rejimleri ve bypass koridorlarını sorgula
+python scripts/xray_cli.py sanctions rus
 
-# Küresel deniz darboğazları ve transit risklerini listele
-python scripts/xray_cli.py chokepoints
+# Kritik hammadde ve maden rafinaj tekellerini listele
+python scripts/xray_cli.py minerals ree
+
+# Denizaltı fiber kabloları ve SIGINT istasyonlarını incele
+python scripts/xray_cli.py cables bude
 
 # Özel askeri şirketleri (PMC) ve faaliyet alanlarını listele
 python scripts/xray_cli.py pmc
 
+# Küresel deniz darboğazları ve transit risklerini listele
+python scripts/xray_cli.py chokepoints
+
 # İstihbarat teşkilatlarını ara ve bütçelerini incele
 python scripts/xray_cli.py intel mossad
 
-# Adli vaka analizlerini görüntüle
+# 7 derin adli vaka analizini listele
 python scripts/xray_cli.py cases
+
+# En yüksek kayıt dışı / gölge ekonomi oranına sahip ülkeleri sırala
+python scripts/xray_cli.py top-shadow 15
 
 # Küresel makroekonomik sistem istatistiklerini özetle
 python scripts/xray_cli.py stats

@@ -1,0 +1,113 @@
+{
+  "title": "Küresel Yaptırım Rejimleri, İkincil Ambargolar ve Bypass Koridorları Kaydı",
+  "doctrine": "Ekonomik yaptırımlar ve finansal silahlanma (weaponized interdependence); modern hibrit savaşın en yıkıcı enstrümanıdır. ABD Doları ve SWIFT takas sistemine bağımlılık, hedef ülkelerin merkez bankası rezervlerinin dondurulmasından teknoloji ambargolarına kadar egemen devletleri felç edebilir.",
+  "sanctions_architectures": [
+    {
+      "code": "US_OFAC",
+      "name": "ABD Hazine Bakanlığı Yabancı Varlıklar Kontrol Ofisi (OFAC)",
+      "legal_basis": "IEEPA (Uluslararası Acil Ekonomik Güçler Yasası), CAATSA, Magnitsky Yasası",
+      "enforcement_power": "Küresel Dolar Takas Sistemi (Fedwire/CHIPS) erişiminin kesilmesi ve İkincil Yaptırımlar (Secondary Sanctions)"
+    },
+    {
+      "code": "EU_CFSP",
+      "name": "Avrupa Birliği Ortak Dış ve Güvenlik Politikası (CFSP) Yaptırım Rejimleri",
+      "legal_basis": "AB Antlaşması Madde 215 ve AB Konsey Tüzükleri",
+      "enforcement_power": "AB hava sahası, liman yasakları, teknoloji ihracat kısıtlamaları ve Avrupa bankacılık sistemine erişim engeli"
+    },
+    {
+      "code": "UN_SC",
+      "name": "Birleşmiş Milletler Güvenlik Konseyi Yaptırım Komiteleri",
+      "legal_basis": "BM Şartı VII. Bölüm (Uluslararası Barış ve Güvenliğe Tehdit)",
+      "enforcement_power": "Tüm BM üyesi devletler için bağlayıcı silah ambargosu, seyahat yasağı ve mal varlığı dondurma kararları"
+    }
+  ],
+  "targeted_states": [
+    {
+      "country": "Russia",
+      "code": "RUS",
+      "regime_type": "Kapsamlı Finansal, Enerji ve İleri Teknoloji Ambargosu (2014-2026)",
+      "primary_sanctioners": ["USA (OFAC)", "EU", "GBR", "JPN", "CAN", "AUS", "CHE"],
+      "frozen_assets_usd_b": 300.0,
+      "core_restrictions": [
+        "Rusya Merkez Bankası (CBR) döviz rezervlerinin ($300B) batı bankalarında dondurulması",
+        "Sberbank, VTB, Gazprombank dahil kilit kamu bankalarının SWIFT sisteminden çıkarılması",
+        "G7 ve AB ham petrol tavan fiyatı ($60/varil) ve deniz taşımacılığı sigorta yasağı",
+        "İleri yarı iletkenler, havacılık yedek parçaları ve çift kullanımlı (dual-use) sanayi ürünleri ihracat yasağı"
+      ],
+      "circumvention_corridors": [
+        "Gölge Tanker Filosu (Shadow Fleet): Bayraksız veya Liberya/Kamerun/Gabon bayraklı 600+ tankerle gizli taşıma",
+        "Denizde Gemiden Gemiye (STS) Transfer: Lakonya Körfezi (Yunanistan), Ceuta (Fas) ve Hürmüz çıkışında petrol harmanlama",
+        "Paralel İthalat ve Aracı Yargı Alanları: BAE (Dubai), Kazakistan, Ermenistan, Kırgızistan, Hong Kong ve Türkiye üzerinden ara malı tedariki",
+        "Çin ve Hindistan'a yerel para birimleriyle (Yuan/Rupi) indirimli petrol satışı; SPFS ve CIPS takas kanalları"
+      ]
+    },
+    {
+      "country": "Iran",
+      "code": "IRN",
+      "regime_type": "Kapsamlı Nükleer ve İkincil Finansal Ambargo (1979-2026)",
+      "primary_sanctioners": ["USA (OFAC)", "EU", "UN (tarihsel kararlar)"],
+      "frozen_assets_usd_b": 100.0,
+      "core_restrictions": [
+        "İran Merkez Bankası ve tüm bankacılık sistemine yönelik küresel finansal abluka",
+        "İran Devrim Muhafızları Ordusu (IRGC) ve bağlı holdinglerin (Khatam al-Anbiya) terör finansmanı listesine alınması",
+        "Ham petrol, petrokimya ve metaller ihracatına yönelik ikincil yaptırımlar",
+        "Sivil havacılık yedek parçaları, denizcilik sigortası ve uranyum zenginleştirme teknolojisi yasakları"
+      ],
+      "circumvention_corridors": [
+        "Çaydanlık Rafinerileri (Teapot Refineries): Çin'in Shandong eyaletindeki bağımsız rafinerilere Malezya/Umman menşei gösterilerek yapılan petrol sevkiyatı",
+        "Havale ve Sarraflık Ağı (Exchange House System): Dubai, Erbil ve İstanbul merkezli geleneksel havale ağları üzerinden döviz transferi",
+        "AIS Karartma (Automatic Identification System Spoofing): Tankerlerin radar sinyallerini kapatarak veya sahte GPS konumu yayarak yükleme yapması"
+      ]
+    },
+    {
+      "country": "North Korea",
+      "code": "PRK",
+      "regime_type": "Tam Kapsamlı BM Güvenlik Konseyi ve ABD Ambargosu",
+      "primary_sanctioners": ["UN_SC (Kararlar 1718, 2270, 2397)", "USA", "EU", "JPN", "KOR"],
+      "frozen_assets_usd_b": 5.0,
+      "core_restrictions": [
+        "Kömür, tekstil, deniz ürünleri ve mineral ihracatının tamamen yasaklanması",
+        "Ham petrol ve rafine petrol ürünleri ithalatına katı yıllık kota (yılda azami 500.000 varil rafine petrol)",
+        "Kuzey Koreli işçilerin yurtdışında çalıştırılması ve döviz transferlerinin men edilmesi",
+        "Tüm askeri ve balistik füze malzemesi transferlerinin küresel teftişi (Deniz ablukası yetkisi)"
+      ],
+      "circumvention_corridors": [
+        "Sarı Deniz ve Doğu Çin Denizi'nde STS (Ship-to-Ship) petrol transferleri",
+        "Kripto Para Siber Hırsızlıkları: Lazarus Group tarafından DeFi protokolleri ve kripto borsalarından hortumlanan $3+ milyar dijital varlık",
+        "Çin ve Rusya sınırı üzerinden kara yolu ve demir yolu ile yapılan gayriresmi takas ticareti"
+      ]
+    },
+    {
+      "country": "Venezuela",
+      "code": "VEN",
+      "regime_type": "Kamu Finansmanı ve Petrol Şirketi (PDVSA) Ambargosu",
+      "primary_sanctioners": ["USA (OFAC)", "EU", "CAN"],
+      "frozen_assets_usd_b": 24.0,
+      "core_restrictions": [
+        "PDVSA'nın ABD'deki rafineri varlığı CITGO'nun gelirlerine el konulması",
+        "Venezuela devlet tahvillerinin ve borç senetlerinin ikincil piyasalarda alım-satım yasağı",
+        "Altın madenciliği şirketi Minerven ve maden ihracatına yönelik yaptırımlar"
+      ],
+      "circumvention_corridors": [
+        "Aracı tüccarlar (Alex Saab şebekesi) üzerinden gıda karşılığı ham petrol takası",
+        "Altın külçelerinin Türkiye, BAE ve İran'a taşınarak nakit döviz ve rafine ürün temin edilmesi"
+      ]
+    },
+    {
+      "country": "Syria",
+      "code": "SYR",
+      "regime_type": "Sezar Suriye Sivil Koruma Yasası (Caesar Act) & Kapsamlı Abluka",
+      "primary_sanctioners": ["USA (Caesar Act 2020)", "EU"],
+      "frozen_assets_usd_b": 10.0,
+      "core_restrictions": [
+        "Suriye Merkez Bankası ve Esad ailesi varlıklarının dondurulması",
+        "Suriye'nin yeniden inşasına yatırım yapan yabancı şirketlere otomatik ikincil yaptırımlar",
+        "Enerji, havacılık ve askeri altyapıya finansman sağlayan tüm aktörlerin cezalandırılması"
+      ],
+      "circumvention_corridors": [
+        "Kaptagon (Fenethyllin) Narko-Ekonomisi: Rejim generalleri (4. Zırhlı Tümen - Mahir Esad) kontrolünde üretilen ve Körfez'e kaçırılan yıllık $5-10B hacimli sentetik uyuşturucu trafiği",
+        "Lübnan bankacılık sistemi ve Hizbullah kontrolündeki sınır geçişleri üzerinden nakit dolar transferi"
+      ]
+    }
+  ]
+}

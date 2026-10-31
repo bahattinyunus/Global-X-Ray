@@ -28,14 +28,13 @@ La Soufrière yanardağ patlaması toparlanması, Ralph Gonsalves'in 23 yıllık
 | :--- | :---: | :---: | :--- |
 | **Oligarşik Sermaye Yoğunlaşması** | **Orta** | Kritik Eşik Seviyesi | Devlet ihaleleri, kamu imtiyazları ve tekel holdinglerin rant payı. |
 | **Yolsuzluk Algı Endeksi (TI)** | **38. Sıra** | 58 / 100 | Kamu sektöründe rüşvet, kayırmacılık ve kleptokrasi algısı. |
-| **Kayıt Dışı / Gölge Ekonomi** | **%20.0** (GSYH Payı) | Orta Seviye | Vergilendirilmeyen offshore, kaçakçılık ve gayriresmi nakit akışı. |
-| **Dünya Basın Özgürlüğü (RSF)** | **75.00 / 100** | Sorunlu | Medya mülkiyet tekeli, gazetecilere yönelik adli baskı ve sansür. |
-| **Kamu Borç Yükü / GSYH** | **%58.0** | Uluslararası Mali Kırılganlık | Dış borçlanma mekanizmaları ve egemen kredi bağımlılığı. |
-| **Kırılgan Devlet Endeksi (FSI)** | **58.0 / 120** | Yapısal Rejim Kararlılığı | Toplumsal fay hatları, güvenlik aygıtının meşruiyeti ve kriz riski. |
+| **Basın Özgürlüğü Endeksi (RSF)** | **75.0 / 100** | Sorunlu | Medya sahipliği, sansür ve gazeteci güvenliği puanı. |
+| **Gölge Ekonomi Payı (IMF/Schneider)** | **%20.0** | Orta Seviye | Kayıt dışı para akışı, vergi kaçırma ve yasadışı sermaye hacmi. |
+| **Kamu Borcu / GSYH** | **%58.0** | Finansal Kırılganlık | Dış borç servis kapasitesi ve uluslararası kreditör bağımlılığı. |
 
 ---
 
-## 🧬 3. KATMAN 1: TOPLUMSAL DOKU, DEMOGRAFİ VE KÜLTÜREL FAY HATLARI
+## 🧬 3. KATMAN 1: COĞRAFYA, TARİH VE SOSYAL FAY HATLARI
 
 ### 👥 Etnik, Dini ve Demografik Dağılım
 - **Nüfus Büyüklüğü:** 104,332 vatandaş ve mukim nüfus.

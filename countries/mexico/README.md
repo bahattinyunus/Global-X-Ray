@@ -28,14 +28,13 @@ Uyuşturucu kartelleri (Sinaloa Karteli, CJNG - Jalisco Yeni Nesil), orduya devr
 | :--- | :---: | :---: | :--- |
 | **Oligarşik Sermaye Yoğunlaşması** | **Kritik (Narko-Siyaset & Holding Tekelleri)** | Kritik Eşik Seviyesi | Devlet ihaleleri, kamu imtiyazları ve tekel holdinglerin rant payı. |
 | **Yolsuzluk Algı Endeksi (TI)** | **126. Sıra** | 31 / 100 | Kamu sektöründe rüşvet, kayırmacılık ve kleptokrasi algısı. |
-| **Kayıt Dışı / Gölge Ekonomi** | **%29.8** (GSYH Payı) | Yüksek Risk | Vergilendirilmeyen offshore, kaçakçılık ve gayriresmi nakit akışı. |
-| **Dünya Basın Özgürlüğü (RSF)** | **45.00 / 100** | Zorlu / Baskıcı | Medya mülkiyet tekeli, gazetecilere yönelik adli baskı ve sansür. |
-| **Kamu Borç Yükü / GSYH** | **%49.8** | Uluslararası Mali Kırılganlık | Dış borçlanma mekanizmaları ve egemen kredi bağımlılığı. |
-| **Kırılgan Devlet Endeksi (FSI)** | **69.8 / 120** | Yapısal Rejim Kararlılığı | Toplumsal fay hatları, güvenlik aygıtının meşruiyeti ve kriz riski. |
+| **Basın Özgürlüğü Endeksi (RSF)** | **45.0 / 100** | Zorlu / Baskıcı | Medya sahipliği, sansür ve gazeteci güvenliği puanı. |
+| **Gölge Ekonomi Payı (IMF/Schneider)** | **%29.8** | Yüksek Risk | Kayıt dışı para akışı, vergi kaçırma ve yasadışı sermaye hacmi. |
+| **Kamu Borcu / GSYH** | **%49.8** | Finansal Kırılganlık | Dış borç servis kapasitesi ve uluslararası kreditör bağımlılığı. |
 
 ---
 
-## 🧬 3. KATMAN 1: TOPLUMSAL DOKU, DEMOGRAFİ VE KÜLTÜREL FAY HATLARI
+## 🧬 3. KATMAN 1: COĞRAFYA, TARİH VE SOSYAL FAY HATLARI
 
 ### 👥 Etnik, Dini ve Demografik Dağılım
 - **Nüfus Büyüklüğü:** 129,388,467 vatandaş ve mukim nüfus.

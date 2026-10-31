@@ -28,14 +28,13 @@ Küresel iklim finansmanı (Bridgetown Girişimi), offshore sigorta ve rom ihrac
 | :--- | :---: | :---: | :--- |
 | **Oligarşik Sermaye Yoğunlaşması** | **Orta** | Kritik Eşik Seviyesi | Devlet ihaleleri, kamu imtiyazları ve tekel holdinglerin rant payı. |
 | **Yolsuzluk Algı Endeksi (TI)** | **29. Sıra** | 69 / 100 | Kamu sektöründe rüşvet, kayırmacılık ve kleptokrasi algısı. |
-| **Kayıt Dışı / Gölge Ekonomi** | **%14.0** (GSYH Payı) | Düşük / Kontrollü | Vergilendirilmeyen offshore, kaçakçılık ve gayriresmi nakit akışı. |
-| **Dünya Basın Özgürlüğü (RSF)** | **78.00 / 100** | İyi / Tatmin Edici | Medya mülkiyet tekeli, gazetecilere yönelik adli baskı ve sansür. |
-| **Kamu Borç Yükü / GSYH** | **%58.0** | Uluslararası Mali Kırılganlık | Dış borçlanma mekanizmaları ve egemen kredi bağımlılığı. |
-| **Kırılgan Devlet Endeksi (FSI)** | **58.0 / 120** | Yapısal Rejim Kararlılığı | Toplumsal fay hatları, güvenlik aygıtının meşruiyeti ve kriz riski. |
+| **Basın Özgürlüğü Endeksi (RSF)** | **78.0 / 100** | İyi / Tatmin Edici | Medya sahipliği, sansür ve gazeteci güvenliği puanı. |
+| **Gölge Ekonomi Payı (IMF/Schneider)** | **%14.0** | Düşük / Kontrollü | Kayıt dışı para akışı, vergi kaçırma ve yasadışı sermaye hacmi. |
+| **Kamu Borcu / GSYH** | **%58.0** | Finansal Kırılganlık | Dış borç servis kapasitesi ve uluslararası kreditör bağımlılığı. |
 
 ---
 
-## 🧬 3. KATMAN 1: TOPLUMSAL DOKU, DEMOGRAFİ VE KÜLTÜREL FAY HATLARI
+## 🧬 3. KATMAN 1: COĞRAFYA, TARİH VE SOSYAL FAY HATLARI
 
 ### 👥 Etnik, Dini ve Demografik Dağılım
 - **Nüfus Büyüklüğü:** 281,635 vatandaş ve mukim nüfus.

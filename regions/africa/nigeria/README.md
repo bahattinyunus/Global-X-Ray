@@ -28,14 +28,13 @@ Devlet Başkanı Tinubu'nun Lagos merkezli siyasi patronaj makinesi, Aliko Dango
 | :--- | :---: | :---: | :--- |
 | **Oligarşik Sermaye Yoğunlaşması** | **Kritik** | Kritik Eşik Seviyesi | Devlet ihaleleri, kamu imtiyazları ve tekel holdinglerin rant payı. |
 | **Yolsuzluk Algı Endeksi (TI)** | **145. Sıra** | 25 / 100 | Kamu sektöründe rüşvet, kayırmacılık ve kleptokrasi algısı. |
-| **Kayıt Dışı / Gölge Ekonomi** | **%52.4** (GSYH Payı) | Kritik Derecede Yüksek | Vergilendirilmeyen offshore, kaçakçılık ve gayriresmi nakit akışı. |
-| **Dünya Basın Özgürlüğü (RSF)** | **46.80 / 100** | Zorlu / Baskıcı | Medya mülkiyet tekeli, gazetecilere yönelik adli baskı ve sansür. |
-| **Kamu Borç Yükü / GSYH** | **%42.0** | Uluslararası Mali Kırılganlık | Dış borçlanma mekanizmaları ve egemen kredi bağımlılığı. |
-| **Kırılgan Devlet Endeksi (FSI)** | **98.0 / 120** | Yapısal Rejim Kararlılığı | Toplumsal fay hatları, güvenlik aygıtının meşruiyeti ve kriz riski. |
+| **Basın Özgürlüğü Endeksi (RSF)** | **46.8 / 100** | Zorlu / Baskıcı | Medya sahipliği, sansür ve gazeteci güvenliği puanı. |
+| **Gölge Ekonomi Payı (IMF/Schneider)** | **%52.4** | Kritik Derecede Yüksek | Kayıt dışı para akışı, vergi kaçırma ve yasadışı sermaye hacmi. |
+| **Kamu Borcu / GSYH** | **%42.0** | Finansal Kırılganlık | Dış borç servis kapasitesi ve uluslararası kreditör bağımlılığı. |
 
 ---
 
-## 🧬 3. KATMAN 1: TOPLUMSAL DOKU, DEMOGRAFİ VE KÜLTÜREL FAY HATLARI
+## 🧬 3. KATMAN 1: COĞRAFYA, TARİH VE SOSYAL FAY HATLARI
 
 ### 👥 Etnik, Dini ve Demografik Dağılım
 - **Nüfus Büyüklüğü:** 223,804,632 vatandaş ve mukim nüfus.

@@ -5,9 +5,15 @@
   "currency": "TWD (Yeni Tayvan Doları)",
   "gdp_nominal_billion_usd": 756.0,
   "gdp_per_capita_usd": 32000,
+  "gdp_ppp_billion_usd": 1096.2,
   "inflation_rate_pct": 2.1,
   "unemployment_rate_pct": 3.4,
   "debt_to_gdp_pct": 27.5,
+  "budget_deficit_pct_gdp": -3.5,
+  "foreign_exchange_reserves_billion_usd": 90.7,
+  "external_debt_billion_usd": 145.5,
+  "central_bank_policy_rate_pct": 3.8,
+  "tax_revenue_pct_gdp": 22.5,
   "top_exports": [
     "Gelişmiş Yarı İletkenler ve Çipler (TSMC)",
     "Elektronik ve Bilgisayar Parçaları",
@@ -29,5 +35,15 @@
     "Singapur",
     "Güney Kore"
   ],
-  "shadow_economy_pct_gdp": 18.0
+  "shadow_economy_pct_gdp": 18.0,
+  "critical_commodity_dependencies": [
+    "Rafine Petrol",
+    "Buğday / Tahıl",
+    "Yarı İletkenler"
+  ],
+  "strategic_economic_risks": [
+    "Yüksek enflasyon ve satın alma gücü erozyonu",
+    "Cari açık finansmanı ve dış borç çevrim riski",
+    "Sermaye kaçışı ve off-shore transfer baskısı"
+  ]
 }

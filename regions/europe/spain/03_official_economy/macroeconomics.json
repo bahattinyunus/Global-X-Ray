@@ -5,9 +5,15 @@
   "currency": "EUR (Euro)",
   "gdp_nominal_billion_usd": 1580.0,
   "gdp_per_capita_usd": 32700,
+  "gdp_ppp_billion_usd": 2291.0,
   "inflation_rate_pct": 2.3,
   "unemployment_rate_pct": 11.3,
   "debt_to_gdp_pct": 105.0,
+  "budget_deficit_pct_gdp": -3.5,
+  "foreign_exchange_reserves_billion_usd": 189.6,
+  "external_debt_billion_usd": 1161.3,
+  "central_bank_policy_rate_pct": 4.0,
+  "tax_revenue_pct_gdp": 22.5,
   "top_exports": [
     "Motorlu Taşıtlar ve Parçaları",
     "Makineler",
@@ -29,5 +35,15 @@
     "İngiltere",
     "ABD"
   ],
-  "shadow_economy_pct_gdp": 17.2
+  "shadow_economy_pct_gdp": 17.2,
+  "critical_commodity_dependencies": [
+    "Rafine Petrol",
+    "Buğday / Tahıl",
+    "Yarı İletkenler"
+  ],
+  "strategic_economic_risks": [
+    "Yüksek enflasyon ve satın alma gücü erozyonu",
+    "Cari açık finansmanı ve dış borç çevrim riski",
+    "Sermaye kaçışı ve off-shore transfer baskısı"
+  ]
 }

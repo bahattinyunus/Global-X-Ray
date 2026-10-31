@@ -5,9 +5,15 @@
   "currency": "OMR (Umman Riyali)",
   "gdp_nominal_billion_usd": 108.0,
   "gdp_per_capita_usd": 23500,
+  "gdp_ppp_billion_usd": 156.6,
   "inflation_rate_pct": 1.2,
   "unemployment_rate_pct": 2.5,
   "debt_to_gdp_pct": 36.5,
+  "budget_deficit_pct_gdp": -3.5,
+  "foreign_exchange_reserves_billion_usd": 13.0,
+  "external_debt_billion_usd": 27.6,
+  "central_bank_policy_rate_pct": 3.0,
+  "tax_revenue_pct_gdp": 22.5,
   "top_exports": [
     "Ham Petrol",
     "LNG (Sıvılaştırılmış Doğalgaz)",
@@ -28,5 +34,15 @@
     "Japonya",
     "Suudi Arabistan"
   ],
-  "shadow_economy_pct_gdp": 17.5
+  "shadow_economy_pct_gdp": 17.5,
+  "critical_commodity_dependencies": [
+    "Rafine Petrol",
+    "Buğday / Tahıl",
+    "Yarı İletkenler"
+  ],
+  "strategic_economic_risks": [
+    "Yüksek enflasyon ve satın alma gücü erozyonu",
+    "Cari açık finansmanı ve dış borç çevrim riski",
+    "Sermaye kaçışı ve off-shore transfer baskısı"
+  ]
 }

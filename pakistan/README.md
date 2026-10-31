@@ -28,14 +28,13 @@ GHQ Rawalpindi (Pakistan Ordusu Genelkurmayı - Asım Münir), Servislerarası �
 | :--- | :---: | :---: | :--- |
 | **Oligarşik Sermaye Yoğunlaşması** | **Kritik (Ordu & Siyasi Hanedanlar)** | Kritik Eşik Seviyesi | Devlet ihaleleri, kamu imtiyazları ve tekel holdinglerin rant payı. |
 | **Yolsuzluk Algı Endeksi (TI)** | **133. Sıra** | 29 / 100 | Kamu sektöründe rüşvet, kayırmacılık ve kleptokrasi algısı. |
-| **Kayıt Dışı / Gölge Ekonomi** | **%35.6** (GSYH Payı) | Kritik Derecede Yüksek | Vergilendirilmeyen offshore, kaçakçılık ve gayriresmi nakit akışı. |
-| **Dünya Basın Özgürlüğü (RSF)** | **39.50 / 100** | Zorlu / Baskıcı | Medya mülkiyet tekeli, gazetecilere yönelik adli baskı ve sansür. |
-| **Kamu Borç Yükü / GSYH** | **%75.0** | Uluslararası Mali Kırılganlık | Dış borçlanma mekanizmaları ve egemen kredi bağımlılığı. |
-| **Kırılgan Devlet Endeksi (FSI)** | **89.9 / 120** | Yapısal Rejim Kararlılığı | Toplumsal fay hatları, güvenlik aygıtının meşruiyeti ve kriz riski. |
+| **Basın Özgürlüğü Endeksi (RSF)** | **39.5 / 100** | Zorlu / Baskıcı | Medya sahipliği, sansür ve gazeteci güvenliği puanı. |
+| **Gölge Ekonomi Payı (IMF/Schneider)** | **%35.6** | Kritik Derecede Yüksek | Kayıt dışı para akışı, vergi kaçırma ve yasadışı sermaye hacmi. |
+| **Kamu Borcu / GSYH** | **%75.0** | Finansal Kırılganlık | Dış borç servis kapasitesi ve uluslararası kreditör bağımlılığı. |
 
 ---
 
-## 🧬 3. KATMAN 1: TOPLUMSAL DOKU, DEMOGRAFİ VE KÜLTÜREL FAY HATLARI
+## 🧬 3. KATMAN 1: COĞRAFYA, TARİH VE SOSYAL FAY HATLARI
 
 ### 👥 Etnik, Dini ve Demografik Dağılım
 - **Nüfus Büyüklüğü:** 240,485,658 vatandaş ve mukim nüfus.

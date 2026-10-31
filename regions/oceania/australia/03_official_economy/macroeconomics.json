@@ -5,9 +5,15 @@
   "currency": "AUD (Avustralya Doları)",
   "gdp_nominal_billion_usd": 1724.0,
   "gdp_per_capita_usd": 65000,
+  "gdp_ppp_billion_usd": 2499.8,
   "inflation_rate_pct": 2.8,
   "unemployment_rate_pct": 4.1,
   "debt_to_gdp_pct": 38.0,
+  "budget_deficit_pct_gdp": -3.5,
+  "foreign_exchange_reserves_billion_usd": 206.9,
+  "external_debt_billion_usd": 458.6,
+  "central_bank_policy_rate_pct": 4.4,
+  "tax_revenue_pct_gdp": 22.5,
   "top_exports": [
     "Demir Cevheri ve Konsantreleri",
     "Kömür ve Briketler",
@@ -29,5 +35,15 @@
     "ABD",
     "Hindistan"
   ],
-  "shadow_economy_pct_gdp": 9.2
+  "shadow_economy_pct_gdp": 9.2,
+  "critical_commodity_dependencies": [
+    "Rafine Petrol",
+    "Buğday / Tahıl",
+    "Yarı İletkenler"
+  ],
+  "strategic_economic_risks": [
+    "Yüksek enflasyon ve satın alma gücü erozyonu",
+    "Cari açık finansmanı ve dış borç çevrim riski",
+    "Sermaye kaçışı ve off-shore transfer baskısı"
+  ]
 }

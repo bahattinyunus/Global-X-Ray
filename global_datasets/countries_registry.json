@@ -5,10 +5,12 @@
     "code": "TUR",
     "region": "middle_east",
     "capital": "Ankara",
-    "population": 85372377,
+    "path": "regions/middle_east/turkey",
     "gdp_usd_b": 1154.0,
+    "population": 85372377,
     "shadow_economy_pct": 28.4,
-    "path": "regions/middle_east/turkey"
+    "press_score": 38.3,
+    "official_leader": "Recep Tayyip Erdoğan (Cumhurbaşkanı)"
   },
   {
     "slug": "iran",
@@ -16,10 +18,12 @@
     "code": "IRN",
     "region": "middle_east",
     "capital": "Tahran",
-    "population": 88550570,
+    "path": "regions/middle_east/iran",
     "gdp_usd_b": 403.5,
+    "population": 88550570,
     "shadow_economy_pct": 36.5,
-    "path": "regions/middle_east/iran"
+    "press_score": 23.2,
+    "official_leader": "Ali Hamaney (Dini Lider) / Mesud Pezeşkiyan (Cumhurbaşkanı)"
   },
   {
     "slug": "saudi_arabia",
@@ -27,10 +31,12 @@
     "code": "SAU",
     "region": "middle_east",
     "capital": "Riyad",
-    "population": 36408820,
+    "path": "regions/middle_east/saudi_arabia",
     "gdp_usd_b": 1069.0,
+    "population": 36408820,
     "shadow_economy_pct": 16.2,
-    "path": "regions/middle_east/saudi_arabia"
+    "press_score": 32.4,
+    "official_leader": "Kral Selman bin Abdülaziz / Veliaht Prens Muhammed bin Selman (MBS)"
   },
   {
     "slug": "israel",
@@ -38,10 +44,12 @@
     "code": "ISR",
     "region": "middle_east",
     "capital": "Kudüs (Tel Aviv idari/uluslararası)",
-    "population": 9842000,
+    "path": "regions/middle_east/israel",
     "gdp_usd_b": 509.9,
+    "population": 9842000,
     "shadow_economy_pct": 18.5,
-    "path": "regions/middle_east/israel"
+    "press_score": 53.2,
+    "official_leader": "Binyamin Netanyahu (Başbakan) / Isaac Herzog (Cumhurbaşkanı)"
   },
   {
     "slug": "united_arab_emirates",
@@ -49,10 +57,12 @@
     "code": "ARE",
     "region": "middle_east",
     "capital": "Abu Dabi",
-    "population": 9516871,
+    "path": "regions/middle_east/united_arab_emirates",
     "gdp_usd_b": 504.0,
+    "population": 9516871,
     "shadow_economy_pct": 18.0,
-    "path": "regions/middle_east/united_arab_emirates"
+    "press_score": 38.6,
+    "official_leader": "Muhammed bin Zayid el-Nahyan (BAE Devlet Başkanı / Abu Dabi Emiri)"
   },
   {
     "slug": "iraq",
@@ -60,10 +70,12 @@
     "code": "IRQ",
     "region": "middle_east",
     "capital": "Bağdat",
-    "population": 45504560,
+    "path": "regions/middle_east/iraq",
     "gdp_usd_b": 250.8,
+    "population": 45504560,
     "shadow_economy_pct": 38.0,
-    "path": "regions/middle_east/iraq"
+    "press_score": 32.9,
+    "official_leader": "Muhammed Şiya es-Sudani (Başbakan) / Abdüllatif Reşid (Cumhurbaşkanı)"
   },
   {
     "slug": "syria",
@@ -71,10 +83,12 @@
     "code": "SYR",
     "region": "middle_east",
     "capital": "Şam",
-    "population": 23227000,
+    "path": "regions/middle_east/syria",
     "gdp_usd_b": 12.5,
+    "population": 23227000,
     "shadow_economy_pct": 65.0,
-    "path": "regions/middle_east/syria"
+    "press_score": 17.2,
+    "official_leader": "Beşar Esad (Devlet Başkanı) / Muhammed Gazi el-Celali (Başbakan)"
   },
   {
     "slug": "qatar",
@@ -82,10 +96,12 @@
     "code": "QAT",
     "region": "middle_east",
     "capital": "Doha",
-    "population": 2979206,
+    "path": "regions/middle_east/qatar",
     "gdp_usd_b": 235.5,
+    "population": 2979206,
     "shadow_economy_pct": 12.5,
-    "path": "regions/middle_east/qatar"
+    "press_score": 58.4,
+    "official_leader": "Şeyh Temim bin Hamad el-Sani (Emir) / Şeyh Muhammed bin Abdurrahman (Başbakan)"
   },
   {
     "slug": "lebanon",
@@ -93,10 +109,12 @@
     "code": "LBN",
     "region": "middle_east",
     "capital": "Beyrut",
-    "population": 5353930,
+    "path": "regions/middle_east/lebanon",
     "gdp_usd_b": 17.9,
+    "population": 5353930,
     "shadow_economy_pct": 45.0,
-    "path": "regions/middle_east/lebanon"
+    "press_score": 43.8,
+    "official_leader": "Necip Mikati (Geçici Başbakan) / Cumhurbaşkanlığı Makamı Boş"
   },
   {
     "slug": "jordan",
@@ -104,10 +122,12 @@
     "code": "JOR",
     "region": "middle_east",
     "capital": "Amman",
-    "population": 11337052,
+    "path": "regions/middle_east/jordan",
     "gdp_usd_b": 50.8,
+    "population": 11337052,
     "shadow_economy_pct": 26.0,
-    "path": "regions/middle_east/jordan"
+    "press_score": 43.1,
+    "official_leader": "Kral II. Abdullah / Cafer Hassan (Başbakan)"
   },
   {
     "slug": "kuwait",
@@ -115,10 +135,12 @@
     "code": "KWT",
     "region": "middle_east",
     "capital": "Kuveyt",
-    "population": 4440000,
+    "path": "regions/middle_east/kuwait",
     "gdp_usd_b": 160.0,
+    "population": 4440000,
     "shadow_economy_pct": 14.2,
-    "path": "regions/middle_east/kuwait"
+    "press_score": 41.5,
+    "official_leader": "Şeyh Mişal el-Ahmed el-Cabir el-Sabah (Emir) / Şeyh Ahmed Abdullah (Başbakan)"
   },
   {
     "slug": "oman",
@@ -126,10 +148,12 @@
     "code": "OMN",
     "region": "middle_east",
     "capital": "Maskat",
-    "population": 4576298,
+    "path": "regions/middle_east/oman",
     "gdp_usd_b": 108.0,
+    "population": 4576298,
     "shadow_economy_pct": 17.5,
-    "path": "regions/middle_east/oman"
+    "press_score": 42.0,
+    "official_leader": "Heysem bin Tarık (Sultan ve Başbakan)"
   },
   {
     "slug": "bahrain",
@@ -137,10 +161,12 @@
     "code": "BHR",
     "region": "middle_east",
     "capital": "Manama",
-    "population": 1501635,
+    "path": "regions/middle_east/bahrain",
     "gdp_usd_b": 44.0,
+    "population": 1501635,
     "shadow_economy_pct": 19.0,
-    "path": "regions/middle_east/bahrain"
+    "press_score": 30.5,
+    "official_leader": "Kral Hamad bin İsa el-Halife / Veliaht Prens Selman (Başbakan)"
   },
   {
     "slug": "yemen",
@@ -148,10 +174,12 @@
     "code": "YEM",
     "region": "middle_east",
     "capital": "Sana (Aden geçici başkent)",
-    "population": 33696614,
+    "path": "regions/middle_east/yemen",
     "gdp_usd_b": 21.0,
+    "population": 33696614,
     "shadow_economy_pct": 60.0,
-    "path": "regions/middle_east/yemen"
+    "press_score": 22.4,
+    "official_leader": "Mehdi el-Meşat (Sana/Husi Yüksek Siyasi Konsey) / Reşad el-Alimi (Aden/Başkanlık Liderlik Konseyi)"
   },
   {
     "slug": "palestine",
@@ -159,10 +187,12 @@
     "code": "PSE",
     "region": "middle_east",
     "capital": "Kudüs (Ramallah idari merkez)",
-    "population": 5483450,
+    "path": "regions/middle_east/palestine",
     "gdp_usd_b": 18.0,
+    "population": 5483450,
     "shadow_economy_pct": 38.0,
-    "path": "regions/middle_east/palestine"
+    "press_score": 37.8,
+    "official_leader": "Mahmud Abbas (Devlet Başkanı) / Muhammed Mustafa (Başbakan)"
   },
   {
     "slug": "northern_cyprus",
@@ -170,10 +200,12 @@
     "code": "TRNC",
     "region": "middle_east",
     "capital": "Lefkoşa",
-    "population": 382836,
+    "path": "regions/middle_east/northern_cyprus",
     "gdp_usd_b": 4.2,
+    "population": 382836,
     "shadow_economy_pct": 42.0,
-    "path": "regions/middle_east/northern_cyprus"
+    "press_score": 52.0,
+    "official_leader": "Ersin Tatar (Cumhurbaşkanı) / Ünal Üstel (Başbakan)"
   },
   {
     "slug": "germany",
@@ -181,10 +213,12 @@
     "code": "DEU",
     "region": "europe",
     "capital": "Berlin",
-    "population": 84482267,
+    "path": "regions/europe/germany",
     "gdp_usd_b": 4456.0,
+    "population": 84482267,
     "shadow_economy_pct": 9.8,
-    "path": "regions/europe/germany"
+    "press_score": 81.9,
+    "official_leader": "Olaf Scholz (Şansölye) / Frank-Walter Steinmeier (Cumhurbaşkanı)"
   },
   {
     "slug": "united_kingdom",
@@ -192,10 +226,12 @@
     "code": "GBR",
     "region": "europe",
     "capital": "Londra",
-    "population": 67736802,
+    "path": "regions/europe/united_kingdom",
     "gdp_usd_b": 3332.0,
+    "population": 67736802,
     "shadow_economy_pct": 11.2,
-    "path": "regions/europe/united_kingdom"
+    "press_score": 78.5,
+    "official_leader": "Kral III. Charles / Keir Starmer (Başbakan)"
   },
   {
     "slug": "france",
@@ -203,10 +239,12 @@
     "code": "FRA",
     "region": "europe",
     "capital": "Paris",
-    "population": 68170228,
+    "path": "regions/europe/france",
     "gdp_usd_b": 3052.0,
+    "population": 68170228,
     "shadow_economy_pct": 13.8,
-    "path": "regions/europe/france"
+    "press_score": 78.7,
+    "official_leader": "Emmanuel Macron (Cumhurbaşkanı) / Michel Barnier (Başbakan)"
   },
   {
     "slug": "russia",
@@ -214,10 +252,12 @@
     "code": "RUS",
     "region": "europe",
     "capital": "Moskova",
-    "population": 144236933,
+    "path": "regions/europe/russia",
     "gdp_usd_b": 2021.0,
+    "population": 144236933,
     "shadow_economy_pct": 38.2,
-    "path": "regions/europe/russia"
+    "press_score": 29.98,
+    "official_leader": "Vladimir Putin (Devlet Başkanı) / Mihail Mişustin (Başbakan)"
   },
   {
     "slug": "ukraine",
@@ -225,10 +265,12 @@
     "code": "UKR",
     "region": "europe",
     "capital": "Kiev",
-    "population": 37000000,
+    "path": "regions/europe/ukraine",
     "gdp_usd_b": 178.0,
+    "population": 37000000,
     "shadow_economy_pct": 32.6,
-    "path": "regions/europe/ukraine"
+    "press_score": 64.3,
+    "official_leader": "Volodimir Zelenski (Devlet Başkanı) / Denis Şmihal (Başbakan)"
   },
   {
     "slug": "italy",
@@ -236,10 +278,12 @@
     "code": "ITA",
     "region": "europe",
     "capital": "Roma",
-    "population": 58850717,
+    "path": "regions/europe/italy",
     "gdp_usd_b": 2255.0,
+    "population": 58850717,
     "shadow_economy_pct": 20.5,
-    "path": "regions/europe/italy"
+    "press_score": 76.16,
+    "official_leader": "Giorgia Meloni (Başbakan) / Sergio Mattarella (Cumhurbaşkanı)"
   },
   {
     "slug": "spain",
@@ -247,10 +291,12 @@
     "code": "ESP",
     "region": "europe",
     "capital": "Madrid",
-    "population": 48373336,
+    "path": "regions/europe/spain",
     "gdp_usd_b": 1580.0,
+    "population": 48373336,
     "shadow_economy_pct": 17.2,
-    "path": "regions/europe/spain"
+    "press_score": 79.5,
+    "official_leader": "Kral VI. Felipe / Pedro Sánchez (Başbakan)"
   },
   {
     "slug": "poland",
@@ -258,10 +304,12 @@
     "code": "POL",
     "region": "europe",
     "capital": "Varşova",
-    "population": 36821749,
+    "path": "regions/europe/poland",
     "gdp_usd_b": 842.0,
+    "population": 36821749,
     "shadow_economy_pct": 19.2,
-    "path": "regions/europe/poland"
+    "press_score": 67.2,
+    "official_leader": "Donald Tusk (Başbakan) / Andrzej Duda (Cumhurbaşkanı)"
   },
   {
     "slug": "netherlands",
@@ -269,10 +317,12 @@
     "code": "NLD",
     "region": "europe",
     "capital": "Amsterdam (Lahey hükümet merkezi)",
-    "population": 17947682,
+    "path": "regions/europe/netherlands",
     "gdp_usd_b": 1118.0,
+    "population": 17947682,
     "shadow_economy_pct": 7.8,
-    "path": "regions/europe/netherlands"
+    "press_score": 86.8,
+    "official_leader": "Kral Willem-Alexander / Dick Schoof (Başbakan)"
   },
   {
     "slug": "switzerland",
@@ -280,10 +330,12 @@
     "code": "CHE",
     "region": "europe",
     "capital": "Bern",
-    "population": 8853000,
+    "path": "regions/europe/switzerland",
     "gdp_usd_b": 905.0,
+    "population": 8853000,
     "shadow_economy_pct": 6.4,
-    "path": "regions/europe/switzerland"
+    "press_score": 84.0,
+    "official_leader": "Viola Amherd (Konfederasyon Başkanı) / 7 Üyeli Federal Konsey"
   },
   {
     "slug": "albania",
@@ -291,10 +343,12 @@
     "code": "ALB",
     "region": "europe",
     "capital": "Tiran",
-    "population": 2761785,
+    "path": "regions/europe/albania",
     "gdp_usd_b": 23.0,
+    "population": 2761785,
     "shadow_economy_pct": 31.0,
-    "path": "regions/europe/albania"
+    "press_score": 54.0,
+    "official_leader": "Edi Rama"
   },
   {
     "slug": "andorra",
@@ -302,10 +356,12 @@
     "code": "AND",
     "region": "europe",
     "capital": "Andorra la Vella",
-    "population": 79824,
+    "path": "regions/europe/andorra",
     "gdp_usd_b": 3.7,
+    "population": 79824,
     "shadow_economy_pct": 11.5,
-    "path": "regions/europe/andorra"
+    "press_score": 78.0,
+    "official_leader": "Xavier Espot Zamora"
   },
   {
     "slug": "austria",
@@ -313,10 +369,12 @@
     "code": "AUT",
     "region": "europe",
     "capital": "Viyana",
-    "population": 9104772,
+    "path": "regions/europe/austria",
     "gdp_usd_b": 516.0,
+    "population": 9104772,
     "shadow_economy_pct": 8.5,
-    "path": "regions/europe/austria"
+    "press_score": 77.0,
+    "official_leader": "Karl Nehammer"
   },
   {
     "slug": "belarus",
@@ -324,10 +382,12 @@
     "code": "BLR",
     "region": "europe",
     "capital": "Minsk",
-    "population": 9200617,
+    "path": "regions/europe/belarus",
     "gdp_usd_b": 72.0,
+    "population": 9200617,
     "shadow_economy_pct": 31.0,
-    "path": "regions/europe/belarus"
+    "press_score": 15.0,
+    "official_leader": "Aleksandr Lukaşenko"
   },
   {
     "slug": "belgium",
@@ -335,10 +395,12 @@
     "code": "BEL",
     "region": "europe",
     "capital": "Brüksel",
-    "population": 11697557,
+    "path": "regions/europe/belgium",
     "gdp_usd_b": 632.0,
+    "population": 11697557,
     "shadow_economy_pct": 12.0,
-    "path": "regions/europe/belgium"
+    "press_score": 80.0,
+    "official_leader": "Alexander De Croo"
   },
   {
     "slug": "bosnia_and_herzegovina",
@@ -346,10 +408,12 @@
     "code": "BIH",
     "region": "europe",
     "capital": "Saraybosna",
-    "population": 3233526,
+    "path": "regions/europe/bosnia_and_herzegovina",
     "gdp_usd_b": 27.0,
+    "population": 3233526,
     "shadow_economy_pct": 33.0,
-    "path": "regions/europe/bosnia_and_herzegovina"
+    "press_score": 60.0,
+    "official_leader": "Denis Bećirović"
   },
   {
     "slug": "bulgaria",
@@ -357,10 +421,12 @@
     "code": "BGR",
     "region": "europe",
     "capital": "Sofya",
-    "population": 6447710,
+    "path": "regions/europe/bulgaria",
     "gdp_usd_b": 101.0,
+    "population": 6447710,
     "shadow_economy_pct": 22.0,
-    "path": "regions/europe/bulgaria"
+    "press_score": 62.0,
+    "official_leader": "Rumen Radev"
   },
   {
     "slug": "croatia",
@@ -368,10 +434,12 @@
     "code": "HRV",
     "region": "europe",
     "capital": "Zagreb",
-    "population": 3855641,
+    "path": "regions/europe/croatia",
     "gdp_usd_b": 82.0,
+    "population": 3855641,
     "shadow_economy_pct": 18.0,
-    "path": "regions/europe/croatia"
+    "press_score": 72.0,
+    "official_leader": "Andrej Plenković"
   },
   {
     "slug": "cyprus",
@@ -379,10 +447,12 @@
     "code": "CYP",
     "region": "europe",
     "capital": "Lefkoşa",
-    "population": 1251488,
+    "path": "regions/europe/cyprus",
     "gdp_usd_b": 32.2,
+    "population": 1251488,
     "shadow_economy_pct": 24.0,
-    "path": "regions/europe/cyprus"
+    "press_score": 75.0,
+    "official_leader": "Nikos Hristodulidis"
   },
   {
     "slug": "czech_republic",
@@ -390,10 +460,12 @@
     "code": "CZE",
     "region": "europe",
     "capital": "Prag",
-    "population": 10827529,
+    "path": "regions/europe/czech_republic",
     "gdp_usd_b": 330.0,
+    "population": 10827529,
     "shadow_economy_pct": 13.5,
-    "path": "regions/europe/czech_republic"
+    "press_score": 83.0,
+    "official_leader": "Petr Fiala"
   },
   {
     "slug": "denmark",
@@ -401,10 +473,12 @@
     "code": "DNK",
     "region": "europe",
     "capital": "Kopenhag",
-    "population": 5932654,
+    "path": "regions/europe/denmark",
     "gdp_usd_b": 400.0,
+    "population": 5932654,
     "shadow_economy_pct": 8.0,
-    "path": "regions/europe/denmark"
+    "press_score": 89.0,
+    "official_leader": "Mette Frederiksen"
   },
   {
     "slug": "estonia",
@@ -412,10 +486,12 @@
     "code": "EST",
     "region": "europe",
     "capital": "Tallinn",
-    "population": 1365884,
+    "path": "regions/europe/estonia",
     "gdp_usd_b": 41.0,
+    "population": 1365884,
     "shadow_economy_pct": 11.0,
-    "path": "regions/europe/estonia"
+    "press_score": 88.0,
+    "official_leader": "Kristen Michal"
   },
   {
     "slug": "finland",
@@ -423,10 +499,12 @@
     "code": "FIN",
     "region": "europe",
     "capital": "Helsinki",
-    "population": 5563970,
+    "path": "regions/europe/finland",
     "gdp_usd_b": 300.0,
+    "population": 5563970,
     "shadow_economy_pct": 8.5,
-    "path": "regions/europe/finland"
+    "press_score": 88.0,
+    "official_leader": "Petteri Orpo"
   },
   {
     "slug": "greece",
@@ -434,10 +512,12 @@
     "code": "GRC",
     "region": "europe",
     "capital": "Atina",
-    "population": 10413982,
+    "path": "regions/europe/greece",
     "gdp_usd_b": 238.0,
+    "population": 10413982,
     "shadow_economy_pct": 21.4,
-    "path": "regions/europe/greece"
+    "press_score": 55.0,
+    "official_leader": "Kiryakos Miçotakis"
   },
   {
     "slug": "hungary",
@@ -445,10 +525,12 @@
     "code": "HUN",
     "region": "europe",
     "capital": "Budapeşte",
-    "population": 9600000,
+    "path": "regions/europe/hungary",
     "gdp_usd_b": 212.0,
+    "population": 9600000,
     "shadow_economy_pct": 19.0,
-    "path": "regions/europe/hungary"
+    "press_score": 60.0,
+    "official_leader": "Viktor Orbán"
   },
   {
     "slug": "iceland",
@@ -456,10 +538,12 @@
     "code": "ISL",
     "region": "europe",
     "capital": "Reykjavik",
-    "population": 387800,
+    "path": "regions/europe/iceland",
     "gdp_usd_b": 31.0,
+    "population": 387800,
     "shadow_economy_pct": 7.5,
-    "path": "regions/europe/iceland"
+    "press_score": 85.0,
+    "official_leader": "Bjarni Benediktsson"
   },
   {
     "slug": "ireland",
@@ -467,10 +551,12 @@
     "code": "IRL",
     "region": "europe",
     "capital": "Dublin",
-    "population": 5262000,
+    "path": "regions/europe/ireland",
     "gdp_usd_b": 545.0,
+    "population": 5262000,
     "shadow_economy_pct": 9.5,
-    "path": "regions/europe/ireland"
+    "press_score": 87.0,
+    "official_leader": "Simon Harris"
   },
   {
     "slug": "kosovo",
@@ -478,10 +564,12 @@
     "code": "XKX",
     "region": "europe",
     "capital": "Priştine",
-    "population": 1762000,
+    "path": "regions/europe/kosovo",
     "gdp_usd_b": 10.4,
+    "population": 1762000,
     "shadow_economy_pct": 30.0,
-    "path": "regions/europe/kosovo"
+    "press_score": 62.0,
+    "official_leader": "Albin Kurti"
   },
   {
     "slug": "latvia",
@@ -489,10 +577,12 @@
     "code": "LVA",
     "region": "europe",
     "capital": "Riga",
-    "population": 1883008,
+    "path": "regions/europe/latvia",
     "gdp_usd_b": 43.6,
+    "population": 1883008,
     "shadow_economy_pct": 18.0,
-    "path": "regions/europe/latvia"
+    "press_score": 80.0,
+    "official_leader": "Evika Siliņa"
   },
   {
     "slug": "liechtenstein",
@@ -500,10 +590,12 @@
     "code": "LIE",
     "region": "europe",
     "capital": "Vaduz",
-    "population": 39584,
+    "path": "regions/europe/liechtenstein",
     "gdp_usd_b": 7.7,
+    "population": 39584,
     "shadow_economy_pct": 8.0,
-    "path": "regions/europe/liechtenstein"
+    "press_score": 82.0,
+    "official_leader": "Daniel Risch"
   },
   {
     "slug": "lithuania",
@@ -511,10 +603,12 @@
     "code": "LTU",
     "region": "europe",
     "capital": "Vilnius",
-    "population": 2857279,
+    "path": "regions/europe/lithuania",
     "gdp_usd_b": 77.8,
+    "population": 2857279,
     "shadow_economy_pct": 17.0,
-    "path": "regions/europe/lithuania"
+    "press_score": 85.0,
+    "official_leader": "Gitanas Nausėda"
   },
   {
     "slug": "luxembourg",
@@ -522,10 +616,12 @@
     "code": "LUX",
     "region": "europe",
     "capital": "Lüksemburg",
-    "population": 660809,
+    "path": "regions/europe/luxembourg",
     "gdp_usd_b": 86.0,
+    "population": 660809,
     "shadow_economy_pct": 7.0,
-    "path": "regions/europe/luxembourg"
+    "press_score": 84.0,
+    "official_leader": "Luc Frieden"
   },
   {
     "slug": "malta",
@@ -533,10 +629,12 @@
     "code": "MLT",
     "region": "europe",
     "capital": "Valletta",
-    "population": 535064,
+    "path": "regions/europe/malta",
     "gdp_usd_b": 20.4,
+    "population": 535064,
     "shadow_economy_pct": 22.0,
-    "path": "regions/europe/malta"
+    "press_score": 65.0,
+    "official_leader": "Robert Abela"
   },
   {
     "slug": "moldova",
@@ -544,10 +642,12 @@
     "code": "MDA",
     "region": "europe",
     "capital": "Kişinev",
-    "population": 2512758,
+    "path": "regions/europe/moldova",
     "gdp_usd_b": 16.5,
+    "population": 2512758,
     "shadow_economy_pct": 28.0,
-    "path": "regions/europe/moldova"
+    "press_score": 63.0,
+    "official_leader": "Maia Sandu"
   },
   {
     "slug": "monaco",
@@ -555,10 +655,12 @@
     "code": "MCO",
     "region": "europe",
     "capital": "Monako",
-    "population": 39050,
+    "path": "regions/europe/monaco",
     "gdp_usd_b": 8.8,
+    "population": 39050,
     "shadow_economy_pct": 10.0,
-    "path": "regions/europe/monaco"
+    "press_score": 75.0,
+    "official_leader": "Prens II. Albert"
   },
   {
     "slug": "montenegro",
@@ -566,10 +668,12 @@
     "code": "MNE",
     "region": "europe",
     "capital": "Podgorica",
-    "population": 620739,
+    "path": "regions/europe/montenegro",
     "gdp_usd_b": 7.4,
+    "population": 620739,
     "shadow_economy_pct": 26.0,
-    "path": "regions/europe/montenegro"
+    "press_score": 68.0,
+    "official_leader": "Milojko Spajić"
   },
   {
     "slug": "north_macedonia",
@@ -577,10 +681,12 @@
     "code": "MKD",
     "region": "europe",
     "capital": "Üsküp",
-    "population": 1836713,
+    "path": "regions/europe/north_macedonia",
     "gdp_usd_b": 15.8,
+    "population": 1836713,
     "shadow_economy_pct": 28.0,
-    "path": "regions/europe/north_macedonia"
+    "press_score": 61.0,
+    "official_leader": "Hristijan Mickoski"
   },
   {
     "slug": "norway",
@@ -588,10 +694,12 @@
     "code": "NOR",
     "region": "europe",
     "capital": "Oslo",
-    "population": 5488984,
+    "path": "regions/europe/norway",
     "gdp_usd_b": 485.0,
+    "population": 5488984,
     "shadow_economy_pct": 8.2,
-    "path": "regions/europe/norway"
+    "press_score": 91.89,
+    "official_leader": "Jonas Gahr Støre"
   },
   {
     "slug": "portugal",
@@ -599,10 +707,12 @@
     "code": "PRT",
     "region": "europe",
     "capital": "Lizbon",
-    "population": 10467366,
+    "path": "regions/europe/portugal",
     "gdp_usd_b": 287.0,
+    "population": 10467366,
     "shadow_economy_pct": 16.0,
-    "path": "regions/europe/portugal"
+    "press_score": 82.0,
+    "official_leader": "Luís Montenegro"
   },
   {
     "slug": "romania",
@@ -610,10 +720,12 @@
     "code": "ROU",
     "region": "europe",
     "capital": "Bükreş",
-    "population": 19051562,
+    "path": "regions/europe/romania",
     "gdp_usd_b": 350.0,
+    "population": 19051562,
     "shadow_economy_pct": 26.0,
-    "path": "regions/europe/romania"
+    "press_score": 69.0,
+    "official_leader": "Marcel Ciolacu"
   },
   {
     "slug": "san_marino",
@@ -621,10 +733,12 @@
     "code": "SMR",
     "region": "europe",
     "capital": "San Marino",
-    "population": 33660,
+    "path": "regions/europe/san_marino",
     "gdp_usd_b": 1.8,
+    "population": 33660,
     "shadow_economy_pct": 12.0,
-    "path": "regions/europe/san_marino"
+    "press_score": 72.0,
+    "official_leader": "Alessandro Rossi / Milena Gasperoni"
   },
   {
     "slug": "serbia",
@@ -632,10 +746,12 @@
     "code": "SRB",
     "region": "europe",
     "capital": "Belgrad",
-    "population": 6647003,
+    "path": "regions/europe/serbia",
     "gdp_usd_b": 75.0,
+    "population": 6647003,
     "shadow_economy_pct": 27.0,
-    "path": "regions/europe/serbia"
+    "press_score": 52.0,
+    "official_leader": "Aleksandar Vučić"
   },
   {
     "slug": "slovakia",
@@ -643,10 +759,12 @@
     "code": "SVK",
     "region": "europe",
     "capital": "Bratislava",
-    "population": 5431752,
+    "path": "regions/europe/slovakia",
     "gdp_usd_b": 132.0,
+    "population": 5431752,
     "shadow_economy_pct": 15.0,
-    "path": "regions/europe/slovakia"
+    "press_score": 68.0,
+    "official_leader": "Robert Fico"
   },
   {
     "slug": "slovenia",
@@ -654,10 +772,12 @@
     "code": "SVN",
     "region": "europe",
     "capital": "Ljubljana",
-    "population": 2116972,
+    "path": "regions/europe/slovenia",
     "gdp_usd_b": 68.0,
+    "population": 2116972,
     "shadow_economy_pct": 11.0,
-    "path": "regions/europe/slovenia"
+    "press_score": 78.0,
+    "official_leader": "Robert Golob"
   },
   {
     "slug": "sweden",
@@ -665,10 +785,12 @@
     "code": "SWE",
     "region": "europe",
     "capital": "Stockholm",
-    "population": 10521556,
+    "path": "regions/europe/sweden",
     "gdp_usd_b": 593.0,
+    "population": 10521556,
     "shadow_economy_pct": 7.8,
-    "path": "regions/europe/sweden"
+    "press_score": 88.15,
+    "official_leader": "Ulf Kristersson"
   },
   {
     "slug": "transnistria",
@@ -676,10 +798,12 @@
     "code": "PMR",
     "region": "europe",
     "capital": "Tiraspol",
-    "population": 465000,
+    "path": "regions/europe/transnistria",
     "gdp_usd_b": 1.1,
+    "population": 465000,
     "shadow_economy_pct": 55.0,
-    "path": "regions/europe/transnistria"
+    "press_score": 25.0,
+    "official_leader": "Vadim Krasnoselsky"
   },
   {
     "slug": "vatican_city",
@@ -687,10 +811,12 @@
     "code": "VAT",
     "region": "europe",
     "capital": "Vatikan",
-    "population": 764,
+    "path": "regions/europe/vatican_city",
     "gdp_usd_b": 0.05,
+    "population": 764,
     "shadow_economy_pct": 15.0,
-    "path": "regions/europe/vatican_city"
+    "press_score": 65.0,
+    "official_leader": "Papa Françesko (Jorge Mario Bergoglio)"
   },
   {
     "slug": "china",
@@ -698,10 +824,12 @@
     "code": "CHN",
     "region": "asia",
     "capital": "Pekin",
-    "population": 1409670000,
+    "path": "regions/asia/china",
     "gdp_usd_b": 17794.0,
+    "population": 1409670000,
     "shadow_economy_pct": 12.7,
-    "path": "regions/asia/china"
+    "press_score": 22.97,
+    "official_leader": "Şi Cinping (ÇKP Genel Sekreteri ve Devlet Başkanı) / Li Çiang (Başbakan)"
   },
   {
     "slug": "india",
@@ -709,10 +837,12 @@
     "code": "IND",
     "region": "asia",
     "capital": "Yeni Delhi",
-    "population": 1428627663,
+    "path": "regions/asia/india",
     "gdp_usd_b": 3937.0,
+    "population": 1428627663,
     "shadow_economy_pct": 22.4,
-    "path": "regions/asia/india"
+    "press_score": 36.6,
+    "official_leader": "Narendra Modi (Başbakan) / Droupadi Murmu (Cumhurbaşkanı)"
   },
   {
     "slug": "japan",
@@ -720,10 +850,12 @@
     "code": "JPN",
     "region": "asia",
     "capital": "Tokyo",
-    "population": 124500000,
+    "path": "regions/asia/japan",
     "gdp_usd_b": 4210.0,
+    "population": 124500000,
     "shadow_economy_pct": 9.1,
-    "path": "regions/asia/japan"
+    "press_score": 64.37,
+    "official_leader": "İmparator Naruhito / Shigeru Ishiba (Başbakan)"
   },
   {
     "slug": "south_korea",
@@ -731,10 +863,12 @@
     "code": "KOR",
     "region": "asia",
     "capital": "Seul",
-    "population": 51784059,
+    "path": "regions/asia/south_korea",
     "gdp_usd_b": 1712.0,
+    "population": 51784059,
     "shadow_economy_pct": 21.3,
-    "path": "regions/asia/south_korea"
+    "press_score": 70.83,
+    "official_leader": "Yoon Suk-yeol (Devlet Başkanı) / Han Duck-soo (Başbakan)"
   },
   {
     "slug": "taiwan",
@@ -742,10 +876,12 @@
     "code": "TWN",
     "region": "asia",
     "capital": "Taipei",
-    "population": 23570000,
+    "path": "regions/asia/taiwan",
     "gdp_usd_b": 756.0,
+    "population": 23570000,
     "shadow_economy_pct": 18.0,
-    "path": "regions/asia/taiwan"
+    "press_score": 76.0,
+    "official_leader": "Lai Ching-te (Devlet Başkanı) / Cho Jung-tai (Başbakan)"
   },
   {
     "slug": "pakistan",
@@ -753,10 +889,12 @@
     "code": "PAK",
     "region": "asia",
     "capital": "İslamabad",
-    "population": 240485658,
+    "path": "regions/asia/pakistan",
     "gdp_usd_b": 338.0,
+    "population": 240485658,
     "shadow_economy_pct": 35.6,
-    "path": "regions/asia/pakistan"
+    "press_score": 39.5,
+    "official_leader": "Şahbaz Şerif (Başbakan) / Asıf Ali Zerdari (Cumhurbaşkanı)"
   },
   {
     "slug": "afghanistan",
@@ -764,10 +902,12 @@
     "code": "AFG",
     "region": "asia",
     "capital": "Kabil",
-    "population": 41128771,
+    "path": "regions/asia/afghanistan",
     "gdp_usd_b": 14.5,
+    "population": 41128771,
     "shadow_economy_pct": 50.0,
-    "path": "regions/asia/afghanistan"
+    "press_score": 18.0,
+    "official_leader": "Mevlevi Hibetullah Ahundzade"
   },
   {
     "slug": "armenia",
@@ -775,10 +915,12 @@
     "code": "ARM",
     "region": "asia",
     "capital": "Erivan",
-    "population": 2780000,
+    "path": "regions/asia/armenia",
     "gdp_usd_b": 24.2,
+    "population": 2780000,
     "shadow_economy_pct": 28.0,
-    "path": "regions/asia/armenia"
+    "press_score": 71.0,
+    "official_leader": "Nikol Paşinyan"
   },
   {
     "slug": "azerbaijan",
@@ -786,10 +928,12 @@
     "code": "AZE",
     "region": "asia",
     "capital": "Bakü",
-    "population": 10145212,
+    "path": "regions/asia/azerbaijan",
     "gdp_usd_b": 78.7,
+    "population": 10145212,
     "shadow_economy_pct": 38.0,
-    "path": "regions/asia/azerbaijan"
+    "press_score": 29.0,
+    "official_leader": "İlham Aliyev"
   },
   {
     "slug": "bangladesh",
@@ -797,10 +941,12 @@
     "code": "BGD",
     "region": "asia",
     "capital": "Dakka",
-    "population": 171186372,
+    "path": "regions/asia/bangladesh",
     "gdp_usd_b": 460.0,
+    "population": 171186372,
     "shadow_economy_pct": 32.0,
-    "path": "regions/asia/bangladesh"
+    "press_score": 35.0,
+    "official_leader": "Muhammed Yunus"
   },
   {
     "slug": "bhutan",
@@ -808,10 +954,12 @@
     "code": "BTN",
     "region": "asia",
     "capital": "Thimphu",
-    "population": 782455,
+    "path": "regions/asia/bhutan",
     "gdp_usd_b": 2.9,
+    "population": 782455,
     "shadow_economy_pct": 15.0,
-    "path": "regions/asia/bhutan"
+    "press_score": 75.0,
+    "official_leader": "Jigme Khesar Namgyel Wangchuck"
   },
   {
     "slug": "brunei",
@@ -819,10 +967,12 @@
     "code": "BRN",
     "region": "asia",
     "capital": "Bandar Seri Begavan",
-    "population": 449002,
+    "path": "regions/asia/brunei",
     "gdp_usd_b": 16.7,
+    "population": 449002,
     "shadow_economy_pct": 12.0,
-    "path": "regions/asia/brunei"
+    "press_score": 45.0,
+    "official_leader": "Hassanal Bolkiah"
   },
   {
     "slug": "cambodia",
@@ -830,10 +980,12 @@
     "code": "KHM",
     "region": "asia",
     "capital": "Phnom Penh",
-    "population": 16767842,
+    "path": "regions/asia/cambodia",
     "gdp_usd_b": 31.8,
+    "population": 16767842,
     "shadow_economy_pct": 40.0,
-    "path": "regions/asia/cambodia"
+    "press_score": 40.0,
+    "official_leader": "Hun Manet"
   },
   {
     "slug": "georgia",
@@ -841,10 +993,12 @@
     "code": "GEO",
     "region": "asia",
     "capital": "Tiflis",
-    "population": 3712000,
+    "path": "regions/asia/georgia",
     "gdp_usd_b": 30.5,
+    "population": 3712000,
     "shadow_economy_pct": 22.0,
-    "path": "regions/asia/georgia"
+    "press_score": 61.0,
+    "official_leader": "İrakli Kobahidze"
   },
   {
     "slug": "hong_kong",
@@ -852,10 +1006,12 @@
     "code": "HKG",
     "region": "asia",
     "capital": "Hong Kong",
-    "population": 7498100,
+    "path": "regions/asia/hong_kong",
     "gdp_usd_b": 382.0,
+    "population": 7498100,
     "shadow_economy_pct": 14.0,
-    "path": "regions/asia/hong_kong"
+    "press_score": 43.0,
+    "official_leader": "John Lee Ka-chiu"
   },
   {
     "slug": "indonesia",
@@ -863,10 +1019,12 @@
     "code": "IDN",
     "region": "asia",
     "capital": "Cakarta",
-    "population": 277534122,
+    "path": "regions/asia/indonesia",
     "gdp_usd_b": 1371.0,
+    "population": 277534122,
     "shadow_economy_pct": 20.8,
-    "path": "regions/asia/indonesia"
+    "press_score": 53.0,
+    "official_leader": "Prabowo Subianto"
   },
   {
     "slug": "kazakhstan",
@@ -874,10 +1032,12 @@
     "code": "KAZ",
     "region": "asia",
     "capital": "Astana",
-    "population": 20000000,
+    "path": "regions/asia/kazakhstan",
     "gdp_usd_b": 261.0,
+    "population": 20000000,
     "shadow_economy_pct": 28.5,
-    "path": "regions/asia/kazakhstan"
+    "press_score": 45.0,
+    "official_leader": "Kasım Cömert Tokayev"
   },
   {
     "slug": "kyrgyzstan",
@@ -885,10 +1045,12 @@
     "code": "KGZ",
     "region": "asia",
     "capital": "Bişkek",
-    "population": 7000000,
+    "path": "regions/asia/kyrgyzstan",
     "gdp_usd_b": 14.0,
+    "population": 7000000,
     "shadow_economy_pct": 30.0,
-    "path": "regions/asia/kyrgyzstan"
+    "press_score": 48.0,
+    "official_leader": "Sadır Caparov"
   },
   {
     "slug": "laos",
@@ -896,10 +1058,12 @@
     "code": "LAO",
     "region": "asia",
     "capital": "Vientiane",
-    "population": 7525000,
+    "path": "regions/asia/laos",
     "gdp_usd_b": 15.8,
+    "population": 7525000,
     "shadow_economy_pct": 35.0,
-    "path": "regions/asia/laos"
+    "press_score": 36.0,
+    "official_leader": "Thongloun Sisoulith"
   },
   {
     "slug": "macau",
@@ -907,10 +1071,12 @@
     "code": "MAC",
     "region": "asia",
     "capital": "Makao",
-    "population": 686607,
+    "path": "regions/asia/macau",
     "gdp_usd_b": 47.0,
+    "population": 686607,
     "shadow_economy_pct": 15.0,
-    "path": "regions/asia/macau"
+    "press_score": 55.0,
+    "official_leader": "Ho Iat Seng"
   },
   {
     "slug": "malaysia",
@@ -918,10 +1084,12 @@
     "code": "MYS",
     "region": "asia",
     "capital": "Kuala Lumpur",
-    "population": 33938221,
+    "path": "regions/asia/malaysia",
     "gdp_usd_b": 430.0,
+    "population": 33938221,
     "shadow_economy_pct": 18.0,
-    "path": "regions/asia/malaysia"
+    "press_score": 55.0,
+    "official_leader": "Enver İbrahim"
   },
   {
     "slug": "maldives",
@@ -929,10 +1097,12 @@
     "code": "MDV",
     "region": "asia",
     "capital": "Male",
-    "population": 523781,
+    "path": "regions/asia/maldives",
     "gdp_usd_b": 6.6,
+    "population": 523781,
     "shadow_economy_pct": 22.0,
-    "path": "regions/asia/maldives"
+    "press_score": 56.0,
+    "official_leader": "Muhammed Muizzu"
   },
   {
     "slug": "mongolia",
@@ -940,10 +1110,12 @@
     "code": "MNG",
     "region": "asia",
     "capital": "Ulanbatur",
-    "population": 3447157,
+    "path": "regions/asia/mongolia",
     "gdp_usd_b": 19.9,
+    "population": 3447157,
     "shadow_economy_pct": 28.0,
-    "path": "regions/asia/mongolia"
+    "press_score": 59.0,
+    "official_leader": "Luvsannamsrain Oyun-Erdene"
   },
   {
     "slug": "myanmar",
@@ -951,10 +1123,12 @@
     "code": "MMR",
     "region": "asia",
     "capital": "Naypyidaw",
-    "population": 54179306,
+    "path": "regions/asia/myanmar",
     "gdp_usd_b": 65.0,
+    "population": 54179306,
     "shadow_economy_pct": 50.0,
-    "path": "regions/asia/myanmar"
+    "press_score": 22.0,
+    "official_leader": "Min Aung Hlaing"
   },
   {
     "slug": "nepal",
@@ -962,10 +1136,12 @@
     "code": "NPL",
     "region": "asia",
     "capital": "Katmandu",
-    "population": 30547580,
+    "path": "regions/asia/nepal",
     "gdp_usd_b": 40.8,
+    "population": 30547580,
     "shadow_economy_pct": 34.0,
-    "path": "regions/asia/nepal"
+    "press_score": 58.0,
+    "official_leader": "K. P. Sharma Oli"
   },
   {
     "slug": "north_korea",
@@ -973,10 +1149,12 @@
     "code": "PRK",
     "region": "asia",
     "capital": "Pyongyang",
-    "population": 26069416,
+    "path": "regions/asia/north_korea",
     "gdp_usd_b": 18.0,
+    "population": 26069416,
     "shadow_economy_pct": 65.0,
-    "path": "regions/asia/north_korea"
+    "press_score": 10.0,
+    "official_leader": "Kim Jong Un"
   },
   {
     "slug": "philippines",
@@ -984,10 +1162,12 @@
     "code": "PHL",
     "region": "asia",
     "capital": "Manila",
-    "population": 115559009,
+    "path": "regions/asia/philippines",
     "gdp_usd_b": 437.0,
+    "population": 115559009,
     "shadow_economy_pct": 28.0,
-    "path": "regions/asia/philippines"
+    "press_score": 52.0,
+    "official_leader": "Ferdinand Marcos Jr."
   },
   {
     "slug": "singapore",
@@ -995,10 +1175,12 @@
     "code": "SGP",
     "region": "asia",
     "capital": "Singapur",
-    "population": 5917600,
+    "path": "regions/asia/singapore",
     "gdp_usd_b": 501.0,
+    "population": 5917600,
     "shadow_economy_pct": 8.0,
-    "path": "regions/asia/singapore"
+    "press_score": 54.0,
+    "official_leader": "Lawrence Wong"
   },
   {
     "slug": "sri_lanka",
@@ -1006,10 +1188,12 @@
     "code": "LKA",
     "region": "asia",
     "capital": "Kolombo",
-    "population": 22181000,
+    "path": "regions/asia/sri_lanka",
     "gdp_usd_b": 84.4,
+    "population": 22181000,
     "shadow_economy_pct": 32.0,
-    "path": "regions/asia/sri_lanka"
+    "press_score": 53.0,
+    "official_leader": "Anura Kumara Dissanayake"
   },
   {
     "slug": "tajikistan",
@@ -1017,10 +1201,12 @@
     "code": "TJK",
     "region": "asia",
     "capital": "Duşanbe",
-    "population": 10143543,
+    "path": "regions/asia/tajikistan",
     "gdp_usd_b": 12.0,
+    "population": 10143543,
     "shadow_economy_pct": 35.0,
-    "path": "regions/asia/tajikistan"
+    "press_score": 38.0,
+    "official_leader": "İmamali Rahmon"
   },
   {
     "slug": "thailand",
@@ -1028,10 +1214,12 @@
     "code": "THA",
     "region": "asia",
     "capital": "Bangkok",
-    "population": 71801279,
+    "path": "regions/asia/thailand",
     "gdp_usd_b": 514.0,
+    "population": 71801279,
     "shadow_economy_pct": 42.0,
-    "path": "regions/asia/thailand"
+    "press_score": 57.0,
+    "official_leader": "Paetongtarn Shinawatra"
   },
   {
     "slug": "timor_leste",
@@ -1039,10 +1227,12 @@
     "code": "TLS",
     "region": "asia",
     "capital": "Dili",
-    "population": 1341296,
+    "path": "regions/asia/timor_leste",
     "gdp_usd_b": 3.2,
+    "population": 1341296,
     "shadow_economy_pct": 30.0,
-    "path": "regions/asia/timor_leste"
+    "press_score": 84.0,
+    "official_leader": "José Ramos-Horta"
   },
   {
     "slug": "turkmenistan",
@@ -1050,10 +1240,12 @@
     "code": "TKM",
     "region": "asia",
     "capital": "Aşkabat",
-    "population": 6430770,
+    "path": "regions/asia/turkmenistan",
     "gdp_usd_b": 81.8,
+    "population": 6430770,
     "shadow_economy_pct": 45.0,
-    "path": "regions/asia/turkmenistan"
+    "press_score": 25.82,
+    "official_leader": "Serdar Berdimuhammedov / Gurbangulu Berdimuhammedov"
   },
   {
     "slug": "uzbekistan",
@@ -1061,10 +1253,12 @@
     "code": "UZB",
     "region": "asia",
     "capital": "Taşkent",
-    "population": 36412350,
+    "path": "regions/asia/uzbekistan",
     "gdp_usd_b": 90.8,
+    "population": 36412350,
     "shadow_economy_pct": 33.0,
-    "path": "regions/asia/uzbekistan"
+    "press_score": 46.0,
+    "official_leader": "Şevket Mirziyoyev"
   },
   {
     "slug": "vietnam",
@@ -1072,10 +1266,12 @@
     "code": "VNM",
     "region": "asia",
     "capital": "Hanoi",
-    "population": 98186856,
+    "path": "regions/asia/vietnam",
     "gdp_usd_b": 430.0,
+    "population": 98186856,
     "shadow_economy_pct": 25.0,
-    "path": "regions/asia/vietnam"
+    "press_score": 24.0,
+    "official_leader": "To Lam"
   },
   {
     "slug": "united_states",
@@ -1083,10 +1279,12 @@
     "code": "USA",
     "region": "americas",
     "capital": "Washington, D.C.",
-    "population": 334914895,
+    "path": "regions/americas/united_states",
     "gdp_usd_b": 27360.0,
+    "population": 334914895,
     "shadow_economy_pct": 8.5,
-    "path": "regions/americas/united_states"
+    "press_score": 75.8,
+    "official_leader": "Joe Biden / Donald Trump (Seçilmiş Başkan) - Kongre ve Yüksek Mahkeme"
   },
   {
     "slug": "brazil",
@@ -1094,10 +1292,12 @@
     "code": "BRA",
     "region": "americas",
     "capital": "Brasilia",
-    "population": 203062512,
+    "path": "regions/americas/brazil",
     "gdp_usd_b": 2173.0,
+    "population": 203062512,
     "shadow_economy_pct": 33.5,
-    "path": "regions/americas/brazil"
+    "press_score": 62.0,
+    "official_leader": "Luiz Inácio Lula da Silva (Devlet Başkanı) / Geraldo Alckmin (Devlet Başkanı Yardımcısı)"
   },
   {
     "slug": "mexico",
@@ -1105,10 +1305,12 @@
     "code": "MEX",
     "region": "americas",
     "capital": "Mexico City",
-    "population": 129388467,
+    "path": "regions/americas/mexico",
     "gdp_usd_b": 1788.0,
+    "population": 129388467,
     "shadow_economy_pct": 29.8,
-    "path": "regions/americas/mexico"
+    "press_score": 45.0,
+    "official_leader": "Claudia Sheinbaum (Devlet Başkanı) - Morena Partisi"
   },
   {
     "slug": "canada",
@@ -1116,10 +1318,12 @@
     "code": "CAN",
     "region": "americas",
     "capital": "Ottawa",
-    "population": 40100000,
+    "path": "regions/americas/canada",
     "gdp_usd_b": 2140.0,
+    "population": 40100000,
     "shadow_economy_pct": 10.5,
-    "path": "regions/americas/canada"
+    "press_score": 83.5,
+    "official_leader": "Kral III. Charles / Justin Trudeau (Başbakan)"
   },
   {
     "slug": "argentina",
@@ -1127,10 +1331,12 @@
     "code": "ARG",
     "region": "americas",
     "capital": "Buenos Aires",
-    "population": 46044703,
+    "path": "regions/americas/argentina",
     "gdp_usd_b": 640.0,
+    "population": 46044703,
     "shadow_economy_pct": 27.2,
-    "path": "regions/americas/argentina"
+    "press_score": 63.0,
+    "official_leader": "Javier Milei (Devlet Başkanı) / Victoria Villarruel (Devlet Başkanı Yardımcısı)"
   },
   {
     "slug": "antigua_and_barbuda",
@@ -1138,10 +1344,12 @@
     "code": "ATG",
     "region": "americas",
     "capital": "Saint John's",
-    "population": 93763,
+    "path": "regions/americas/antigua_and_barbuda",
     "gdp_usd_b": 1.8,
+    "population": 93763,
     "shadow_economy_pct": 15.0,
-    "path": "regions/americas/antigua_and_barbuda"
+    "press_score": 75.0,
+    "official_leader": "Gaston Browne"
   },
   {
     "slug": "bahamas",
@@ -1149,10 +1357,12 @@
     "code": "BHS",
     "region": "americas",
     "capital": "Nassau",
-    "population": 412623,
+    "path": "regions/americas/bahamas",
     "gdp_usd_b": 14.0,
+    "population": 412623,
     "shadow_economy_pct": 12.0,
-    "path": "regions/americas/bahamas"
+    "press_score": 76.0,
+    "official_leader": "Philip Davis"
   },
   {
     "slug": "barbados",
@@ -1160,10 +1370,12 @@
     "code": "BRB",
     "region": "americas",
     "capital": "Bridgetown",
-    "population": 281635,
+    "path": "regions/americas/barbados",
     "gdp_usd_b": 6.2,
+    "population": 281635,
     "shadow_economy_pct": 14.0,
-    "path": "regions/americas/barbados"
+    "press_score": 78.0,
+    "official_leader": "Mia Mottley"
   },
   {
     "slug": "belize",
@@ -1171,10 +1383,12 @@
     "code": "BLZ",
     "region": "americas",
     "capital": "Belmopan",
-    "population": 405272,
+    "path": "regions/americas/belize",
     "gdp_usd_b": 3.2,
+    "population": 405272,
     "shadow_economy_pct": 25.0,
-    "path": "regions/americas/belize"
+    "press_score": 68.0,
+    "official_leader": "Johnny Briceño"
   },
   {
     "slug": "bolivia",
@@ -1182,10 +1396,12 @@
     "code": "BOL",
     "region": "americas",
     "capital": "Sucre (La Paz hükümet)",
-    "population": 12388571,
+    "path": "regions/americas/bolivia",
     "gdp_usd_b": 46.0,
+    "population": 12388571,
     "shadow_economy_pct": 55.0,
-    "path": "regions/americas/bolivia"
+    "press_score": 50.0,
+    "official_leader": "Luis Arce"
   },
   {
     "slug": "chile",
@@ -1193,10 +1409,12 @@
     "code": "CHL",
     "region": "americas",
     "capital": "Santiago",
-    "population": 19600000,
+    "path": "regions/americas/chile",
     "gdp_usd_b": 340.0,
+    "population": 19600000,
     "shadow_economy_pct": 18.0,
-    "path": "regions/americas/chile"
+    "press_score": 75.0,
+    "official_leader": "Gabriel Boric"
   },
   {
     "slug": "colombia",
@@ -1204,10 +1422,12 @@
     "code": "COL",
     "region": "americas",
     "capital": "Bogota",
-    "population": 52085168,
+    "path": "regions/americas/colombia",
     "gdp_usd_b": 363.0,
+    "population": 52085168,
     "shadow_economy_pct": 33.0,
-    "path": "regions/americas/colombia"
+    "press_score": 58.0,
+    "official_leader": "Gustavo Petro"
   },
   {
     "slug": "costa_rica",
@@ -1215,10 +1435,12 @@
     "code": "CRI",
     "region": "americas",
     "capital": "San Jose",
-    "population": 5212173,
+    "path": "regions/americas/costa_rica",
     "gdp_usd_b": 86.0,
+    "population": 5212173,
     "shadow_economy_pct": 15.0,
-    "path": "regions/americas/costa_rica"
+    "press_score": 80.0,
+    "official_leader": "Rodrigo Chaves Robles"
   },
   {
     "slug": "cuba",
@@ -1226,10 +1448,12 @@
     "code": "CUB",
     "region": "americas",
     "capital": "Havana",
-    "population": 11194449,
+    "path": "regions/americas/cuba",
     "gdp_usd_b": 107.0,
+    "population": 11194449,
     "shadow_economy_pct": 45.0,
-    "path": "regions/americas/cuba"
+    "press_score": 16.0,
+    "official_leader": "Miguel Díaz-Canel"
   },
   {
     "slug": "dominica",
@@ -1237,10 +1461,12 @@
     "code": "DMA",
     "region": "americas",
     "capital": "Roseau",
-    "population": 72737,
+    "path": "regions/americas/dominica",
     "gdp_usd_b": 0.65,
+    "population": 72737,
     "shadow_economy_pct": 20.0,
-    "path": "regions/americas/dominica"
+    "press_score": 72.0,
+    "official_leader": "Roosevelt Skerrit"
   },
   {
     "slug": "dominican_republic",
@@ -1248,10 +1474,12 @@
     "code": "DOM",
     "region": "americas",
     "capital": "Santo Domingo",
-    "population": 11332972,
+    "path": "regions/americas/dominican_republic",
     "gdp_usd_b": 121.0,
+    "population": 11332972,
     "shadow_economy_pct": 30.0,
-    "path": "regions/americas/dominican_republic"
+    "press_score": 65.0,
+    "official_leader": "Luis Abinader"
   },
   {
     "slug": "ecuador",
@@ -1259,10 +1487,12 @@
     "code": "ECU",
     "region": "americas",
     "capital": "Quito",
-    "population": 18000000,
+    "path": "regions/americas/ecuador",
     "gdp_usd_b": 118.0,
+    "population": 18000000,
     "shadow_economy_pct": 35.0,
-    "path": "regions/americas/ecuador"
+    "press_score": 55.0,
+    "official_leader": "Daniel Noboa"
   },
   {
     "slug": "el_salvador",
@@ -1270,10 +1500,12 @@
     "code": "SLV",
     "region": "americas",
     "capital": "San Salvador",
-    "population": 6364943,
+    "path": "regions/americas/el_salvador",
     "gdp_usd_b": 35.0,
+    "population": 6364943,
     "shadow_economy_pct": 28.0,
-    "path": "regions/americas/el_salvador"
+    "press_score": 54.0,
+    "official_leader": "Nayib Bukele"
   },
   {
     "slug": "greenland",
@@ -1281,10 +1513,12 @@
     "code": "GRL",
     "region": "americas",
     "capital": "Nuuk",
-    "population": 56609,
+    "path": "regions/americas/greenland",
     "gdp_usd_b": 3.2,
+    "population": 56609,
     "shadow_economy_pct": 10.0,
-    "path": "regions/americas/greenland"
+    "press_score": 80.0,
+    "official_leader": "Múte B. Egede"
   },
   {
     "slug": "grenada",
@@ -1292,10 +1526,12 @@
     "code": "GRD",
     "region": "americas",
     "capital": "Saint George's",
-    "population": 125438,
+    "path": "regions/americas/grenada",
     "gdp_usd_b": 1.3,
+    "population": 125438,
     "shadow_economy_pct": 22.0,
-    "path": "regions/americas/grenada"
+    "press_score": 74.0,
+    "official_leader": "Dickon Mitchell"
   },
   {
     "slug": "guatemala",
@@ -1303,10 +1539,12 @@
     "code": "GTM",
     "region": "americas",
     "capital": "Guatemala City",
-    "population": 18092026,
+    "path": "regions/americas/guatemala",
     "gdp_usd_b": 102.0,
+    "population": 18092026,
     "shadow_economy_pct": 40.0,
-    "path": "regions/americas/guatemala"
+    "press_score": 48.0,
+    "official_leader": "Bernardo Arévalo"
   },
   {
     "slug": "guyana",
@@ -1314,10 +1552,12 @@
     "code": "GUY",
     "region": "americas",
     "capital": "Georgetown",
-    "population": 808726,
+    "path": "regions/americas/guyana",
     "gdp_usd_b": 17.0,
+    "population": 808726,
     "shadow_economy_pct": 30.0,
-    "path": "regions/americas/guyana"
+    "press_score": 70.0,
+    "official_leader": "Irfaan Ali"
   },
   {
     "slug": "haiti",
@@ -1325,10 +1565,12 @@
     "code": "HTI",
     "region": "americas",
     "capital": "Port-au-Prince",
-    "population": 11724763,
+    "path": "regions/americas/haiti",
     "gdp_usd_b": 20.0,
+    "population": 11724763,
     "shadow_economy_pct": 70.0,
-    "path": "regions/americas/haiti"
+    "press_score": 40.0,
+    "official_leader": "Garry Conille / Geçiş Konseyi"
   },
   {
     "slug": "honduras",
@@ -1336,10 +1578,12 @@
     "code": "HND",
     "region": "americas",
     "capital": "Tegucigalpa",
-    "population": 10432860,
+    "path": "regions/americas/honduras",
     "gdp_usd_b": 34.0,
+    "population": 10432860,
     "shadow_economy_pct": 35.0,
-    "path": "regions/americas/honduras"
+    "press_score": 50.0,
+    "official_leader": "Xiomara Castro"
   },
   {
     "slug": "jamaica",
@@ -1347,10 +1591,12 @@
     "code": "JAM",
     "region": "americas",
     "capital": "Kingston",
-    "population": 2825544,
+    "path": "regions/americas/jamaica",
     "gdp_usd_b": 19.5,
+    "population": 2825544,
     "shadow_economy_pct": 25.0,
-    "path": "regions/americas/jamaica"
+    "press_score": 76.0,
+    "official_leader": "Andrew Holness"
   },
   {
     "slug": "nicaragua",
@@ -1358,10 +1604,12 @@
     "code": "NIC",
     "region": "americas",
     "capital": "Managua",
-    "population": 6948392,
+    "path": "regions/americas/nicaragua",
     "gdp_usd_b": 17.0,
+    "population": 6948392,
     "shadow_economy_pct": 42.0,
-    "path": "regions/americas/nicaragua"
+    "press_score": 30.0,
+    "official_leader": "Daniel Ortega / Rosario Murillo"
   },
   {
     "slug": "panama",
@@ -1369,10 +1617,12 @@
     "code": "PAN",
     "region": "americas",
     "capital": "Panama City",
-    "population": 4408581,
+    "path": "regions/americas/panama",
     "gdp_usd_b": 83.0,
+    "population": 4408581,
     "shadow_economy_pct": 25.0,
-    "path": "regions/americas/panama"
+    "press_score": 64.0,
+    "official_leader": "José Raúl Mulino"
   },
   {
     "slug": "paraguay",
@@ -1380,10 +1630,12 @@
     "code": "PRY",
     "region": "americas",
     "capital": "Asuncion",
-    "population": 6780744,
+    "path": "regions/americas/paraguay",
     "gdp_usd_b": 44.0,
+    "population": 6780744,
     "shadow_economy_pct": 38.0,
-    "path": "regions/americas/paraguay"
+    "press_score": 55.0,
+    "official_leader": "Santiago Peña"
   },
   {
     "slug": "peru",
@@ -1391,10 +1643,12 @@
     "code": "PER",
     "region": "americas",
     "capital": "Lima",
-    "population": 34000000,
+    "path": "regions/americas/peru",
     "gdp_usd_b": 268.0,
+    "population": 34000000,
     "shadow_economy_pct": 45.0,
-    "path": "regions/americas/peru"
+    "press_score": 56.0,
+    "official_leader": "Dina Boluarte"
   },
   {
     "slug": "puerto_rico",
@@ -1402,10 +1656,12 @@
     "code": "PRI",
     "region": "americas",
     "capital": "San Juan",
-    "population": 3205691,
+    "path": "regions/americas/puerto_rico",
     "gdp_usd_b": 113.0,
+    "population": 3205691,
     "shadow_economy_pct": 18.0,
-    "path": "regions/americas/puerto_rico"
+    "press_score": 70.0,
+    "official_leader": "Pedro Pierluisi"
   },
   {
     "slug": "saint_kitts_and_nevis",
@@ -1413,10 +1669,12 @@
     "code": "KNA",
     "region": "americas",
     "capital": "Basseterre",
-    "population": 47658,
+    "path": "regions/americas/saint_kitts_and_nevis",
     "gdp_usd_b": 1.1,
+    "population": 47658,
     "shadow_economy_pct": 15.0,
-    "path": "regions/americas/saint_kitts_and_nevis"
+    "press_score": 76.0,
+    "official_leader": "Terrance Drew"
   },
   {
     "slug": "saint_lucia",
@@ -1424,10 +1682,12 @@
     "code": "LCA",
     "region": "americas",
     "capital": "Castries",
-    "population": 180251,
+    "path": "regions/americas/saint_lucia",
     "gdp_usd_b": 2.4,
+    "population": 180251,
     "shadow_economy_pct": 18.0,
-    "path": "regions/americas/saint_lucia"
+    "press_score": 75.0,
+    "official_leader": "Philip J. Pierre"
   },
   {
     "slug": "saint_vincent_and_the_grenadines",
@@ -1435,10 +1695,12 @@
     "code": "VCT",
     "region": "americas",
     "capital": "Kingstown",
-    "population": 104332,
+    "path": "regions/americas/saint_vincent_and_the_grenadines",
     "gdp_usd_b": 1.0,
+    "population": 104332,
     "shadow_economy_pct": 20.0,
-    "path": "regions/americas/saint_vincent_and_the_grenadines"
+    "press_score": 75.0,
+    "official_leader": "Ralph Gonsalves"
   },
   {
     "slug": "suriname",
@@ -1446,10 +1708,12 @@
     "code": "SUR",
     "region": "americas",
     "capital": "Paramaribo",
-    "population": 618040,
+    "path": "regions/americas/suriname",
     "gdp_usd_b": 3.6,
+    "population": 618040,
     "shadow_economy_pct": 35.0,
-    "path": "regions/americas/suriname"
+    "press_score": 72.0,
+    "official_leader": "Chan Santokhi"
   },
   {
     "slug": "trinidad_and_tobago",
@@ -1457,10 +1721,12 @@
     "code": "TTO",
     "region": "americas",
     "capital": "Port of Spain",
-    "population": 1531044,
+    "path": "regions/americas/trinidad_and_tobago",
     "gdp_usd_b": 28.0,
+    "population": 1531044,
     "shadow_economy_pct": 18.0,
-    "path": "regions/americas/trinidad_and_tobago"
+    "press_score": 78.0,
+    "official_leader": "Keith Rowley"
   },
   {
     "slug": "uruguay",
@@ -1468,10 +1734,12 @@
     "code": "URY",
     "region": "americas",
     "capital": "Montevideo",
-    "population": 3422794,
+    "path": "regions/americas/uruguay",
     "gdp_usd_b": 77.0,
+    "population": 3422794,
     "shadow_economy_pct": 12.0,
-    "path": "regions/americas/uruguay"
+    "press_score": 85.0,
+    "official_leader": "Luis Lacalle Pou"
   },
   {
     "slug": "venezuela",
@@ -1479,10 +1747,12 @@
     "code": "VEN",
     "region": "americas",
     "capital": "Karakas",
-    "population": 28838499,
+    "path": "regions/americas/venezuela",
     "gdp_usd_b": 102.0,
+    "population": 28838499,
     "shadow_economy_pct": 60.0,
-    "path": "regions/americas/venezuela"
+    "press_score": 20.0,
+    "official_leader": "Nicolás Maduro"
   },
   {
     "slug": "egypt",
@@ -1490,10 +1760,12 @@
     "code": "EGY",
     "region": "africa",
     "capital": "Kahire",
-    "population": 105000000,
+    "path": "regions/africa/egypt",
     "gdp_usd_b": 395.0,
+    "population": 105000000,
     "shadow_economy_pct": 34.8,
-    "path": "regions/africa/egypt"
+    "press_score": 30.23,
+    "official_leader": "Abdülfettah es-Sisi (Cumhurbaşkanı) / Mustafa Medbuli (Başbakan)"
   },
   {
     "slug": "nigeria",
@@ -1501,10 +1773,12 @@
     "code": "NGA",
     "region": "africa",
     "capital": "Abuja",
-    "population": 223804632,
+    "path": "regions/africa/nigeria",
     "gdp_usd_b": 375.0,
+    "population": 223804632,
     "shadow_economy_pct": 52.4,
-    "path": "regions/africa/nigeria"
+    "press_score": 46.8,
+    "official_leader": "Bola Ahmed Tinubu (Devlet Başkanı) - APC Partisi"
   },
   {
     "slug": "south_africa",
@@ -1512,10 +1786,12 @@
     "code": "ZAF",
     "region": "africa",
     "capital": "Pretoria (İdari), Cape Town (Yasama), Bloemfontein (Yargı)",
-    "population": 62027503,
+    "path": "regions/africa/south_africa",
     "gdp_usd_b": 377.0,
+    "population": 62027503,
     "shadow_economy_pct": 24.1,
-    "path": "regions/africa/south_africa"
+    "press_score": 78.6,
+    "official_leader": "Cyril Ramaphosa (Devlet Başkanı) - ANC ve DA Koalisyonu"
   },
   {
     "slug": "algeria",
@@ -1523,10 +1799,12 @@
     "code": "DZA",
     "region": "africa",
     "capital": "Cezayir",
-    "population": 45606480,
+    "path": "regions/africa/algeria",
     "gdp_usd_b": 239.0,
+    "population": 45606480,
     "shadow_economy_pct": 32.0,
-    "path": "regions/africa/algeria"
+    "press_score": 43.0,
+    "official_leader": "Abdülmecid Tebbun"
   },
   {
     "slug": "angola",
@@ -1534,10 +1812,12 @@
     "code": "AGO",
     "region": "africa",
     "capital": "Luanda",
-    "population": 35588987,
+    "path": "regions/africa/angola",
     "gdp_usd_b": 93.8,
+    "population": 35588987,
     "shadow_economy_pct": 38.0,
-    "path": "regions/africa/angola"
+    "press_score": 58.0,
+    "official_leader": "João Lourenço"
   },
   {
     "slug": "benin",
@@ -1545,10 +1825,12 @@
     "code": "BEN",
     "region": "africa",
     "capital": "Porto-Novo (Cotonou)",
-    "population": 13352864,
+    "path": "regions/africa/benin",
     "gdp_usd_b": 19.5,
+    "population": 13352864,
     "shadow_economy_pct": 40.0,
-    "path": "regions/africa/benin"
+    "press_score": 60.0,
+    "official_leader": "Patrice Talon"
   },
   {
     "slug": "botswana",
@@ -1556,10 +1838,12 @@
     "code": "BWA",
     "region": "africa",
     "capital": "Gaborone",
-    "population": 2630296,
+    "path": "regions/africa/botswana",
     "gdp_usd_b": 21.4,
+    "population": 2630296,
     "shadow_economy_pct": 18.0,
-    "path": "regions/africa/botswana"
+    "press_score": 78.0,
+    "official_leader": "Duma Boko"
   },
   {
     "slug": "burkina_faso",
@@ -1567,10 +1851,12 @@
     "code": "BFA",
     "region": "africa",
     "capital": "Ouagadougou",
-    "population": 22673762,
+    "path": "regions/africa/burkina_faso",
     "gdp_usd_b": 20.3,
+    "population": 22673762,
     "shadow_economy_pct": 45.0,
-    "path": "regions/africa/burkina_faso"
+    "press_score": 45.0,
+    "official_leader": "İbrahim Traore"
   },
   {
     "slug": "burundi",
@@ -1578,10 +1864,12 @@
     "code": "BDI",
     "region": "africa",
     "capital": "Gitega (Bujumbura)",
-    "population": 12889576,
+    "path": "regions/africa/burundi",
     "gdp_usd_b": 3.8,
+    "population": 12889576,
     "shadow_economy_pct": 50.0,
-    "path": "regions/africa/burundi"
+    "press_score": 42.0,
+    "official_leader": "Évariste Ndayishimiye"
   },
   {
     "slug": "cabo_verde",
@@ -1589,10 +1877,12 @@
     "code": "CPV",
     "region": "africa",
     "capital": "Praia",
-    "population": 593149,
+    "path": "regions/africa/cabo_verde",
     "gdp_usd_b": 2.6,
+    "population": 593149,
     "shadow_economy_pct": 15.0,
-    "path": "regions/africa/cabo_verde"
+    "press_score": 79.0,
+    "official_leader": "José Maria Neves"
   },
   {
     "slug": "cameroon",
@@ -1600,10 +1890,12 @@
     "code": "CMR",
     "region": "africa",
     "capital": "Yaounde",
-    "population": 27914536,
+    "path": "regions/africa/cameroon",
     "gdp_usd_b": 49.0,
+    "population": 27914536,
     "shadow_economy_pct": 38.0,
-    "path": "regions/africa/cameroon"
+    "press_score": 42.0,
+    "official_leader": "Paul Biya"
   },
   {
     "slug": "central_african_republic",
@@ -1611,10 +1903,12 @@
     "code": "CAF",
     "region": "africa",
     "capital": "Bangui",
-    "population": 5579144,
+    "path": "regions/africa/central_african_republic",
     "gdp_usd_b": 2.7,
+    "population": 5579144,
     "shadow_economy_pct": 65.0,
-    "path": "regions/africa/central_african_republic"
+    "press_score": 45.0,
+    "official_leader": "Faustin-Archange Touadéra"
   },
   {
     "slug": "chad",
@@ -1622,10 +1916,12 @@
     "code": "TCD",
     "region": "africa",
     "capital": "N'Djamena",
-    "population": 17723315,
+    "path": "regions/africa/chad",
     "gdp_usd_b": 13.0,
+    "population": 17723315,
     "shadow_economy_pct": 50.0,
-    "path": "regions/africa/chad"
+    "press_score": 40.0,
+    "official_leader": "Mahamat İdriss Déby"
   },
   {
     "slug": "comoros",
@@ -1633,10 +1929,12 @@
     "code": "COM",
     "region": "africa",
     "capital": "Moroni",
-    "population": 836774,
+    "path": "regions/africa/comoros",
     "gdp_usd_b": 1.4,
+    "population": 836774,
     "shadow_economy_pct": 35.0,
-    "path": "regions/africa/comoros"
+    "press_score": 52.0,
+    "official_leader": "Azali Assoumani"
   },
   {
     "slug": "democratic_republic_of_the_congo",
@@ -1644,10 +1942,12 @@
     "code": "COD",
     "region": "africa",
     "capital": "Kinşasa",
-    "population": 99010212,
+    "path": "regions/africa/democratic_republic_of_the_congo",
     "gdp_usd_b": 67.5,
+    "population": 99010212,
     "shadow_economy_pct": 55.0,
-    "path": "regions/africa/democratic_republic_of_the_congo"
+    "press_score": 42.0,
+    "official_leader": "Félix Tshisekedi"
   },
   {
     "slug": "djibouti",
@@ -1655,10 +1955,12 @@
     "code": "DJI",
     "region": "africa",
     "capital": "Cibuti",
-    "population": 1120849,
+    "path": "regions/africa/djibouti",
     "gdp_usd_b": 4.1,
+    "population": 1120849,
     "shadow_economy_pct": 30.0,
-    "path": "regions/africa/djibouti"
+    "press_score": 35.0,
+    "official_leader": "İsmail Ömer Guelleh"
   },
   {
     "slug": "equatorial_guinea",
@@ -1666,10 +1968,12 @@
     "code": "GNQ",
     "region": "africa",
     "capital": "Malabo",
-    "population": 1674908,
+    "path": "regions/africa/equatorial_guinea",
     "gdp_usd_b": 12.0,
+    "population": 1674908,
     "shadow_economy_pct": 45.0,
-    "path": "regions/africa/equatorial_guinea"
+    "press_score": 18.0,
+    "official_leader": "Teodoro Obiang Nguema Mbasogo"
   },
   {
     "slug": "eritrea",
@@ -1677,10 +1981,12 @@
     "code": "ERI",
     "region": "africa",
     "capital": "Asmara",
-    "population": 3684032,
+    "path": "regions/africa/eritrea",
     "gdp_usd_b": 2.6,
+    "population": 3684032,
     "shadow_economy_pct": 60.0,
-    "path": "regions/africa/eritrea"
+    "press_score": 12.0,
+    "official_leader": "Isaias Afwerki"
   },
   {
     "slug": "eswatini",
@@ -1688,10 +1994,12 @@
     "code": "SWZ",
     "region": "africa",
     "capital": "Mbabane (Lobamba)",
-    "population": 1201670,
+    "path": "regions/africa/eswatini",
     "gdp_usd_b": 4.8,
+    "population": 1201670,
     "shadow_economy_pct": 30.0,
-    "path": "regions/africa/eswatini"
+    "press_score": 40.0,
+    "official_leader": "Kral III. Mswati"
   },
   {
     "slug": "ethiopia",
@@ -1699,10 +2007,12 @@
     "code": "ETH",
     "region": "africa",
     "capital": "Addis Ababa",
-    "population": 123379924,
+    "path": "regions/africa/ethiopia",
     "gdp_usd_b": 163.0,
+    "population": 123379924,
     "shadow_economy_pct": 35.0,
-    "path": "regions/africa/ethiopia"
+    "press_score": 45.0,
+    "official_leader": "Abiy Ahmed"
   },
   {
     "slug": "gabon",
@@ -1710,10 +2020,12 @@
     "code": "GAB",
     "region": "africa",
     "capital": "Libreville",
-    "population": 2388992,
+    "path": "regions/africa/gabon",
     "gdp_usd_b": 21.0,
+    "population": 2388992,
     "shadow_economy_pct": 30.0,
-    "path": "regions/africa/gabon"
+    "press_score": 55.0,
+    "official_leader": "Brice Clotaire Oligui Nguema"
   },
   {
     "slug": "gambia",
@@ -1721,10 +2033,12 @@
     "code": "GMB",
     "region": "africa",
     "capital": "Banjul",
-    "population": 2705992,
+    "path": "regions/africa/gambia",
     "gdp_usd_b": 2.3,
+    "population": 2705992,
     "shadow_economy_pct": 35.0,
-    "path": "regions/africa/gambia"
+    "press_score": 65.0,
+    "official_leader": "Adama Barrow"
   },
   {
     "slug": "ghana",
@@ -1732,10 +2046,12 @@
     "code": "GHA",
     "region": "africa",
     "capital": "Accra",
-    "population": 33475870,
+    "path": "regions/africa/ghana",
     "gdp_usd_b": 76.0,
+    "population": 33475870,
     "shadow_economy_pct": 35.0,
-    "path": "regions/africa/ghana"
+    "press_score": 66.0,
+    "official_leader": "Nana Akufo-Addo"
   },
   {
     "slug": "guinea",
@@ -1743,10 +2059,12 @@
     "code": "GIN",
     "region": "africa",
     "capital": "Konakri",
-    "population": 13859341,
+    "path": "regions/africa/guinea",
     "gdp_usd_b": 23.0,
+    "population": 13859341,
     "shadow_economy_pct": 40.0,
-    "path": "regions/africa/guinea"
+    "press_score": 48.0,
+    "official_leader": "Mamady Doumbouya"
   },
   {
     "slug": "guinea_bissau",
@@ -1754,10 +2072,12 @@
     "code": "GNB",
     "region": "africa",
     "capital": "Bissau",
-    "population": 2105566,
+    "path": "regions/africa/guinea_bissau",
     "gdp_usd_b": 2.0,
+    "population": 2105566,
     "shadow_economy_pct": 45.0,
-    "path": "regions/africa/guinea_bissau"
+    "press_score": 58.0,
+    "official_leader": "Umaro Sissoco Embaló"
   },
   {
     "slug": "ivory_coast",
@@ -1765,10 +2085,12 @@
     "code": "CIV",
     "region": "africa",
     "capital": "Yamoussoukro (Abidjan)",
-    "population": 29389150,
+    "path": "regions/africa/ivory_coast",
     "gdp_usd_b": 86.0,
+    "population": 29389150,
     "shadow_economy_pct": 35.0,
-    "path": "regions/africa/ivory_coast"
+    "press_score": 69.0,
+    "official_leader": "Alassane Ouattara"
   },
   {
     "slug": "kenya",
@@ -1776,10 +2098,12 @@
     "code": "KEN",
     "region": "africa",
     "capital": "Nairobi",
-    "population": 54027487,
+    "path": "regions/africa/kenya",
     "gdp_usd_b": 115.0,
+    "population": 54027487,
     "shadow_economy_pct": 33.0,
-    "path": "regions/africa/kenya"
+    "press_score": 52.0,
+    "official_leader": "William Ruto"
   },
   {
     "slug": "lesotho",
@@ -1787,10 +2111,12 @@
     "code": "LSO",
     "region": "africa",
     "capital": "Maseru",
-    "population": 2306000,
+    "path": "regions/africa/lesotho",
     "gdp_usd_b": 2.6,
+    "population": 2306000,
     "shadow_economy_pct": 30.0,
-    "path": "regions/africa/lesotho"
+    "press_score": 65.0,
+    "official_leader": "Kral III. Letsie / Sam Matekane"
   },
   {
     "slug": "liberia",
@@ -1798,10 +2124,12 @@
     "code": "LBR",
     "region": "africa",
     "capital": "Monrovia",
-    "population": 5302681,
+    "path": "regions/africa/liberia",
     "gdp_usd_b": 4.3,
+    "population": 5302681,
     "shadow_economy_pct": 45.0,
-    "path": "regions/africa/liberia"
+    "press_score": 64.0,
+    "official_leader": "Joseph Boakai"
   },
   {
     "slug": "libya",
@@ -1809,10 +2137,12 @@
     "code": "LBY",
     "region": "africa",
     "capital": "Trablus",
-    "population": 6812341,
+    "path": "regions/africa/libya",
     "gdp_usd_b": 45.0,
+    "population": 6812341,
     "shadow_economy_pct": 50.0,
-    "path": "regions/africa/libya"
+    "press_score": 40.0,
+    "official_leader": "Abdülhamid Dibeybe (Trablus) / Usame Hammad & Hafter (Bingazi)"
   },
   {
     "slug": "madagascar",
@@ -1820,10 +2150,12 @@
     "code": "MDG",
     "region": "africa",
     "capital": "Antananarivo",
-    "population": 29611714,
+    "path": "regions/africa/madagascar",
     "gdp_usd_b": 16.0,
+    "population": 29611714,
     "shadow_economy_pct": 40.0,
-    "path": "regions/africa/madagascar"
+    "press_score": 62.0,
+    "official_leader": "Andry Rajoelina"
   },
   {
     "slug": "malawi",
@@ -1831,10 +2163,12 @@
     "code": "MWI",
     "region": "africa",
     "capital": "Lilongwe",
-    "population": 20405317,
+    "path": "regions/africa/malawi",
     "gdp_usd_b": 13.0,
+    "population": 20405317,
     "shadow_economy_pct": 42.0,
-    "path": "regions/africa/malawi"
+    "press_score": 60.0,
+    "official_leader": "Lazarus Chakwera"
   },
   {
     "slug": "mali",
@@ -1842,10 +2176,12 @@
     "code": "MLI",
     "region": "africa",
     "capital": "Bamako",
-    "population": 22593590,
+    "path": "regions/africa/mali",
     "gdp_usd_b": 21.0,
+    "population": 22593590,
     "shadow_economy_pct": 45.0,
-    "path": "regions/africa/mali"
+    "press_score": 44.0,
+    "official_leader": "Assimi Goïta"
   },
   {
     "slug": "mauritania",
@@ -1853,10 +2189,12 @@
     "code": "MRT",
     "region": "africa",
     "capital": "Nuakşot",
-    "population": 4614974,
+    "path": "regions/africa/mauritania",
     "gdp_usd_b": 10.5,
+    "population": 4614974,
     "shadow_economy_pct": 35.0,
-    "path": "regions/africa/mauritania"
+    "press_score": 64.0,
+    "official_leader": "Muhammed Veled Gazvani"
   },
   {
     "slug": "mauritius",
@@ -1864,10 +2202,12 @@
     "code": "MUS",
     "region": "africa",
     "capital": "Port Louis",
-    "population": 1262524,
+    "path": "regions/africa/mauritius",
     "gdp_usd_b": 14.5,
+    "population": 1262524,
     "shadow_economy_pct": 15.0,
-    "path": "regions/africa/mauritius"
+    "press_score": 74.0,
+    "official_leader": "Navin Ramgoolam"
   },
   {
     "slug": "morocco",
@@ -1875,10 +2215,12 @@
     "code": "MAR",
     "region": "africa",
     "capital": "Rabat",
-    "population": 37457971,
+    "path": "regions/africa/morocco",
     "gdp_usd_b": 147.0,
+    "population": 37457971,
     "shadow_economy_pct": 27.0,
-    "path": "regions/africa/morocco"
+    "press_score": 52.0,
+    "official_leader": "Kral VI. Muhammed / Aziz Ahannuş (Başbakan)"
   },
   {
     "slug": "mozambique",
@@ -1886,10 +2228,12 @@
     "code": "MOZ",
     "region": "africa",
     "capital": "Maputo",
-    "population": 32969518,
+    "path": "regions/africa/mozambique",
     "gdp_usd_b": 20.6,
+    "population": 32969518,
     "shadow_economy_pct": 42.0,
-    "path": "regions/africa/mozambique"
+    "press_score": 56.0,
+    "official_leader": "Daniel Chapo"
   },
   {
     "slug": "namibia",
@@ -1897,10 +2241,12 @@
     "code": "NAM",
     "region": "africa",
     "capital": "Windhoek",
-    "population": 2567012,
+    "path": "regions/africa/namibia",
     "gdp_usd_b": 12.6,
+    "population": 2567012,
     "shadow_economy_pct": 22.0,
-    "path": "regions/africa/namibia"
+    "press_score": 81.0,
+    "official_leader": "Nangolo Mbumba"
   },
   {
     "slug": "niger",
@@ -1908,10 +2254,12 @@
     "code": "NER",
     "region": "africa",
     "capital": "Niamey",
-    "population": 26207977,
+    "path": "regions/africa/niger",
     "gdp_usd_b": 16.6,
+    "population": 26207977,
     "shadow_economy_pct": 48.0,
-    "path": "regions/africa/niger"
+    "press_score": 55.0,
+    "official_leader": "Abdourahamane Tchiani"
   },
   {
     "slug": "republic_of_the_congo",
@@ -1919,10 +2267,12 @@
     "code": "COG",
     "region": "africa",
     "capital": "Brazzaville",
-    "population": 5970000,
+    "path": "regions/africa/republic_of_the_congo",
     "gdp_usd_b": 15.0,
+    "population": 5970000,
     "shadow_economy_pct": 45.0,
-    "path": "regions/africa/republic_of_the_congo"
+    "press_score": 50.0,
+    "official_leader": "Denis Sassou Nguesso"
   },
   {
     "slug": "rwanda",
@@ -1930,10 +2280,12 @@
     "code": "RWA",
     "region": "africa",
     "capital": "Kigali",
-    "population": 13776698,
+    "path": "regions/africa/rwanda",
     "gdp_usd_b": 14.1,
+    "population": 13776698,
     "shadow_economy_pct": 28.0,
-    "path": "regions/africa/rwanda"
+    "press_score": 40.0,
+    "official_leader": "Paul Kagame"
   },
   {
     "slug": "sao_tome_and_principe",
@@ -1941,10 +2293,12 @@
     "code": "STP",
     "region": "africa",
     "capital": "Sao Tome",
-    "population": 227380,
+    "path": "regions/africa/sao_tome_and_principe",
     "gdp_usd_b": 0.6,
+    "population": 227380,
     "shadow_economy_pct": 30.0,
-    "path": "regions/africa/sao_tome_and_principe"
+    "press_score": 75.0,
+    "official_leader": "Patrice Trovoada"
   },
   {
     "slug": "senegal",
@@ -1952,10 +2306,12 @@
     "code": "SEN",
     "region": "africa",
     "capital": "Dakar",
-    "population": 17316449,
+    "path": "regions/africa/senegal",
     "gdp_usd_b": 31.0,
+    "population": 17316449,
     "shadow_economy_pct": 30.0,
-    "path": "regions/africa/senegal"
+    "press_score": 62.0,
+    "official_leader": "Bassirou Diomaye Faye / Ousmane Sonko (Başbakan)"
   },
   {
     "slug": "seychelles",
@@ -1963,10 +2319,12 @@
     "code": "SYC",
     "region": "africa",
     "capital": "Victoria",
-    "population": 107660,
+    "path": "regions/africa/seychelles",
     "gdp_usd_b": 2.1,
+    "population": 107660,
     "shadow_economy_pct": 12.0,
-    "path": "regions/africa/seychelles"
+    "press_score": 77.0,
+    "official_leader": "Wavel Ramkalawan"
   },
   {
     "slug": "sierra_leone",
@@ -1974,10 +2332,12 @@
     "code": "SLE",
     "region": "africa",
     "capital": "Freetown",
-    "population": 8605718,
+    "path": "regions/africa/sierra_leone",
     "gdp_usd_b": 4.2,
+    "population": 8605718,
     "shadow_economy_pct": 45.0,
-    "path": "regions/africa/sierra_leone"
+    "press_score": 62.0,
+    "official_leader": "Julius Maada Bio"
   },
   {
     "slug": "somalia",
@@ -1985,10 +2345,12 @@
     "code": "SOM",
     "region": "africa",
     "capital": "Mogadişu",
-    "population": 17597511,
+    "path": "regions/africa/somalia",
     "gdp_usd_b": 11.6,
+    "population": 17597511,
     "shadow_economy_pct": 70.0,
-    "path": "regions/africa/somalia"
+    "press_score": 28.0,
+    "official_leader": "Hasan Şeyh Mahmud"
   },
   {
     "slug": "somaliland",
@@ -1996,10 +2358,12 @@
     "code": "SOMX",
     "region": "africa",
     "capital": "Hargeisa",
-    "population": 5700000,
+    "path": "regions/africa/somaliland",
     "gdp_usd_b": 3.4,
+    "population": 5700000,
     "shadow_economy_pct": 55.0,
-    "path": "regions/africa/somaliland"
+    "press_score": 45.0,
+    "official_leader": "Muse Bihi Abdi"
   },
   {
     "slug": "south_sudan",
@@ -2007,10 +2371,12 @@
     "code": "SSD",
     "region": "africa",
     "capital": "Juba",
-    "population": 10913164,
+    "path": "regions/africa/south_sudan",
     "gdp_usd_b": 6.5,
+    "population": 10913164,
     "shadow_economy_pct": 65.0,
-    "path": "regions/africa/south_sudan"
+    "press_score": 25.0,
+    "official_leader": "Salva Kiir Mayardit"
   },
   {
     "slug": "sudan",
@@ -2018,10 +2384,12 @@
     "code": "SDN",
     "region": "africa",
     "capital": "Hartum (Port Sudan)",
-    "population": 46874204,
+    "path": "regions/africa/sudan",
     "gdp_usd_b": 30.0,
+    "population": 46874204,
     "shadow_economy_pct": 65.0,
-    "path": "regions/africa/sudan"
+    "press_score": 22.0,
+    "official_leader": "Abdulfettah el-Burhan (SAF) / Hemedti (RSF)"
   },
   {
     "slug": "tanzania",
@@ -2029,10 +2397,12 @@
     "code": "TZA",
     "region": "africa",
     "capital": "Dodoma (Darüsselam)",
-    "population": 65497748,
+    "path": "regions/africa/tanzania",
     "gdp_usd_b": 79.1,
+    "population": 65497748,
     "shadow_economy_pct": 30.0,
-    "path": "regions/africa/tanzania"
+    "press_score": 56.0,
+    "official_leader": "Samia Suluhu Hassan"
   },
   {
     "slug": "togo",
@@ -2040,10 +2410,12 @@
     "code": "TGO",
     "region": "africa",
     "capital": "Lome",
-    "population": 8848699,
+    "path": "regions/africa/togo",
     "gdp_usd_b": 9.1,
+    "population": 8848699,
     "shadow_economy_pct": 38.0,
-    "path": "regions/africa/togo"
+    "press_score": 55.0,
+    "official_leader": "Faure Gnassingbé"
   },
   {
     "slug": "tunisia",
@@ -2051,10 +2423,12 @@
     "code": "TUN",
     "region": "africa",
     "capital": "Tunus",
-    "population": 12356117,
+    "path": "regions/africa/tunisia",
     "gdp_usd_b": 51.2,
+    "population": 12356117,
     "shadow_economy_pct": 35.0,
-    "path": "regions/africa/tunisia"
+    "press_score": 48.0,
+    "official_leader": "Kais Saied"
   },
   {
     "slug": "uganda",
@@ -2062,10 +2436,12 @@
     "code": "UGA",
     "region": "africa",
     "capital": "Kampala",
-    "population": 47249585,
+    "path": "regions/africa/uganda",
     "gdp_usd_b": 49.3,
+    "population": 47249585,
     "shadow_economy_pct": 35.0,
-    "path": "regions/africa/uganda"
+    "press_score": 42.0,
+    "official_leader": "Yoweri Museveni"
   },
   {
     "slug": "western_sahara",
@@ -2073,10 +2449,12 @@
     "code": "ESH",
     "region": "africa",
     "capital": "El Aaiun (Tifariti)",
-    "population": 587259,
+    "path": "regions/africa/western_sahara",
     "gdp_usd_b": 0.9,
+    "population": 587259,
     "shadow_economy_pct": 45.0,
-    "path": "regions/africa/western_sahara"
+    "press_score": 30.0,
+    "official_leader": "Brahim Ghali"
   },
   {
     "slug": "zambia",
@@ -2084,10 +2462,12 @@
     "code": "ZMB",
     "region": "africa",
     "capital": "Lusaka",
-    "population": 20017675,
+    "path": "regions/africa/zambia",
     "gdp_usd_b": 29.5,
+    "population": 20017675,
     "shadow_economy_pct": 35.0,
-    "path": "regions/africa/zambia"
+    "press_score": 60.0,
+    "official_leader": "Hakainde Hichilema"
   },
   {
     "slug": "zimbabwe",
@@ -2095,10 +2475,12 @@
     "code": "ZWE",
     "region": "africa",
     "capital": "Harare",
-    "population": 16320537,
+    "path": "regions/africa/zimbabwe",
     "gdp_usd_b": 26.5,
+    "population": 16320537,
     "shadow_economy_pct": 65.0,
-    "path": "regions/africa/zimbabwe"
+    "press_score": 38.0,
+    "official_leader": "Emmerson Mnangagwa"
   },
   {
     "slug": "australia",
@@ -2106,10 +2488,12 @@
     "code": "AUS",
     "region": "oceania",
     "capital": "Canberra",
-    "population": 26439111,
+    "path": "regions/oceania/australia",
     "gdp_usd_b": 1724.0,
+    "population": 26439111,
     "shadow_economy_pct": 9.2,
-    "path": "regions/oceania/australia"
+    "press_score": 76.5,
+    "official_leader": "Kral III. Charles / Anthony Albanese (Başbakan)"
   },
   {
     "slug": "new_zealand",
@@ -2117,10 +2501,12 @@
     "code": "NZL",
     "region": "oceania",
     "capital": "Wellington",
-    "population": 5228100,
+    "path": "regions/oceania/new_zealand",
     "gdp_usd_b": 253.0,
+    "population": 5228100,
     "shadow_economy_pct": 8.0,
-    "path": "regions/oceania/new_zealand"
+    "press_score": 84.2,
+    "official_leader": "Kral III. Charles / Christopher Luxon (Başbakan)"
   },
   {
     "slug": "fiji",
@@ -2128,10 +2514,12 @@
     "code": "FJI",
     "region": "oceania",
     "capital": "Suva",
-    "population": 929766,
+    "path": "regions/oceania/fiji",
     "gdp_usd_b": 5.5,
+    "population": 929766,
     "shadow_economy_pct": 25.0,
-    "path": "regions/oceania/fiji"
+    "press_score": 60.0,
+    "official_leader": "Sitiveni Rabuka"
   },
   {
     "slug": "kiribati",
@@ -2139,10 +2527,12 @@
     "code": "KIR",
     "region": "oceania",
     "capital": "Tarawa",
-    "population": 131232,
+    "path": "regions/oceania/kiribati",
     "gdp_usd_b": 0.28,
+    "population": 131232,
     "shadow_economy_pct": 20.0,
-    "path": "regions/oceania/kiribati"
+    "press_score": 65.0,
+    "official_leader": "Taneti Maamau"
   },
   {
     "slug": "marshall_islands",
@@ -2150,10 +2540,12 @@
     "code": "MHL",
     "region": "oceania",
     "capital": "Majuro",
-    "population": 41569,
+    "path": "regions/oceania/marshall_islands",
     "gdp_usd_b": 0.28,
+    "population": 41569,
     "shadow_economy_pct": 15.0,
-    "path": "regions/oceania/marshall_islands"
+    "press_score": 70.0,
+    "official_leader": "Hilda Heine"
   },
   {
     "slug": "micronesia",
@@ -2161,10 +2553,12 @@
     "code": "FSM",
     "region": "oceania",
     "capital": "Palikir",
-    "population": 114164,
+    "path": "regions/oceania/micronesia",
     "gdp_usd_b": 0.46,
+    "population": 114164,
     "shadow_economy_pct": 18.0,
-    "path": "regions/oceania/micronesia"
+    "press_score": 72.0,
+    "official_leader": "Wesley Simina"
   },
   {
     "slug": "nauru",
@@ -2172,10 +2566,12 @@
     "code": "NRU",
     "region": "oceania",
     "capital": "Yaren",
-    "population": 12511,
+    "path": "regions/oceania/nauru",
     "gdp_usd_b": 0.15,
+    "population": 12511,
     "shadow_economy_pct": 20.0,
-    "path": "regions/oceania/nauru"
+    "press_score": 60.0,
+    "official_leader": "David Adeang"
   },
   {
     "slug": "palau",
@@ -2183,10 +2579,12 @@
     "code": "PLW",
     "region": "oceania",
     "capital": "Ngerulmud",
-    "population": 18055,
+    "path": "regions/oceania/palau",
     "gdp_usd_b": 0.3,
+    "population": 18055,
     "shadow_economy_pct": 15.0,
-    "path": "regions/oceania/palau"
+    "press_score": 75.0,
+    "official_leader": "Surangel Whipps Jr."
   },
   {
     "slug": "papua_new_guinea",
@@ -2194,10 +2592,12 @@
     "code": "PNG",
     "region": "oceania",
     "capital": "Port Moresby",
-    "population": 10142619,
+    "path": "regions/oceania/papua_new_guinea",
     "gdp_usd_b": 31.0,
+    "population": 10142619,
     "shadow_economy_pct": 38.0,
-    "path": "regions/oceania/papua_new_guinea"
+    "press_score": 60.0,
+    "official_leader": "James Marape"
   },
   {
     "slug": "samoa",
@@ -2205,10 +2605,12 @@
     "code": "WSM",
     "region": "oceania",
     "capital": "Apia",
-    "population": 222382,
+    "path": "regions/oceania/samoa",
     "gdp_usd_b": 0.93,
+    "population": 222382,
     "shadow_economy_pct": 22.0,
-    "path": "regions/oceania/samoa"
+    "press_score": 76.0,
+    "official_leader": "Fiamē Naomi Mataʻafa"
   },
   {
     "slug": "solomon_islands",
@@ -2216,10 +2618,12 @@
     "code": "SLB",
     "region": "oceania",
     "capital": "Honiara",
-    "population": 724273,
+    "path": "regions/oceania/solomon_islands",
     "gdp_usd_b": 1.6,
+    "population": 724273,
     "shadow_economy_pct": 30.0,
-    "path": "regions/oceania/solomon_islands"
+    "press_score": 62.0,
+    "official_leader": "Jeremiah Manele"
   },
   {
     "slug": "tonga",
@@ -2227,10 +2631,12 @@
     "code": "TON",
     "region": "oceania",
     "capital": "Nukuʻalofa",
-    "population": 106858,
+    "path": "regions/oceania/tonga",
     "gdp_usd_b": 0.52,
+    "population": 106858,
     "shadow_economy_pct": 25.0,
-    "path": "regions/oceania/tonga"
+    "press_score": 68.0,
+    "official_leader": "Kral VI. Tupou / Siaosi Sovaleni"
   },
   {
     "slug": "tuvalu",
@@ -2238,10 +2644,12 @@
     "code": "TUV",
     "region": "oceania",
     "capital": "Funafuti",
-    "population": 11312,
+    "path": "regions/oceania/tuvalu",
     "gdp_usd_b": 0.06,
+    "population": 11312,
     "shadow_economy_pct": 15.0,
-    "path": "regions/oceania/tuvalu"
+    "press_score": 72.0,
+    "official_leader": "Feleti Teo"
   },
   {
     "slug": "vanuatu",
@@ -2249,9 +2657,11 @@
     "code": "VUT",
     "region": "oceania",
     "capital": "Port Vila",
-    "population": 326740,
+    "path": "regions/oceania/vanuatu",
     "gdp_usd_b": 1.1,
+    "population": 326740,
     "shadow_economy_pct": 28.0,
-    "path": "regions/oceania/vanuatu"
+    "press_score": 65.0,
+    "official_leader": "Charlot Salwai"
   }
 ]

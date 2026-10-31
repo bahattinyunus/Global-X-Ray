@@ -1,206 +1,206 @@
-country_code,country_name,region,shadow_economy_pct_gdp,corruption_rank_ti_2024,rule_of_law_score,data_source
-TUR,Türkiye,middle_east,28.4,115,0.34,IMF / Schneider Studies / Transparency International
-IRN,İran,middle_east,36.5,149,0.24,IMF / Schneider Studies / Transparency International
-SAU,Suudi Arabistan,middle_east,16.2,52,0.52,IMF / Schneider Studies / Transparency International
-ISR,İsrail,middle_east,18.5,33,0.62,IMF / Schneider Studies / Transparency International
-ARE,Birleşik Arap Emirlikleri,middle_east,18.0,26,0.67,IMF / Schneider Studies / Transparency International
-IRQ,Irak,middle_east,38.0,154,0.23,IMF / Schneider Studies / Transparency International
-SYR,Suriye,middle_east,65.0,177,0.13,IMF / Schneider Studies / Transparency International
-QAT,Katar,middle_east,12.5,40,0.58,IMF / Schneider Studies / Transparency International
-LBN,Lübnan,middle_east,45.0,149,0.24,IMF / Schneider Studies / Transparency International
-JOR,Ürdün,middle_east,26.0,63,0.46,IMF / Schneider Studies / Transparency International
-KWT,Kuveyt,middle_east,14.2,63,0.46,IMF / Schneider Studies / Transparency International
-OMN,Umman,middle_east,17.5,58,0.49,IMF / Schneider Studies / Transparency International
-BHR,Bahreyn,middle_east,19.0,69,0.44,IMF / Schneider Studies / Transparency International
-YEM,Yemen,middle_east,60.0,176,0.16,IMF / Schneider Studies / Transparency International
-PSE,Filistin,middle_east,38.0,130,0.3,IMF / Schneider Studies / Transparency International
-TRNC,Kuzey Kıbrıs,middle_east,42.0,105,0.35,IMF / Schneider Studies / Transparency International
-DEU,Almanya,europe,9.8,9,0.78,IMF / Schneider Studies / Transparency International
-GBR,Birleşik Krallık,europe,11.2,20,0.71,IMF / Schneider Studies / Transparency International
-FRA,Fransa,europe,13.8,21,0.71,IMF / Schneider Studies / Transparency International
-RUS,Rusya,europe,38.2,141,0.26,IMF / Schneider Studies / Transparency International
-UKR,Ukrayna,europe,32.6,104,0.36,IMF / Schneider Studies / Transparency International
-ITA,İtalya,europe,20.5,42,0.56,IMF / Schneider Studies / Transparency International
-ESP,İspanya,europe,17.2,36,0.6,IMF / Schneider Studies / Transparency International
-POL,Polonya,europe,19.2,47,0.54,IMF / Schneider Studies / Transparency International
-NLD,Hollanda,europe,7.8,8,0.79,IMF / Schneider Studies / Transparency International
-CHE,İsviçre,europe,6.4,7,0.82,IMF / Schneider Studies / Transparency International
-ALB,Arnavutluk,europe,31.0,98,0.37,IMF / Schneider Studies / Transparency International
-AND,Andorra,europe,11.5,30,0.65,IMF / Schneider Studies / Transparency International
-AUT,Avusturya,europe,8.5,20,0.71,IMF / Schneider Studies / Transparency International
-BLR,Belarus,europe,31.0,98,0.37,IMF / Schneider Studies / Transparency International
-BEL,Belçika,europe,12.0,16,0.73,IMF / Schneider Studies / Transparency International
-BIH,Bosna-Hersek,europe,33.0,108,0.35,IMF / Schneider Studies / Transparency International
-BGR,Bulgaristan,europe,22.0,67,0.45,IMF / Schneider Studies / Transparency International
-HRV,Hırvatistan,europe,18.0,57,0.5,IMF / Schneider Studies / Transparency International
-CYP,Kıbrıs Rum Kesimi,europe,24.0,49,0.53,IMF / Schneider Studies / Transparency International
-CZE,Çekya,europe,13.5,41,0.57,IMF / Schneider Studies / Transparency International
-DNK,Danimarka,europe,8.0,1,0.9,IMF / Schneider Studies / Transparency International
-EST,Estonya,europe,11.0,12,0.76,IMF / Schneider Studies / Transparency International
-FIN,Finlandiya,europe,8.5,2,0.87,IMF / Schneider Studies / Transparency International
-GRC,Yunanistan,europe,21.4,59,0.49,IMF / Schneider Studies / Transparency International
-HUN,Macaristan,europe,19.0,76,0.42,IMF / Schneider Studies / Transparency International
-ISL,İzlanda,europe,7.5,14,0.72,IMF / Schneider Studies / Transparency International
-IRL,İrlanda,europe,9.5,11,0.77,IMF / Schneider Studies / Transparency International
-XKX,Kosova,europe,30.0,83,0.41,IMF / Schneider Studies / Transparency International
-LVA,Letonya,europe,18.0,36,0.6,IMF / Schneider Studies / Transparency International
-LIE,Lihtenştayn,europe,8.0,25,0.7,IMF / Schneider Studies / Transparency International
-LTU,Litvanya,europe,17.0,34,0.61,IMF / Schneider Studies / Transparency International
-LUX,Lüksemburg,europe,7.0,9,0.78,IMF / Schneider Studies / Transparency International
-MLT,Malta,europe,22.0,55,0.51,IMF / Schneider Studies / Transparency International
-MDA,Moldova,europe,28.0,76,0.42,IMF / Schneider Studies / Transparency International
-MCO,Monako,europe,10.0,25,0.7,IMF / Schneider Studies / Transparency International
-MNE,Karadağ,europe,26.0,63,0.46,IMF / Schneider Studies / Transparency International
-MKD,Kuzey Makedonya,europe,28.0,76,0.42,IMF / Schneider Studies / Transparency International
-NOR,Norveç,europe,8.2,4,0.84,IMF / Schneider Studies / Transparency International
-PRT,Portekiz,europe,16.0,34,0.61,IMF / Schneider Studies / Transparency International
-ROU,Romanya,europe,26.0,63,0.46,IMF / Schneider Studies / Transparency International
-SMR,San Marino,europe,12.0,35,0.6,IMF / Schneider Studies / Transparency International
-SRB,Sırbistan,europe,27.0,104,0.36,IMF / Schneider Studies / Transparency International
-SVK,Slovakya,europe,15.0,47,0.54,IMF / Schneider Studies / Transparency International
-SVN,Slovenya,europe,11.0,35,0.6,IMF / Schneider Studies / Transparency International
-SWE,İsveç,europe,7.8,6,0.82,IMF / Schneider Studies / Transparency International
-PMR,Transdinyester,europe,55.0,160,0.2,IMF / Schneider Studies / Transparency International
-VAT,Vatikan,europe,15.0,40,0.6,IMF / Schneider Studies / Transparency International
-CHN,Çin,asia,12.7,76,0.42,IMF / Schneider Studies / Transparency International
-IND,Hindistan,asia,22.4,93,0.39,IMF / Schneider Studies / Transparency International
-JPN,Japonya,asia,9.1,16,0.73,IMF / Schneider Studies / Transparency International
-KOR,Güney Kore,asia,21.3,32,0.63,IMF / Schneider Studies / Transparency International
-TWN,Tayvan,asia,18.0,28,0.67,IMF / Schneider Studies / Transparency International
-PAK,Pakistan,asia,35.6,133,0.29,IMF / Schneider Studies / Transparency International
-AFG,Afganistan,asia,50.0,162,0.2,IMF / Schneider Studies / Transparency International
-ARM,Ermenistan,asia,28.0,62,0.47,IMF / Schneider Studies / Transparency International
-AZE,Azerbaycan,asia,38.0,154,0.23,IMF / Schneider Studies / Transparency International
-BGD,Bangladeş,asia,32.0,149,0.24,IMF / Schneider Studies / Transparency International
-BTN,Bhutan,asia,15.0,26,0.68,IMF / Schneider Studies / Transparency International
-BRN,Brunei,asia,12.0,35,0.6,IMF / Schneider Studies / Transparency International
-KHM,Kamboçya,asia,40.0,158,0.22,IMF / Schneider Studies / Transparency International
-GEO,Gürcistan,asia,22.0,49,0.53,IMF / Schneider Studies / Transparency International
-HKG,Hong Kong,asia,14.0,14,0.75,IMF / Schneider Studies / Transparency International
-IDN,Endonezya,asia,20.8,115,0.34,IMF / Schneider Studies / Transparency International
-KAZ,Kazakistan,asia,28.5,93,0.39,IMF / Schneider Studies / Transparency International
-KGZ,Kırgızistan,asia,30.0,126,0.31,IMF / Schneider Studies / Transparency International
-LAO,Laos,asia,35.0,136,0.28,IMF / Schneider Studies / Transparency International
-MAC,Makao,asia,15.0,30,0.65,IMF / Schneider Studies / Transparency International
-MYS,Malezya,asia,18.0,57,0.5,IMF / Schneider Studies / Transparency International
-MDV,Maldivler,asia,22.0,93,0.39,IMF / Schneider Studies / Transparency International
-MNG,Moğolistan,asia,28.0,121,0.33,IMF / Schneider Studies / Transparency International
-MMR,Myanmar,asia,50.0,162,0.2,IMF / Schneider Studies / Transparency International
-NPL,Nepal,asia,34.0,108,0.35,IMF / Schneider Studies / Transparency International
-PRK,Kuzey Kore,asia,65.0,178,0.12,IMF / Schneider Studies / Transparency International
-PHL,Filipinler,asia,28.0,115,0.34,IMF / Schneider Studies / Transparency International
-SGP,Singapur,asia,8.0,5,0.83,IMF / Schneider Studies / Transparency International
-LKA,Sri Lanka,asia,32.0,115,0.34,IMF / Schneider Studies / Transparency International
-TJK,Tacikistan,asia,35.0,162,0.2,IMF / Schneider Studies / Transparency International
-THA,Tayland,asia,42.0,108,0.35,IMF / Schneider Studies / Transparency International
-TLS,Doğu Timor,asia,30.0,70,0.43,IMF / Schneider Studies / Transparency International
-TKM,Türkmenistan,asia,45.0,170,0.18,IMF / Schneider Studies / Transparency International
-UZB,Özbekistan,asia,33.0,121,0.33,IMF / Schneider Studies / Transparency International
-VNM,Vietnam,asia,25.0,83,0.41,IMF / Schneider Studies / Transparency International
-USA,Amerika Birleşik Devletleri,americas,8.5,24,0.69,IMF / Schneider Studies / Transparency International
-BRA,Brezilya,americas,33.5,104,0.36,IMF / Schneider Studies / Transparency International
-MEX,Meksika,americas,29.8,126,0.31,IMF / Schneider Studies / Transparency International
-CAN,Kanada,americas,10.5,12,0.76,IMF / Schneider Studies / Transparency International
-ARG,Arjantin,americas,27.2,98,0.37,IMF / Schneider Studies / Transparency International
-ATG,Antigua ve Barbuda,americas,15.0,35,0.6,IMF / Schneider Studies / Transparency International
-BHS,Bahamalar,americas,12.0,30,0.64,IMF / Schneider Studies / Transparency International
-BRB,Barbados,americas,14.0,29,0.69,IMF / Schneider Studies / Transparency International
-BLZ,Belize,americas,25.0,80,0.4,IMF / Schneider Studies / Transparency International
-BOL,Bolivya,americas,55.0,133,0.29,IMF / Schneider Studies / Transparency International
-CHL,Şili,americas,18.0,29,0.66,IMF / Schneider Studies / Transparency International
-COL,Kolombiya,americas,33.0,87,0.4,IMF / Schneider Studies / Transparency International
-CRI,Kosta Rika,americas,15.0,45,0.55,IMF / Schneider Studies / Transparency International
-CUB,Küba,americas,45.0,65,0.42,IMF / Schneider Studies / Transparency International
-DMA,Dominika,americas,20.0,40,0.55,IMF / Schneider Studies / Transparency International
-DOM,Dominik Cumhuriyeti,americas,30.0,108,0.35,IMF / Schneider Studies / Transparency International
-ECU,Ekvador,americas,35.0,115,0.34,IMF / Schneider Studies / Transparency International
-SLV,El Salvador,americas,28.0,126,0.31,IMF / Schneider Studies / Transparency International
-GRL,Grönland,americas,10.0,15,0.75,IMF / Schneider Studies / Transparency International
-GRD,Grenada,americas,22.0,45,0.53,IMF / Schneider Studies / Transparency International
-GTM,Guatemala,americas,40.0,154,0.23,IMF / Schneider Studies / Transparency International
-GUY,Guyana,americas,30.0,87,0.4,IMF / Schneider Studies / Transparency International
-HTI,Haiti,americas,70.0,172,0.17,IMF / Schneider Studies / Transparency International
-HND,Honduras,americas,35.0,154,0.23,IMF / Schneider Studies / Transparency International
-JAM,Jamaika,americas,25.0,69,0.44,IMF / Schneider Studies / Transparency International
-NIC,Nikaragua,americas,42.0,172,0.17,IMF / Schneider Studies / Transparency International
-PAN,Panama,americas,25.0,108,0.35,IMF / Schneider Studies / Transparency International
-PRY,Paraguay,americas,38.0,136,0.28,IMF / Schneider Studies / Transparency International
-PER,Peru,americas,45.0,121,0.33,IMF / Schneider Studies / Transparency International
-PRI,Porto Riko,americas,18.0,35,0.6,IMF / Schneider Studies / Transparency International
-KNA,Saint Kitts ve Nevis,americas,15.0,32,0.62,IMF / Schneider Studies / Transparency International
-LCA,Saint Lucia,americas,18.0,42,0.55,IMF / Schneider Studies / Transparency International
-VCT,Saint Vincent ve Grenadinler,americas,20.0,38,0.58,IMF / Schneider Studies / Transparency International
-SUR,Surinam,americas,35.0,87,0.4,IMF / Schneider Studies / Transparency International
-TTO,Trinidad ve Tobago,americas,18.0,76,0.42,IMF / Schneider Studies / Transparency International
-URY,Uruguay,americas,12.0,16,0.73,IMF / Schneider Studies / Transparency International
-VEN,Venezuela,americas,60.0,177,0.13,IMF / Schneider Studies / Transparency International
-EGY,Mısır,africa,34.8,108,0.35,IMF / Schneider Studies / Transparency International
-NGA,Nijerya,africa,52.4,145,0.25,IMF / Schneider Studies / Transparency International
-ZAF,Güney Afrika,africa,24.1,83,0.41,IMF / Schneider Studies / Transparency International
-DZA,Cezayir,africa,32.0,104,0.36,IMF / Schneider Studies / Transparency International
-AGO,Angola,africa,38.0,121,0.33,IMF / Schneider Studies / Transparency International
-BEN,Benin,africa,40.0,70,0.43,IMF / Schneider Studies / Transparency International
-BWA,Botsvana,africa,18.0,39,0.59,IMF / Schneider Studies / Transparency International
-BFA,Burkina Faso,africa,45.0,83,0.41,IMF / Schneider Studies / Transparency International
-BDI,Burundi,africa,50.0,162,0.2,IMF / Schneider Studies / Transparency International
-CPV,Yeşil Burun Adaları,africa,15.0,30,0.64,IMF / Schneider Studies / Transparency International
-CMR,Kamerun,africa,38.0,140,0.26,IMF / Schneider Studies / Transparency International
-CAF,Orta Afrika Cumhuriyeti,africa,65.0,149,0.24,IMF / Schneider Studies / Transparency International
-TCD,Çad,africa,50.0,162,0.2,IMF / Schneider Studies / Transparency International
-COM,Komorlar,africa,35.0,162,0.2,IMF / Schneider Studies / Transparency International
-COD,Demokratik Kongo Cumhuriyeti,africa,55.0,162,0.2,IMF / Schneider Studies / Transparency International
-DJI,Cibuti,africa,30.0,130,0.3,IMF / Schneider Studies / Transparency International
-GNQ,Ekvator Ginesi,africa,45.0,172,0.17,IMF / Schneider Studies / Transparency International
-ERI,Eritre,africa,60.0,162,0.2,IMF / Schneider Studies / Transparency International
-SWZ,Esvatini,africa,30.0,130,0.3,IMF / Schneider Studies / Transparency International
-ETH,Etiyopya,africa,35.0,98,0.37,IMF / Schneider Studies / Transparency International
-GAB,Gabon,africa,30.0,136,0.28,IMF / Schneider Studies / Transparency International
-GMB,Gambiya,africa,35.0,98,0.37,IMF / Schneider Studies / Transparency International
-GHA,Gana,africa,35.0,70,0.43,IMF / Schneider Studies / Transparency International
-GIN,Gine,africa,40.0,149,0.24,IMF / Schneider Studies / Transparency International
-GNB,Gine-Bissau,africa,45.0,158,0.22,IMF / Schneider Studies / Transparency International
-CIV,Fildişi Sahili,africa,35.0,87,0.4,IMF / Schneider Studies / Transparency International
-KEN,Kenya,africa,33.0,126,0.31,IMF / Schneider Studies / Transparency International
-LSO,Lesoto,africa,30.0,98,0.37,IMF / Schneider Studies / Transparency International
-LBR,Liberya,africa,45.0,145,0.25,IMF / Schneider Studies / Transparency International
-LBY,Libya,africa,50.0,170,0.18,IMF / Schneider Studies / Transparency International
-MDG,Madagaskar,africa,40.0,145,0.25,IMF / Schneider Studies / Transparency International
-MWI,Malavi,africa,42.0,115,0.34,IMF / Schneider Studies / Transparency International
-MLI,Mali,africa,45.0,136,0.28,IMF / Schneider Studies / Transparency International
-MRT,Moritanya,africa,35.0,130,0.3,IMF / Schneider Studies / Transparency International
-MUS,Mauritius,africa,15.0,55,0.51,IMF / Schneider Studies / Transparency International
-MAR,Fas,africa,27.0,97,0.38,IMF / Schneider Studies / Transparency International
-MOZ,Mozambik,africa,42.0,145,0.25,IMF / Schneider Studies / Transparency International
-NAM,Namibya,africa,22.0,59,0.49,IMF / Schneider Studies / Transparency International
-NER,Nijer,africa,48.0,126,0.31,IMF / Schneider Studies / Transparency International
-COG,Kongo Cumhuriyeti (Brazzaville),africa,45.0,158,0.22,IMF / Schneider Studies / Transparency International
-RWA,Ruanda,africa,28.0,54,0.53,IMF / Schneider Studies / Transparency International
-STP,Sao Tome ve Principe,africa,30.0,67,0.45,IMF / Schneider Studies / Transparency International
-SEN,Senegal,africa,30.0,70,0.43,IMF / Schneider Studies / Transparency International
-SYC,Seyşeller,africa,12.0,20,0.71,IMF / Schneider Studies / Transparency International
-SLE,Sierra Leone,africa,45.0,108,0.35,IMF / Schneider Studies / Transparency International
-SOM,Somali,africa,70.0,180,0.11,IMF / Schneider Studies / Transparency International
-SOMX,Somaliland,africa,55.0,150,0.25,IMF / Schneider Studies / Transparency International
-SSD,Güney Sudan,africa,65.0,177,0.13,IMF / Schneider Studies / Transparency International
-SDN,Sudan,africa,65.0,170,0.18,IMF / Schneider Studies / Transparency International
-TZA,Tanzanya,africa,30.0,87,0.4,IMF / Schneider Studies / Transparency International
-TGO,Togo,africa,38.0,126,0.31,IMF / Schneider Studies / Transparency International
-TUN,Tunus,africa,35.0,87,0.4,IMF / Schneider Studies / Transparency International
-UGA,Uganda,africa,35.0,141,0.26,IMF / Schneider Studies / Transparency International
-ESH,Batı Sahra,africa,45.0,140,0.25,IMF / Schneider Studies / Transparency International
-ZMB,Zambiya,africa,35.0,98,0.37,IMF / Schneider Studies / Transparency International
-ZWE,Zimbabve,africa,65.0,149,0.24,IMF / Schneider Studies / Transparency International
-AUS,Avustralya,oceania,9.2,14,0.75,IMF / Schneider Studies / Transparency International
-NZL,Yeni Zelanda,oceania,8.0,3,0.85,IMF / Schneider Studies / Transparency International
-FJI,Fiji,oceania,25.0,50,0.52,IMF / Schneider Studies / Transparency International
-KIR,Kiribati,oceania,20.0,60,0.48,IMF / Schneider Studies / Transparency International
-MHL,Marshall Adaları,oceania,15.0,40,0.55,IMF / Schneider Studies / Transparency International
-FSM,Mikronezya Federal Devletleri,oceania,18.0,50,0.5,IMF / Schneider Studies / Transparency International
-NRU,Nauru,oceania,20.0,60,0.45,IMF / Schneider Studies / Transparency International
-PLW,Palau,oceania,15.0,40,0.55,IMF / Schneider Studies / Transparency International
-PNG,Papua Yeni Gine,oceania,38.0,133,0.29,IMF / Schneider Studies / Transparency International
-WSM,Samoa,oceania,22.0,45,0.53,IMF / Schneider Studies / Transparency International
-SLB,Solomon Adaları,oceania,30.0,70,0.43,IMF / Schneider Studies / Transparency International
-TON,Tonga,oceania,25.0,60,0.48,IMF / Schneider Studies / Transparency International
-TUV,Tuvalu,oceania,15.0,50,0.5,IMF / Schneider Studies / Transparency International
-VUT,Vanuatu,oceania,28.0,60,0.48,IMF / Schneider Studies / Transparency International
+country,iso2,iso3,region,shadow_economy_pct_gdp,primary_drivers,illicit_financial_flow_risk,methodology_standard
+Türkiye,TU,TUR,middle_east,28.4,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+İran,IR,IRN,middle_east,36.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Suudi Arabistan,SA,SAU,middle_east,16.2,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+İsrail,IS,ISR,middle_east,18.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Birleşik Arap Emirlikleri,AR,ARE,middle_east,18.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Irak,IR,IRQ,middle_east,38.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Suriye,SY,SYR,middle_east,65.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Katar,QA,QAT,middle_east,12.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Lübnan,LB,LBN,middle_east,45.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Ürdün,JO,JOR,middle_east,26.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Kuveyt,KW,KWT,middle_east,14.2,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Umman,OM,OMN,middle_east,17.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Bahreyn,BH,BHR,middle_east,19.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Yemen,YE,YEM,middle_east,60.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Filistin,PS,PSE,middle_east,38.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Kuzey Kıbrıs,TR,TRNC,middle_east,42.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Almanya,DE,DEU,europe,9.8,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Birleşik Krallık,GB,GBR,europe,11.2,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Fransa,FR,FRA,europe,13.8,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Rusya,RU,RUS,europe,38.2,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Ukrayna,UK,UKR,europe,32.6,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+İtalya,IT,ITA,europe,20.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+İspanya,ES,ESP,europe,17.2,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Polonya,PO,POL,europe,19.2,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Hollanda,NL,NLD,europe,7.8,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+İsviçre,CH,CHE,europe,6.4,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Arnavutluk,AL,ALB,europe,31.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Andorra,AN,AND,europe,11.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Avusturya,AU,AUT,europe,8.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Belarus,BL,BLR,europe,31.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Belçika,BE,BEL,europe,12.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Bosna-Hersek,BI,BIH,europe,33.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Bulgaristan,BG,BGR,europe,22.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Hırvatistan,HR,HRV,europe,18.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Kıbrıs Rum Kesimi,CY,CYP,europe,24.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Çekya,CZ,CZE,europe,13.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Danimarka,DN,DNK,europe,8.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Estonya,ES,EST,europe,11.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Finlandiya,FI,FIN,europe,8.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Yunanistan,GR,GRC,europe,21.4,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Macaristan,HU,HUN,europe,19.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+İzlanda,IS,ISL,europe,7.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+İrlanda,IR,IRL,europe,9.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Kosova,XK,XKX,europe,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Letonya,LV,LVA,europe,18.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Lihtenştayn,LI,LIE,europe,8.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Litvanya,LT,LTU,europe,17.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Lüksemburg,LU,LUX,europe,7.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Malta,ML,MLT,europe,22.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Moldova,MD,MDA,europe,28.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Monako,MC,MCO,europe,10.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Karadağ,MN,MNE,europe,26.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Kuzey Makedonya,MK,MKD,europe,28.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Norveç,NO,NOR,europe,8.2,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Portekiz,PR,PRT,europe,16.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Romanya,RO,ROU,europe,26.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+San Marino,SM,SMR,europe,12.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Sırbistan,SR,SRB,europe,27.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Slovakya,SV,SVK,europe,15.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Slovenya,SV,SVN,europe,11.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+İsveç,SW,SWE,europe,7.8,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Transdinyester,PM,PMR,europe,55.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Vatikan,VA,VAT,europe,15.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Çin,CH,CHN,asia,12.7,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Hindistan,IN,IND,asia,22.4,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Japonya,JP,JPN,asia,9.1,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Güney Kore,KO,KOR,asia,21.3,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Tayvan,TW,TWN,asia,18.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Pakistan,PA,PAK,asia,35.6,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Afganistan,AF,AFG,asia,50.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Ermenistan,AR,ARM,asia,28.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Azerbaycan,AZ,AZE,asia,38.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Bangladeş,BG,BGD,asia,32.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Bhutan,BT,BTN,asia,15.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Brunei,BR,BRN,asia,12.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Kamboçya,KH,KHM,asia,40.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Gürcistan,GE,GEO,asia,22.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Hong Kong,HK,HKG,asia,14.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Endonezya,ID,IDN,asia,20.8,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Kazakistan,KA,KAZ,asia,28.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Kırgızistan,KG,KGZ,asia,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Laos,LA,LAO,asia,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Makao,MA,MAC,asia,15.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Malezya,MY,MYS,asia,18.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Maldivler,MD,MDV,asia,22.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Moğolistan,MN,MNG,asia,28.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Myanmar,MM,MMR,asia,50.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Nepal,NP,NPL,asia,34.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Kuzey Kore,PR,PRK,asia,65.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Filipinler,PH,PHL,asia,28.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Singapur,SG,SGP,asia,8.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Sri Lanka,LK,LKA,asia,32.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Tacikistan,TJ,TJK,asia,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Tayland,TH,THA,asia,42.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Doğu Timor,TL,TLS,asia,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Türkmenistan,TK,TKM,asia,45.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Özbekistan,UZ,UZB,asia,33.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Vietnam,VN,VNM,asia,25.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Amerika Birleşik Devletleri,US,USA,americas,8.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Brezilya,BR,BRA,americas,33.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Meksika,ME,MEX,americas,29.8,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Kanada,CA,CAN,americas,10.5,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Arjantin,AR,ARG,americas,27.2,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Antigua ve Barbuda,AT,ATG,americas,15.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Bahamalar,BH,BHS,americas,12.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Barbados,BR,BRB,americas,14.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Belize,BL,BLZ,americas,25.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Bolivya,BO,BOL,americas,55.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Şili,CH,CHL,americas,18.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Kolombiya,CO,COL,americas,33.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Kosta Rika,CR,CRI,americas,15.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Küba,CU,CUB,americas,45.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Dominika,DM,DMA,americas,20.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Dominik Cumhuriyeti,DO,DOM,americas,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Ekvador,EC,ECU,americas,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+El Salvador,SL,SLV,americas,28.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Grönland,GR,GRL,americas,10.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Grenada,GR,GRD,americas,22.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Guatemala,GT,GTM,americas,40.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Guyana,GU,GUY,americas,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Haiti,HT,HTI,americas,70.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Honduras,HN,HND,americas,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Jamaika,JA,JAM,americas,25.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Nikaragua,NI,NIC,americas,42.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Panama,PA,PAN,americas,25.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Paraguay,PR,PRY,americas,38.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Peru,PE,PER,americas,45.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Porto Riko,PR,PRI,americas,18.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Saint Kitts ve Nevis,KN,KNA,americas,15.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Saint Lucia,LC,LCA,americas,18.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Saint Vincent ve Grenadinler,VC,VCT,americas,20.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Surinam,SU,SUR,americas,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Trinidad ve Tobago,TT,TTO,americas,18.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Uruguay,UR,URY,americas,12.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Venezuela,VE,VEN,americas,60.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Mısır,EG,EGY,africa,34.8,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Nijerya,NG,NGA,africa,52.4,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Güney Afrika,ZA,ZAF,africa,24.1,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Cezayir,DZ,DZA,africa,32.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Angola,AG,AGO,africa,38.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Benin,BE,BEN,africa,40.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Botsvana,BW,BWA,africa,18.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Burkina Faso,BF,BFA,africa,45.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Burundi,BD,BDI,africa,50.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Yeşil Burun Adaları,CP,CPV,africa,15.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Kamerun,CM,CMR,africa,38.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Orta Afrika Cumhuriyeti,CA,CAF,africa,65.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Çad,TC,TCD,africa,50.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Komorlar,CO,COM,africa,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Demokratik Kongo Cumhuriyeti,CO,COD,africa,55.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Cibuti,DJ,DJI,africa,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Ekvator Ginesi,GN,GNQ,africa,45.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Eritre,ER,ERI,africa,60.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Esvatini,SW,SWZ,africa,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Etiyopya,ET,ETH,africa,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Gabon,GA,GAB,africa,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Gambiya,GM,GMB,africa,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Gana,GH,GHA,africa,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Gine,GI,GIN,africa,40.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Gine-Bissau,GN,GNB,africa,45.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Fildişi Sahili,CI,CIV,africa,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Kenya,KE,KEN,africa,33.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Lesoto,LS,LSO,africa,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Liberya,LB,LBR,africa,45.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Libya,LB,LBY,africa,50.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Madagaskar,MD,MDG,africa,40.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Malavi,MW,MWI,africa,42.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Mali,ML,MLI,africa,45.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Moritanya,MR,MRT,africa,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Mauritius,MU,MUS,africa,15.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Fas,MA,MAR,africa,27.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Mozambik,MO,MOZ,africa,42.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Namibya,NA,NAM,africa,22.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Nijer,NE,NER,africa,48.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Kongo Cumhuriyeti (Brazzaville),CO,COG,africa,45.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Ruanda,RW,RWA,africa,28.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Sao Tome ve Principe,ST,STP,africa,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Senegal,SE,SEN,africa,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Seyşeller,SY,SYC,africa,12.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Sierra Leone,SL,SLE,africa,45.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Somali,SO,SOM,africa,70.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Somaliland,SO,SOMX,africa,55.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Güney Sudan,SS,SSD,africa,65.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Sudan,SD,SDN,africa,65.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Tanzanya,TZ,TZA,africa,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Togo,TG,TGO,africa,38.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Tunus,TU,TUN,africa,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Uganda,UG,UGA,africa,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Batı Sahra,ES,ESH,africa,45.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Zambiya,ZM,ZMB,africa,35.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Zimbabve,ZW,ZWE,africa,65.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Avustralya,AU,AUS,oceania,9.2,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Yeni Zelanda,NZ,NZL,oceania,8.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Fiji,FJ,FJI,oceania,25.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Kiribati,KI,KIR,oceania,20.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Marshall Adaları,MH,MHL,oceania,15.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Mikronezya Federal Devletleri,FS,FSM,oceania,18.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Nauru,NR,NRU,oceania,20.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Palau,PL,PLW,oceania,15.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Papua Yeni Gine,PN,PNG,oceania,38.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Yüksek,MIMIC Model / IMF / Schneider
+Samoa,WS,WSM,oceania,22.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Solomon Adaları,SL,SLB,oceania,30.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Tonga,TO,TON,oceania,25.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Tuvalu,TU,TUV,oceania,15.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider
+Vanuatu,VU,VUT,oceania,28.0,"Kayıt dışı istihdam, kamu ihaleleri, offshore vergi kaçırma",Orta,MIMIC Model / IMF / Schneider

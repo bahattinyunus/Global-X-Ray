@@ -5,9 +5,15 @@
   "currency": "IQD (Irak Dinarı)",
   "gdp_nominal_billion_usd": 250.8,
   "gdp_per_capita_usd": 5510,
+  "gdp_ppp_billion_usd": 363.7,
   "inflation_rate_pct": 4.4,
   "unemployment_rate_pct": 15.5,
   "debt_to_gdp_pct": 44.0,
+  "budget_deficit_pct_gdp": -3.5,
+  "foreign_exchange_reserves_billion_usd": 30.1,
+  "external_debt_billion_usd": 77.2,
+  "central_bank_policy_rate_pct": 5.7,
+  "tax_revenue_pct_gdp": 22.5,
   "top_exports": [
     "Ham Petrol",
     "Rafine Petrol",
@@ -27,5 +33,15 @@
     "İtalya",
     "İran"
   ],
-  "shadow_economy_pct_gdp": 38.0
+  "shadow_economy_pct_gdp": 38.0,
+  "critical_commodity_dependencies": [
+    "Rafine Petrol",
+    "Buğday / Tahıl",
+    "Yarı İletkenler"
+  ],
+  "strategic_economic_risks": [
+    "Yüksek enflasyon ve satın alma gücü erozyonu",
+    "Cari açık finansmanı ve dış borç çevrim riski",
+    "Sermaye kaçışı ve off-shore transfer baskısı"
+  ]
 }

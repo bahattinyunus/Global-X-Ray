@@ -1,7 +1,13 @@
 metric,value,unit,year,source
-total_population,1262524,people,2024,UN / World Bank
+total_population,1262524,people,2024,UN Population Division / World Bank
 capital_population_estimate,227254,people,2024,National Census
-urban_population_pct,71.2,percent,2024,World Bank
-median_age,33.5,years,2024,UN Population Division
-shadow_economy_pct,15.0,percent_gdp,2024,IMF / Schneider
+urban_population_pct,71.2,percent,2024,World Bank WDI
+median_age_years,33.5,years,2024,UN Population Division
+population_growth_rate_pct,0.95,percent_annual,2024,UNFPA
+fertility_rate,1.85,births_per_woman,2024,World Bank
+youth_unemployment_pct,21.4,percent,2024,ILO
+literacy_rate_pct,94.2,percent,2024,UNESCO
+life_expectancy_years,76.8,years,2024,WHO
+shadow_economy_pct,15.0,percent_gdp,2024,IMF / Schneider MIMIC
 fragility_index_score,85.0,score_120,2024,Fund for Peace
+press_freedom_score,74.0,score_100,2024,Reporters Without Borders

@@ -1,1443 +1,3414 @@
 {
-  "description": "Küresel Basın Özgürlüğü ve Medya Mülkiyeti Oligarşi Endeksi (RSF & OSINT Sentezi)",
-  "version": "2024.2",
-  "methodology": "RSF Press Freedom Index, CPJ verileri ve OCCRP medya sahiplik araştırmaları baz alınmıştır.",
-  "total_countries": 205,
-  "countries": {
-    "TUR": {
-      "name": "Türkiye",
-      "score": 38.3,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Yüksek"
-    },
-    "IRN": {
-      "name": "İran",
-      "score": 23.2,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "SAU": {
-      "name": "Suudi Arabistan",
-      "score": 32.4,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "ISR": {
-      "name": "İsrail",
-      "score": 53.2,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta / Yüksek"
-    },
-    "ARE": {
-      "name": "Birleşik Arap Emirlikleri",
-      "score": 38.6,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "IRQ": {
-      "name": "Irak",
-      "score": 32.9,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "SYR": {
-      "name": "Suriye",
-      "score": 17.2,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "QAT": {
-      "name": "Katar",
-      "score": 58.4,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "LBN": {
-      "name": "Lübnan",
-      "score": 43.8,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "JOR": {
-      "name": "Ürdün",
-      "score": 43.1,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "KWT": {
-      "name": "Kuveyt",
-      "score": 41.5,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "OMN": {
-      "name": "Umman",
-      "score": 42.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "BHR": {
-      "name": "Bahreyn",
-      "score": 30.5,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Yüksek"
-    },
-    "YEM": {
-      "name": "Yemen",
-      "score": 22.4,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "PSE": {
-      "name": "Filistin",
-      "score": 37.8,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "TRNC": {
-      "name": "Kuzey Kıbrıs",
-      "score": 52.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "DEU": {
-      "name": "Almanya",
-      "score": 81.9,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük / Orta"
-    },
-    "GBR": {
-      "name": "Birleşik Krallık",
-      "score": 78.5,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "FRA": {
-      "name": "Fransa",
-      "score": 78.7,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta / Yüksek"
-    },
-    "RUS": {
-      "name": "Rusya",
-      "score": 29.98,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "UKR": {
-      "name": "Ukrayna",
-      "score": 64.3,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek (Savaş Öncesi Kritik)"
-    },
-    "ITA": {
-      "name": "İtalya",
-      "score": 76.16,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta / Yüksek"
-    },
-    "ESP": {
-      "name": "İspanya",
-      "score": 79.5,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "POL": {
-      "name": "Polonya",
-      "score": 67.2,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "NLD": {
-      "name": "Hollanda",
-      "score": 86.8,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "CHE": {
-      "name": "İsviçre",
-      "score": 84.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta (Bankacılık ve Emtia Tekelleri)"
-    },
-    "ALB": {
-      "name": "Arnavutluk",
-      "score": 54.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "AND": {
-      "name": "Andorra",
-      "score": 78.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "AUT": {
-      "name": "Avusturya",
-      "score": 77.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "BLR": {
-      "name": "Belarus",
-      "score": 15.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Yüksek"
-    },
-    "BEL": {
-      "name": "Belçika",
-      "score": 80.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "BIH": {
-      "name": "Bosna-Hersek",
-      "score": 60.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "BGR": {
-      "name": "Bulgaristan",
-      "score": 62.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "HRV": {
-      "name": "Hırvatistan",
-      "score": 72.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "CYP": {
-      "name": "Kıbrıs Rum Kesimi",
-      "score": 75.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "CZE": {
-      "name": "Çekya",
-      "score": 83.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "DNK": {
-      "name": "Danimarka",
-      "score": 89.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "EST": {
-      "name": "Estonya",
-      "score": 88.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "FIN": {
-      "name": "Finlandiya",
-      "score": 88.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "GRC": {
-      "name": "Yunanistan",
-      "score": 55.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "HUN": {
-      "name": "Macaristan",
-      "score": 60.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "ISL": {
-      "name": "İzlanda",
-      "score": 85.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "IRL": {
-      "name": "İrlanda",
-      "score": 87.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "XKX": {
-      "name": "Kosova",
-      "score": 62.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "LVA": {
-      "name": "Letonya",
-      "score": 80.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "LIE": {
-      "name": "Lihtenştayn",
-      "score": 82.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "LTU": {
-      "name": "Litvanya",
-      "score": 85.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "LUX": {
-      "name": "Lüksemburg",
-      "score": 84.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "MLT": {
-      "name": "Malta",
-      "score": 65.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "MDA": {
-      "name": "Moldova",
-      "score": 63.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "MCO": {
-      "name": "Monako",
-      "score": 75.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "MNE": {
-      "name": "Karadağ",
-      "score": 68.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "MKD": {
-      "name": "Kuzey Makedonya",
-      "score": 61.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "NOR": {
-      "name": "Norveç",
-      "score": 91.89,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "PRT": {
-      "name": "Portekiz",
-      "score": 82.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "ROU": {
-      "name": "Romanya",
-      "score": 69.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "SMR": {
-      "name": "San Marino",
-      "score": 72.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "SRB": {
-      "name": "Sırbistan",
-      "score": 52.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "SVK": {
-      "name": "Slovakya",
-      "score": 68.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "SVN": {
-      "name": "Slovenya",
-      "score": 78.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "SWE": {
-      "name": "İsveç",
-      "score": 88.15,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "PMR": {
-      "name": "Transdinyester",
-      "score": 25.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Yüksek"
-    },
-    "VAT": {
-      "name": "Vatikan",
-      "score": 65.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "CHN": {
-      "name": "Çin",
-      "score": 22.97,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik (Parti-Devlet Oligarşisi)"
-    },
-    "IND": {
-      "name": "Hindistan",
-      "score": 36.6,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik (Adani-Ambani Duopolü)"
-    },
-    "JPN": {
-      "name": "Japonya",
-      "score": 64.37,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta (Keiretsu Kartelleri)"
-    },
-    "KOR": {
-      "name": "Güney Kore",
-      "score": 70.83,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek (Chaebol Vesayeti)"
-    },
-    "TWN": {
-      "name": "Tayvan",
-      "score": 76.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "PAK": {
-      "name": "Pakistan",
-      "score": 39.5,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik (Ordu & Siyasi Hanedanlar)"
-    },
-    "AFG": {
-      "name": "Afganistan",
-      "score": 18.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "ARM": {
-      "name": "Ermenistan",
-      "score": 71.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "AZE": {
-      "name": "Azerbaycan",
-      "score": 29.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "BGD": {
-      "name": "Bangladeş",
-      "score": 35.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "BTN": {
-      "name": "Bhutan",
-      "score": 75.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "BRN": {
-      "name": "Brunei",
-      "score": 45.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "KHM": {
-      "name": "Kamboçya",
-      "score": 40.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "GEO": {
-      "name": "Gürcistan",
-      "score": 61.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "HKG": {
-      "name": "Hong Kong",
-      "score": 43.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "IDN": {
-      "name": "Endonezya",
-      "score": 53.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "KAZ": {
-      "name": "Kazakistan",
-      "score": 45.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "KGZ": {
-      "name": "Kırgızistan",
-      "score": 48.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "LAO": {
-      "name": "Laos",
-      "score": 36.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "MAC": {
-      "name": "Makao",
-      "score": 55.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "MYS": {
-      "name": "Malezya",
-      "score": 55.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "MDV": {
-      "name": "Maldivler",
-      "score": 56.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "MNG": {
-      "name": "Moğolistan",
-      "score": 59.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "MMR": {
-      "name": "Myanmar",
-      "score": 22.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "NPL": {
-      "name": "Nepal",
-      "score": 58.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "PRK": {
-      "name": "Kuzey Kore",
-      "score": 10.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "PHL": {
-      "name": "Filipinler",
-      "score": 52.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "SGP": {
-      "name": "Singapur",
-      "score": 54.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "LKA": {
-      "name": "Sri Lanka",
-      "score": 53.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "TJK": {
-      "name": "Tacikistan",
-      "score": 38.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "THA": {
-      "name": "Tayland",
-      "score": 57.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "TLS": {
-      "name": "Doğu Timor",
-      "score": 84.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "TKM": {
-      "name": "Türkmenistan",
-      "score": 25.82,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "UZB": {
-      "name": "Özbekistan",
-      "score": 46.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "VNM": {
-      "name": "Vietnam",
-      "score": 24.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Yüksek"
-    },
-    "USA": {
-      "name": "Amerika Birleşik Devletleri",
-      "score": 75.8,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik (Yasal Lobicilik ve Finans Tekelleri)"
-    },
-    "BRA": {
-      "name": "Brezilya",
-      "score": 62.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek (Lava Jato & Agro Oligarşisi)"
-    },
-    "MEX": {
-      "name": "Meksika",
-      "score": 45.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik (Narko-Siyaset & Holding Tekelleri)"
-    },
-    "CAN": {
-      "name": "Kanada",
-      "score": 83.5,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük / Orta"
-    },
-    "ARG": {
-      "name": "Arjantin",
-      "score": 63.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "ATG": {
-      "name": "Antigua ve Barbuda",
-      "score": 75.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "BHS": {
-      "name": "Bahamalar",
-      "score": 76.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "BRB": {
-      "name": "Barbados",
-      "score": 78.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "BLZ": {
-      "name": "Belize",
-      "score": 68.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "BOL": {
-      "name": "Bolivya",
-      "score": 50.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "CHL": {
-      "name": "Şili",
-      "score": 75.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "COL": {
-      "name": "Kolombiya",
-      "score": 58.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "CRI": {
-      "name": "Kosta Rika",
-      "score": 80.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "CUB": {
-      "name": "Küba",
-      "score": 16.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "DMA": {
-      "name": "Dominika",
-      "score": 72.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "DOM": {
-      "name": "Dominik Cumhuriyeti",
-      "score": 65.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "ECU": {
-      "name": "Ekvador",
-      "score": 55.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "SLV": {
-      "name": "El Salvador",
-      "score": 54.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "GRL": {
-      "name": "Grönland",
-      "score": 80.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "GRD": {
-      "name": "Grenada",
-      "score": 74.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "GTM": {
-      "name": "Guatemala",
-      "score": 48.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "GUY": {
-      "name": "Guyana",
-      "score": 70.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "HTI": {
-      "name": "Haiti",
-      "score": 40.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "HND": {
-      "name": "Honduras",
-      "score": 50.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "JAM": {
-      "name": "Jamaika",
-      "score": 76.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "NIC": {
-      "name": "Nikaragua",
-      "score": 30.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "PAN": {
-      "name": "Panama",
-      "score": 64.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "PRY": {
-      "name": "Paraguay",
-      "score": 55.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "PER": {
-      "name": "Peru",
-      "score": 56.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "PRI": {
-      "name": "Porto Riko",
-      "score": 70.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "KNA": {
-      "name": "Saint Kitts ve Nevis",
-      "score": 76.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "LCA": {
-      "name": "Saint Lucia",
-      "score": 75.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "VCT": {
-      "name": "Saint Vincent ve Grenadinler",
-      "score": 75.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "SUR": {
-      "name": "Surinam",
-      "score": 72.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "TTO": {
-      "name": "Trinidad ve Tobago",
-      "score": 78.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "URY": {
-      "name": "Uruguay",
-      "score": 85.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "VEN": {
-      "name": "Venezuela",
-      "score": 20.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "EGY": {
-      "name": "Mısır",
-      "score": 30.23,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik (Ordu-Devlet Ticari Tekeli)"
-    },
-    "NGA": {
-      "name": "Nijerya",
-      "score": 46.8,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "ZAF": {
-      "name": "Güney Afrika",
-      "score": 78.6,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek (State Capture Mirası)"
-    },
-    "DZA": {
-      "name": "Cezayir",
-      "score": 43.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "AGO": {
-      "name": "Angola",
-      "score": 58.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "BEN": {
-      "name": "Benin",
-      "score": 60.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "BWA": {
-      "name": "Botsvana",
-      "score": 78.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "BFA": {
-      "name": "Burkina Faso",
-      "score": 45.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "BDI": {
-      "name": "Burundi",
-      "score": 42.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "CPV": {
-      "name": "Yeşil Burun Adaları",
-      "score": 79.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "CMR": {
-      "name": "Kamerun",
-      "score": 42.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "CAF": {
-      "name": "Orta Afrika Cumhuriyeti",
-      "score": 45.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "TCD": {
-      "name": "Çad",
-      "score": 40.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "COM": {
-      "name": "Komorlar",
-      "score": 52.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "COD": {
-      "name": "Demokratik Kongo Cumhuriyeti",
-      "score": 42.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "DJI": {
-      "name": "Cibuti",
-      "score": 35.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Yüksek"
-    },
-    "GNQ": {
-      "name": "Ekvator Ginesi",
-      "score": 18.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "ERI": {
-      "name": "Eritre",
-      "score": 12.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "SWZ": {
-      "name": "Esvatini",
-      "score": 40.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "ETH": {
-      "name": "Etiyopya",
-      "score": 45.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "GAB": {
-      "name": "Gabon",
-      "score": 55.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "GMB": {
-      "name": "Gambiya",
-      "score": 65.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "GHA": {
-      "name": "Gana",
-      "score": 66.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "GIN": {
-      "name": "Gine",
-      "score": 48.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "GNB": {
-      "name": "Gine-Bissau",
-      "score": 58.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "CIV": {
-      "name": "Fildişi Sahili",
-      "score": 69.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "KEN": {
-      "name": "Kenya",
-      "score": 52.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "LSO": {
-      "name": "Lesoto",
-      "score": 65.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "LBR": {
-      "name": "Liberya",
-      "score": 64.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "LBY": {
-      "name": "Libya",
-      "score": 40.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "MDG": {
-      "name": "Madagaskar",
-      "score": 62.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "MWI": {
-      "name": "Malavi",
-      "score": 60.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "MLI": {
-      "name": "Mali",
-      "score": 44.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "MRT": {
-      "name": "Moritanya",
-      "score": 64.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "MUS": {
-      "name": "Mauritius",
-      "score": 74.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "MAR": {
-      "name": "Fas",
-      "score": 52.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "MOZ": {
-      "name": "Mozambik",
-      "score": 56.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "NAM": {
-      "name": "Namibya",
-      "score": 81.0,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "NER": {
-      "name": "Nijer",
-      "score": 55.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "COG": {
-      "name": "Kongo Cumhuriyeti (Brazzaville)",
-      "score": 50.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "RWA": {
-      "name": "Ruanda",
-      "score": 40.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "STP": {
-      "name": "Sao Tome ve Principe",
-      "score": 75.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "SEN": {
-      "name": "Senegal",
-      "score": 62.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "SYC": {
-      "name": "Seyşeller",
-      "score": 77.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "SLE": {
-      "name": "Sierra Leone",
-      "score": 62.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "SOM": {
-      "name": "Somali",
-      "score": 28.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "SOMX": {
-      "name": "Somaliland",
-      "score": 45.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "SSD": {
-      "name": "Güney Sudan",
-      "score": 25.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "SDN": {
-      "name": "Sudan",
-      "score": 22.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "TZA": {
-      "name": "Tanzanya",
-      "score": 56.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "TGO": {
-      "name": "Togo",
-      "score": 55.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Kritik"
-    },
-    "TUN": {
-      "name": "Tunus",
-      "score": 48.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "UGA": {
-      "name": "Uganda",
-      "score": 42.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "ESH": {
-      "name": "Batı Sahra",
-      "score": 30.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "ZMB": {
-      "name": "Zambiya",
-      "score": 60.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "ZWE": {
-      "name": "Zimbabve",
-      "score": 38.0,
-      "classification": "Çok Ciddi",
-      "state_monopoly": true,
-      "oligarch_influence": "Kritik"
-    },
-    "AUS": {
-      "name": "Avustralya",
-      "score": 76.5,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta (Madencilik & Medya Tekelleri)"
-    },
-    "NZL": {
-      "name": "Yeni Zelanda",
-      "score": 84.2,
-      "classification": "İyi",
-      "state_monopoly": false,
-      "oligarch_influence": "Düşük"
-    },
-    "FJI": {
-      "name": "Fiji",
-      "score": 60.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "KIR": {
-      "name": "Kiribati",
-      "score": 65.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "MHL": {
-      "name": "Marshall Adaları",
-      "score": 70.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "FSM": {
-      "name": "Mikronezya Federal Devletleri",
-      "score": 72.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "NRU": {
-      "name": "Nauru",
-      "score": 60.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "PLW": {
-      "name": "Palau",
-      "score": 75.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "PNG": {
-      "name": "Papua Yeni Gine",
-      "score": 60.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "WSM": {
-      "name": "Samoa",
-      "score": 76.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "SLB": {
-      "name": "Solomon Adaları",
-      "score": 62.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    },
-    "TON": {
-      "name": "Tonga",
-      "score": 68.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "TUV": {
-      "name": "Tuvalu",
-      "score": 72.0,
-      "classification": "Tatmin Edici",
-      "state_monopoly": false,
-      "oligarch_influence": "Orta"
-    },
-    "VUT": {
-      "name": "Vanuatu",
-      "score": 65.0,
-      "classification": "Sorunlu",
-      "state_monopoly": false,
-      "oligarch_influence": "Yüksek"
-    }
+  "turkey": {
+    "country_name": "Türkiye",
+    "iso_code": "TUR",
+    "region": "middle_east",
+    "rsf_score_2024": 38.3,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "iran": {
+    "country_name": "İran",
+    "iso_code": "IRN",
+    "region": "middle_east",
+    "rsf_score_2024": 23.2,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "saudi_arabia": {
+    "country_name": "Suudi Arabistan",
+    "iso_code": "SAU",
+    "region": "middle_east",
+    "rsf_score_2024": 32.4,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "israel": {
+    "country_name": "İsrail",
+    "iso_code": "ISR",
+    "region": "middle_east",
+    "rsf_score_2024": 53.2,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "united_arab_emirates": {
+    "country_name": "Birleşik Arap Emirlikleri",
+    "iso_code": "ARE",
+    "region": "middle_east",
+    "rsf_score_2024": 38.6,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "iraq": {
+    "country_name": "Irak",
+    "iso_code": "IRQ",
+    "region": "middle_east",
+    "rsf_score_2024": 32.9,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "syria": {
+    "country_name": "Suriye",
+    "iso_code": "SYR",
+    "region": "middle_east",
+    "rsf_score_2024": 17.2,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "qatar": {
+    "country_name": "Katar",
+    "iso_code": "QAT",
+    "region": "middle_east",
+    "rsf_score_2024": 58.4,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "lebanon": {
+    "country_name": "Lübnan",
+    "iso_code": "LBN",
+    "region": "middle_east",
+    "rsf_score_2024": 43.8,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "jordan": {
+    "country_name": "Ürdün",
+    "iso_code": "JOR",
+    "region": "middle_east",
+    "rsf_score_2024": 43.1,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "kuwait": {
+    "country_name": "Kuveyt",
+    "iso_code": "KWT",
+    "region": "middle_east",
+    "rsf_score_2024": 41.5,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "oman": {
+    "country_name": "Umman",
+    "iso_code": "OMN",
+    "region": "middle_east",
+    "rsf_score_2024": 42.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "bahrain": {
+    "country_name": "Bahreyn",
+    "iso_code": "BHR",
+    "region": "middle_east",
+    "rsf_score_2024": 30.5,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "yemen": {
+    "country_name": "Yemen",
+    "iso_code": "YEM",
+    "region": "middle_east",
+    "rsf_score_2024": 22.4,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "palestine": {
+    "country_name": "Filistin",
+    "iso_code": "PSE",
+    "region": "middle_east",
+    "rsf_score_2024": 37.8,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "northern_cyprus": {
+    "country_name": "Kuzey Kıbrıs",
+    "iso_code": "TRNC",
+    "region": "middle_east",
+    "rsf_score_2024": 52.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "germany": {
+    "country_name": "Almanya",
+    "iso_code": "DEU",
+    "region": "europe",
+    "rsf_score_2024": 81.9,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "united_kingdom": {
+    "country_name": "Birleşik Krallık",
+    "iso_code": "GBR",
+    "region": "europe",
+    "rsf_score_2024": 78.5,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "france": {
+    "country_name": "Fransa",
+    "iso_code": "FRA",
+    "region": "europe",
+    "rsf_score_2024": 78.7,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "russia": {
+    "country_name": "Rusya",
+    "iso_code": "RUS",
+    "region": "europe",
+    "rsf_score_2024": 29.98,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "ukraine": {
+    "country_name": "Ukrayna",
+    "iso_code": "UKR",
+    "region": "europe",
+    "rsf_score_2024": 64.3,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "italy": {
+    "country_name": "İtalya",
+    "iso_code": "ITA",
+    "region": "europe",
+    "rsf_score_2024": 76.16,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "spain": {
+    "country_name": "İspanya",
+    "iso_code": "ESP",
+    "region": "europe",
+    "rsf_score_2024": 79.5,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "poland": {
+    "country_name": "Polonya",
+    "iso_code": "POL",
+    "region": "europe",
+    "rsf_score_2024": 67.2,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "netherlands": {
+    "country_name": "Hollanda",
+    "iso_code": "NLD",
+    "region": "europe",
+    "rsf_score_2024": 86.8,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "switzerland": {
+    "country_name": "İsviçre",
+    "iso_code": "CHE",
+    "region": "europe",
+    "rsf_score_2024": 84.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "albania": {
+    "country_name": "Arnavutluk",
+    "iso_code": "ALB",
+    "region": "europe",
+    "rsf_score_2024": 54.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "andorra": {
+    "country_name": "Andorra",
+    "iso_code": "AND",
+    "region": "europe",
+    "rsf_score_2024": 78.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "austria": {
+    "country_name": "Avusturya",
+    "iso_code": "AUT",
+    "region": "europe",
+    "rsf_score_2024": 77.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "belarus": {
+    "country_name": "Belarus",
+    "iso_code": "BLR",
+    "region": "europe",
+    "rsf_score_2024": 15.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "belgium": {
+    "country_name": "Belçika",
+    "iso_code": "BEL",
+    "region": "europe",
+    "rsf_score_2024": 80.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "bosnia_and_herzegovina": {
+    "country_name": "Bosna-Hersek",
+    "iso_code": "BIH",
+    "region": "europe",
+    "rsf_score_2024": 60.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "bulgaria": {
+    "country_name": "Bulgaristan",
+    "iso_code": "BGR",
+    "region": "europe",
+    "rsf_score_2024": 62.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "croatia": {
+    "country_name": "Hırvatistan",
+    "iso_code": "HRV",
+    "region": "europe",
+    "rsf_score_2024": 72.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "cyprus": {
+    "country_name": "Kıbrıs Rum Kesimi",
+    "iso_code": "CYP",
+    "region": "europe",
+    "rsf_score_2024": 75.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "czech_republic": {
+    "country_name": "Çekya",
+    "iso_code": "CZE",
+    "region": "europe",
+    "rsf_score_2024": 83.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "denmark": {
+    "country_name": "Danimarka",
+    "iso_code": "DNK",
+    "region": "europe",
+    "rsf_score_2024": 89.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "estonia": {
+    "country_name": "Estonya",
+    "iso_code": "EST",
+    "region": "europe",
+    "rsf_score_2024": 88.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "finland": {
+    "country_name": "Finlandiya",
+    "iso_code": "FIN",
+    "region": "europe",
+    "rsf_score_2024": 88.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "greece": {
+    "country_name": "Yunanistan",
+    "iso_code": "GRC",
+    "region": "europe",
+    "rsf_score_2024": 55.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "hungary": {
+    "country_name": "Macaristan",
+    "iso_code": "HUN",
+    "region": "europe",
+    "rsf_score_2024": 60.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "iceland": {
+    "country_name": "İzlanda",
+    "iso_code": "ISL",
+    "region": "europe",
+    "rsf_score_2024": 85.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "ireland": {
+    "country_name": "İrlanda",
+    "iso_code": "IRL",
+    "region": "europe",
+    "rsf_score_2024": 87.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "kosovo": {
+    "country_name": "Kosova",
+    "iso_code": "XKX",
+    "region": "europe",
+    "rsf_score_2024": 62.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "latvia": {
+    "country_name": "Letonya",
+    "iso_code": "LVA",
+    "region": "europe",
+    "rsf_score_2024": 80.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "liechtenstein": {
+    "country_name": "Lihtenştayn",
+    "iso_code": "LIE",
+    "region": "europe",
+    "rsf_score_2024": 82.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "lithuania": {
+    "country_name": "Litvanya",
+    "iso_code": "LTU",
+    "region": "europe",
+    "rsf_score_2024": 85.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "luxembourg": {
+    "country_name": "Lüksemburg",
+    "iso_code": "LUX",
+    "region": "europe",
+    "rsf_score_2024": 84.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "malta": {
+    "country_name": "Malta",
+    "iso_code": "MLT",
+    "region": "europe",
+    "rsf_score_2024": 65.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "moldova": {
+    "country_name": "Moldova",
+    "iso_code": "MDA",
+    "region": "europe",
+    "rsf_score_2024": 63.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "monaco": {
+    "country_name": "Monako",
+    "iso_code": "MCO",
+    "region": "europe",
+    "rsf_score_2024": 75.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "montenegro": {
+    "country_name": "Karadağ",
+    "iso_code": "MNE",
+    "region": "europe",
+    "rsf_score_2024": 68.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "north_macedonia": {
+    "country_name": "Kuzey Makedonya",
+    "iso_code": "MKD",
+    "region": "europe",
+    "rsf_score_2024": 61.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "norway": {
+    "country_name": "Norveç",
+    "iso_code": "NOR",
+    "region": "europe",
+    "rsf_score_2024": 91.89,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "portugal": {
+    "country_name": "Portekiz",
+    "iso_code": "PRT",
+    "region": "europe",
+    "rsf_score_2024": 82.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "romania": {
+    "country_name": "Romanya",
+    "iso_code": "ROU",
+    "region": "europe",
+    "rsf_score_2024": 69.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "san_marino": {
+    "country_name": "San Marino",
+    "iso_code": "SMR",
+    "region": "europe",
+    "rsf_score_2024": 72.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "serbia": {
+    "country_name": "Sırbistan",
+    "iso_code": "SRB",
+    "region": "europe",
+    "rsf_score_2024": 52.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "slovakia": {
+    "country_name": "Slovakya",
+    "iso_code": "SVK",
+    "region": "europe",
+    "rsf_score_2024": 68.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "slovenia": {
+    "country_name": "Slovenya",
+    "iso_code": "SVN",
+    "region": "europe",
+    "rsf_score_2024": 78.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "sweden": {
+    "country_name": "İsveç",
+    "iso_code": "SWE",
+    "region": "europe",
+    "rsf_score_2024": 88.15,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "transnistria": {
+    "country_name": "Transdinyester",
+    "iso_code": "PMR",
+    "region": "europe",
+    "rsf_score_2024": 25.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "vatican_city": {
+    "country_name": "Vatikan",
+    "iso_code": "VAT",
+    "region": "europe",
+    "rsf_score_2024": 65.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "china": {
+    "country_name": "Çin",
+    "iso_code": "CHN",
+    "region": "asia",
+    "rsf_score_2024": 22.97,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "india": {
+    "country_name": "Hindistan",
+    "iso_code": "IND",
+    "region": "asia",
+    "rsf_score_2024": 36.6,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "japan": {
+    "country_name": "Japonya",
+    "iso_code": "JPN",
+    "region": "asia",
+    "rsf_score_2024": 64.37,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "south_korea": {
+    "country_name": "Güney Kore",
+    "iso_code": "KOR",
+    "region": "asia",
+    "rsf_score_2024": 70.83,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "taiwan": {
+    "country_name": "Tayvan",
+    "iso_code": "TWN",
+    "region": "asia",
+    "rsf_score_2024": 76.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "pakistan": {
+    "country_name": "Pakistan",
+    "iso_code": "PAK",
+    "region": "asia",
+    "rsf_score_2024": 39.5,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "afghanistan": {
+    "country_name": "Afganistan",
+    "iso_code": "AFG",
+    "region": "asia",
+    "rsf_score_2024": 18.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "armenia": {
+    "country_name": "Ermenistan",
+    "iso_code": "ARM",
+    "region": "asia",
+    "rsf_score_2024": 71.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "azerbaijan": {
+    "country_name": "Azerbaycan",
+    "iso_code": "AZE",
+    "region": "asia",
+    "rsf_score_2024": 29.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "bangladesh": {
+    "country_name": "Bangladeş",
+    "iso_code": "BGD",
+    "region": "asia",
+    "rsf_score_2024": 35.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "bhutan": {
+    "country_name": "Bhutan",
+    "iso_code": "BTN",
+    "region": "asia",
+    "rsf_score_2024": 75.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "brunei": {
+    "country_name": "Brunei",
+    "iso_code": "BRN",
+    "region": "asia",
+    "rsf_score_2024": 45.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "cambodia": {
+    "country_name": "Kamboçya",
+    "iso_code": "KHM",
+    "region": "asia",
+    "rsf_score_2024": 40.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "georgia": {
+    "country_name": "Gürcistan",
+    "iso_code": "GEO",
+    "region": "asia",
+    "rsf_score_2024": 61.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "hong_kong": {
+    "country_name": "Hong Kong",
+    "iso_code": "HKG",
+    "region": "asia",
+    "rsf_score_2024": 43.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "indonesia": {
+    "country_name": "Endonezya",
+    "iso_code": "IDN",
+    "region": "asia",
+    "rsf_score_2024": 53.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "kazakhstan": {
+    "country_name": "Kazakistan",
+    "iso_code": "KAZ",
+    "region": "asia",
+    "rsf_score_2024": 45.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "kyrgyzstan": {
+    "country_name": "Kırgızistan",
+    "iso_code": "KGZ",
+    "region": "asia",
+    "rsf_score_2024": 48.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "laos": {
+    "country_name": "Laos",
+    "iso_code": "LAO",
+    "region": "asia",
+    "rsf_score_2024": 36.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "macau": {
+    "country_name": "Makao",
+    "iso_code": "MAC",
+    "region": "asia",
+    "rsf_score_2024": 55.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "malaysia": {
+    "country_name": "Malezya",
+    "iso_code": "MYS",
+    "region": "asia",
+    "rsf_score_2024": 55.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "maldives": {
+    "country_name": "Maldivler",
+    "iso_code": "MDV",
+    "region": "asia",
+    "rsf_score_2024": 56.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "mongolia": {
+    "country_name": "Moğolistan",
+    "iso_code": "MNG",
+    "region": "asia",
+    "rsf_score_2024": 59.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "myanmar": {
+    "country_name": "Myanmar",
+    "iso_code": "MMR",
+    "region": "asia",
+    "rsf_score_2024": 22.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "nepal": {
+    "country_name": "Nepal",
+    "iso_code": "NPL",
+    "region": "asia",
+    "rsf_score_2024": 58.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "north_korea": {
+    "country_name": "Kuzey Kore",
+    "iso_code": "PRK",
+    "region": "asia",
+    "rsf_score_2024": 10.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "philippines": {
+    "country_name": "Filipinler",
+    "iso_code": "PHL",
+    "region": "asia",
+    "rsf_score_2024": 52.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "singapore": {
+    "country_name": "Singapur",
+    "iso_code": "SGP",
+    "region": "asia",
+    "rsf_score_2024": 54.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "sri_lanka": {
+    "country_name": "Sri Lanka",
+    "iso_code": "LKA",
+    "region": "asia",
+    "rsf_score_2024": 53.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "tajikistan": {
+    "country_name": "Tacikistan",
+    "iso_code": "TJK",
+    "region": "asia",
+    "rsf_score_2024": 38.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "thailand": {
+    "country_name": "Tayland",
+    "iso_code": "THA",
+    "region": "asia",
+    "rsf_score_2024": 57.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "timor_leste": {
+    "country_name": "Doğu Timor",
+    "iso_code": "TLS",
+    "region": "asia",
+    "rsf_score_2024": 84.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "turkmenistan": {
+    "country_name": "Türkmenistan",
+    "iso_code": "TKM",
+    "region": "asia",
+    "rsf_score_2024": 25.82,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "uzbekistan": {
+    "country_name": "Özbekistan",
+    "iso_code": "UZB",
+    "region": "asia",
+    "rsf_score_2024": 46.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "vietnam": {
+    "country_name": "Vietnam",
+    "iso_code": "VNM",
+    "region": "asia",
+    "rsf_score_2024": 24.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "united_states": {
+    "country_name": "Amerika Birleşik Devletleri",
+    "iso_code": "USA",
+    "region": "americas",
+    "rsf_score_2024": 75.8,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "brazil": {
+    "country_name": "Brezilya",
+    "iso_code": "BRA",
+    "region": "americas",
+    "rsf_score_2024": 62.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "mexico": {
+    "country_name": "Meksika",
+    "iso_code": "MEX",
+    "region": "americas",
+    "rsf_score_2024": 45.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "canada": {
+    "country_name": "Kanada",
+    "iso_code": "CAN",
+    "region": "americas",
+    "rsf_score_2024": 83.5,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "argentina": {
+    "country_name": "Arjantin",
+    "iso_code": "ARG",
+    "region": "americas",
+    "rsf_score_2024": 63.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "antigua_and_barbuda": {
+    "country_name": "Antigua ve Barbuda",
+    "iso_code": "ATG",
+    "region": "americas",
+    "rsf_score_2024": 75.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "bahamas": {
+    "country_name": "Bahamalar",
+    "iso_code": "BHS",
+    "region": "americas",
+    "rsf_score_2024": 76.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "barbados": {
+    "country_name": "Barbados",
+    "iso_code": "BRB",
+    "region": "americas",
+    "rsf_score_2024": 78.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "belize": {
+    "country_name": "Belize",
+    "iso_code": "BLZ",
+    "region": "americas",
+    "rsf_score_2024": 68.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "bolivia": {
+    "country_name": "Bolivya",
+    "iso_code": "BOL",
+    "region": "americas",
+    "rsf_score_2024": 50.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "chile": {
+    "country_name": "Şili",
+    "iso_code": "CHL",
+    "region": "americas",
+    "rsf_score_2024": 75.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "colombia": {
+    "country_name": "Kolombiya",
+    "iso_code": "COL",
+    "region": "americas",
+    "rsf_score_2024": 58.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "costa_rica": {
+    "country_name": "Kosta Rika",
+    "iso_code": "CRI",
+    "region": "americas",
+    "rsf_score_2024": 80.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "cuba": {
+    "country_name": "Küba",
+    "iso_code": "CUB",
+    "region": "americas",
+    "rsf_score_2024": 16.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "dominica": {
+    "country_name": "Dominika",
+    "iso_code": "DMA",
+    "region": "americas",
+    "rsf_score_2024": 72.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "dominican_republic": {
+    "country_name": "Dominik Cumhuriyeti",
+    "iso_code": "DOM",
+    "region": "americas",
+    "rsf_score_2024": 65.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "ecuador": {
+    "country_name": "Ekvador",
+    "iso_code": "ECU",
+    "region": "americas",
+    "rsf_score_2024": 55.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "el_salvador": {
+    "country_name": "El Salvador",
+    "iso_code": "SLV",
+    "region": "americas",
+    "rsf_score_2024": 54.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "greenland": {
+    "country_name": "Grönland",
+    "iso_code": "GRL",
+    "region": "americas",
+    "rsf_score_2024": 80.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "grenada": {
+    "country_name": "Grenada",
+    "iso_code": "GRD",
+    "region": "americas",
+    "rsf_score_2024": 74.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "guatemala": {
+    "country_name": "Guatemala",
+    "iso_code": "GTM",
+    "region": "americas",
+    "rsf_score_2024": 48.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "guyana": {
+    "country_name": "Guyana",
+    "iso_code": "GUY",
+    "region": "americas",
+    "rsf_score_2024": 70.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "haiti": {
+    "country_name": "Haiti",
+    "iso_code": "HTI",
+    "region": "americas",
+    "rsf_score_2024": 40.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "honduras": {
+    "country_name": "Honduras",
+    "iso_code": "HND",
+    "region": "americas",
+    "rsf_score_2024": 50.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "jamaica": {
+    "country_name": "Jamaika",
+    "iso_code": "JAM",
+    "region": "americas",
+    "rsf_score_2024": 76.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "nicaragua": {
+    "country_name": "Nikaragua",
+    "iso_code": "NIC",
+    "region": "americas",
+    "rsf_score_2024": 30.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "panama": {
+    "country_name": "Panama",
+    "iso_code": "PAN",
+    "region": "americas",
+    "rsf_score_2024": 64.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "paraguay": {
+    "country_name": "Paraguay",
+    "iso_code": "PRY",
+    "region": "americas",
+    "rsf_score_2024": 55.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "peru": {
+    "country_name": "Peru",
+    "iso_code": "PER",
+    "region": "americas",
+    "rsf_score_2024": 56.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "puerto_rico": {
+    "country_name": "Porto Riko",
+    "iso_code": "PRI",
+    "region": "americas",
+    "rsf_score_2024": 70.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "saint_kitts_and_nevis": {
+    "country_name": "Saint Kitts ve Nevis",
+    "iso_code": "KNA",
+    "region": "americas",
+    "rsf_score_2024": 76.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "saint_lucia": {
+    "country_name": "Saint Lucia",
+    "iso_code": "LCA",
+    "region": "americas",
+    "rsf_score_2024": 75.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "saint_vincent_and_the_grenadines": {
+    "country_name": "Saint Vincent ve Grenadinler",
+    "iso_code": "VCT",
+    "region": "americas",
+    "rsf_score_2024": 75.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "suriname": {
+    "country_name": "Surinam",
+    "iso_code": "SUR",
+    "region": "americas",
+    "rsf_score_2024": 72.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "trinidad_and_tobago": {
+    "country_name": "Trinidad ve Tobago",
+    "iso_code": "TTO",
+    "region": "americas",
+    "rsf_score_2024": 78.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "uruguay": {
+    "country_name": "Uruguay",
+    "iso_code": "URY",
+    "region": "americas",
+    "rsf_score_2024": 85.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "venezuela": {
+    "country_name": "Venezuela",
+    "iso_code": "VEN",
+    "region": "americas",
+    "rsf_score_2024": 20.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "egypt": {
+    "country_name": "Mısır",
+    "iso_code": "EGY",
+    "region": "africa",
+    "rsf_score_2024": 30.23,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "nigeria": {
+    "country_name": "Nijerya",
+    "iso_code": "NGA",
+    "region": "africa",
+    "rsf_score_2024": 46.8,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "south_africa": {
+    "country_name": "Güney Afrika",
+    "iso_code": "ZAF",
+    "region": "africa",
+    "rsf_score_2024": 78.6,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "algeria": {
+    "country_name": "Cezayir",
+    "iso_code": "DZA",
+    "region": "africa",
+    "rsf_score_2024": 43.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "angola": {
+    "country_name": "Angola",
+    "iso_code": "AGO",
+    "region": "africa",
+    "rsf_score_2024": 58.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "benin": {
+    "country_name": "Benin",
+    "iso_code": "BEN",
+    "region": "africa",
+    "rsf_score_2024": 60.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "botswana": {
+    "country_name": "Botsvana",
+    "iso_code": "BWA",
+    "region": "africa",
+    "rsf_score_2024": 78.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "burkina_faso": {
+    "country_name": "Burkina Faso",
+    "iso_code": "BFA",
+    "region": "africa",
+    "rsf_score_2024": 45.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "burundi": {
+    "country_name": "Burundi",
+    "iso_code": "BDI",
+    "region": "africa",
+    "rsf_score_2024": 42.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "cabo_verde": {
+    "country_name": "Yeşil Burun Adaları",
+    "iso_code": "CPV",
+    "region": "africa",
+    "rsf_score_2024": 79.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "cameroon": {
+    "country_name": "Kamerun",
+    "iso_code": "CMR",
+    "region": "africa",
+    "rsf_score_2024": 42.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "central_african_republic": {
+    "country_name": "Orta Afrika Cumhuriyeti",
+    "iso_code": "CAF",
+    "region": "africa",
+    "rsf_score_2024": 45.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "chad": {
+    "country_name": "Çad",
+    "iso_code": "TCD",
+    "region": "africa",
+    "rsf_score_2024": 40.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "comoros": {
+    "country_name": "Komorlar",
+    "iso_code": "COM",
+    "region": "africa",
+    "rsf_score_2024": 52.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "democratic_republic_of_the_congo": {
+    "country_name": "Demokratik Kongo Cumhuriyeti",
+    "iso_code": "COD",
+    "region": "africa",
+    "rsf_score_2024": 42.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "djibouti": {
+    "country_name": "Cibuti",
+    "iso_code": "DJI",
+    "region": "africa",
+    "rsf_score_2024": 35.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "equatorial_guinea": {
+    "country_name": "Ekvator Ginesi",
+    "iso_code": "GNQ",
+    "region": "africa",
+    "rsf_score_2024": 18.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "eritrea": {
+    "country_name": "Eritre",
+    "iso_code": "ERI",
+    "region": "africa",
+    "rsf_score_2024": 12.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "eswatini": {
+    "country_name": "Esvatini",
+    "iso_code": "SWZ",
+    "region": "africa",
+    "rsf_score_2024": 40.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "ethiopia": {
+    "country_name": "Etiyopya",
+    "iso_code": "ETH",
+    "region": "africa",
+    "rsf_score_2024": 45.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "gabon": {
+    "country_name": "Gabon",
+    "iso_code": "GAB",
+    "region": "africa",
+    "rsf_score_2024": 55.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "gambia": {
+    "country_name": "Gambiya",
+    "iso_code": "GMB",
+    "region": "africa",
+    "rsf_score_2024": 65.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "ghana": {
+    "country_name": "Gana",
+    "iso_code": "GHA",
+    "region": "africa",
+    "rsf_score_2024": 66.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "guinea": {
+    "country_name": "Gine",
+    "iso_code": "GIN",
+    "region": "africa",
+    "rsf_score_2024": 48.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "guinea_bissau": {
+    "country_name": "Gine-Bissau",
+    "iso_code": "GNB",
+    "region": "africa",
+    "rsf_score_2024": 58.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "ivory_coast": {
+    "country_name": "Fildişi Sahili",
+    "iso_code": "CIV",
+    "region": "africa",
+    "rsf_score_2024": 69.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "kenya": {
+    "country_name": "Kenya",
+    "iso_code": "KEN",
+    "region": "africa",
+    "rsf_score_2024": 52.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "lesotho": {
+    "country_name": "Lesoto",
+    "iso_code": "LSO",
+    "region": "africa",
+    "rsf_score_2024": 65.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "liberia": {
+    "country_name": "Liberya",
+    "iso_code": "LBR",
+    "region": "africa",
+    "rsf_score_2024": 64.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "libya": {
+    "country_name": "Libya",
+    "iso_code": "LBY",
+    "region": "africa",
+    "rsf_score_2024": 40.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "madagascar": {
+    "country_name": "Madagaskar",
+    "iso_code": "MDG",
+    "region": "africa",
+    "rsf_score_2024": 62.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "malawi": {
+    "country_name": "Malavi",
+    "iso_code": "MWI",
+    "region": "africa",
+    "rsf_score_2024": 60.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "mali": {
+    "country_name": "Mali",
+    "iso_code": "MLI",
+    "region": "africa",
+    "rsf_score_2024": 44.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "mauritania": {
+    "country_name": "Moritanya",
+    "iso_code": "MRT",
+    "region": "africa",
+    "rsf_score_2024": 64.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "mauritius": {
+    "country_name": "Mauritius",
+    "iso_code": "MUS",
+    "region": "africa",
+    "rsf_score_2024": 74.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "morocco": {
+    "country_name": "Fas",
+    "iso_code": "MAR",
+    "region": "africa",
+    "rsf_score_2024": 52.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "mozambique": {
+    "country_name": "Mozambik",
+    "iso_code": "MOZ",
+    "region": "africa",
+    "rsf_score_2024": 56.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "namibia": {
+    "country_name": "Namibya",
+    "iso_code": "NAM",
+    "region": "africa",
+    "rsf_score_2024": 81.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "niger": {
+    "country_name": "Nijer",
+    "iso_code": "NER",
+    "region": "africa",
+    "rsf_score_2024": 55.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "republic_of_the_congo": {
+    "country_name": "Kongo Cumhuriyeti (Brazzaville)",
+    "iso_code": "COG",
+    "region": "africa",
+    "rsf_score_2024": 50.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "rwanda": {
+    "country_name": "Ruanda",
+    "iso_code": "RWA",
+    "region": "africa",
+    "rsf_score_2024": 40.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "sao_tome_and_principe": {
+    "country_name": "Sao Tome ve Principe",
+    "iso_code": "STP",
+    "region": "africa",
+    "rsf_score_2024": 75.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "senegal": {
+    "country_name": "Senegal",
+    "iso_code": "SEN",
+    "region": "africa",
+    "rsf_score_2024": 62.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "seychelles": {
+    "country_name": "Seyşeller",
+    "iso_code": "SYC",
+    "region": "africa",
+    "rsf_score_2024": 77.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "sierra_leone": {
+    "country_name": "Sierra Leone",
+    "iso_code": "SLE",
+    "region": "africa",
+    "rsf_score_2024": 62.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "somalia": {
+    "country_name": "Somali",
+    "iso_code": "SOM",
+    "region": "africa",
+    "rsf_score_2024": 28.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "somaliland": {
+    "country_name": "Somaliland",
+    "iso_code": "SOMX",
+    "region": "africa",
+    "rsf_score_2024": 45.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "south_sudan": {
+    "country_name": "Güney Sudan",
+    "iso_code": "SSD",
+    "region": "africa",
+    "rsf_score_2024": 25.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "sudan": {
+    "country_name": "Sudan",
+    "iso_code": "SDN",
+    "region": "africa",
+    "rsf_score_2024": 22.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "tanzania": {
+    "country_name": "Tanzanya",
+    "iso_code": "TZA",
+    "region": "africa",
+    "rsf_score_2024": 56.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "togo": {
+    "country_name": "Togo",
+    "iso_code": "TGO",
+    "region": "africa",
+    "rsf_score_2024": 55.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "tunisia": {
+    "country_name": "Tunus",
+    "iso_code": "TUN",
+    "region": "africa",
+    "rsf_score_2024": 48.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "uganda": {
+    "country_name": "Uganda",
+    "iso_code": "UGA",
+    "region": "africa",
+    "rsf_score_2024": 42.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "western_sahara": {
+    "country_name": "Batı Sahra",
+    "iso_code": "ESH",
+    "region": "africa",
+    "rsf_score_2024": 30.0,
+    "safety_ranking": "Çok Ciddi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "zambia": {
+    "country_name": "Zambiya",
+    "iso_code": "ZMB",
+    "region": "africa",
+    "rsf_score_2024": 60.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "zimbabwe": {
+    "country_name": "Zimbabve",
+    "iso_code": "ZWE",
+    "region": "africa",
+    "rsf_score_2024": 38.0,
+    "safety_ranking": "Zorlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": true,
+    "spyware_tools": [
+      "Pegasus",
+      "Predator",
+      "Bant Daraltma"
+    ]
+  },
+  "australia": {
+    "country_name": "Avustralya",
+    "iso_code": "AUS",
+    "region": "oceania",
+    "rsf_score_2024": 76.5,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "new_zealand": {
+    "country_name": "Yeni Zelanda",
+    "iso_code": "NZL",
+    "region": "oceania",
+    "rsf_score_2024": 84.2,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "fiji": {
+    "country_name": "Fiji",
+    "iso_code": "FJI",
+    "region": "oceania",
+    "rsf_score_2024": 60.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "kiribati": {
+    "country_name": "Kiribati",
+    "iso_code": "KIR",
+    "region": "oceania",
+    "rsf_score_2024": 65.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "marshall_islands": {
+    "country_name": "Marshall Adaları",
+    "iso_code": "MHL",
+    "region": "oceania",
+    "rsf_score_2024": 70.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "micronesia": {
+    "country_name": "Mikronezya Federal Devletleri",
+    "iso_code": "FSM",
+    "region": "oceania",
+    "rsf_score_2024": 72.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "nauru": {
+    "country_name": "Nauru",
+    "iso_code": "NRU",
+    "region": "oceania",
+    "rsf_score_2024": 60.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "palau": {
+    "country_name": "Palau",
+    "iso_code": "PLW",
+    "region": "oceania",
+    "rsf_score_2024": 75.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "papua_new_guinea": {
+    "country_name": "Papua Yeni Gine",
+    "iso_code": "PNG",
+    "region": "oceania",
+    "rsf_score_2024": 60.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "samoa": {
+    "country_name": "Samoa",
+    "iso_code": "WSM",
+    "region": "oceania",
+    "rsf_score_2024": 76.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "solomon_islands": {
+    "country_name": "Solomon Adaları",
+    "iso_code": "SLB",
+    "region": "oceania",
+    "rsf_score_2024": 62.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "tonga": {
+    "country_name": "Tonga",
+    "iso_code": "TON",
+    "region": "oceania",
+    "rsf_score_2024": 68.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "tuvalu": {
+    "country_name": "Tuvalu",
+    "iso_code": "TUV",
+    "region": "oceania",
+    "rsf_score_2024": 72.0,
+    "safety_ranking": "İyi",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
+  },
+  "vanuatu": {
+    "country_name": "Vanuatu",
+    "iso_code": "VUT",
+    "region": "oceania",
+    "rsf_score_2024": 65.0,
+    "safety_ranking": "Sorunlu",
+    "primary_censorship_vectors": [
+      "Kamu reklamlarının siyasi sadakate göre dağıtılması",
+      "İnternet bant daraltma ve erişim engeli kararları",
+      "Yargısal taciz ve terör suçlamalarıyla tutuklama"
+    ],
+    "digital_surveillance_detected": false,
+    "spyware_tools": [
+      "Standart İletişim Denetimi"
+    ]
   }
 }

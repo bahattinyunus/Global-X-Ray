@@ -5,9 +5,15 @@
   "currency": "PKR (Pakistan Rupisi)",
   "gdp_nominal_billion_usd": 338.0,
   "gdp_per_capita_usd": 1400,
+  "gdp_ppp_billion_usd": 490.1,
   "inflation_rate_pct": 12.0,
   "unemployment_rate_pct": 8.5,
   "debt_to_gdp_pct": 75.0,
+  "budget_deficit_pct_gdp": -3.5,
+  "foreign_exchange_reserves_billion_usd": 40.6,
+  "external_debt_billion_usd": 177.4,
+  "central_bank_policy_rate_pct": 12.2,
+  "tax_revenue_pct_gdp": 22.5,
   "top_exports": [
     "Tekstil ve Pamuklu Kumaş",
     "Pirinç",
@@ -29,5 +35,15 @@
     "BAE",
     "Suudi Arabistan"
   ],
-  "shadow_economy_pct_gdp": 35.6
+  "shadow_economy_pct_gdp": 35.6,
+  "critical_commodity_dependencies": [
+    "Rafine Petrol",
+    "Buğday / Tahıl",
+    "Yarı İletkenler"
+  ],
+  "strategic_economic_risks": [
+    "Yüksek enflasyon ve satın alma gücü erozyonu",
+    "Cari açık finansmanı ve dış borç çevrim riski",
+    "Sermaye kaçışı ve off-shore transfer baskısı"
+  ]
 }

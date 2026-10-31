@@ -5,9 +5,15 @@
   "currency": "USD",
   "gdp_nominal_billion_usd": 113.0,
   "gdp_per_capita_usd": 35000,
+  "gdp_ppp_billion_usd": 163.8,
   "inflation_rate_pct": 2.8,
   "unemployment_rate_pct": 5.8,
   "debt_to_gdp_pct": 58.0,
+  "budget_deficit_pct_gdp": -3.5,
+  "foreign_exchange_reserves_billion_usd": 13.6,
+  "external_debt_billion_usd": 45.9,
+  "central_bank_policy_rate_pct": 4.4,
+  "tax_revenue_pct_gdp": 22.5,
   "top_exports": [
     "Tarım ve Emtia",
     "Petrol / Maden",
@@ -23,5 +29,15 @@
     "Çin",
     "Bölgesel Komşular"
   ],
-  "shadow_economy_pct_gdp": 18.0
+  "shadow_economy_pct_gdp": 18.0,
+  "critical_commodity_dependencies": [
+    "Rafine Petrol",
+    "Buğday / Tahıl",
+    "Yarı İletkenler"
+  ],
+  "strategic_economic_risks": [
+    "Yüksek enflasyon ve satın alma gücü erozyonu",
+    "Cari açık finansmanı ve dış borç çevrim riski",
+    "Sermaye kaçışı ve off-shore transfer baskısı"
+  ]
 }

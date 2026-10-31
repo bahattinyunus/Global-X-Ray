@@ -5,9 +5,15 @@
   "currency": "XOF",
   "gdp_nominal_billion_usd": 16.6,
   "gdp_per_capita_usd": 630,
+  "gdp_ppp_billion_usd": 24.1,
   "inflation_rate_pct": 8.0,
   "unemployment_rate_pct": 2.0,
   "debt_to_gdp_pct": 60.0,
+  "budget_deficit_pct_gdp": -3.5,
+  "foreign_exchange_reserves_billion_usd": 2.0,
+  "external_debt_billion_usd": 7.0,
+  "central_bank_policy_rate_pct": 8.8,
+  "tax_revenue_pct_gdp": 22.5,
   "top_exports": [
     "Maden ve Emtia",
     "Petrol / Gaz",
@@ -25,5 +31,15 @@
     "BAE",
     "Bölgesel Komşular"
   ],
-  "shadow_economy_pct_gdp": 48.0
+  "shadow_economy_pct_gdp": 48.0,
+  "critical_commodity_dependencies": [
+    "Rafine Petrol",
+    "Buğday / Tahıl",
+    "Yarı İletkenler"
+  ],
+  "strategic_economic_risks": [
+    "Yüksek enflasyon ve satın alma gücü erozyonu",
+    "Cari açık finansmanı ve dış borç çevrim riski",
+    "Sermaye kaçışı ve off-shore transfer baskısı"
+  ]
 }

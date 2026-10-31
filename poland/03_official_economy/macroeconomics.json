@@ -5,9 +5,15 @@
   "currency": "PLN (Polonya Zlotisi)",
   "gdp_nominal_billion_usd": 842.0,
   "gdp_per_capita_usd": 22600,
+  "gdp_ppp_billion_usd": 1220.9,
   "inflation_rate_pct": 4.5,
   "unemployment_rate_pct": 5.0,
   "debt_to_gdp_pct": 49.6,
+  "budget_deficit_pct_gdp": -3.5,
+  "foreign_exchange_reserves_billion_usd": 101.0,
+  "external_debt_billion_usd": 292.3,
+  "central_bank_policy_rate_pct": 5.8,
+  "tax_revenue_pct_gdp": 22.5,
   "top_exports": [
     "Makineler ve Elektrikli Donanım",
     "Motorlu Taşıtlar ve Parçaları",
@@ -29,5 +35,15 @@
     "İtalya",
     "ABD"
   ],
-  "shadow_economy_pct_gdp": 19.2
+  "shadow_economy_pct_gdp": 19.2,
+  "critical_commodity_dependencies": [
+    "Rafine Petrol",
+    "Buğday / Tahıl",
+    "Yarı İletkenler"
+  ],
+  "strategic_economic_risks": [
+    "Yüksek enflasyon ve satın alma gücü erozyonu",
+    "Cari açık finansmanı ve dış borç çevrim riski",
+    "Sermaye kaçışı ve off-shore transfer baskısı"
+  ]
 }

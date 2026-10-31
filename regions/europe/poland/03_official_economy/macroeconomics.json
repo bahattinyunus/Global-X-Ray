@@ -1,28 +1,33 @@
 {
   "country": "Polonya",
-  "official_name": "Polonya Devleti",
+  "official_name": "Polonya Cumhuriyeti",
   "iso_code": "POL",
-  "currency": "PLN",
-  "gdp_nominal_billion_usd": 811.0,
-  "gdp_per_capita_usd": 22000,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "currency": "PLN (Polonya Zlotisi)",
+  "gdp_nominal_billion_usd": 842.0,
+  "gdp_per_capita_usd": 22600,
+  "inflation_rate_pct": 4.5,
+  "unemployment_rate_pct": 5.0,
+  "debt_to_gdp_pct": 49.6,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Makineler ve Elektrikli Donanım",
+    "Motorlu Taşıtlar ve Parçaları",
+    "Mobilya",
+    "Plastik",
+    "Et ve Tarım Ürünleri"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
-    "Kimyasallar"
+    "Makineler",
+    "Ham Petrol ve Yakıtlar",
+    "Kimyasallar",
+    "Elektronik"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
-    "Çin",
-    "ABD",
-    "Avrupa Birliği"
+    "Almanya",
+    "Çekya",
+    "Fransa",
+    "İngiltere",
+    "İtalya",
+    "ABD"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "shadow_economy_pct_gdp": 19.2
 }

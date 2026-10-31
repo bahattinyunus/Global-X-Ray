@@ -1,0 +1,32 @@
+{
+  "country": "Bahreyn",
+  "official_name": "Bahreyn Krallığı",
+  "iso_code": "BHR",
+  "currency": "BHD (Bahreyn Dinarı)",
+  "gdp_nominal_billion_usd": 44.0,
+  "gdp_per_capita_usd": 29000,
+  "inflation_rate_pct": 1.1,
+  "unemployment_rate_pct": 1.4,
+  "debt_to_gdp_pct": 121.0,
+  "top_exports": [
+    "Rafine Petrol",
+    "İşlenmemiş Alüminyum (Alba)",
+    "Demir Cevheri",
+    "Kimyasallar"
+  ],
+  "top_imports": [
+    "Ham Petrol (Suudi Arabistan'dan boru hattıyla)",
+    "Makineler",
+    "Taşıtlar",
+    "Elektronik"
+  ],
+  "major_trading_partners": [
+    "Suudi Arabistan",
+    "BAE",
+    "ABD",
+    "Çin",
+    "Japonya",
+    "Hindistan"
+  ],
+  "shadow_economy_pct_gdp": 19.0
+}

@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Antigua ve Barbuda
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Antigua ve Barbuda Devleti
+- **Resmi Adı:** Antigua ve Barbuda
 - **Yönetim Modeli:** Parlamenter Monarşi
-- **Başkent:** St. John's
+- **Başkent:** Saint John's
+- **Ülke Kodu:** ATG
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** Gaston Browne
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı kurumları siyasi yürütmenin baskısı ve yapısal yavaşlık altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: ATG)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Güvenlik Güçleri ve Polis Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** OAS / CELAC / Mercosur / Caricom

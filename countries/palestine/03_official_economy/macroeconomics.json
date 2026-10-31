@@ -1,0 +1,31 @@
+{
+  "country": "Filistin",
+  "official_name": "Filistin Devleti",
+  "iso_code": "PSE",
+  "currency": "ILS (İsrail Şekeli), JOD (Ürdün Dinarı), USD",
+  "gdp_nominal_billion_usd": 18.0,
+  "gdp_per_capita_usd": 3300,
+  "inflation_rate_pct": 5.0,
+  "unemployment_rate_pct": 35.0,
+  "debt_to_gdp_pct": 50.0,
+  "top_exports": [
+    "Taş ve Mermer",
+    "Zeytinyağı",
+    "Hurma",
+    "Tekstil ve Ayakkabı"
+  ],
+  "top_imports": [
+    "Elektrik ve Su (İsrail'den)",
+    "Akaryakıt",
+    "Gıda",
+    "İnşaat Malzemeleri"
+  ],
+  "major_trading_partners": [
+    "İsrail (gümrük tekeli)",
+    "Ürdün",
+    "BAE",
+    "Türkiye",
+    "Mısır"
+  ],
+  "shadow_economy_pct_gdp": 38.0
+}

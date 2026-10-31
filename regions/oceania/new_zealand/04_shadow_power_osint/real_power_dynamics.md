@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Kraliyet/Hanedan ailesi, saray danışmanları kurulu ve hanedan varlık fonları tüm siyasi ve mali kararları tek elde tutar.
+Fonterra süt ürünleri kooperatifi tekeli, tarım ihracatçıları federasyonu, Waitangi Anlaşması Maori kabile tröstleri (Iwi sermayesi) ve bankacılık oligopolü.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Cook Adaları ve Niue offshore tröstleri (Yeni Zelanda ile serbest birlik statüsünde).) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+Çin'in devasa süt ve et alımı üzerinden elde ettiği nüfuz; Five Eyes ortaklarının Yeni Zelanda'yı Çin'e karşı yumuşak kalmakla eleştirmesi.

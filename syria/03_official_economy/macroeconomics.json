@@ -1,0 +1,31 @@
+{
+  "country": "Suriye",
+  "official_name": "Suriye Arap Cumhuriyeti",
+  "iso_code": "SYR",
+  "currency": "SYP (Suriye Lirası)",
+  "gdp_nominal_billion_usd": 12.5,
+  "gdp_per_capita_usd": 540,
+  "inflation_rate_pct": 95.0,
+  "unemployment_rate_pct": 45.0,
+  "debt_to_gdp_pct": 120.0,
+  "top_exports": [
+    "Captagon Uyuşturucu Hapları (Gölge Ekonomi)",
+    "Zeytinyağı",
+    "Fosfat",
+    "Kurutulmuş Meyve & Kimyon"
+  ],
+  "top_imports": [
+    "Ham Petrol (İran Kredi Hatları)",
+    "Tahıl & Buğday (Rusya)",
+    "İlaç",
+    "Plastik"
+  ],
+  "major_trading_partners": [
+    "Rusya",
+    "İran",
+    "Çin",
+    "Lübnan",
+    "Türkiye (Gayriresmi sınır ticareti)"
+  ],
+  "shadow_economy_pct_gdp": 65.0
+}

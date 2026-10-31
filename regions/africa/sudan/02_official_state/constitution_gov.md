@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Sudan
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Sudan Devleti
-- **Yönetim Modeli:** İç Savaş / Askeri Çatışma (SAF vs RSF)
-- **Başkent:** Hartum
+- **Resmi Adı:** Sudan
+- **Yönetim Modeli:** İç Savaş / Askeri Yıkım (SAF vs RSF)
+- **Başkent:** Hartum (Port Sudan)
+- **Ülke Kodu:** SDN
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Abdulfettah el-Burhan / Hemedti
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Abdulfettah el-Burhan (SAF) / Hemedti (RSF)
+- **Yargı Bağımsızlığı Analizi:** Yargı yürütmenin ve cumhurbaşkanlığı klanının doğrudan vesayeti altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: SDN)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Başkanlık Muhafızları, Ulusal Ordu ve İstihbarat Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** Afrika Birliği / ECOWAS / SADC

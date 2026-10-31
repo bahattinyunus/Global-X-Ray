@@ -1,0 +1,28 @@
+{
+  "country": "Kuzey Kıbrıs",
+  "official_name": "Kuzey Kıbrıs Türk Cumhuriyeti",
+  "iso_code": "TRNC",
+  "currency": "TRY (Türk Lirası)",
+  "gdp_nominal_billion_usd": 4.2,
+  "gdp_per_capita_usd": 11000,
+  "inflation_rate_pct": 65.0,
+  "unemployment_rate_pct": 7.5,
+  "debt_to_gdp_pct": 80.0,
+  "top_exports": [
+    "Turizm ve Casino Hizmetleri (Görünmez İhracat)",
+    "Yükseköğretim Gelirleri",
+    "Narenciye",
+    "Hellim Peyniri",
+    "Rakı"
+  ],
+  "top_imports": [
+    "Akaryakıt",
+    "Taşıtlar ve Makineler",
+    "İnşaat Malzemeleri",
+    "Gıda Ürünleri"
+  ],
+  "major_trading_partners": [
+    "Türkiye (Dış ticaretin %85'i)"
+  ],
+  "shadow_economy_pct_gdp": 42.0
+}

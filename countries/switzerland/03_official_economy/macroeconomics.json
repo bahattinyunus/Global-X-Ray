@@ -1,0 +1,33 @@
+{
+  "country": "İsviçre",
+  "official_name": "İsviçre Konfederasyonu",
+  "iso_code": "CHE",
+  "currency": "CHF (İsviçre Frangı - Güvenli Liman)",
+  "gdp_nominal_billion_usd": 905.0,
+  "gdp_per_capita_usd": 102000,
+  "inflation_rate_pct": 1.2,
+  "unemployment_rate_pct": 2.3,
+  "debt_to_gdp_pct": 38.0,
+  "top_exports": [
+    "Altın Külçeleri (Dünya altın rafinerisinin %70'i)",
+    "İlaç ve Aşılar",
+    "Hassas Saatler ve Cihazlar",
+    "Makineler",
+    "Kimyasallar"
+  ],
+  "top_imports": [
+    "İşlenmemiş Altın",
+    "İlaç ve Kimyasallar",
+    "Motorlu Taşıtlar",
+    "Mücevherat"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Almanya",
+    "İtalya",
+    "Çin",
+    "Fransa",
+    "İngiltere"
+  ],
+  "shadow_economy_pct_gdp": 6.4
+}

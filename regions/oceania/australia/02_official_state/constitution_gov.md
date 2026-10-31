@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Avustralya
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Avustralya Devleti
-- **Yönetim Modeli:** Federal Parlamenter Monarşi
+- **Resmi Adı:** Avustralya Milletler Topluluğu
+- **Yönetim Modeli:** Federal Parlamenter Anayasal Monarşi
 - **Başkent:** Canberra
+- **Ülke Kodu:** AUS
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Anthony Albanese
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Kral III. Charles / Anthony Albanese (Başbakan)
+- **Yargı Bağımsızlığı Analizi:** Yüksek Mahkeme ve federal mahkemeler son derece bağımsızdır; Ulusal Yolsuzlukla Mücadele Komisyonu (NACC) 2023'te kurulmuştur.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: AUS)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** ASIO (Güvenlik İstihbarat Teşkilatı), ASIS (Dış İstihbarat), ASD (Sinyal İstihbaratı) ve Avustralya Savunma Kuvvetleri (ADF).
+- **Jeopolitik İttifaklar ve Doktrinler:** AUKUS, Five Eyes, Quad, ANZUS, OECD, G20.

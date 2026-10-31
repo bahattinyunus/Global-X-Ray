@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Türkiye
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Türkiye Cumhuriyeti
-- **Yönetim Modeli:** Cumhurbaşkanlığı Hükümet Sistemi
+- **Resmi Adı:** Türkiye Cumhuriyeti
+- **Yönetim Modeli:** Cumhurbaşkanlığı Hükümet Sistemi (Hiper-Başkanlık)
 - **Başkent:** Ankara
+- **Ülke Kodu:** TUR
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** Recep Tayyip Erdoğan (Cumhurbaşkanı)
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** HSK üzerinden yürütme vesayetine giren yargı teşkilatı; AYM ve AİHM kararlarının uygulanmaması, muhalif siyasetçilere yönelik yargısal tasfiyeler.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: TUR)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** MİT (Milli İstihbarat Teşkilatı), TSK (Türk Silahlı Kuvvetleri), Emniyet Genel Müdürlüğü ve Jandarma.
+- **Jeopolitik İttifaklar ve Doktrinler:** NATO, BM, G20, Türk Devletleri Teşkilatı, İslam İşbirliği Teşkilatı.

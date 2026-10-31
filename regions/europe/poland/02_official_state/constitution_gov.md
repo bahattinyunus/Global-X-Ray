@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Polonya
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Polonya Devleti
+- **Resmi Adı:** Polonya Cumhuriyeti
 - **Yönetim Modeli:** Parlamenter Cumhuriyet
 - **Başkent:** Varşova
+- **Ülke Kodu:** POL
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Donald Tusk
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Donald Tusk (Başbakan) / Andrzej Duda (Cumhurbaşkanı)
+- **Yargı Bağımsızlığı Analizi:** Önceki hükümetin yargıyı kontrol altına alma yasaları AB ile yaptırım krizine yol açmıştır; Tusk hükümeti yargı bağımsızlığını restore etmeye çalışmaktadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: POL)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** ABW (İç Güvenlik Teşkilatı), AW (Dış İstihbarat) ve Polonya Ordusu (Avrupa'nın en hızlı büyüyen ordusu).
+- **Jeopolitik İttifaklar ve Doktrinler:** NATO (En yüksek savunma harcaması %4.2 GSYH), AB, Weimar Üçgeni, Visegrad Dörtlüsü.

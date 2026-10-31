@@ -1,0 +1,29 @@
+{
+  "country": "Angola",
+  "official_name": "Angola Cumhuriyeti",
+  "iso_code": "AGO",
+  "currency": "AOA",
+  "gdp_nominal_billion_usd": 93.8,
+  "gdp_per_capita_usd": 2600,
+  "inflation_rate_pct": 14.0,
+  "unemployment_rate_pct": 29.0,
+  "debt_to_gdp_pct": 60.0,
+  "top_exports": [
+    "Maden ve Emtia",
+    "Petrol / Gaz",
+    "Tarım Ürünleri"
+  ],
+  "top_imports": [
+    "İşlenmiş Yakıt",
+    "Gıda ve Tahıl",
+    "Makineler"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Fransa",
+    "Hindistan",
+    "BAE",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 38.0
+}

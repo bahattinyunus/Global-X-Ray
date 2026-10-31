@@ -1,28 +1,29 @@
 {
   "country": "Vietnam",
-  "official_name": "Vietnam Devleti",
+  "official_name": "Vietnam Cumhuriyeti",
   "iso_code": "VNM",
   "currency": "VND",
   "gdp_nominal_billion_usd": 430.0,
   "gdp_per_capita_usd": 4350,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "inflation_rate_pct": 3.5,
+  "unemployment_rate_pct": 2.3,
+  "debt_to_gdp_pct": 48.0,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Elektronik",
+    "Tekstil",
+    "Hammadde",
+    "Tarım"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
-    "Kimyasallar"
+    "Makineler",
+    "Enerji",
+    "Hassas Ekipman"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
     "Çin",
     "ABD",
-    "Avrupa Birliği"
+    "Japonya",
+    "Bölgesel Komşular"
   ],
   "shadow_economy_pct_gdp": 25.0
 }

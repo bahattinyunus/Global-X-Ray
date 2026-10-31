@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Kamboçya
 
-## 1. Ulusal Tarih ve Travmalar
-Kamboçya modern tarihinde bölgesel eşitsizlikler, etnik/kabile dengeleri ve gelir dağılımı adaletsizliği kritik kırılma noktalarıdır.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+Kamboçya tarihinde sömürge mirası, askeri darbeler ve etnik gerilimler belirleyicidir.
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 16,767,842
-- **Bölgesel Ayrışmalar:** Başkent Phnom Penh ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 16,767,842
+- **Resmi ve Konuşulan Diller:** Kmerce
+- **Kültürel Kırılma Eksenleri:** Hızlı sanayileşme ile geleneksel toplumsal hiyerarşi arasındaki çelişkiler.
+- **Bölgesel Ayrışmalar:** Başkent Phnom Penh ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

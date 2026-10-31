@@ -1,0 +1,33 @@
+{
+  "country": "Avustralya",
+  "official_name": "Avustralya Milletler Topluluğu",
+  "iso_code": "AUS",
+  "currency": "AUD (Avustralya Doları)",
+  "gdp_nominal_billion_usd": 1724.0,
+  "gdp_per_capita_usd": 65000,
+  "inflation_rate_pct": 2.8,
+  "unemployment_rate_pct": 4.1,
+  "debt_to_gdp_pct": 38.0,
+  "top_exports": [
+    "Demir Cevheri ve Konsantreleri",
+    "Kömür ve Briketler",
+    "Sıvılaştırılmış Doğal Gaz (LNG)",
+    "Altın",
+    "Lityum ve Kritik Mineraller",
+    "Buğday ve Sığır Eti"
+  ],
+  "top_imports": [
+    "Rafine Petrol",
+    "Motorlu Taşıtlar",
+    "Telekomünikasyon Ekipmanı",
+    "İlaç ve Aşılar"
+  ],
+  "major_trading_partners": [
+    "Çin (İhracatın %35'i)",
+    "Japonya",
+    "Güney Kore",
+    "ABD",
+    "Hindistan"
+  ],
+  "shadow_economy_pct_gdp": 9.2
+}

@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Tonga
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Tonga Devleti
+- **Resmi Adı:** Tonga
 - **Yönetim Modeli:** Anayasal Monarşi
 - **Başkent:** Nukuʻalofa
+- **Ülke Kodu:** TON
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Siaosi Sovaleni
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Kral VI. Tupou / Siaosi Sovaleni
+- **Yargı Bağımsızlığı Analizi:** Yargı kurumları İngiliz Milletler Topluluğu teamüllerine göre işlemektedir.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: TON)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Polis Güçleri ve Bölgesel Güvenlik Destek Birlikleri.
+- **Jeopolitik İttifaklar ve Doktrinler:** Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu

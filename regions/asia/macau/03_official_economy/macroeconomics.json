@@ -1,0 +1,29 @@
+{
+  "country": "Makao",
+  "official_name": "Makao",
+  "iso_code": "MAC",
+  "currency": "MOP",
+  "gdp_nominal_billion_usd": 47.0,
+  "gdp_per_capita_usd": 69000,
+  "inflation_rate_pct": 1.8,
+  "unemployment_rate_pct": 2.3,
+  "debt_to_gdp_pct": 48.0,
+  "top_exports": [
+    "Elektronik",
+    "Tekstil",
+    "Hammadde",
+    "Tarım"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Enerji",
+    "Hassas Ekipman"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "ABD",
+    "Japonya",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 15.0
+}

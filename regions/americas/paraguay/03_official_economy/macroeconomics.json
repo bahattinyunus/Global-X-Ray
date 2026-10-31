@@ -1,28 +1,27 @@
 {
   "country": "Paraguay",
-  "official_name": "Paraguay Devleti",
+  "official_name": "Paraguay Cumhuriyeti",
   "iso_code": "PRY",
   "currency": "PYG",
-  "gdp_nominal_billion_usd": 42.8,
-  "gdp_per_capita_usd": 6300,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "gdp_nominal_billion_usd": 44.0,
+  "gdp_per_capita_usd": 6500,
+  "inflation_rate_pct": 4.0,
+  "unemployment_rate_pct": 6.5,
+  "debt_to_gdp_pct": 58.0,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Tarım ve Emtia",
+    "Petrol / Maden",
+    "Hafif Sanayi"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
+    "Makineler",
+    "Rafine Yakıt",
     "Kimyasallar"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
-    "Çin",
     "ABD",
-    "Avrupa Birliği"
+    "Çin",
+    "Bölgesel Komşular"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "shadow_economy_pct_gdp": 38.0
 }

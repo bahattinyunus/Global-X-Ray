@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Veliaht Prens MBS ve Kamu Yatırım Fonu (PIF) etrafında merkezileşen genç kraliyet teknokrat kadrosu.
+Veliaht Prens Muhammed bin Selman (MBS), Kraliyet Divanı ve Kamu Yatırım Fonu (PIF) etrafında toplanan merkezi teknokrat zümre. Geleneksel Vahhabi uleması ve eski prensler tasfiye edilerek güç tek elde toplanmıştır.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Bahreyn, Cenevre özel bankaları, Londra emlak piyasası, Jersey ve Guernsey tröstleri.) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+ABD ile petro-dolar ve savunma güvenlik garantisi; Çin ile petro-yuan ve kapsamlı enerji ortaklığı.

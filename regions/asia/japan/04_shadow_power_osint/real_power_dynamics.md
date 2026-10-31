@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Liberal Demokrat Parti (LDP) hizip liderleri, elit bürokrasi (METI, Maliye) ve Keiretsu iş konglomeraları.
+Liberal Demokrat Parti (LDP) içi hizipler, Kasumigaseki elit bürokrasisi (METI ve Maliye Bakanlığı mandarins), Keidanren (Japon İş Federasyonu) ve Zaibatsu mirasçısı Keiretsu grupları.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Singapur, Hong Kong ve Hollanda holdingleri.) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+ABD askeri koruması ve Okinawa adasındaki yoğun ABD askeri üsleri varlığı.

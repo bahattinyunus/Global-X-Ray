@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Ruanda
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Ruanda Devleti
+- **Resmi Adı:** Ruanda
 - **Yönetim Modeli:** Başkanlık Otoriter (Kagame)
 - **Başkent:** Kigali
+- **Ülke Kodu:** RWA
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** Paul Kagame
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı yürütmenin ve cumhurbaşkanlığı klanının doğrudan vesayeti altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: RWA)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Başkanlık Muhafızları, Ulusal Ordu ve İstihbarat Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** Afrika Birliği / ECOWAS / SADC

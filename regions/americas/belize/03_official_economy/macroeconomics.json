@@ -1,28 +1,27 @@
 {
   "country": "Belize",
-  "official_name": "Belize Devleti",
+  "official_name": "Belize",
   "iso_code": "BLZ",
   "currency": "BZD",
-  "gdp_nominal_billion_usd": 3.1,
-  "gdp_per_capita_usd": 7600,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "gdp_nominal_billion_usd": 3.2,
+  "gdp_per_capita_usd": 7800,
+  "inflation_rate_pct": 3.5,
+  "unemployment_rate_pct": 5.0,
+  "debt_to_gdp_pct": 58.0,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Tarım ve Emtia",
+    "Petrol / Maden",
+    "Hafif Sanayi"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
+    "Makineler",
+    "Rafine Yakıt",
     "Kimyasallar"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
-    "Çin",
     "ABD",
-    "Avrupa Birliği"
+    "Çin",
+    "Bölgesel Komşular"
   ],
   "shadow_economy_pct_gdp": 25.0
 }

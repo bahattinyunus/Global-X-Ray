@@ -1,0 +1,32 @@
+{
+  "country": "Kuveyt",
+  "official_name": "Kuveyt Devleti",
+  "iso_code": "KWT",
+  "currency": "KWD (Kuveyt Dinarı - Dünyanın en değerli para birimi)",
+  "gdp_nominal_billion_usd": 160.0,
+  "gdp_per_capita_usd": 36000,
+  "inflation_rate_pct": 3.1,
+  "unemployment_rate_pct": 2.2,
+  "debt_to_gdp_pct": 3.5,
+  "top_exports": [
+    "Ham Petrol",
+    "Rafine Petrol Ürünleri",
+    "Doğal Gaz Sıvıları",
+    "Petrokimyasallar"
+  ],
+  "top_imports": [
+    "Motorlu Taşıtlar",
+    "Endüstriyel Makineler",
+    "Telekomünikasyon Teçhizatı",
+    "Lüks Mallar"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Güney Kore",
+    "Hindistan",
+    "Japonya",
+    "ABD",
+    "Suudi Arabistan"
+  ],
+  "shadow_economy_pct_gdp": 14.2
+}

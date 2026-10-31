@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Wall Street mega fonları (BlackRock, Vanguard), Askeri-Endüstriyel Kompleks (Lockheed, RTX) ve Silikon Vadisi teknoloji devleri.
+Askeri-Endüstriyel Kompleks (Lockheed Martin, RTX, General Dynamics), Wall Street finans oligarşisi (BlackRock, Vanguard, State Street), Silikon Vadisi 'Big Tech' tekelleri (Alphabet, Microsoft, Meta, Apple), K-Street lobi endüstrisi (AIPAC, NRA, Big Pharma) ve İstihbarat Topluluğu (CIA, NSA, DNI).
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Delaware kurumsal vergi cenneti, Nevada ve Güney Dakota gizli tröstleri, İsviçre ve Cayman Adaları.) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+Dünyanın süper gücü; ancak 35 trilyon dolarlık ulusal borç stoku ve yabancı ülkelerin (Çin, Japonya) tuttuğu ABD hazine tahvilleri riski.

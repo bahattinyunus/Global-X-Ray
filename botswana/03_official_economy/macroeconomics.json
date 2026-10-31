@@ -1,0 +1,29 @@
+{
+  "country": "Botsvana",
+  "official_name": "Botsvana Cumhuriyeti",
+  "iso_code": "BWA",
+  "currency": "BWP",
+  "gdp_nominal_billion_usd": 21.4,
+  "gdp_per_capita_usd": 8100,
+  "inflation_rate_pct": 3.2,
+  "unemployment_rate_pct": 25.0,
+  "debt_to_gdp_pct": 60.0,
+  "top_exports": [
+    "Maden ve Emtia",
+    "Petrol / Gaz",
+    "Tarım Ürünleri"
+  ],
+  "top_imports": [
+    "İşlenmiş Yakıt",
+    "Gıda ve Tahıl",
+    "Makineler"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Fransa",
+    "Hindistan",
+    "BAE",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 18.0
+}

@@ -1,0 +1,29 @@
+{
+  "country": "Kamboçya",
+  "official_name": "Kamboçya",
+  "iso_code": "KHM",
+  "currency": "KHR",
+  "gdp_nominal_billion_usd": 31.8,
+  "gdp_per_capita_usd": 1900,
+  "inflation_rate_pct": 2.5,
+  "unemployment_rate_pct": 1.2,
+  "debt_to_gdp_pct": 48.0,
+  "top_exports": [
+    "Elektronik",
+    "Tekstil",
+    "Hammadde",
+    "Tarım"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Enerji",
+    "Hassas Ekipman"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "ABD",
+    "Japonya",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 40.0
+}

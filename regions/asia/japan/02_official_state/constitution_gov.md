@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Japonya
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Japonya
-- **Yönetim Modeli:** Anayasal Monarşi ve Parlamenter Demokrasi
+- **Resmi Adı:** Japonya
+- **Yönetim Modeli:** Parlamenter Anayasal Monarşi
 - **Başkent:** Tokyo
+- **Ülke Kodu:** JPN
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Shigeru Ishiba (Başbakan) / İmparator Naruhito
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** İmparator Naruhito / Shigeru Ishiba (Başbakan)
+- **Yargı Bağımsızlığı Analizi:** Yargı sistemi %99.9 mahkumiyet oranıyla çalışır (rehin adaleti sistemi); rüşvet düşüktür ancak savcılık erki olağanüstü güçlüdür.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: JPN)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Japon Öz Savunma Kuvvetleri (JSDF), PSIA (Kamu Güvenliği İstihbarat Teşkilatı) ve Kabine İstihbarat Ofisi (CIRO).
+- **Jeopolitik İttifaklar ve Doktrinler:** ABD ile İkili Güvenlik Paktı (54 bin ABD askeri), G7, Quad, OECD.

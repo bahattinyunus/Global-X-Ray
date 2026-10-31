@@ -2,27 +2,30 @@
   "country": "Irak",
   "official_name": "Irak Cumhuriyeti",
   "iso_code": "IRQ",
-  "currency": "IQD",
-  "gdp_nominal_billion_usd": 254.4,
-  "gdp_per_capita_usd": 5880,
+  "currency": "IQD (Irak Dinarı)",
+  "gdp_nominal_billion_usd": 250.8,
+  "gdp_per_capita_usd": 5510,
   "inflation_rate_pct": 4.4,
   "unemployment_rate_pct": 15.5,
+  "debt_to_gdp_pct": 44.0,
   "top_exports": [
-    "Ham Petrol"
+    "Ham Petrol",
+    "Rafine Petrol",
+    "Hurma"
   ],
   "top_imports": [
-    "Rafine Petrol",
-    "Gıda",
+    "İşlenmiş Petrol & Gaz",
+    "Gıda & Tarım Ürünleri",
     "İlaç",
-    "Otomotiv",
-    "Elektrik"
+    "Makineler"
   ],
   "major_trading_partners": [
     "Çin",
     "Hindistan",
     "Türkiye",
-    "BAE",
-    "Güney Kore"
+    "ABD",
+    "İtalya",
+    "İran"
   ],
-  "shadow_economy_pct_gdp": 42.0
+  "shadow_economy_pct_gdp": 38.0
 }

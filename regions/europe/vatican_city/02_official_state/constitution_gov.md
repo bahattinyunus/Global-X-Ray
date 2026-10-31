@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Vatikan
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Vatikan Devleti
-- **Yönetim Modeli:** Teokratik Seçimli Mutlak Monarşi
+- **Resmi Adı:** Vatikan
+- **Yönetim Modeli:** Mutlak Teokratik Monarşi
 - **Başkent:** Vatikan
+- **Ülke Kodu:** VAT
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Papa Françesko
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Papa Françesko (Jorge Mario Bergoglio)
+- **Yargı Bağımsızlığı Analizi:** Yargı kurumları anayasal kurallara göre faaliyet gösterir.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: VAT)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Güvenlik ve Polis Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** Bölgesel Paktlar

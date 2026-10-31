@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Devrim Muhafızları Ordusu (IRGC / Pasdaran), Dini Lider Ofisi (Beyt-e Rahbari) ve dini vakıf imparatorlukları (Bunyadlar).
+Devrim Muhafızları Ordusu (IRGC / Pasdaran), Dini Lider Ofisi (Beyt-e Rahbari), Uzmanlar Meclisi ve bütçe denetiminden muaf devasa dini vakıf imparatorlukları (Bunyadlar).
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Dubai döviz büroları ağı (Hawala), Malezya, Ermenistan ve Irak bankacılık kanalları üzerinden yaptırım delme operasyonları.) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+Çin ile 25 yıllık 400 milyar dolarlık stratejik işbirliği anlaşması; Rusya ile askeri teknoloji ve İHA tedarik ortaklığı.

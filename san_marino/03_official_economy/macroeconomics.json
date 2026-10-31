@@ -1,0 +1,30 @@
+{
+  "country": "San Marino",
+  "official_name": "San Marino Cumhuriyeti",
+  "iso_code": "SMR",
+  "currency": "EUR",
+  "gdp_nominal_billion_usd": 1.8,
+  "gdp_per_capita_usd": 53000,
+  "inflation_rate_pct": 2.0,
+  "unemployment_rate_pct": 4.5,
+  "debt_to_gdp_pct": 55.0,
+  "top_exports": [
+    "Makineler",
+    "Kimyasallar",
+    "İşlenmiş Ürünler",
+    "Hizmetler"
+  ],
+  "top_imports": [
+    "Enerji",
+    "Hammadde",
+    "Elektronik",
+    "Taşıtlar"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "İtalya",
+    "Bölgesel Komşular",
+    "AB"
+  ],
+  "shadow_economy_pct_gdp": 12.0
+}

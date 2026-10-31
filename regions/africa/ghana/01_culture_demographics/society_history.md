@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Gana
 
-## 1. Ulusal Tarih ve Travmalar
-Gana modern tarihinde bölgesel eşitsizlikler, etnik/kabile dengeleri ve gelir dağılımı adaletsizliği kritik kırılma noktalarıdır.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+Gana modern tarihinde sömürge sınırları travması, askeri darbeler ve etnik/kabile çatışmaları belirleyicidir.
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 33,475,870
-- **Bölgesel Ayrışmalar:** Başkent Akra ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 33,475,870
+- **Resmi ve Konuşulan Diller:** İngilizce
+- **Kültürel Kırılma Eksenleri:** Kabile meclisleri ile modern devlet aygıtı arasındaki uyumsuzluk ve genç işsizliği.
+- **Bölgesel Ayrışmalar:** Başkent Accra ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

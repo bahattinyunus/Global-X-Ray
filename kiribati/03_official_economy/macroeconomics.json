@@ -1,0 +1,29 @@
+{
+  "country": "Kiribati",
+  "official_name": "Kiribati",
+  "iso_code": "KIR",
+  "currency": "AUD",
+  "gdp_nominal_billion_usd": 0.28,
+  "gdp_per_capita_usd": 2100,
+  "inflation_rate_pct": 2.5,
+  "unemployment_rate_pct": 5.0,
+  "debt_to_gdp_pct": 45.0,
+  "top_exports": [
+    "Balık ve Ton Balığı",
+    "Kopralık Hindistan Cevizi",
+    "Kereste",
+    "Turizm"
+  ],
+  "top_imports": [
+    "Yakıt",
+    "Gıda Maddeleri",
+    "Makineler"
+  ],
+  "major_trading_partners": [
+    "Avustralya",
+    "Çin",
+    "Yeni Zelanda",
+    "ABD"
+  ],
+  "shadow_economy_pct_gdp": 20.0
+}

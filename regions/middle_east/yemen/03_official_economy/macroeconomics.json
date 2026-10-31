@@ -1,0 +1,31 @@
+{
+  "country": "Yemen",
+  "official_name": "Yemen Cumhuriyeti",
+  "iso_code": "YEM",
+  "currency": "YER (Yemen Riyali - Bölünmüş kur sistemi)",
+  "gdp_nominal_billion_usd": 21.0,
+  "gdp_per_capita_usd": 620,
+  "inflation_rate_pct": 35.0,
+  "unemployment_rate_pct": 32.0,
+  "debt_to_gdp_pct": 85.0,
+  "top_exports": [
+    "Ham Petrol (sınırlı)",
+    "Kahve",
+    "Kurutulmuş Balık",
+    "Hurda Metal"
+  ],
+  "top_imports": [
+    "Tahıl ve Un",
+    "Akaryakıt",
+    "Pirinç",
+    "Tıbbi Malzeme"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Suudi Arabistan",
+    "BAE",
+    "Umman",
+    "Hindistan"
+  ],
+  "shadow_economy_pct_gdp": 60.0
+}

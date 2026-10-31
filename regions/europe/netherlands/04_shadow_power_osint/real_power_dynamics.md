@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Kraliyet/Hanedan ailesi, saray danışmanları kurulu ve hanedan varlık fonları tüm siyasi ve mali kararları tek elde tutar.
+Küresel çokuluslu devler (ASML, Shell mirası, Unilever mirası, Philips, ING), Rotterdam Limanı lojistik konsorsiyumu ve AIVD istihbaratı.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Hollanda 'Dutch Sandwich' holding yapısı ve vergi anlaşmaları ağı (küresel şirketlerin ana vergi optimizasyon üssü).) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+ABD'nin ASML çip makinelerinin Çin'e ihracatını veto etmesi ve uyguladığı teknolojik vesayet.

@@ -1,0 +1,27 @@
+{
+  "country": "Bolivya",
+  "official_name": "Bolivya Cumhuriyeti",
+  "iso_code": "BOL",
+  "currency": "BOB",
+  "gdp_nominal_billion_usd": 46.0,
+  "gdp_per_capita_usd": 3700,
+  "inflation_rate_pct": 3.0,
+  "unemployment_rate_pct": 4.0,
+  "debt_to_gdp_pct": 58.0,
+  "top_exports": [
+    "Tarım ve Emtia",
+    "Petrol / Maden",
+    "Hafif Sanayi"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Rafine Yakıt",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Çin",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 55.0
+}

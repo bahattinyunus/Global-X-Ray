@@ -1,0 +1,32 @@
+{
+  "country": "Kanada",
+  "official_name": "Kanada",
+  "iso_code": "CAN",
+  "currency": "CAD (Kanada Doları)",
+  "gdp_nominal_billion_usd": 2140.0,
+  "gdp_per_capita_usd": 53400,
+  "inflation_rate_pct": 2.0,
+  "unemployment_rate_pct": 6.5,
+  "debt_to_gdp_pct": 104.0,
+  "top_exports": [
+    "Ham Petrol ve Bitümlü Kumlar",
+    "Otomobil ve Parçaları",
+    "Altın ve Değerli Metaller",
+    "Kereste ve Odun Hamuru",
+    "Doğalgaz ve Potas"
+  ],
+  "top_imports": [
+    "Motorlu Taşıtlar",
+    "Tüketim Malları",
+    "Elektronik",
+    "Endüstriyel Makineler"
+  ],
+  "major_trading_partners": [
+    "ABD (İhracatın %76'sı)",
+    "Çin",
+    "İngiltere",
+    "Japonya",
+    "Meksika"
+  ],
+  "shadow_economy_pct_gdp": 10.5
+}

@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Siloviki (FSB, SVR, GRU, Güvenlik Konseyi bürokratları) ve Putin'e sadık devlet-bağlantılı oligark elitleri.
+Siloviki Kliği (FSB, Güvenlik Konseyi - Patruşev, Savunma Bakanlığı), Kremlin Başkanlık İdaresi, devlete el koyan devlet oligarkları (Seçin, Miller, Çemezov) ve Ortodoks Kilisesi hamiliği.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Tarihsel Londra/Kıbrıs rotası yaptırımlarla kilitlenmiş; yerini Dubai, Hong Kong, Moskova offshore adaları (Oktyabrsky/Russky) almıştır.) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+Çin'e artan hammadde ve teknoloji bağımlılığı (küçük ortak statüsü); Kuzey Kore ve İran askeri müttefikliği.

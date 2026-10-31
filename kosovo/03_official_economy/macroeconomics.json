@@ -1,0 +1,30 @@
+{
+  "country": "Kosova",
+  "official_name": "Kosova Cumhuriyeti",
+  "iso_code": "XKX",
+  "currency": "EUR",
+  "gdp_nominal_billion_usd": 10.4,
+  "gdp_per_capita_usd": 5900,
+  "inflation_rate_pct": 2.5,
+  "unemployment_rate_pct": 11.8,
+  "debt_to_gdp_pct": 55.0,
+  "top_exports": [
+    "Makineler",
+    "Kimyasallar",
+    "İşlenmiş Ürünler",
+    "Hizmetler"
+  ],
+  "top_imports": [
+    "Enerji",
+    "Hammadde",
+    "Elektronik",
+    "Taşıtlar"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "İtalya",
+    "Bölgesel Komşular",
+    "AB"
+  ],
+  "shadow_economy_pct_gdp": 30.0
+}

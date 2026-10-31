@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Pakistan Ordusu Genel Karargahı (GHQ - Rawalpindi) ve Askeri İstihbarat (ISI).
+GHQ Rawalpindi (Pakistan Ordusu Genelkurmayı - Asım Münir), Servislerarası İstihbarat (ISI), Şerif ve Butto-Zerdari hanedan partileri (PML-N, PPP) ve orduya ait dev holding vakıfları (Fauji Foundation).
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Dubai emlak piyasası, Londra lüks mülkleri (Şerif ailesi Avenfield daireleri) ve İsviçre.) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+Çin'in CPEC borçları üzerinden kazandığı altyapı vesayeti; IMF kurtarma paketlerine mutlak bağımlılık ve Körfez yardımları.

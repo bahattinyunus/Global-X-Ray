@@ -1,0 +1,33 @@
+{
+  "country": "Rusya",
+  "official_name": "Rusya Federasyonu",
+  "iso_code": "RUS",
+  "currency": "RUB (Rus Rublesi)",
+  "gdp_nominal_billion_usd": 2021.0,
+  "gdp_per_capita_usd": 14000,
+  "inflation_rate_pct": 8.5,
+  "unemployment_rate_pct": 2.4,
+  "debt_to_gdp_pct": 16.0,
+  "top_exports": [
+    "Ham Petrol ve Petrol Ürünleri (Gölge Filo)",
+    "Doğalgaz (Boru Hattı & LNG)",
+    "Gübre ve Kimyasallar",
+    "Tahıl ve Buğday",
+    "Zenginleştirilmiş Uranyum ve Metaller"
+  ],
+  "top_imports": [
+    "Hassas Elektronik ve Çipler (Çin/Türkiye gri kanalları)",
+    "Makineler ve Taşıtlar",
+    "Tüketim Malları",
+    "İlaç"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Hindistan",
+    "Türkiye",
+    "Belarus",
+    "Kazakistan",
+    "BAE"
+  ],
+  "shadow_economy_pct_gdp": 38.2
+}

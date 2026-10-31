@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): San Marino
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** San Marino Devleti
-- **Yönetim Modeli:** Parlamenter İkili Naip
+- **Resmi Adı:** San Marino Cumhuriyeti
+- **Yönetim Modeli:** Parlamenter Cumhuriyet (Yüzbaşı Naibleri)
 - **Başkent:** San Marino
+- **Ülke Kodu:** SMR
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Kaptan Naibler
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Alessandro Rossi / Milena Gasperoni
+- **Yargı Bağımsızlığı Analizi:** Yargı kurumları anayasal kurallara göre faaliyet gösterir.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: SMR)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Güvenlik ve Polis Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** Bölgesel Paktlar

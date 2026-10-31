@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Bosna-Hersek
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Bosna-Hersek Devleti
-- **Yönetim Modeli:** Üçlü Devlet Başkanlığı
+- **Resmi Adı:** Bosna-Hersek
+- **Yönetim Modeli:** Üçlü Devlet Başkanlığı Konseyi
 - **Başkent:** Saraybosna
+- **Ülke Kodu:** BIH
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** Denis Bećirović
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı kurumları anayasal kurallara göre faaliyet gösterir.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: BIH)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Güvenlik ve Polis Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** Bölgesel Paktlar

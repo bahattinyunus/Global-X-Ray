@@ -1,0 +1,29 @@
+{
+  "country": "Zambiya",
+  "official_name": "Zambiya Cumhuriyeti",
+  "iso_code": "ZMB",
+  "currency": "ZMW",
+  "gdp_nominal_billion_usd": 29.5,
+  "gdp_per_capita_usd": 1470,
+  "inflation_rate_pct": 15.0,
+  "unemployment_rate_pct": 12.0,
+  "debt_to_gdp_pct": 60.0,
+  "top_exports": [
+    "Maden ve Emtia",
+    "Petrol / Gaz",
+    "Tarım Ürünleri"
+  ],
+  "top_imports": [
+    "İşlenmiş Yakıt",
+    "Gıda ve Tahıl",
+    "Makineler"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Fransa",
+    "Hindistan",
+    "BAE",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 35.0
+}

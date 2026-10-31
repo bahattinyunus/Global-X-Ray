@@ -1,0 +1,29 @@
+{
+  "country": "Azerbaycan",
+  "official_name": "Azerbaycan Cumhuriyeti",
+  "iso_code": "AZE",
+  "currency": "AZN",
+  "gdp_nominal_billion_usd": 78.7,
+  "gdp_per_capita_usd": 7800,
+  "inflation_rate_pct": 3.5,
+  "unemployment_rate_pct": 5.5,
+  "debt_to_gdp_pct": 48.0,
+  "top_exports": [
+    "Elektronik",
+    "Tekstil",
+    "Hammadde",
+    "Tarım"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Enerji",
+    "Hassas Ekipman"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "ABD",
+    "Japonya",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 38.0
+}

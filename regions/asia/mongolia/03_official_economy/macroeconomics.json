@@ -1,28 +1,29 @@
 {
   "country": "Moğolistan",
-  "official_name": "Moğolistan Devleti",
+  "official_name": "Moğolistan Cumhuriyeti",
   "iso_code": "MNG",
   "currency": "MNT",
   "gdp_nominal_billion_usd": 19.9,
   "gdp_per_capita_usd": 5800,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "inflation_rate_pct": 7.0,
+  "unemployment_rate_pct": 5.2,
+  "debt_to_gdp_pct": 48.0,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Elektronik",
+    "Tekstil",
+    "Hammadde",
+    "Tarım"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
-    "Kimyasallar"
+    "Makineler",
+    "Enerji",
+    "Hassas Ekipman"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
     "Çin",
     "ABD",
-    "Avrupa Birliği"
+    "Japonya",
+    "Bölgesel Komşular"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "shadow_economy_pct_gdp": 28.0
 }

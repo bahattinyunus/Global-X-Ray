@@ -1,0 +1,30 @@
+{
+  "country": "Kıbrıs Rum Kesimi",
+  "official_name": "Kıbrıs Rum Kesimi Cumhuriyeti",
+  "iso_code": "CYP",
+  "currency": "EUR",
+  "gdp_nominal_billion_usd": 32.2,
+  "gdp_per_capita_usd": 34500,
+  "inflation_rate_pct": 2.1,
+  "unemployment_rate_pct": 5.8,
+  "debt_to_gdp_pct": 55.0,
+  "top_exports": [
+    "Makineler",
+    "Kimyasallar",
+    "İşlenmiş Ürünler",
+    "Hizmetler"
+  ],
+  "top_imports": [
+    "Enerji",
+    "Hammadde",
+    "Elektronik",
+    "Taşıtlar"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "İtalya",
+    "Bölgesel Komşular",
+    "AB"
+  ],
+  "shadow_economy_pct_gdp": 24.0
+}

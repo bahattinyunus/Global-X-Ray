@@ -1,0 +1,29 @@
+{
+  "country": "Yeşil Burun Adaları",
+  "official_name": "Yeşil Burun Adaları",
+  "iso_code": "CPV",
+  "currency": "CVE",
+  "gdp_nominal_billion_usd": 2.6,
+  "gdp_per_capita_usd": 4400,
+  "inflation_rate_pct": 2.0,
+  "unemployment_rate_pct": 12.0,
+  "debt_to_gdp_pct": 60.0,
+  "top_exports": [
+    "Maden ve Emtia",
+    "Petrol / Gaz",
+    "Tarım Ürünleri"
+  ],
+  "top_imports": [
+    "İşlenmiş Yakıt",
+    "Gıda ve Tahıl",
+    "Makineler"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Fransa",
+    "Hindistan",
+    "BAE",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 15.0
+}

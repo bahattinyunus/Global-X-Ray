@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Papua Yeni Gine
 
-## 1. Ulusal Tarih ve Travmalar
-Papua Yeni Gine modern tarihinde bölgesel eşitsizlikler, etnik/kabile dengeleri ve gelir dağılımı adaletsizliği kritik kırılma noktalarıdır.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+Papua Yeni Gine adalarında nükleer deneme mirası, sömürge bölünmeleri ve iklim felaketleri travmatik hafızadır.
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 10,142,619
-- **Bölgesel Ayrışmalar:** Başkent Port Moresby ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 10,142,619
+- **Resmi ve Konuşulan Diller:** Tok Pisin, İngilizce, Hiri Motu
+- **Kültürel Kırılma Eksenleri:** Geleneksel kabile şeflik yapıları ile modern anayasal meclis yetkileri arasındaki çelişkiler.
+- **Bölgesel Ayrışmalar:** Başkent Port Moresby ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

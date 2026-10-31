@@ -2,25 +2,25 @@
   "country": "Amerika Birleşik Devletleri",
   "official_name": "Amerika Birleşik Devletleri",
   "iso_code": "USA",
-  "currency": "USD",
+  "currency": "USD (Amerikan Doları - Küresel Rezerv Para)",
   "gdp_nominal_billion_usd": 27360.0,
   "gdp_per_capita_usd": 81600,
-  "inflation_rate_pct": 3.0,
-  "unemployment_rate_pct": 3.9,
+  "inflation_rate_pct": 2.4,
+  "unemployment_rate_pct": 4.1,
+  "debt_to_gdp_pct": 123.0,
   "top_exports": [
-    "Rafine Petrol",
-    "Ham Petrol",
-    "Doğal Gaz",
-    "Sivil Havacılık (Boeing)",
-    "Yarı İletkenler & Yazılım",
-    "Tarım (Soya, Mısır)"
+    "Rafine Petrol ve Sıvılaştırılmış Doğalgaz (LNG)",
+    "Uçak ve Havacılık Ekipmanları",
+    "Yarı İletkenler ve Çipler",
+    "İlaç ve Tıbbi Cihazlar",
+    "Soya Fasulyesi ve Tarım Ürünleri"
   ],
   "top_imports": [
-    "Otomobil",
-    "Bilgisayar & Akıllı Telefon",
-    "İlaç",
+    "Motorlu Taşıtlar ve Parçaları",
     "Ham Petrol",
-    "Tüketim Malları"
+    "Bilgisayar ve Telekom Ekipmanı",
+    "İlaç",
+    "Tüketim Malları (Çin ve Meksika'dan)"
   ],
   "major_trading_partners": [
     "Kanada",

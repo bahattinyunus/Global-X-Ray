@@ -1,28 +1,30 @@
 {
   "country": "Lüksemburg",
-  "official_name": "Lüksemburg Devleti",
+  "official_name": "Lüksemburg",
   "iso_code": "LUX",
   "currency": "EUR",
-  "gdp_nominal_billion_usd": 85.7,
+  "gdp_nominal_billion_usd": 86.0,
   "gdp_per_capita_usd": 130000,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "inflation_rate_pct": 2.2,
+  "unemployment_rate_pct": 5.6,
+  "debt_to_gdp_pct": 55.0,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Makineler",
+    "Kimyasallar",
+    "İşlenmiş Ürünler",
+    "Hizmetler"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
-    "Kimyasallar"
+    "Enerji",
+    "Hammadde",
+    "Elektronik",
+    "Taşıtlar"
   ],
   "major_trading_partners": [
+    "Almanya",
+    "İtalya",
     "Bölgesel Komşular",
-    "Çin",
-    "ABD",
-    "Avrupa Birliği"
+    "AB"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "shadow_economy_pct_gdp": 7.0
 }

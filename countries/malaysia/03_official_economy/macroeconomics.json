@@ -1,0 +1,29 @@
+{
+  "country": "Malezya",
+  "official_name": "Malezya",
+  "iso_code": "MYS",
+  "currency": "MYR",
+  "gdp_nominal_billion_usd": 430.0,
+  "gdp_per_capita_usd": 12500,
+  "inflation_rate_pct": 2.0,
+  "unemployment_rate_pct": 3.3,
+  "debt_to_gdp_pct": 48.0,
+  "top_exports": [
+    "Elektronik",
+    "Tekstil",
+    "Hammadde",
+    "Tarım"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Enerji",
+    "Hassas Ekipman"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "ABD",
+    "Japonya",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 18.0
+}

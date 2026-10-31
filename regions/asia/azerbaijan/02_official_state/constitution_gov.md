@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Azerbaycan
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Azerbaycan Devleti
+- **Resmi Adı:** Azerbaycan Cumhuriyeti
 - **Yönetim Modeli:** Başkanlık Cumhuriyeti (Aliyev Hanedanı)
 - **Başkent:** Bakü
+- **Ülke Kodu:** AZE
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** İlham Aliyev
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı yürütmenin ve iktidar partisinin sıkı denetimi altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: AZE)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Ordu ve Devlet İstihbarat Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** ASEAN / ŞİÖ / Bölgesel Paktlar

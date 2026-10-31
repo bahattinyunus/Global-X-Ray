@@ -1,0 +1,27 @@
+{
+  "country": "Porto Riko",
+  "official_name": "Porto Riko",
+  "iso_code": "PRI",
+  "currency": "USD",
+  "gdp_nominal_billion_usd": 113.0,
+  "gdp_per_capita_usd": 35000,
+  "inflation_rate_pct": 2.8,
+  "unemployment_rate_pct": 5.8,
+  "debt_to_gdp_pct": 58.0,
+  "top_exports": [
+    "Tarım ve Emtia",
+    "Petrol / Maden",
+    "Hafif Sanayi"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Rafine Yakıt",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Çin",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 18.0
+}

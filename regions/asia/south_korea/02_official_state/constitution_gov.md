@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Güney Kore
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Kore Cumhuriyeti
+- **Resmi Adı:** Kore Cumhuriyeti
 - **Yönetim Modeli:** Başkanlık Cumhuriyeti
 - **Başkent:** Seul
+- **Ülke Kodu:** KOR
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Yoon Suk-yeol (Devlet Başkanı)
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Yoon Suk-yeol (Devlet Başkanı) / Han Duck-soo (Başbakan)
+- **Yargı Bağımsızlığı Analizi:** Savcılık makamı siyaseti tasfiye edebilecek olağanüstü güce sahiptir (mevcut Cumhurbaşkanı eski Başsavcıdır); ancak Chaebol liderleri genelde başkanlık affıyla serbest kalır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: KOR)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal İstihbarat Servisi (NIS), Savunma Karşı İstihbarat Komutanlığı ve Kore Cumhuriyeti Silahlı Kuvvetleri.
+- **Jeopolitik İttifaklar ve Doktrinler:** ABD ile Karşılıklı Savunma Antlaşması (28.500 ABD askeri), OECD, G20.

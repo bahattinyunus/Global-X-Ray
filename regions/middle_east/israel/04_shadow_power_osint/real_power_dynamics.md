@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Askeri-Güvenlik Bürokrasisi (IDF, Şin Bet, Mossad), aşırı sağcı/dini koalisyon ortakları ve savunma/siber teknoloji tekelleri.
+Askeri-Güvenlik Bürokrasisi (IDF Genelkurmayı, Şin Bet, Mossad), aşırı sağcı/dini koalisyon ortakları (Dini Siyonizm, Otzma Yehudit), savunma sanayii ve Unit 8200 mezunlarının kurduğu siber gözetim tekelleri.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Kıbrıs, Delaware, İsviçre ve Lüksemburg teknoloji yatırım fonları.) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+ABD'nin yıllık 3.8 milyar dolarlık askeri hibe desteği ve BM Güvenlik Konseyi veto koruması.

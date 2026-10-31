@@ -1,0 +1,32 @@
+{
+  "country": "Umman",
+  "official_name": "Umman Sultanlığı",
+  "iso_code": "OMN",
+  "currency": "OMR (Umman Riyali)",
+  "gdp_nominal_billion_usd": 108.0,
+  "gdp_per_capita_usd": 23500,
+  "inflation_rate_pct": 1.2,
+  "unemployment_rate_pct": 2.5,
+  "debt_to_gdp_pct": 36.5,
+  "top_exports": [
+    "Ham Petrol",
+    "LNG (Sıvılaştırılmış Doğalgaz)",
+    "Alüminyum",
+    "Gübre ve Kimyasallar"
+  ],
+  "top_imports": [
+    "Makineler ve Taşıtlar",
+    "Elektrikli Teçhizat",
+    "Demir-Çelik",
+    "Gıda"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Hindistan",
+    "BAE",
+    "Güney Kore",
+    "Japonya",
+    "Suudi Arabistan"
+  ],
+  "shadow_economy_pct_gdp": 17.5
+}

@@ -1,0 +1,30 @@
+{
+  "country": "Kuzey Makedonya",
+  "official_name": "Kuzey Makedonya Cumhuriyeti",
+  "iso_code": "MKD",
+  "currency": "MKD",
+  "gdp_nominal_billion_usd": 15.8,
+  "gdp_per_capita_usd": 8600,
+  "inflation_rate_pct": 3.2,
+  "unemployment_rate_pct": 13.0,
+  "debt_to_gdp_pct": 55.0,
+  "top_exports": [
+    "Makineler",
+    "Kimyasallar",
+    "İşlenmiş Ürünler",
+    "Hizmetler"
+  ],
+  "top_imports": [
+    "Enerji",
+    "Hammadde",
+    "Elektronik",
+    "Taşıtlar"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "İtalya",
+    "Bölgesel Komşular",
+    "AB"
+  ],
+  "shadow_economy_pct_gdp": 28.0
+}

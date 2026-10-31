@@ -1,0 +1,29 @@
+{
+  "country": "Seyşeller",
+  "official_name": "Seyşeller Cumhuriyeti",
+  "iso_code": "SYC",
+  "currency": "SCR",
+  "gdp_nominal_billion_usd": 2.1,
+  "gdp_per_capita_usd": 19500,
+  "inflation_rate_pct": 1.5,
+  "unemployment_rate_pct": 3.0,
+  "debt_to_gdp_pct": 60.0,
+  "top_exports": [
+    "Maden ve Emtia",
+    "Petrol / Gaz",
+    "Tarım Ürünleri"
+  ],
+  "top_imports": [
+    "İşlenmiş Yakıt",
+    "Gıda ve Tahıl",
+    "Makineler"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Fransa",
+    "Hindistan",
+    "BAE",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 12.0
+}

@@ -1,9 +1,11 @@
-# 📡 Medya Mülkiyeti, Sansür ve Bilgi Kontrolü: Mikronezya
+# 📡 Medya Mülkiyeti, Sansür ve Bilgi Kontrolü: Mikronezya Federal Devletleri
+
+---
 
 ## 1. Medya Mülkiyet Haritası
-Mikronezya medya ortamı resmi denetim mekanizmaları, kamu ilan bağımlılığı ve ticari baskılarla şekillenmektedir.
+Mikronezya Federal Devletleri medya ortamı küçük ada şartlarında kısıtlı tiraj ve devlet denetimiyle yürümektedir.
 
 ## 2. Sansür Mekanizmaları ve Dijital Gözetim
-- **Resmi Düzenleyici Kurullar:** Yayın durdurma ve idari para cezaları.
-- **Siber Yasalar ve İnternet Engellemeleri:** Muhalif haber portalları, yolsuzluk ifşaları ve sosyal medya platformları üzerindeki bant daraltma ve engelleme kararları.
-- **Gazetecilere Yönelik Baskılar:** Akreditasyon iptalleri, yargısal taciz ve reklam gelirlerinden mahrum bırakma.
+- **Resmi Düzenleyici Kurullar:** Yayın durdurma, para cezaları ve lisans iptalleriyle muhalif yayın organları üzerinde finansal baskı.
+- **Siber Yasalar ve İnternet Engellemeleri:** Yolsuzluk ifşaları, bağımsız haber portalları ve sosyal medya ağlarına yönelik bant daraltma ve erişim engeli kararları.
+- **Gazetecilere Yönelik Baskılar:** Akreditasyon iptalleri, yargısal taciz, tutuklama tehditleri ve kamu reklam gelirlerinden mahrum bırakma.

@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Brunei
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Brunei Devleti
+- **Resmi Adı:** Brunei
 - **Yönetim Modeli:** Mutlak Monarşi (Sultanlık)
 - **Başkent:** Bandar Seri Begavan
+- **Ülke Kodu:** BRN
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** Hassanal Bolkiah
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı yürütmenin ve iktidar partisinin sıkı denetimi altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: BRN)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Ordu ve Devlet İstihbarat Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** ASEAN / ŞİÖ / Bölgesel Paktlar

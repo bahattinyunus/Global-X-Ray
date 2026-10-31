@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Amerika Birleşik Devletleri
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Amerika Birleşik Devletleri
-- **Yönetim Modeli:** Federal Anayasal Başkanlık Cumhuriyeti
+- **Resmi Adı:** Amerika Birleşik Devletleri
+- **Yönetim Modeli:** Federal Başkanlık Anayasal Cumhuriyeti
 - **Başkent:** Washington, D.C.
+- **Ülke Kodu:** USA
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Joe Biden / Donald Trump
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Joe Biden / Donald Trump (Seçilmiş Başkan) - Kongre ve Yüksek Mahkeme
+- **Yargı Bağımsızlığı Analizi:** Yüksek Mahkeme (Supreme Court) 6-3 muhafazakar çoğunlukla ömür boyu atanmış yargıçlarca yönetilir; Citizens United kararıyla seçimlere sınırsız kurumsal kara para akışı (Super PAC) yasallaşmıştır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: USA)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Pentagon (Savunma Bakanlığı), CIA (Merkezi İstihbarat), NSA (Ulusal Güvenlik Ajansı), FBI ve Birleşik Özel Harekat Komutanlığı (JSOC).
+- **Jeopolitik İttifaklar ve Doktrinler:** NATO (Lider), Five Eyes, AUKUS, Quad, G7, USMCA.

@@ -1,0 +1,27 @@
+{
+  "country": "Saint Vincent ve Grenadinler",
+  "official_name": "Saint Vincent ve Grenadinler",
+  "iso_code": "VCT",
+  "currency": "XCD",
+  "gdp_nominal_billion_usd": 1.0,
+  "gdp_per_capita_usd": 9600,
+  "inflation_rate_pct": 3.5,
+  "unemployment_rate_pct": 18.0,
+  "debt_to_gdp_pct": 58.0,
+  "top_exports": [
+    "Tarım ve Emtia",
+    "Petrol / Maden",
+    "Hafif Sanayi"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Rafine Yakıt",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Çin",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 20.0
+}

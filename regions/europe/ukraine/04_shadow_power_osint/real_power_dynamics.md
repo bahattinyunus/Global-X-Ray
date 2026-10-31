@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Devlet Başkanlığı Ofisi (Bankova), Ordu Komutanlığı ve Batı askeri/mali yardım koordinasyon kurulları.
+Cumhurbaşkanlığı Ofisi (Andriy Yermak), Ukrayna Silahlı Kuvvetleri Genelkurmayı, Batılı askeri yardım koordinatörleri (Pentagon/NATO) ve savaş döneminde etkisi kısıtlanan geleneksel oligark elitleri.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Kıbrıs, Londra ve İsviçre hesapları (özellikle savaş öncesi oligark kaçışları).) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+ABD ve AB'nin doğrudan bütçe ve askeri hibeleri olmadan devlet mekanizmasının ve ordunun çalışamaz olması.

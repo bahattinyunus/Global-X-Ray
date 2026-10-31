@@ -1,0 +1,29 @@
+{
+  "country": "Kazakistan",
+  "official_name": "Kazakistan Cumhuriyeti",
+  "iso_code": "KAZ",
+  "currency": "KZT",
+  "gdp_nominal_billion_usd": 261.0,
+  "gdp_per_capita_usd": 13000,
+  "inflation_rate_pct": 8.5,
+  "unemployment_rate_pct": 4.8,
+  "debt_to_gdp_pct": 48.0,
+  "top_exports": [
+    "Elektronik",
+    "Tekstil",
+    "Hammadde",
+    "Tarım"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Enerji",
+    "Hassas Ekipman"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "ABD",
+    "Japonya",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 28.5
+}

@@ -1,0 +1,30 @@
+{
+  "country": "Karadağ",
+  "official_name": "Karadağ Cumhuriyeti",
+  "iso_code": "MNE",
+  "currency": "EUR",
+  "gdp_nominal_billion_usd": 7.4,
+  "gdp_per_capita_usd": 11900,
+  "inflation_rate_pct": 4.0,
+  "unemployment_rate_pct": 12.0,
+  "debt_to_gdp_pct": 55.0,
+  "top_exports": [
+    "Makineler",
+    "Kimyasallar",
+    "İşlenmiş Ürünler",
+    "Hizmetler"
+  ],
+  "top_imports": [
+    "Enerji",
+    "Hammadde",
+    "Elektronik",
+    "Taşıtlar"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "İtalya",
+    "Bölgesel Komşular",
+    "AB"
+  ],
+  "shadow_economy_pct_gdp": 26.0
+}

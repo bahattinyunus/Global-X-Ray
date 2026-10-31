@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Filipinler
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Filipinler Devleti
+- **Resmi Adı:** Filipinler Cumhuriyeti
 - **Yönetim Modeli:** Başkanlık Cumhuriyeti
 - **Başkent:** Manila
+- **Ülke Kodu:** PHL
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** Ferdinand Marcos Jr.
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı yürütmenin ve iktidar partisinin sıkı denetimi altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: PHL)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Ordu ve Devlet İstihbarat Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** ASEAN / ŞİÖ / Bölgesel Paktlar

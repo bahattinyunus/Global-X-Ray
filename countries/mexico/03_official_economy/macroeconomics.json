@@ -1,0 +1,32 @@
+{
+  "country": "Meksika",
+  "official_name": "Meksika Birleşik Devletleri",
+  "iso_code": "MEX",
+  "currency": "MXN (Meksika Pesosu)",
+  "gdp_nominal_billion_usd": 1788.0,
+  "gdp_per_capita_usd": 13800,
+  "inflation_rate_pct": 4.6,
+  "unemployment_rate_pct": 2.7,
+  "debt_to_gdp_pct": 49.8,
+  "top_exports": [
+    "Motorlu Taşıtlar ve Kamyonlar",
+    "Bilgisayar ve Elektronik Cihazlar",
+    "Ham Petrol",
+    "Tıbbi Cihazlar",
+    "Tekila, Avokado ve Tarım Ürünleri"
+  ],
+  "top_imports": [
+    "Elektronik Parçalar ve Çipler",
+    "Rafine Benzin ve Doğalgaz",
+    "Otomobil Parçaları",
+    "Plastik"
+  ],
+  "major_trading_partners": [
+    "ABD (İhracatın %80'i)",
+    "Kanada",
+    "Çin",
+    "Almanya",
+    "Japonya"
+  ],
+  "shadow_economy_pct_gdp": 29.8
+}

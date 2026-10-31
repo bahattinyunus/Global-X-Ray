@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Türkiye
 
-## 1. Ulusal Tarih ve Travmalar
-Laik-Muhafazakar kutuplaşması, Kürt meselesi, Alevi-Sünni dinamikleri, sığınmacı/mülteci demografik baskısı.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+Cumhuriyetin kuruluşu ve hilafetin ilgası travması, laik-muhafazakar kutuplaşması, Kürt meselesi ve silahlı çatışma mirası, Alevi-Sünni kırılganlığı ve 4 milyonu aşkın sığınmacının oluşturduğu demografik baskı.
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 85,372,377
-- **Bölgesel Ayrışmalar:** Başkent Ankara ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 85,372,377
+- **Resmi ve Konuşulan Diller:** Türkçe (Resmi), Kürtçe, Zazaca, Arapça
+- **Kültürel Kırılma Eksenleri:** Seküler kentli orta sınıf ile muhafazakar taşra sermayesi çatışması; liyakat erozyonu ve beyin göçü.
+- **Bölgesel Ayrışmalar:** Başkent Ankara ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

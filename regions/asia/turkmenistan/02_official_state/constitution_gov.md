@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Türkmenistan
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Türkmenistan
-- **Yönetim Modeli:** Kişi Odaklı Totaliter Başkanlık Cumhuriyeti
+- **Resmi Adı:** Türkmenistan
+- **Yönetim Modeli:** Totaliter Hanedan Diktatörlüğü
 - **Başkent:** Aşkabat
+- **Ülke Kodu:** TKM
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Serdar Berdimuhamedov (Cumhurbaşkanı) / Kurbankulu Berdimuhamedov (Arkadag / Milli Lider)
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Serdar Berdimuhammedov / Gurbangulu Berdimuhammedov
+- **Yargı Bağımsızlığı Analizi:** Yargı yürütmenin ve iktidar partisinin sıkı denetimi altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: TKM)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Ordu ve Devlet İstihbarat Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** ASEAN / ŞİÖ / Bölgesel Paktlar

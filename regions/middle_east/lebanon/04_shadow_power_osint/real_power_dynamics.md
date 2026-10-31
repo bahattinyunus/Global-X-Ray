@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Hizbullah askeri/siyasi omurgası, geleneksel mezhep ağaları (Zuama sistemi) ve bankacılık oligarşisi.
+Hizbullah (Hasan Nasrallah sonrası askeri şura ve Şura Meclisi), Şii Emel Hareketi (Meclis Başkanı Nebih Berri), Dürzi Canbolat Hanedanı, Hristiyan Maruni partileri (LF, FPM) ve çöken bankacılık oligarşisi elitleri.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Tarihsel İsviçre/Kıbrıs kanalları; bankaların çöküşü sonrası nakit ekonomi ve Dubai transferleri.) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+İran'ın Hizbullah üzerindeki mutlak vesayeti; Fransa'nın geleneksel kültürel mandası; Suudi Arabistan'ın mali desteği kesmesi.

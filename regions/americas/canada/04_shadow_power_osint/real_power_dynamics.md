@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Kraliyet/Hanedan ailesi, saray danışmanları kurulu ve hanedan varlık fonları tüm siyasi ve mali kararları tek elde tutar.
+Büyük Altılı Bankacılık Karteli (RBC, TD vb.), Alberta petrol kumu baronları, telekom oligopolü (Rogers, Bell) ve federal sivil bürokrasi.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Barbados, Cayman Adaları ve Vancouver emlak sektörü kara para aklama kanalları (Vancouver Model).) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+ABD ekonomisine mutlak bağımlılık; Çin ve Hindistan'ın Kanada iç siyasetine ve seçimlerine gizli müdahale skandalları.

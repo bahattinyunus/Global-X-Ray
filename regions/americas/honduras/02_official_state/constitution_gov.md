@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Honduras
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Honduras Devleti
+- **Resmi Adı:** Honduras Cumhuriyeti
 - **Yönetim Modeli:** Başkanlık Cumhuriyeti
 - **Başkent:** Tegucigalpa
+- **Ülke Kodu:** HND
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** Xiomara Castro
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı kurumları siyasi yürütmenin baskısı ve yapısal yavaşlık altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: HND)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Güvenlik Güçleri ve Polis Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** OAS / CELAC / Mercosur / Caricom

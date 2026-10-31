@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Çin
 
-## 1. Ulusal Tarih ve Travmalar
-Aşağılanma Yüzyılı travması ve Tayvan birleşme doktrini, Sincan (Uygur) ve Tibet etnik baskıları, gayrimenkul borç krizi.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+1949 Çin Devrimi, Büyük İleri Atılım ve Kültür Devrimi travmaları, 1989 Tiananmen Meydanı katliamı, Sincan Uygur Özerk Bölgesi kampları ve Hong Kong Ulusal Güvenlik Yasası tasfiyeleri.
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 1,411,750,000
-- **Bölgesel Ayrışmalar:** Başkent Pekin ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 1,409,670,000
+- **Resmi ve Konuşulan Diller:** Mandarin Çincesi (Resmi) ve bölgesel diller
+- **Kültürel Kırılma Eksenleri:** Han Çinlisi merkezli homojenleştirme politikası ile Tibetli ve Uygur azınlıklar arasındaki derin kültürel baskı; gençlerdeki 'tang ping' (yan yatma) ekonomik karamsarlığı.
+- **Bölgesel Ayrışmalar:** Başkent Pekin ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

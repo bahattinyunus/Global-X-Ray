@@ -1,0 +1,33 @@
+{
+  "country": "İtalya",
+  "official_name": "İtalya Cumhuriyeti",
+  "iso_code": "ITA",
+  "currency": "EUR (Euro)",
+  "gdp_nominal_billion_usd": 2255.0,
+  "gdp_per_capita_usd": 38300,
+  "inflation_rate_pct": 1.3,
+  "unemployment_rate_pct": 6.8,
+  "debt_to_gdp_pct": 137.3,
+  "top_exports": [
+    "Makineler ve Ekipman",
+    "İlaç",
+    "Motorlu Taşıtlar ve Lüks Otomobiller",
+    "Giyim ve Deri Ürünleri",
+    "Gıda ve Şarap"
+  ],
+  "top_imports": [
+    "Doğalgaz ve Petrol",
+    "Taşıtlar ve Parçaları",
+    "Metaller",
+    "Elektronik"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "Fransa",
+    "ABD",
+    "İspanya",
+    "İsviçre",
+    "Çin"
+  ],
+  "shadow_economy_pct_gdp": 20.5
+}

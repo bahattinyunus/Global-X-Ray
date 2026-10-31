@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Mozambik
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Mozambik Devleti
+- **Resmi Adı:** Mozambik Cumhuriyeti
 - **Yönetim Modeli:** Başkanlık Cumhuriyeti (FRELIMO)
 - **Başkent:** Maputo
+- **Ülke Kodu:** MOZ
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** Daniel Chapo
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı yürütmenin ve cumhurbaşkanlığı klanının doğrudan vesayeti altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: MOZ)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Başkanlık Muhafızları, Ulusal Ordu ve İstihbarat Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** Afrika Birliği / ECOWAS / SADC

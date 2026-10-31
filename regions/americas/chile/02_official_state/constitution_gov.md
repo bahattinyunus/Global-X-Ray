@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Şili
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Şili Devleti
+- **Resmi Adı:** Şili Cumhuriyeti
 - **Yönetim Modeli:** Başkanlık Cumhuriyeti
 - **Başkent:** Santiago
+- **Ülke Kodu:** CHL
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** Gabriel Boric
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı kurumları siyasi yürütmenin baskısı ve yapısal yavaşlık altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: CHL)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Güvenlik Güçleri ve Polis Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** OAS / CELAC / Mercosur / Caricom

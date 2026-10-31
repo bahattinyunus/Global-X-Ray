@@ -1,0 +1,27 @@
+{
+  "country": "Peru",
+  "official_name": "Peru Cumhuriyeti",
+  "iso_code": "PER",
+  "currency": "PEN",
+  "gdp_nominal_billion_usd": 268.0,
+  "gdp_per_capita_usd": 7900,
+  "inflation_rate_pct": 2.2,
+  "unemployment_rate_pct": 6.0,
+  "debt_to_gdp_pct": 58.0,
+  "top_exports": [
+    "Tarım ve Emtia",
+    "Petrol / Maden",
+    "Hafif Sanayi"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Rafine Yakıt",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Çin",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 45.0
+}

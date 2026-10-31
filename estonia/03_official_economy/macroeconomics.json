@@ -1,0 +1,30 @@
+{
+  "country": "Estonya",
+  "official_name": "Estonya Cumhuriyeti",
+  "iso_code": "EST",
+  "currency": "EUR",
+  "gdp_nominal_billion_usd": 41.0,
+  "gdp_per_capita_usd": 30000,
+  "inflation_rate_pct": 3.6,
+  "unemployment_rate_pct": 7.4,
+  "debt_to_gdp_pct": 55.0,
+  "top_exports": [
+    "Makineler",
+    "Kimyasallar",
+    "İşlenmiş Ürünler",
+    "Hizmetler"
+  ],
+  "top_imports": [
+    "Enerji",
+    "Hammadde",
+    "Elektronik",
+    "Taşıtlar"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "İtalya",
+    "Bölgesel Komşular",
+    "AB"
+  ],
+  "shadow_economy_pct_gdp": 11.0
+}

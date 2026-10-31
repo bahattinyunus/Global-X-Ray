@@ -1,0 +1,29 @@
+{
+  "country": "Özbekistan",
+  "official_name": "Özbekistan Cumhuriyeti",
+  "iso_code": "UZB",
+  "currency": "UZS",
+  "gdp_nominal_billion_usd": 90.8,
+  "gdp_per_capita_usd": 2500,
+  "inflation_rate_pct": 9.8,
+  "unemployment_rate_pct": 6.8,
+  "debt_to_gdp_pct": 48.0,
+  "top_exports": [
+    "Elektronik",
+    "Tekstil",
+    "Hammadde",
+    "Tarım"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Enerji",
+    "Hassas Ekipman"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "ABD",
+    "Japonya",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 33.0
+}

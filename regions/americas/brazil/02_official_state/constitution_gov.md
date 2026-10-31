@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Brezilya
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Brezilya Federal Cumhuriyeti
+- **Resmi Adı:** Brezilya Federal Cumhuriyeti
 - **Yönetim Modeli:** Federal Başkanlık Cumhuriyeti
-- **Başkent:** Brasília
+- **Başkent:** Brasilia
+- **Ülke Kodu:** BRA
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Luiz Inácio Lula da Silva
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Luiz Inácio Lula da Silva (Devlet Başkanı) / Geraldo Alckmin (Devlet Başkanı Yardımcısı)
+- **Yargı Bağımsızlığı Analizi:** Yüksek Federal Mahkeme (STF) yürütme ve yasama üzerinde olağanüstü müdahaleci bir vesayet kurmuştur; dezenformasyon soruşturmalarıyla sosyal medya platformlarını dahi kapatabilmektedir.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: BRA)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** ABIN (Brezilya İstihbarat Teşkilatı), Brezilya Silahlı Kuvvetleri ve Eyalet Askeri Polisi (Polícia Militar).
+- **Jeopolitik İttifaklar ve Doktrinler:** BRICS (Kurucu), Mercosur, G20.

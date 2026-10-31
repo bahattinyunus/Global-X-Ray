@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Marshall Adaları
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Marshall Adaları Devleti
+- **Resmi Adı:** Marshall Adaları
 - **Yönetim Modeli:** Karma Parlamenter Başkanlık
 - **Başkent:** Majuro
+- **Ülke Kodu:** MHL
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** Hilda Heine
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı kurumları İngiliz Milletler Topluluğu teamüllerine göre işlemektedir.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: MHL)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Polis Güçleri ve Bölgesel Güvenlik Destek Birlikleri.
+- **Jeopolitik İttifaklar ve Doktrinler:** Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu

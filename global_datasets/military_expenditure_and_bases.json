@@ -1,0 +1,41 @@
+{
+  "title": "Küresel Askeri Harcamalar, Nükleer Statü ve Yabancı Askeri Üsler Matrisi",
+  "source": "SIPRI Military Expenditure Database & IISS The Military Balance",
+  "nuclear_powers": [
+    { "country": "United States", "code": "USA", "warheads": 5044, "first_test": 1945 },
+    { "country": "Russia", "code": "RUS", "warheads": 5580, "first_test": 1949 },
+    { "country": "China", "code": "CHN", "warheads": 500, "first_test": 1964 },
+    { "country": "France", "code": "FRA", "warheads": 290, "first_test": 1960 },
+    { "country": "United Kingdom", "code": "GBR", "warheads": 225, "first_test": 1952 },
+    { "country": "Pakistan", "code": "PAK", "warheads": 170, "first_test": 1998 },
+    { "country": "India", "code": "IND", "warheads": 172, "first_test": 1974 },
+    { "country": "Israel", "code": "ISR", "warheads": 90, "undeclared": true },
+    { "country": "North Korea", "code": "PRK", "warheads": 50, "first_test": 2006 }
+  ],
+  "foreign_base_networks": {
+    "USA": {
+      "estimated_overseas_bases": 750,
+      "key_locations": ["Germany (Ramstein)", "Japan (Okinawa)", "South Korea (Camp Humphreys)", "Qatar (Al Udeid)", "Bahrain (5th Fleet)", "Turkey (İncirlik)", "Italy (Aviano)", "UK (Lakenheath)"]
+    },
+    "RUS": {
+      "estimated_overseas_bases": 25,
+      "key_locations": ["Syria (Tartus & Khmeimim)", "Belarus", "Armenia (Gyumri)", "Tajikistan (201st Base)", "Kyrgyzstan (Kant)", "Central African Republic"]
+    },
+    "CHN": {
+      "estimated_overseas_bases": 5,
+      "key_locations": ["Djibouti (Doraleh Support Base)", "Cambodia (Ream Naval Base - de facto)", "Tajikistan (Gorno-Badakhshan Border Outpost)"]
+    },
+    "TUR": {
+      "estimated_overseas_bases": 10,
+      "key_locations": ["Somalia (TURKSOM Mogadishu)", "Qatar (Tariq bin Ziyad Base)", "Northern Cyprus (KTBK)", "Syria (Operation Zones)", "Iraq (Zlikan / Bashiqa)", "Azerbaijan (Joint Coordination Centers)"]
+    },
+    "FRA": {
+      "estimated_overseas_bases": 12,
+      "key_locations": ["Djibouti", "UAE (Camp de la Paix)", "Gabon", "Senegal", "Chad (N'Djamena)"]
+    },
+    "GBR": {
+      "estimated_overseas_bases": 15,
+      "key_locations": ["Cyprus (Akrotiri & Dhekelia)", "Gibraltar", "Falkland Islands", "Diego Garcia (BIOT / Joint US)", "Oman (Duqm)"]
+    }
+  }
+}

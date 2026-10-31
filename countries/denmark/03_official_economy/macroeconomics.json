@@ -1,0 +1,30 @@
+{
+  "country": "Danimarka",
+  "official_name": "Danimarka",
+  "iso_code": "DNK",
+  "currency": "DKK",
+  "gdp_nominal_billion_usd": 400.0,
+  "gdp_per_capita_usd": 67500,
+  "inflation_rate_pct": 1.8,
+  "unemployment_rate_pct": 4.8,
+  "debt_to_gdp_pct": 55.0,
+  "top_exports": [
+    "Makineler",
+    "Kimyasallar",
+    "İşlenmiş Ürünler",
+    "Hizmetler"
+  ],
+  "top_imports": [
+    "Enerji",
+    "Hammadde",
+    "Elektronik",
+    "Taşıtlar"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "İtalya",
+    "Bölgesel Komşular",
+    "AB"
+  ],
+  "shadow_economy_pct_gdp": 8.0
+}

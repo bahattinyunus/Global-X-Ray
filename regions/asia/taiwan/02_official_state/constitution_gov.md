@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Tayvan
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Tayvan Devleti
-- **Yönetim Modeli:** Yarı-Başkanlık Cumhuriyeti
+- **Resmi Adı:** Çin Cumhuriyeti (Tayvan)
+- **Yönetim Modeli:** Yarı-Başkanlık Temsili Demokrasi
 - **Başkent:** Taipei
+- **Ülke Kodu:** TWN
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Lai Ching-te
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Lai Ching-te (Devlet Başkanı) / Cho Jung-tai (Başbakan)
+- **Yargı Bağımsızlığı Analizi:** Yargı Konseyi (Judicial Yuan) Asya'nın en bağımsız ve ilerici yargı organlarından biridir.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: TWN)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Güvenlik Bürosu (NSB), Savunma Bakanlığı ve Asimetrik Harp (Kirpi Stratejisi) komutanlıkları.
+- **Jeopolitik İttifaklar ve Doktrinler:** ABD ile Tayvan İlişkileri Yasası (Silah satış garantisi), diplomatik olarak 12 ülke tarafından tanınma.

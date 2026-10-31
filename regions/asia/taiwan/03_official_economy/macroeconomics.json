@@ -1,28 +1,33 @@
 {
   "country": "Tayvan",
-  "official_name": "Tayvan Devleti",
+  "official_name": "Çin Cumhuriyeti (Tayvan)",
   "iso_code": "TWN",
-  "currency": "TWD",
+  "currency": "TWD (Yeni Tayvan Doları)",
   "gdp_nominal_billion_usd": 756.0,
   "gdp_per_capita_usd": 32000,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "inflation_rate_pct": 2.1,
+  "unemployment_rate_pct": 3.4,
+  "debt_to_gdp_pct": 27.5,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Gelişmiş Yarı İletkenler ve Çipler (TSMC)",
+    "Elektronik ve Bilgisayar Parçaları",
+    "Optik Cihazlar",
+    "Makineler",
+    "Plastik ve Kimyasallar"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
-    "Kimyasallar"
+    "Entegre Devreler",
+    "Ham Petrol ve LNG",
+    "Çip İmalat Ekipmanları",
+    "Kömür"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
     "Çin",
     "ABD",
-    "Avrupa Birliği"
+    "Hong Kong",
+    "Japonya",
+    "Singapur",
+    "Güney Kore"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "shadow_economy_pct_gdp": 18.0
 }

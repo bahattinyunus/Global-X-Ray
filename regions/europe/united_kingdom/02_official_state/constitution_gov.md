@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Birleşik Krallık
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı
-- **Yönetim Modeli:** Anayasal Monarşi ve Parlamenter Demokrasi
+- **Resmi Adı:** Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı
+- **Yönetim Modeli:** Parlamenter Anayasal Monarşi
 - **Başkent:** Londra
+- **Ülke Kodu:** GBR
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Keir Starmer (Başbakan) / Kral III. Charles
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Kral III. Charles / Keir Starmer (Başbakan)
+- **Yargı Bağımsızlığı Analizi:** İngiliz Hukuku (Common Law) ve Yüksek Mahkeme bağımsızdır; ancak parlamento egemenliği ilkesi anayasal üstünlüktür.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: GBR)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** MI6 (Gizli İstihbarat Servisi - SIS), MI5 (Güvenlik Servisi), GCHQ (Elektronik Dinleme) ve Kraliyet Donanması.
+- **Jeopolitik İttifaklar ve Doktrinler:** NATO (Kurucu), BM Güvenlik Konseyi Daimi Üyesi, G7, Five Eyes İstihbarat Paktı, AUKUS, İngiliz Milletler Topluluğu.

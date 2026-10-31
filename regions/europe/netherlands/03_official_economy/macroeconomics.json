@@ -1,28 +1,33 @@
 {
   "country": "Hollanda",
-  "official_name": "Hollanda Devleti",
+  "official_name": "Hollanda Krallığı",
   "iso_code": "NLD",
-  "currency": "EUR",
+  "currency": "EUR (Euro)",
   "gdp_nominal_billion_usd": 1118.0,
-  "gdp_per_capita_usd": 62700,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "gdp_per_capita_usd": 62500,
+  "inflation_rate_pct": 2.7,
+  "unemployment_rate_pct": 3.6,
+  "debt_to_gdp_pct": 46.5,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
-  ],
-  "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
+    "Fotolitografi Makineleri (ASML çip teknolojisi)",
+    "Rafine Petrol",
+    "Tarımsal Gıda ve Çiçekçilik",
+    "Makineler ve Bilgisayarlar",
     "Kimyasallar"
   ],
-  "major_trading_partners": [
-    "Bölgesel Komşular",
-    "Çin",
-    "ABD",
-    "Avrupa Birliği"
+  "top_imports": [
+    "Ham Petrol",
+    "Elektronik ve Telekom",
+    "Motorlu Taşıtlar",
+    "Tıbbi Cihazlar"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "major_trading_partners": [
+    "Almanya",
+    "Belçika",
+    "Fransa",
+    "İngiltere",
+    "ABD",
+    "Çin"
+  ],
+  "shadow_economy_pct_gdp": 7.8
 }

@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Güney Afrika
 
-## 1. Ulusal Tarih ve Travmalar
-Apartheid rejiminin ekonomik eşitsizlik mirası, Eskom enerji kesintileri krizi, yüksek suç ve cinayet oranları.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+1948-1994 Apartheid ırkçı rejim travması, Mandela'nın uzlaşması sonrası ekonomik dönüşümün gerçekleşememesi, Jacob Zuma dönemi 'State Capture' (devlet yağması) ve Temmuz 2021 yağma isyanları.
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 60,414,495
-- **Bölgesel Ayrışmalar:** Başkent Pretoria (İdari) / Cape Town (Yasama) ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 62,027,503
+- **Resmi ve Konuşulan Diller:** 12 Resmi Dil (İngilizce, Zulu, Xhosa, Afrikaans vb.)
+- **Kültürel Kırılma Eksenleri:** Dünyanın en yüksek gelir adaletsizliği (Gini katsayısı 0.63); yüksek cinayet oranları, gasp çeteleri ve yabancı Afrikalı göçmenlere yönelik ksenofobik linçler.
+- **Bölgesel Ayrışmalar:** Başkent Pretoria (İdari), Cape Town (Yasama), Bloemfontein (Yargı) ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

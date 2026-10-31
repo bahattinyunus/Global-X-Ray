@@ -1,0 +1,30 @@
+{
+  "country": "Lihtenştayn",
+  "official_name": "Lihtenştayn",
+  "iso_code": "LIE",
+  "currency": "CHF",
+  "gdp_nominal_billion_usd": 7.7,
+  "gdp_per_capita_usd": 195000,
+  "inflation_rate_pct": 1.2,
+  "unemployment_rate_pct": 1.3,
+  "debt_to_gdp_pct": 55.0,
+  "top_exports": [
+    "Makineler",
+    "Kimyasallar",
+    "İşlenmiş Ürünler",
+    "Hizmetler"
+  ],
+  "top_imports": [
+    "Enerji",
+    "Hammadde",
+    "Elektronik",
+    "Taşıtlar"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "İtalya",
+    "Bölgesel Komşular",
+    "AB"
+  ],
+  "shadow_economy_pct_gdp": 8.0
+}

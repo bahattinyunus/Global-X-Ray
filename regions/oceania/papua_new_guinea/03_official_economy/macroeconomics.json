@@ -1,28 +1,29 @@
 {
   "country": "Papua Yeni Gine",
-  "official_name": "Papua Yeni Gine Devleti",
+  "official_name": "Papua Yeni Gine",
   "iso_code": "PNG",
   "currency": "PGK",
   "gdp_nominal_billion_usd": 31.0,
   "gdp_per_capita_usd": 3050,
   "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "unemployment_rate_pct": 3.0,
+  "debt_to_gdp_pct": 45.0,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Balık ve Ton Balığı",
+    "Kopralık Hindistan Cevizi",
+    "Kereste",
+    "Turizm"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
-    "Kimyasallar"
+    "Yakıt",
+    "Gıda Maddeleri",
+    "Makineler"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
+    "Avustralya",
     "Çin",
-    "ABD",
-    "Avrupa Birliği"
+    "Yeni Zelanda",
+    "ABD"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "shadow_economy_pct_gdp": 38.0
 }

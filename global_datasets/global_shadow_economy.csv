@@ -1,37 +1,206 @@
 country_code,country_name,region,shadow_economy_pct_gdp,corruption_rank_ti_2024,rule_of_law_score,data_source
-USA,United States,americas,8.5,24,0.69,IMF / NBER / Transparency International
-DEU,Germany,europe,9.8,9,0.83,IMF / Schneider Shadow Economy Study
-GBR,United Kingdom,europe,11.2,20,0.78,Schneider Studies / Transparency International
-FRA,France,europe,13.8,21,0.73,Insee / Schneider
-JPN,Japan,asia,9.1,16,0.79,Bank of Japan / IMF
-CHN,China,asia,12.7,76,0.47,World Bank / National Bureau of Statistics
-TUR,Turkey,middle_east,28.4,115,0.41,Schneider / TÜİK / OECD
-RUS,Russia,europe,38.2,141,0.38,Federal Customs / Rosstat / OCCRP
-UKR,Ukraine,europe,32.6,104,0.49,Ministry of Economy Ukraine / World Bank
-IRN,Iran,middle_east,36.5,149,0.34,Central Bank of Iran / Transparency Int
-SAU,Saudi Arabia,middle_east,16.2,52,0.58,SAMA / IMF
-ARE,United Arab Emirates,middle_east,18.0,26,0.67,FATF Evaluation / IMF
-ISR,Israel,middle_east,18.5,33,0.68,Bank of Israel / OECD
-EGY,Egypt,africa,34.8,108,0.35,CAPMAS / World Bank
-NGA,Nigeria,africa,52.4,145,0.32,NBS / IMF African Dept
-ZAF,South Africa,africa,24.1,83,0.54,SARS / IMF
-BRA,Brazil,americas,33.5,104,0.49,IBGE / FGV Ibre
-MEX,Mexico,americas,29.8,126,0.42,INEGI / SAT
-ARG,Argentina,americas,27.2,98,0.52,INDEC / FMI
-IND,India,asia,22.4,93,0.50,RBI / NIPFP
-PAK,Pakistan,asia,35.6,133,0.39,State Bank of Pakistan / IMF
-IDN,Indonesia,asia,20.8,115,0.53,BPS / Transparency Int
-KOR,South Korea,asia,21.3,32,0.72,Bank of Korea / OECD
-TKM,Turkmenistan,asia,45.0,170,0.22,OCCRP / Crude Accountability
-KAZ,Kazakhstan,asia,28.5,93,0.52,KPMG Central Asia / Ministry of Finance
-UZB,Uzbekistan,asia,33.0,121,0.46,State Statistics Committee
-AZE,Azerbaijan,asia,38.0,154,0.31,OCCRP Azerbaijani Laundromat / World Bank
-GEO,Georgia,europe,22.0,49,0.61,GeoStat / Transparency Int
-BLR,Belarus,europe,31.0,98,0.36,BelStat / IMF
-POL,Poland,europe,19.2,47,0.64,GUS / Warsaw Institute
-ITA,Italy,europe,20.5,42,0.65,Istat / Bank of Italy
-ESP,Spain,europe,17.2,36,0.70,Funcas / Tax Agency
-GRC,Greece,europe,21.4,59,0.61,Bank of Greece / OECD
-SWE,Sweden,europe,7.8,6,0.86,Schneider / Skatteverket
-NOR,Norway,europe,8.2,4,0.89,SSB / IMF
-CHE,Switzerland,europe,6.4,7,0.87,SECO / Transparency Int
+TUR,Türkiye,middle_east,28.4,115,0.34,IMF / Schneider Studies / Transparency International
+IRN,İran,middle_east,36.5,149,0.24,IMF / Schneider Studies / Transparency International
+SAU,Suudi Arabistan,middle_east,16.2,52,0.52,IMF / Schneider Studies / Transparency International
+ISR,İsrail,middle_east,18.5,33,0.62,IMF / Schneider Studies / Transparency International
+ARE,Birleşik Arap Emirlikleri,middle_east,18.0,26,0.67,IMF / Schneider Studies / Transparency International
+IRQ,Irak,middle_east,38.0,154,0.23,IMF / Schneider Studies / Transparency International
+SYR,Suriye,middle_east,65.0,177,0.13,IMF / Schneider Studies / Transparency International
+QAT,Katar,middle_east,12.5,40,0.58,IMF / Schneider Studies / Transparency International
+LBN,Lübnan,middle_east,45.0,149,0.24,IMF / Schneider Studies / Transparency International
+JOR,Ürdün,middle_east,26.0,63,0.46,IMF / Schneider Studies / Transparency International
+KWT,Kuveyt,middle_east,14.2,63,0.46,IMF / Schneider Studies / Transparency International
+OMN,Umman,middle_east,17.5,58,0.49,IMF / Schneider Studies / Transparency International
+BHR,Bahreyn,middle_east,19.0,69,0.44,IMF / Schneider Studies / Transparency International
+YEM,Yemen,middle_east,60.0,176,0.16,IMF / Schneider Studies / Transparency International
+PSE,Filistin,middle_east,38.0,130,0.3,IMF / Schneider Studies / Transparency International
+TRNC,Kuzey Kıbrıs,middle_east,42.0,105,0.35,IMF / Schneider Studies / Transparency International
+DEU,Almanya,europe,9.8,9,0.78,IMF / Schneider Studies / Transparency International
+GBR,Birleşik Krallık,europe,11.2,20,0.71,IMF / Schneider Studies / Transparency International
+FRA,Fransa,europe,13.8,21,0.71,IMF / Schneider Studies / Transparency International
+RUS,Rusya,europe,38.2,141,0.26,IMF / Schneider Studies / Transparency International
+UKR,Ukrayna,europe,32.6,104,0.36,IMF / Schneider Studies / Transparency International
+ITA,İtalya,europe,20.5,42,0.56,IMF / Schneider Studies / Transparency International
+ESP,İspanya,europe,17.2,36,0.6,IMF / Schneider Studies / Transparency International
+POL,Polonya,europe,19.2,47,0.54,IMF / Schneider Studies / Transparency International
+NLD,Hollanda,europe,7.8,8,0.79,IMF / Schneider Studies / Transparency International
+CHE,İsviçre,europe,6.4,7,0.82,IMF / Schneider Studies / Transparency International
+ALB,Arnavutluk,europe,31.0,98,0.37,IMF / Schneider Studies / Transparency International
+AND,Andorra,europe,11.5,30,0.65,IMF / Schneider Studies / Transparency International
+AUT,Avusturya,europe,8.5,20,0.71,IMF / Schneider Studies / Transparency International
+BLR,Belarus,europe,31.0,98,0.37,IMF / Schneider Studies / Transparency International
+BEL,Belçika,europe,12.0,16,0.73,IMF / Schneider Studies / Transparency International
+BIH,Bosna-Hersek,europe,33.0,108,0.35,IMF / Schneider Studies / Transparency International
+BGR,Bulgaristan,europe,22.0,67,0.45,IMF / Schneider Studies / Transparency International
+HRV,Hırvatistan,europe,18.0,57,0.5,IMF / Schneider Studies / Transparency International
+CYP,Kıbrıs Rum Kesimi,europe,24.0,49,0.53,IMF / Schneider Studies / Transparency International
+CZE,Çekya,europe,13.5,41,0.57,IMF / Schneider Studies / Transparency International
+DNK,Danimarka,europe,8.0,1,0.9,IMF / Schneider Studies / Transparency International
+EST,Estonya,europe,11.0,12,0.76,IMF / Schneider Studies / Transparency International
+FIN,Finlandiya,europe,8.5,2,0.87,IMF / Schneider Studies / Transparency International
+GRC,Yunanistan,europe,21.4,59,0.49,IMF / Schneider Studies / Transparency International
+HUN,Macaristan,europe,19.0,76,0.42,IMF / Schneider Studies / Transparency International
+ISL,İzlanda,europe,7.5,14,0.72,IMF / Schneider Studies / Transparency International
+IRL,İrlanda,europe,9.5,11,0.77,IMF / Schneider Studies / Transparency International
+XKX,Kosova,europe,30.0,83,0.41,IMF / Schneider Studies / Transparency International
+LVA,Letonya,europe,18.0,36,0.6,IMF / Schneider Studies / Transparency International
+LIE,Lihtenştayn,europe,8.0,25,0.7,IMF / Schneider Studies / Transparency International
+LTU,Litvanya,europe,17.0,34,0.61,IMF / Schneider Studies / Transparency International
+LUX,Lüksemburg,europe,7.0,9,0.78,IMF / Schneider Studies / Transparency International
+MLT,Malta,europe,22.0,55,0.51,IMF / Schneider Studies / Transparency International
+MDA,Moldova,europe,28.0,76,0.42,IMF / Schneider Studies / Transparency International
+MCO,Monako,europe,10.0,25,0.7,IMF / Schneider Studies / Transparency International
+MNE,Karadağ,europe,26.0,63,0.46,IMF / Schneider Studies / Transparency International
+MKD,Kuzey Makedonya,europe,28.0,76,0.42,IMF / Schneider Studies / Transparency International
+NOR,Norveç,europe,8.2,4,0.84,IMF / Schneider Studies / Transparency International
+PRT,Portekiz,europe,16.0,34,0.61,IMF / Schneider Studies / Transparency International
+ROU,Romanya,europe,26.0,63,0.46,IMF / Schneider Studies / Transparency International
+SMR,San Marino,europe,12.0,35,0.6,IMF / Schneider Studies / Transparency International
+SRB,Sırbistan,europe,27.0,104,0.36,IMF / Schneider Studies / Transparency International
+SVK,Slovakya,europe,15.0,47,0.54,IMF / Schneider Studies / Transparency International
+SVN,Slovenya,europe,11.0,35,0.6,IMF / Schneider Studies / Transparency International
+SWE,İsveç,europe,7.8,6,0.82,IMF / Schneider Studies / Transparency International
+PMR,Transdinyester,europe,55.0,160,0.2,IMF / Schneider Studies / Transparency International
+VAT,Vatikan,europe,15.0,40,0.6,IMF / Schneider Studies / Transparency International
+CHN,Çin,asia,12.7,76,0.42,IMF / Schneider Studies / Transparency International
+IND,Hindistan,asia,22.4,93,0.39,IMF / Schneider Studies / Transparency International
+JPN,Japonya,asia,9.1,16,0.73,IMF / Schneider Studies / Transparency International
+KOR,Güney Kore,asia,21.3,32,0.63,IMF / Schneider Studies / Transparency International
+TWN,Tayvan,asia,18.0,28,0.67,IMF / Schneider Studies / Transparency International
+PAK,Pakistan,asia,35.6,133,0.29,IMF / Schneider Studies / Transparency International
+AFG,Afganistan,asia,50.0,162,0.2,IMF / Schneider Studies / Transparency International
+ARM,Ermenistan,asia,28.0,62,0.47,IMF / Schneider Studies / Transparency International
+AZE,Azerbaycan,asia,38.0,154,0.23,IMF / Schneider Studies / Transparency International
+BGD,Bangladeş,asia,32.0,149,0.24,IMF / Schneider Studies / Transparency International
+BTN,Bhutan,asia,15.0,26,0.68,IMF / Schneider Studies / Transparency International
+BRN,Brunei,asia,12.0,35,0.6,IMF / Schneider Studies / Transparency International
+KHM,Kamboçya,asia,40.0,158,0.22,IMF / Schneider Studies / Transparency International
+GEO,Gürcistan,asia,22.0,49,0.53,IMF / Schneider Studies / Transparency International
+HKG,Hong Kong,asia,14.0,14,0.75,IMF / Schneider Studies / Transparency International
+IDN,Endonezya,asia,20.8,115,0.34,IMF / Schneider Studies / Transparency International
+KAZ,Kazakistan,asia,28.5,93,0.39,IMF / Schneider Studies / Transparency International
+KGZ,Kırgızistan,asia,30.0,126,0.31,IMF / Schneider Studies / Transparency International
+LAO,Laos,asia,35.0,136,0.28,IMF / Schneider Studies / Transparency International
+MAC,Makao,asia,15.0,30,0.65,IMF / Schneider Studies / Transparency International
+MYS,Malezya,asia,18.0,57,0.5,IMF / Schneider Studies / Transparency International
+MDV,Maldivler,asia,22.0,93,0.39,IMF / Schneider Studies / Transparency International
+MNG,Moğolistan,asia,28.0,121,0.33,IMF / Schneider Studies / Transparency International
+MMR,Myanmar,asia,50.0,162,0.2,IMF / Schneider Studies / Transparency International
+NPL,Nepal,asia,34.0,108,0.35,IMF / Schneider Studies / Transparency International
+PRK,Kuzey Kore,asia,65.0,178,0.12,IMF / Schneider Studies / Transparency International
+PHL,Filipinler,asia,28.0,115,0.34,IMF / Schneider Studies / Transparency International
+SGP,Singapur,asia,8.0,5,0.83,IMF / Schneider Studies / Transparency International
+LKA,Sri Lanka,asia,32.0,115,0.34,IMF / Schneider Studies / Transparency International
+TJK,Tacikistan,asia,35.0,162,0.2,IMF / Schneider Studies / Transparency International
+THA,Tayland,asia,42.0,108,0.35,IMF / Schneider Studies / Transparency International
+TLS,Doğu Timor,asia,30.0,70,0.43,IMF / Schneider Studies / Transparency International
+TKM,Türkmenistan,asia,45.0,170,0.18,IMF / Schneider Studies / Transparency International
+UZB,Özbekistan,asia,33.0,121,0.33,IMF / Schneider Studies / Transparency International
+VNM,Vietnam,asia,25.0,83,0.41,IMF / Schneider Studies / Transparency International
+USA,Amerika Birleşik Devletleri,americas,8.5,24,0.69,IMF / Schneider Studies / Transparency International
+BRA,Brezilya,americas,33.5,104,0.36,IMF / Schneider Studies / Transparency International
+MEX,Meksika,americas,29.8,126,0.31,IMF / Schneider Studies / Transparency International
+CAN,Kanada,americas,10.5,12,0.76,IMF / Schneider Studies / Transparency International
+ARG,Arjantin,americas,27.2,98,0.37,IMF / Schneider Studies / Transparency International
+ATG,Antigua ve Barbuda,americas,15.0,35,0.6,IMF / Schneider Studies / Transparency International
+BHS,Bahamalar,americas,12.0,30,0.64,IMF / Schneider Studies / Transparency International
+BRB,Barbados,americas,14.0,29,0.69,IMF / Schneider Studies / Transparency International
+BLZ,Belize,americas,25.0,80,0.4,IMF / Schneider Studies / Transparency International
+BOL,Bolivya,americas,55.0,133,0.29,IMF / Schneider Studies / Transparency International
+CHL,Şili,americas,18.0,29,0.66,IMF / Schneider Studies / Transparency International
+COL,Kolombiya,americas,33.0,87,0.4,IMF / Schneider Studies / Transparency International
+CRI,Kosta Rika,americas,15.0,45,0.55,IMF / Schneider Studies / Transparency International
+CUB,Küba,americas,45.0,65,0.42,IMF / Schneider Studies / Transparency International
+DMA,Dominika,americas,20.0,40,0.55,IMF / Schneider Studies / Transparency International
+DOM,Dominik Cumhuriyeti,americas,30.0,108,0.35,IMF / Schneider Studies / Transparency International
+ECU,Ekvador,americas,35.0,115,0.34,IMF / Schneider Studies / Transparency International
+SLV,El Salvador,americas,28.0,126,0.31,IMF / Schneider Studies / Transparency International
+GRL,Grönland,americas,10.0,15,0.75,IMF / Schneider Studies / Transparency International
+GRD,Grenada,americas,22.0,45,0.53,IMF / Schneider Studies / Transparency International
+GTM,Guatemala,americas,40.0,154,0.23,IMF / Schneider Studies / Transparency International
+GUY,Guyana,americas,30.0,87,0.4,IMF / Schneider Studies / Transparency International
+HTI,Haiti,americas,70.0,172,0.17,IMF / Schneider Studies / Transparency International
+HND,Honduras,americas,35.0,154,0.23,IMF / Schneider Studies / Transparency International
+JAM,Jamaika,americas,25.0,69,0.44,IMF / Schneider Studies / Transparency International
+NIC,Nikaragua,americas,42.0,172,0.17,IMF / Schneider Studies / Transparency International
+PAN,Panama,americas,25.0,108,0.35,IMF / Schneider Studies / Transparency International
+PRY,Paraguay,americas,38.0,136,0.28,IMF / Schneider Studies / Transparency International
+PER,Peru,americas,45.0,121,0.33,IMF / Schneider Studies / Transparency International
+PRI,Porto Riko,americas,18.0,35,0.6,IMF / Schneider Studies / Transparency International
+KNA,Saint Kitts ve Nevis,americas,15.0,32,0.62,IMF / Schneider Studies / Transparency International
+LCA,Saint Lucia,americas,18.0,42,0.55,IMF / Schneider Studies / Transparency International
+VCT,Saint Vincent ve Grenadinler,americas,20.0,38,0.58,IMF / Schneider Studies / Transparency International
+SUR,Surinam,americas,35.0,87,0.4,IMF / Schneider Studies / Transparency International
+TTO,Trinidad ve Tobago,americas,18.0,76,0.42,IMF / Schneider Studies / Transparency International
+URY,Uruguay,americas,12.0,16,0.73,IMF / Schneider Studies / Transparency International
+VEN,Venezuela,americas,60.0,177,0.13,IMF / Schneider Studies / Transparency International
+EGY,Mısır,africa,34.8,108,0.35,IMF / Schneider Studies / Transparency International
+NGA,Nijerya,africa,52.4,145,0.25,IMF / Schneider Studies / Transparency International
+ZAF,Güney Afrika,africa,24.1,83,0.41,IMF / Schneider Studies / Transparency International
+DZA,Cezayir,africa,32.0,104,0.36,IMF / Schneider Studies / Transparency International
+AGO,Angola,africa,38.0,121,0.33,IMF / Schneider Studies / Transparency International
+BEN,Benin,africa,40.0,70,0.43,IMF / Schneider Studies / Transparency International
+BWA,Botsvana,africa,18.0,39,0.59,IMF / Schneider Studies / Transparency International
+BFA,Burkina Faso,africa,45.0,83,0.41,IMF / Schneider Studies / Transparency International
+BDI,Burundi,africa,50.0,162,0.2,IMF / Schneider Studies / Transparency International
+CPV,Yeşil Burun Adaları,africa,15.0,30,0.64,IMF / Schneider Studies / Transparency International
+CMR,Kamerun,africa,38.0,140,0.26,IMF / Schneider Studies / Transparency International
+CAF,Orta Afrika Cumhuriyeti,africa,65.0,149,0.24,IMF / Schneider Studies / Transparency International
+TCD,Çad,africa,50.0,162,0.2,IMF / Schneider Studies / Transparency International
+COM,Komorlar,africa,35.0,162,0.2,IMF / Schneider Studies / Transparency International
+COD,Demokratik Kongo Cumhuriyeti,africa,55.0,162,0.2,IMF / Schneider Studies / Transparency International
+DJI,Cibuti,africa,30.0,130,0.3,IMF / Schneider Studies / Transparency International
+GNQ,Ekvator Ginesi,africa,45.0,172,0.17,IMF / Schneider Studies / Transparency International
+ERI,Eritre,africa,60.0,162,0.2,IMF / Schneider Studies / Transparency International
+SWZ,Esvatini,africa,30.0,130,0.3,IMF / Schneider Studies / Transparency International
+ETH,Etiyopya,africa,35.0,98,0.37,IMF / Schneider Studies / Transparency International
+GAB,Gabon,africa,30.0,136,0.28,IMF / Schneider Studies / Transparency International
+GMB,Gambiya,africa,35.0,98,0.37,IMF / Schneider Studies / Transparency International
+GHA,Gana,africa,35.0,70,0.43,IMF / Schneider Studies / Transparency International
+GIN,Gine,africa,40.0,149,0.24,IMF / Schneider Studies / Transparency International
+GNB,Gine-Bissau,africa,45.0,158,0.22,IMF / Schneider Studies / Transparency International
+CIV,Fildişi Sahili,africa,35.0,87,0.4,IMF / Schneider Studies / Transparency International
+KEN,Kenya,africa,33.0,126,0.31,IMF / Schneider Studies / Transparency International
+LSO,Lesoto,africa,30.0,98,0.37,IMF / Schneider Studies / Transparency International
+LBR,Liberya,africa,45.0,145,0.25,IMF / Schneider Studies / Transparency International
+LBY,Libya,africa,50.0,170,0.18,IMF / Schneider Studies / Transparency International
+MDG,Madagaskar,africa,40.0,145,0.25,IMF / Schneider Studies / Transparency International
+MWI,Malavi,africa,42.0,115,0.34,IMF / Schneider Studies / Transparency International
+MLI,Mali,africa,45.0,136,0.28,IMF / Schneider Studies / Transparency International
+MRT,Moritanya,africa,35.0,130,0.3,IMF / Schneider Studies / Transparency International
+MUS,Mauritius,africa,15.0,55,0.51,IMF / Schneider Studies / Transparency International
+MAR,Fas,africa,27.0,97,0.38,IMF / Schneider Studies / Transparency International
+MOZ,Mozambik,africa,42.0,145,0.25,IMF / Schneider Studies / Transparency International
+NAM,Namibya,africa,22.0,59,0.49,IMF / Schneider Studies / Transparency International
+NER,Nijer,africa,48.0,126,0.31,IMF / Schneider Studies / Transparency International
+COG,Kongo Cumhuriyeti (Brazzaville),africa,45.0,158,0.22,IMF / Schneider Studies / Transparency International
+RWA,Ruanda,africa,28.0,54,0.53,IMF / Schneider Studies / Transparency International
+STP,Sao Tome ve Principe,africa,30.0,67,0.45,IMF / Schneider Studies / Transparency International
+SEN,Senegal,africa,30.0,70,0.43,IMF / Schneider Studies / Transparency International
+SYC,Seyşeller,africa,12.0,20,0.71,IMF / Schneider Studies / Transparency International
+SLE,Sierra Leone,africa,45.0,108,0.35,IMF / Schneider Studies / Transparency International
+SOM,Somali,africa,70.0,180,0.11,IMF / Schneider Studies / Transparency International
+SOMX,Somaliland,africa,55.0,150,0.25,IMF / Schneider Studies / Transparency International
+SSD,Güney Sudan,africa,65.0,177,0.13,IMF / Schneider Studies / Transparency International
+SDN,Sudan,africa,65.0,170,0.18,IMF / Schneider Studies / Transparency International
+TZA,Tanzanya,africa,30.0,87,0.4,IMF / Schneider Studies / Transparency International
+TGO,Togo,africa,38.0,126,0.31,IMF / Schneider Studies / Transparency International
+TUN,Tunus,africa,35.0,87,0.4,IMF / Schneider Studies / Transparency International
+UGA,Uganda,africa,35.0,141,0.26,IMF / Schneider Studies / Transparency International
+ESH,Batı Sahra,africa,45.0,140,0.25,IMF / Schneider Studies / Transparency International
+ZMB,Zambiya,africa,35.0,98,0.37,IMF / Schneider Studies / Transparency International
+ZWE,Zimbabve,africa,65.0,149,0.24,IMF / Schneider Studies / Transparency International
+AUS,Avustralya,oceania,9.2,14,0.75,IMF / Schneider Studies / Transparency International
+NZL,Yeni Zelanda,oceania,8.0,3,0.85,IMF / Schneider Studies / Transparency International
+FJI,Fiji,oceania,25.0,50,0.52,IMF / Schneider Studies / Transparency International
+KIR,Kiribati,oceania,20.0,60,0.48,IMF / Schneider Studies / Transparency International
+MHL,Marshall Adaları,oceania,15.0,40,0.55,IMF / Schneider Studies / Transparency International
+FSM,Mikronezya Federal Devletleri,oceania,18.0,50,0.5,IMF / Schneider Studies / Transparency International
+NRU,Nauru,oceania,20.0,60,0.45,IMF / Schneider Studies / Transparency International
+PLW,Palau,oceania,15.0,40,0.55,IMF / Schneider Studies / Transparency International
+PNG,Papua Yeni Gine,oceania,38.0,133,0.29,IMF / Schneider Studies / Transparency International
+WSM,Samoa,oceania,22.0,45,0.53,IMF / Schneider Studies / Transparency International
+SLB,Solomon Adaları,oceania,30.0,70,0.43,IMF / Schneider Studies / Transparency International
+TON,Tonga,oceania,25.0,60,0.48,IMF / Schneider Studies / Transparency International
+TUV,Tuvalu,oceania,15.0,50,0.5,IMF / Schneider Studies / Transparency International
+VUT,Vanuatu,oceania,28.0,60,0.48,IMF / Schneider Studies / Transparency International

@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Cibuti
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Cibuti Devleti
-- **Yönetim Modeli:** Başkanlık Otoriter
+- **Resmi Adı:** Cibuti
+- **Yönetim Modeli:** Başkanlık Otoriter Rejimi
 - **Başkent:** Cibuti
+- **Ülke Kodu:** DJI
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** İsmail Ömer Guelleh
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı yürütmenin ve cumhurbaşkanlığı klanının doğrudan vesayeti altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: DJI)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Başkanlık Muhafızları, Ulusal Ordu ve İstihbarat Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** Afrika Birliği / ECOWAS / SADC

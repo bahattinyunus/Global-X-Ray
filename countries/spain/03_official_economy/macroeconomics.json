@@ -1,0 +1,33 @@
+{
+  "country": "İspanya",
+  "official_name": "İspanya Krallığı",
+  "iso_code": "ESP",
+  "currency": "EUR (Euro)",
+  "gdp_nominal_billion_usd": 1580.0,
+  "gdp_per_capita_usd": 32700,
+  "inflation_rate_pct": 2.3,
+  "unemployment_rate_pct": 11.3,
+  "debt_to_gdp_pct": 105.0,
+  "top_exports": [
+    "Motorlu Taşıtlar ve Parçaları",
+    "Makineler",
+    "Tarım ve Zeytinyağı",
+    "İlaç",
+    "Rafine Petrol Ürünleri"
+  ],
+  "top_imports": [
+    "Ham Petrol ve Gaz (Cezayir boru hattı)",
+    "Taşıtlar",
+    "Kimyasallar",
+    "Elektronik"
+  ],
+  "major_trading_partners": [
+    "Fransa",
+    "Almanya",
+    "Portekiz",
+    "İtalya",
+    "İngiltere",
+    "ABD"
+  ],
+  "shadow_economy_pct_gdp": 17.2
+}

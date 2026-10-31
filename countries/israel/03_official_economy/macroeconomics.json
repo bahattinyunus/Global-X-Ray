@@ -1,0 +1,34 @@
+{
+  "country": "İsrail",
+  "official_name": "İsrail Devleti",
+  "iso_code": "ISR",
+  "currency": "ILS (Yeni İsrail Şekeli)",
+  "gdp_nominal_billion_usd": 509.9,
+  "gdp_per_capita_usd": 52200,
+  "inflation_rate_pct": 3.2,
+  "unemployment_rate_pct": 3.4,
+  "debt_to_gdp_pct": 62.1,
+  "top_exports": [
+    "İşlenmiş Elmas",
+    "Entegre Devreler & Yarı İletkenler",
+    "Siber Güvenlik & Casus Yazılımlar",
+    "Tıbbi Cihazlar",
+    "Hassas Savunma Sistemleri"
+  ],
+  "top_imports": [
+    "Ham Petrol",
+    "Askeri Mühimmat & Uçaklar",
+    "İşlenmemiş Elmas",
+    "Otomobil",
+    "Tahıl"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Çin",
+    "Almanya",
+    "İrlanda",
+    "Hollanda",
+    "Hindistan"
+  ],
+  "shadow_economy_pct_gdp": 18.5
+}

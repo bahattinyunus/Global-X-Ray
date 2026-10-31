@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Haiti
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Haiti Devleti
-- **Yönetim Modeli:** Geçici Konsey (Başarısız Devlet)
+- **Resmi Adı:** Haiti
+- **Yönetim Modeli:** Başarısız Devlet / Geçiş Konseyi
 - **Başkent:** Port-au-Prince
+- **Ülke Kodu:** HTI
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Geçiş Konseyi
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Garry Conille / Geçiş Konseyi
+- **Yargı Bağımsızlığı Analizi:** Yargı kurumları siyasi yürütmenin baskısı ve yapısal yavaşlık altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: HTI)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Güvenlik Güçleri ve Polis Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** OAS / CELAC / Mercosur / Caricom

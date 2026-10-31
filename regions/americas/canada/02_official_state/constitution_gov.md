@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Kanada
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Kanada Devleti
-- **Yönetim Modeli:** Federal Parlamenter Monarşi
+- **Resmi Adı:** Kanada
+- **Yönetim Modeli:** Federal Parlamenter Anayasal Monarşi
 - **Başkent:** Ottawa
+- **Ülke Kodu:** CAN
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Justin Trudeau
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Kral III. Charles / Justin Trudeau (Başbakan)
+- **Yargı Bağımsızlığı Analizi:** Yüksek Mahkeme ve yargıçlar liyakate dayalı ve bağımsızdır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: CAN)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** CSIS (Kanada Güvenlik İstihbarat Servisi), CSE (Siber/Elektronik Dinleme) ve RCMP (Kraliyet Atlı Polisi).
+- **Jeopolitik İttifaklar ve Doktrinler:** NATO, G7, Five Eyes, USMCA, İngiliz Milletler Topluluğu.

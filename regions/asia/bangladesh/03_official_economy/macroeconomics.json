@@ -1,28 +1,29 @@
 {
   "country": "Bangladeş",
-  "official_name": "Bangladeş Devleti",
+  "official_name": "Bangladeş",
   "iso_code": "BGD",
   "currency": "BDT",
   "gdp_nominal_billion_usd": 460.0,
   "gdp_per_capita_usd": 2600,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "inflation_rate_pct": 9.5,
+  "unemployment_rate_pct": 5.0,
+  "debt_to_gdp_pct": 48.0,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Elektronik",
+    "Tekstil",
+    "Hammadde",
+    "Tarım"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
-    "Kimyasallar"
+    "Makineler",
+    "Enerji",
+    "Hassas Ekipman"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
     "Çin",
     "ABD",
-    "Avrupa Birliği"
+    "Japonya",
+    "Bölgesel Komşular"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "shadow_economy_pct_gdp": 32.0
 }

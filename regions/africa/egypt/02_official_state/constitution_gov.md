@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Mısır
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Mısır Arap Cumhuriyeti
-- **Yönetim Modeli:** Otoriter Yarı-Başkanlık (Askeri Rejim)
+- **Resmi Adı:** Mısır Arap Cumhuriyeti
+- **Yönetim Modeli:** Askeri Rejim / Hiper-Başkanlık
 - **Başkent:** Kahire
+- **Ülke Kodu:** EGY
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Abdülfettah es-Sisi (Cumhurbaşkanı)
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Abdülfettah es-Sisi (Cumhurbaşkanı) / Mustafa Medbuli (Başbakan)
+- **Yargı Bağımsızlığı Analizi:** Yargı tamamen askeri rejimin denetimindedir; toplu idam kararları ve keyfi terör listesi uygulamalarıyla muhalefet felç edilmiştir.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: EGY)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Genel İstihbarat Servisi (Mihver Mukhabarat), Askeri İstihbarat ve Ulusal Güvenlik Sektörü (Devlet Güvenliği).
+- **Jeopolitik İttifaklar ve Doktrinler:** Arap Birliği, Afrika Birliği, BRICS+, ABD'nin NATO Dışı Baş Müttefiki.

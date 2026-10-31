@@ -1,6 +1,7 @@
 metric,value,unit,year,source
 total_population,93763,people,2024,UN / World Bank
-capital_population_estimate,14064,people,2024,National Statistics
-urban_population_pct,68.5,percent,2024,World Bank
-median_age,32.4,years,2024,UN Population Division
-shadow_economy_pct,25.0,percent_gdp,2024,IMF / Schneider Studies
+capital_population_estimate,16877,people,2024,National Census
+urban_population_pct,71.2,percent,2024,World Bank
+median_age,33.5,years,2024,UN Population Division
+shadow_economy_pct,15.0,percent_gdp,2024,IMF / Schneider
+fragility_index_score,58.0,score_120,2024,Fund for Peace

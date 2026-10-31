@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): İsviçre
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** İsviçre Devleti
-- **Yönetim Modeli:** Federal Direktörlük Cumhuriyeti
+- **Resmi Adı:** İsviçre Konfederasyonu
+- **Yönetim Modeli:** Federal Direkt Demokrasi (7 Üyeli Federal Konsey)
 - **Başkent:** Bern
+- **Ülke Kodu:** CHE
 
-## 2. Yürütme ve Yasama Organları
-- **Devlet / Hükümet Başı:** Federal Konsey
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+## 2. Yürütme, Yasama ve Yargı Erki
+- **Devlet / Hükümet Başı:** Viola Amherd (Konfederasyon Başkanı) / 7 Üyeli Federal Konsey
+- **Yargı Bağımsızlığı Analizi:** Federal Yüksek Mahkeme bağımsızdır; halk referandumları anayasal normları doğrudan belirler.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: CHE)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Federal İstihbarat Servisi (FIS) ve Zorunlu Milis Sistemi (İsviçre Ordusu).
+- **Jeopolitik İttifaklar ve Doktrinler:** BM Üyesi (2002'den beri), EFTA, Schengen Bölgesi (AB ve NATO üyesi değil).

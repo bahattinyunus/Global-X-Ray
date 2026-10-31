@@ -1,28 +1,27 @@
 {
   "country": "Uruguay",
-  "official_name": "Uruguay Devleti",
+  "official_name": "Uruguay Cumhuriyeti",
   "iso_code": "URY",
   "currency": "UYU",
-  "gdp_nominal_billion_usd": 77.2,
+  "gdp_nominal_billion_usd": 77.0,
   "gdp_per_capita_usd": 22500,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "inflation_rate_pct": 4.5,
+  "unemployment_rate_pct": 7.8,
+  "debt_to_gdp_pct": 58.0,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Tarım ve Emtia",
+    "Petrol / Maden",
+    "Hafif Sanayi"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
+    "Makineler",
+    "Rafine Yakıt",
     "Kimyasallar"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
-    "Çin",
     "ABD",
-    "Avrupa Birliği"
+    "Çin",
+    "Bölgesel Komşular"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "shadow_economy_pct_gdp": 12.0
 }

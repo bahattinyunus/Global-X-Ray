@@ -1,0 +1,29 @@
+{
+  "country": "Tonga",
+  "official_name": "Tonga",
+  "iso_code": "TON",
+  "currency": "TOP",
+  "gdp_nominal_billion_usd": 0.52,
+  "gdp_per_capita_usd": 4800,
+  "inflation_rate_pct": 5.0,
+  "unemployment_rate_pct": 3.5,
+  "debt_to_gdp_pct": 45.0,
+  "top_exports": [
+    "Balık ve Ton Balığı",
+    "Kopralık Hindistan Cevizi",
+    "Kereste",
+    "Turizm"
+  ],
+  "top_imports": [
+    "Yakıt",
+    "Gıda Maddeleri",
+    "Makineler"
+  ],
+  "major_trading_partners": [
+    "Avustralya",
+    "Çin",
+    "Yeni Zelanda",
+    "ABD"
+  ],
+  "shadow_economy_pct_gdp": 25.0
+}

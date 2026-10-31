@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: İspanya
 
-## 1. Ulusal Tarih ve Travmalar
-İspanya modern tarihinde bölgesel eşitsizlikler, etnik/kabile dengeleri ve gelir dağılımı adaletsizliği kritik kırılma noktalarıdır.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+Franco diktatörlüğü mirası, 2017 Katalonya bağımsızlık referandumu krizi, ETA terörünün izleri ve yüksek genç işsizliği.
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 48,059,777
-- **Bölgesel Ayrışmalar:** Başkent Madrid ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 48,373,336
+- **Resmi ve Konuşulan Diller:** İspanyolca (Resmi), Katalanca, Galiçyaca, Baskça
+- **Kültürel Kırılma Eksenleri:** Merkezi Madrid yönetimi ile Katalan ve Bask milliyetçiliği arasındaki özerklik ve vergi paylaşımı çatışması.
+- **Bölgesel Ayrışmalar:** Başkent Madrid ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

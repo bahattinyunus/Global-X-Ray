@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Saint Vincent ve Grenadinler
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Saint Vincent ve Grenadinler Devleti
+- **Resmi Adı:** Saint Vincent ve Grenadinler
 - **Yönetim Modeli:** Parlamenter Monarşi
 - **Başkent:** Kingstown
+- **Ülke Kodu:** VCT
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** Ralph Gonsalves
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı kurumları siyasi yürütmenin baskısı ve yapısal yavaşlık altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: VCT)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Ulusal Güvenlik Güçleri ve Polis Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** OAS / CELAC / Mercosur / Caricom

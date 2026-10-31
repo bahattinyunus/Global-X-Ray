@@ -1,28 +1,32 @@
 {
   "country": "Arjantin",
-  "official_name": "Arjantin Devleti",
+  "official_name": "Arjantin Cumhuriyeti",
   "iso_code": "ARG",
-  "currency": "ARS",
+  "currency": "ARS (Arjantin Pesosu)",
   "gdp_nominal_billion_usd": 640.0,
   "gdp_per_capita_usd": 13900,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "inflation_rate_pct": 210.0,
+  "unemployment_rate_pct": 7.6,
+  "debt_to_gdp_pct": 85.0,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Soya Fasulyesi, Yağı ve Küspesi",
+    "Mısır ve Buğday",
+    "Motorlu Taşıtlar",
+    "Lityum ve Altın",
+    "Ham Petrol ve Doğalgaz"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
+    "Makineler",
+    "Rafine Yakıtlar",
+    "Otomobil Parçaları",
     "Kimyasallar"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
+    "Brezilya",
     "Çin",
     "ABD",
-    "Avrupa Birliği"
+    "Şili",
+    "Hindistan"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "shadow_economy_pct_gdp": 27.2
 }

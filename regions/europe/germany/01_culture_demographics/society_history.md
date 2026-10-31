@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Almanya
 
-## 1. Ulusal Tarih ve Travmalar
-Doğu-Batı Almanya (Ossi-Wessi) gelir ve siyasal tercih ayrışması (AfD yükselişi), ucuz Rus enerjisinin kesilmesiyle de-endüstrileşme korkusu.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+II. Dünya Savaşı ve Holokost suçluluk psikolojisi, Doğu-Batı Almanya birleşme eşitsizlikleri (Ostalgie) ve aşırı sağcı AfD partisinin yükselişi.
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 84,358,845
-- **Bölgesel Ayrışmalar:** Başkent Berlin ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 84,482,267
+- **Resmi ve Konuşulan Diller:** Almanca (Resmi)
+- **Kültürel Kırılma Eksenleri:** Eski Doğu eyaletlerindeki ekonomik geri kalmışlık hissi ve yoğun göçmen karşıtı dalga; bürokratik hantallık.
+- **Bölgesel Ayrışmalar:** Başkent Berlin ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

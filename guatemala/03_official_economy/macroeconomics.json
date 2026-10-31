@@ -1,0 +1,27 @@
+{
+  "country": "Guatemala",
+  "official_name": "Guatemala Cumhuriyeti",
+  "iso_code": "GTM",
+  "currency": "GTQ",
+  "gdp_nominal_billion_usd": 102.0,
+  "gdp_per_capita_usd": 5600,
+  "inflation_rate_pct": 3.8,
+  "unemployment_rate_pct": 3.0,
+  "debt_to_gdp_pct": 58.0,
+  "top_exports": [
+    "Tarım ve Emtia",
+    "Petrol / Maden",
+    "Hafif Sanayi"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Rafine Yakıt",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Çin",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 40.0
+}

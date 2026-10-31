@@ -1,0 +1,29 @@
+{
+  "country": "Maldivler",
+  "official_name": "Maldivler Cumhuriyeti",
+  "iso_code": "MDV",
+  "currency": "MVR",
+  "gdp_nominal_billion_usd": 6.6,
+  "gdp_per_capita_usd": 12500,
+  "inflation_rate_pct": 3.8,
+  "unemployment_rate_pct": 4.5,
+  "debt_to_gdp_pct": 48.0,
+  "top_exports": [
+    "Elektronik",
+    "Tekstil",
+    "Hammadde",
+    "Tarım"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Enerji",
+    "Hassas Ekipman"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "ABD",
+    "Japonya",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 22.0
+}

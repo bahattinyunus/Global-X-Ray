@@ -1,28 +1,29 @@
 {
-  "country": "Mikronezya",
-  "official_name": "Mikronezya Devleti",
+  "country": "Mikronezya Federal Devletleri",
+  "official_name": "Mikronezya Federal Devletleri",
   "iso_code": "FSM",
   "currency": "USD",
   "gdp_nominal_billion_usd": 0.46,
   "gdp_per_capita_usd": 4000,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "inflation_rate_pct": 2.8,
+  "unemployment_rate_pct": 8.0,
+  "debt_to_gdp_pct": 45.0,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Balık ve Ton Balığı",
+    "Kopralık Hindistan Cevizi",
+    "Kereste",
+    "Turizm"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
-    "Kimyasallar"
+    "Yakıt",
+    "Gıda Maddeleri",
+    "Makineler"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
+    "Avustralya",
     "Çin",
-    "ABD",
-    "Avrupa Birliği"
+    "Yeni Zelanda",
+    "ABD"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "shadow_economy_pct_gdp": 18.0
 }

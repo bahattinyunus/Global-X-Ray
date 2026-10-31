@@ -2,29 +2,32 @@
   "country": "Nijerya",
   "official_name": "Nijerya Federal Cumhuriyeti",
   "iso_code": "NGA",
-  "currency": "NGN",
-  "gdp_nominal_billion_usd": 374.0,
-  "gdp_per_capita_usd": 1700,
-  "inflation_rate_pct": 31.7,
+  "currency": "NGN (Nijerya Nairası)",
+  "gdp_nominal_billion_usd": 375.0,
+  "gdp_per_capita_usd": 1680,
+  "inflation_rate_pct": 32.7,
   "unemployment_rate_pct": 5.0,
+  "debt_to_gdp_pct": 42.0,
   "top_exports": [
-    "Ham Petrol",
-    "Doğal Gaz",
-    "Kakao",
+    "Ham Petrol (Günde yaklaşık 1.4 milyon varil)",
+    "LNG (Sıvılaştırılmış Doğalgaz)",
+    "Kakao Çekirdekleri",
+    "Gübre",
     "Yağlı Tohumlar"
   ],
   "top_imports": [
-    "Rafine Petrol",
-    "Buğday",
+    "Rafine Petrol Ürünleri (Dangote rafinerisi öncesi %100 bağımlı)",
     "Makineler",
-    "Otomotiv"
+    "Buğday",
+    "Plastik ve Araçlar"
   ],
   "major_trading_partners": [
     "Hindistan",
     "İspanya",
     "Hollanda",
     "ABD",
-    "Çin"
+    "Çin",
+    "Fransa"
   ],
   "shadow_economy_pct_gdp": 52.4
 }

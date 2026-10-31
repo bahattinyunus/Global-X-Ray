@@ -1,14 +1,17 @@
 # 🏛️ Resmi Vitrin ve Hükümet Anatomisi (De Jure State): Kamerun
 
+---
+
 ## 1. Anayasal ve Siyasi İşletim Sistemi
-- **Resmi Ad:** Kamerun Devleti
-- **Yönetim Modeli:** Başkanlık Otoriter (Biya)
+- **Resmi Adı:** Kamerun
+- **Yönetim Modeli:** Başkanlık Otoriter Rejimi
 - **Başkent:** Yaounde
+- **Ülke Kodu:** CMR
 
-## 2. Yürütme ve Yasama Organları
+## 2. Yürütme, Yasama ve Yargı Erki
 - **Devlet / Hükümet Başı:** Paul Biya
-- **Yargı Bağımsızlığı Durumu:** Hükümetin yargı bürokrasisi üzerindeki atama ve denetim mekanizmaları karar süreçlerini doğrudan etkilemektedir.
+- **Yargı Bağımsızlığı Analizi:** Yargı yürütmenin ve cumhurbaşkanlığı klanının doğrudan vesayeti altındadır.
 
-## 3. Uluslararası İttifaklar ve Doktrinler
-- **BM Üyeliği:** Evet (Ülke Kodu: CMR)
-- **Ana Diplomatik Ekseni:** Çok kutuplu diplomasi dengesi ve stratejik ticaret ortaklıkları.
+## 3. Ulusal Güvenlik ve Kolluk Teşkilatı
+- **Güvenlik Mimarisi:** Başkanlık Muhafızları, Ulusal Ordu ve İstihbarat Teşkilatı.
+- **Jeopolitik İttifaklar ve Doktrinler:** Afrika Birliği / ECOWAS / SADC

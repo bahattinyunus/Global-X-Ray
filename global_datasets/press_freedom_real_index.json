@@ -1,23 +1,1443 @@
 {
   "description": "Küresel Basın Özgürlüğü ve Medya Mülkiyeti Oligarşi Endeksi (RSF & OSINT Sentezi)",
-  "version": "2024.1",
-  "methodology": "RSF Press Freedom Index, CPJ data ve OCCRP medya sahiplik araştırmaları baz alınmıştır.",
+  "version": "2024.2",
+  "methodology": "RSF Press Freedom Index, CPJ verileri ve OCCRP medya sahiplik araştırmaları baz alınmıştır.",
+  "total_countries": 205,
   "countries": {
-    "NOR": { "name": "Norway", "score": 91.89, "classification": "İyi", "state_monopoly": false, "oligarch_influence": "Düşük" },
-    "SWE": { "name": "Sweden", "score": 88.15, "classification": "İyi", "state_monopoly": false, "oligarch_influence": "Düşük" },
-    "DEU": { "name": "Germany", "score": 81.91, "classification": "Oldukça İyi", "state_monopoly": false, "oligarch_influence": "Düşük" },
-    "GBR": { "name": "United Kingdom", "score": 78.51, "classification": "Tatmin Edici", "state_monopoly": false, "oligarch_influence": "Orta (Tabloid Kartelleri)" },
-    "USA": { "name": "United States", "score": 75.80, "classification": "Tatmin Edici", "state_monopoly": false, "oligarch_influence": "Yüksek (6 Büyük Konglomera)" },
-    "FRA": { "name": "France", "score": 78.72, "classification": "Tatmin Edici", "state_monopoly": false, "oligarch_influence": "Yüksek (Milyarder Mülkiyeti)" },
-    "ITA": { "name": "Italy", "score": 76.16, "classification": "Sorunlu", "state_monopoly": false, "oligarch_influence": "Yüksek (Mediaset ve Siyasi Bağlantılı Gruplar)" },
-    "TUR": { "name": "Turkey", "score": 38.30, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "Kritik (%90 Kamu İhalesi Alan Gruplar)" },
-    "RUS": { "name": "Russia", "score": 29.98, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "Mutlak Devlet-Oligark Tekeli" },
-    "CHN": { "name": "China", "score": 22.97, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "ÇKP Propaganda Departmanı Tekeli" },
-    "IRN": { "name": "Iran", "score": 23.22, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "IRGC / Dini Lider Vesayeti" },
-    "SAU": { "name": "Saudi Arabia", "score": 32.43, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "Kraliyet Ailesi Doğrudan Kontrolü" },
-    "EGY": { "name": "Egypt", "score": 30.23, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "Askeri İstihbarat Şirketleri Tekeli" },
-    "TKM": { "name": "Turkmenistan", "score": 25.82, "classification": "Çok Ciddi", "state_monopoly": true, "oligarch_influence": "Totaliter Devlet Tekeli" },
-    "KOR": { "name": "South Korea", "score": 70.83, "classification": "Tatmin Edici", "state_monopoly": false, "oligarch_influence": "Yüksek (Chaebol Reklam Baskısı)" },
-    "JPN": { "name": "Japan", "score": 64.37, "classification": "Sorunlu", "state_monopoly": false, "oligarch_influence": "Kisha Kulübü Sistemi ve Zaibatsu Mirası" }
+    "TUR": {
+      "name": "Türkiye",
+      "score": 38.3,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Yüksek"
+    },
+    "IRN": {
+      "name": "İran",
+      "score": 23.2,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "SAU": {
+      "name": "Suudi Arabistan",
+      "score": 32.4,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "ISR": {
+      "name": "İsrail",
+      "score": 53.2,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta / Yüksek"
+    },
+    "ARE": {
+      "name": "Birleşik Arap Emirlikleri",
+      "score": 38.6,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "IRQ": {
+      "name": "Irak",
+      "score": 32.9,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "SYR": {
+      "name": "Suriye",
+      "score": 17.2,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "QAT": {
+      "name": "Katar",
+      "score": 58.4,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "LBN": {
+      "name": "Lübnan",
+      "score": 43.8,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "JOR": {
+      "name": "Ürdün",
+      "score": 43.1,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "KWT": {
+      "name": "Kuveyt",
+      "score": 41.5,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "OMN": {
+      "name": "Umman",
+      "score": 42.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "BHR": {
+      "name": "Bahreyn",
+      "score": 30.5,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Yüksek"
+    },
+    "YEM": {
+      "name": "Yemen",
+      "score": 22.4,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "PSE": {
+      "name": "Filistin",
+      "score": 37.8,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "TRNC": {
+      "name": "Kuzey Kıbrıs",
+      "score": 52.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "DEU": {
+      "name": "Almanya",
+      "score": 81.9,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük / Orta"
+    },
+    "GBR": {
+      "name": "Birleşik Krallık",
+      "score": 78.5,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "FRA": {
+      "name": "Fransa",
+      "score": 78.7,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta / Yüksek"
+    },
+    "RUS": {
+      "name": "Rusya",
+      "score": 29.98,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "UKR": {
+      "name": "Ukrayna",
+      "score": 64.3,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek (Savaş Öncesi Kritik)"
+    },
+    "ITA": {
+      "name": "İtalya",
+      "score": 76.16,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta / Yüksek"
+    },
+    "ESP": {
+      "name": "İspanya",
+      "score": 79.5,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "POL": {
+      "name": "Polonya",
+      "score": 67.2,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "NLD": {
+      "name": "Hollanda",
+      "score": 86.8,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "CHE": {
+      "name": "İsviçre",
+      "score": 84.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta (Bankacılık ve Emtia Tekelleri)"
+    },
+    "ALB": {
+      "name": "Arnavutluk",
+      "score": 54.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "AND": {
+      "name": "Andorra",
+      "score": 78.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "AUT": {
+      "name": "Avusturya",
+      "score": 77.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "BLR": {
+      "name": "Belarus",
+      "score": 15.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Yüksek"
+    },
+    "BEL": {
+      "name": "Belçika",
+      "score": 80.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "BIH": {
+      "name": "Bosna-Hersek",
+      "score": 60.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "BGR": {
+      "name": "Bulgaristan",
+      "score": 62.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "HRV": {
+      "name": "Hırvatistan",
+      "score": 72.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "CYP": {
+      "name": "Kıbrıs Rum Kesimi",
+      "score": 75.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "CZE": {
+      "name": "Çekya",
+      "score": 83.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "DNK": {
+      "name": "Danimarka",
+      "score": 89.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "EST": {
+      "name": "Estonya",
+      "score": 88.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "FIN": {
+      "name": "Finlandiya",
+      "score": 88.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "GRC": {
+      "name": "Yunanistan",
+      "score": 55.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "HUN": {
+      "name": "Macaristan",
+      "score": 60.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "ISL": {
+      "name": "İzlanda",
+      "score": 85.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "IRL": {
+      "name": "İrlanda",
+      "score": 87.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "XKX": {
+      "name": "Kosova",
+      "score": 62.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "LVA": {
+      "name": "Letonya",
+      "score": 80.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "LIE": {
+      "name": "Lihtenştayn",
+      "score": 82.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "LTU": {
+      "name": "Litvanya",
+      "score": 85.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "LUX": {
+      "name": "Lüksemburg",
+      "score": 84.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "MLT": {
+      "name": "Malta",
+      "score": 65.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "MDA": {
+      "name": "Moldova",
+      "score": 63.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "MCO": {
+      "name": "Monako",
+      "score": 75.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "MNE": {
+      "name": "Karadağ",
+      "score": 68.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "MKD": {
+      "name": "Kuzey Makedonya",
+      "score": 61.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "NOR": {
+      "name": "Norveç",
+      "score": 91.89,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "PRT": {
+      "name": "Portekiz",
+      "score": 82.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "ROU": {
+      "name": "Romanya",
+      "score": 69.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "SMR": {
+      "name": "San Marino",
+      "score": 72.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "SRB": {
+      "name": "Sırbistan",
+      "score": 52.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "SVK": {
+      "name": "Slovakya",
+      "score": 68.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "SVN": {
+      "name": "Slovenya",
+      "score": 78.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "SWE": {
+      "name": "İsveç",
+      "score": 88.15,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "PMR": {
+      "name": "Transdinyester",
+      "score": 25.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Yüksek"
+    },
+    "VAT": {
+      "name": "Vatikan",
+      "score": 65.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "CHN": {
+      "name": "Çin",
+      "score": 22.97,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik (Parti-Devlet Oligarşisi)"
+    },
+    "IND": {
+      "name": "Hindistan",
+      "score": 36.6,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik (Adani-Ambani Duopolü)"
+    },
+    "JPN": {
+      "name": "Japonya",
+      "score": 64.37,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta (Keiretsu Kartelleri)"
+    },
+    "KOR": {
+      "name": "Güney Kore",
+      "score": 70.83,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek (Chaebol Vesayeti)"
+    },
+    "TWN": {
+      "name": "Tayvan",
+      "score": 76.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "PAK": {
+      "name": "Pakistan",
+      "score": 39.5,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik (Ordu & Siyasi Hanedanlar)"
+    },
+    "AFG": {
+      "name": "Afganistan",
+      "score": 18.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "ARM": {
+      "name": "Ermenistan",
+      "score": 71.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "AZE": {
+      "name": "Azerbaycan",
+      "score": 29.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "BGD": {
+      "name": "Bangladeş",
+      "score": 35.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "BTN": {
+      "name": "Bhutan",
+      "score": 75.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "BRN": {
+      "name": "Brunei",
+      "score": 45.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "KHM": {
+      "name": "Kamboçya",
+      "score": 40.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "GEO": {
+      "name": "Gürcistan",
+      "score": 61.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "HKG": {
+      "name": "Hong Kong",
+      "score": 43.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "IDN": {
+      "name": "Endonezya",
+      "score": 53.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "KAZ": {
+      "name": "Kazakistan",
+      "score": 45.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "KGZ": {
+      "name": "Kırgızistan",
+      "score": 48.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "LAO": {
+      "name": "Laos",
+      "score": 36.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "MAC": {
+      "name": "Makao",
+      "score": 55.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "MYS": {
+      "name": "Malezya",
+      "score": 55.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "MDV": {
+      "name": "Maldivler",
+      "score": 56.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "MNG": {
+      "name": "Moğolistan",
+      "score": 59.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "MMR": {
+      "name": "Myanmar",
+      "score": 22.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "NPL": {
+      "name": "Nepal",
+      "score": 58.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "PRK": {
+      "name": "Kuzey Kore",
+      "score": 10.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "PHL": {
+      "name": "Filipinler",
+      "score": 52.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "SGP": {
+      "name": "Singapur",
+      "score": 54.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "LKA": {
+      "name": "Sri Lanka",
+      "score": 53.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "TJK": {
+      "name": "Tacikistan",
+      "score": 38.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "THA": {
+      "name": "Tayland",
+      "score": 57.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "TLS": {
+      "name": "Doğu Timor",
+      "score": 84.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "TKM": {
+      "name": "Türkmenistan",
+      "score": 25.82,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "UZB": {
+      "name": "Özbekistan",
+      "score": 46.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "VNM": {
+      "name": "Vietnam",
+      "score": 24.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Yüksek"
+    },
+    "USA": {
+      "name": "Amerika Birleşik Devletleri",
+      "score": 75.8,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik (Yasal Lobicilik ve Finans Tekelleri)"
+    },
+    "BRA": {
+      "name": "Brezilya",
+      "score": 62.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek (Lava Jato & Agro Oligarşisi)"
+    },
+    "MEX": {
+      "name": "Meksika",
+      "score": 45.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik (Narko-Siyaset & Holding Tekelleri)"
+    },
+    "CAN": {
+      "name": "Kanada",
+      "score": 83.5,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük / Orta"
+    },
+    "ARG": {
+      "name": "Arjantin",
+      "score": 63.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "ATG": {
+      "name": "Antigua ve Barbuda",
+      "score": 75.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "BHS": {
+      "name": "Bahamalar",
+      "score": 76.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "BRB": {
+      "name": "Barbados",
+      "score": 78.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "BLZ": {
+      "name": "Belize",
+      "score": 68.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "BOL": {
+      "name": "Bolivya",
+      "score": 50.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "CHL": {
+      "name": "Şili",
+      "score": 75.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "COL": {
+      "name": "Kolombiya",
+      "score": 58.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "CRI": {
+      "name": "Kosta Rika",
+      "score": 80.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "CUB": {
+      "name": "Küba",
+      "score": 16.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "DMA": {
+      "name": "Dominika",
+      "score": 72.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "DOM": {
+      "name": "Dominik Cumhuriyeti",
+      "score": 65.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "ECU": {
+      "name": "Ekvador",
+      "score": 55.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "SLV": {
+      "name": "El Salvador",
+      "score": 54.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "GRL": {
+      "name": "Grönland",
+      "score": 80.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "GRD": {
+      "name": "Grenada",
+      "score": 74.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "GTM": {
+      "name": "Guatemala",
+      "score": 48.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "GUY": {
+      "name": "Guyana",
+      "score": 70.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "HTI": {
+      "name": "Haiti",
+      "score": 40.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "HND": {
+      "name": "Honduras",
+      "score": 50.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "JAM": {
+      "name": "Jamaika",
+      "score": 76.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "NIC": {
+      "name": "Nikaragua",
+      "score": 30.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "PAN": {
+      "name": "Panama",
+      "score": 64.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "PRY": {
+      "name": "Paraguay",
+      "score": 55.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "PER": {
+      "name": "Peru",
+      "score": 56.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "PRI": {
+      "name": "Porto Riko",
+      "score": 70.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "KNA": {
+      "name": "Saint Kitts ve Nevis",
+      "score": 76.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "LCA": {
+      "name": "Saint Lucia",
+      "score": 75.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "VCT": {
+      "name": "Saint Vincent ve Grenadinler",
+      "score": 75.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "SUR": {
+      "name": "Surinam",
+      "score": 72.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "TTO": {
+      "name": "Trinidad ve Tobago",
+      "score": 78.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "URY": {
+      "name": "Uruguay",
+      "score": 85.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "VEN": {
+      "name": "Venezuela",
+      "score": 20.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "EGY": {
+      "name": "Mısır",
+      "score": 30.23,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik (Ordu-Devlet Ticari Tekeli)"
+    },
+    "NGA": {
+      "name": "Nijerya",
+      "score": 46.8,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "ZAF": {
+      "name": "Güney Afrika",
+      "score": 78.6,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek (State Capture Mirası)"
+    },
+    "DZA": {
+      "name": "Cezayir",
+      "score": 43.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "AGO": {
+      "name": "Angola",
+      "score": 58.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "BEN": {
+      "name": "Benin",
+      "score": 60.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "BWA": {
+      "name": "Botsvana",
+      "score": 78.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "BFA": {
+      "name": "Burkina Faso",
+      "score": 45.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "BDI": {
+      "name": "Burundi",
+      "score": 42.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "CPV": {
+      "name": "Yeşil Burun Adaları",
+      "score": 79.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "CMR": {
+      "name": "Kamerun",
+      "score": 42.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "CAF": {
+      "name": "Orta Afrika Cumhuriyeti",
+      "score": 45.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "TCD": {
+      "name": "Çad",
+      "score": 40.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "COM": {
+      "name": "Komorlar",
+      "score": 52.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "COD": {
+      "name": "Demokratik Kongo Cumhuriyeti",
+      "score": 42.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "DJI": {
+      "name": "Cibuti",
+      "score": 35.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Yüksek"
+    },
+    "GNQ": {
+      "name": "Ekvator Ginesi",
+      "score": 18.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "ERI": {
+      "name": "Eritre",
+      "score": 12.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "SWZ": {
+      "name": "Esvatini",
+      "score": 40.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "ETH": {
+      "name": "Etiyopya",
+      "score": 45.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "GAB": {
+      "name": "Gabon",
+      "score": 55.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "GMB": {
+      "name": "Gambiya",
+      "score": 65.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "GHA": {
+      "name": "Gana",
+      "score": 66.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "GIN": {
+      "name": "Gine",
+      "score": 48.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "GNB": {
+      "name": "Gine-Bissau",
+      "score": 58.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "CIV": {
+      "name": "Fildişi Sahili",
+      "score": 69.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "KEN": {
+      "name": "Kenya",
+      "score": 52.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "LSO": {
+      "name": "Lesoto",
+      "score": 65.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "LBR": {
+      "name": "Liberya",
+      "score": 64.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "LBY": {
+      "name": "Libya",
+      "score": 40.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "MDG": {
+      "name": "Madagaskar",
+      "score": 62.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "MWI": {
+      "name": "Malavi",
+      "score": 60.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "MLI": {
+      "name": "Mali",
+      "score": 44.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "MRT": {
+      "name": "Moritanya",
+      "score": 64.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "MUS": {
+      "name": "Mauritius",
+      "score": 74.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "MAR": {
+      "name": "Fas",
+      "score": 52.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "MOZ": {
+      "name": "Mozambik",
+      "score": 56.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "NAM": {
+      "name": "Namibya",
+      "score": 81.0,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "NER": {
+      "name": "Nijer",
+      "score": 55.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "COG": {
+      "name": "Kongo Cumhuriyeti (Brazzaville)",
+      "score": 50.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "RWA": {
+      "name": "Ruanda",
+      "score": 40.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "STP": {
+      "name": "Sao Tome ve Principe",
+      "score": 75.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "SEN": {
+      "name": "Senegal",
+      "score": 62.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "SYC": {
+      "name": "Seyşeller",
+      "score": 77.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "SLE": {
+      "name": "Sierra Leone",
+      "score": 62.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "SOM": {
+      "name": "Somali",
+      "score": 28.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "SOMX": {
+      "name": "Somaliland",
+      "score": 45.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "SSD": {
+      "name": "Güney Sudan",
+      "score": 25.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "SDN": {
+      "name": "Sudan",
+      "score": 22.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "TZA": {
+      "name": "Tanzanya",
+      "score": 56.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "TGO": {
+      "name": "Togo",
+      "score": 55.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Kritik"
+    },
+    "TUN": {
+      "name": "Tunus",
+      "score": 48.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "UGA": {
+      "name": "Uganda",
+      "score": 42.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "ESH": {
+      "name": "Batı Sahra",
+      "score": 30.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "ZMB": {
+      "name": "Zambiya",
+      "score": 60.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "ZWE": {
+      "name": "Zimbabve",
+      "score": 38.0,
+      "classification": "Çok Ciddi",
+      "state_monopoly": true,
+      "oligarch_influence": "Kritik"
+    },
+    "AUS": {
+      "name": "Avustralya",
+      "score": 76.5,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta (Madencilik & Medya Tekelleri)"
+    },
+    "NZL": {
+      "name": "Yeni Zelanda",
+      "score": 84.2,
+      "classification": "İyi",
+      "state_monopoly": false,
+      "oligarch_influence": "Düşük"
+    },
+    "FJI": {
+      "name": "Fiji",
+      "score": 60.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "KIR": {
+      "name": "Kiribati",
+      "score": 65.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "MHL": {
+      "name": "Marshall Adaları",
+      "score": 70.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "FSM": {
+      "name": "Mikronezya Federal Devletleri",
+      "score": 72.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "NRU": {
+      "name": "Nauru",
+      "score": 60.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "PLW": {
+      "name": "Palau",
+      "score": 75.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "PNG": {
+      "name": "Papua Yeni Gine",
+      "score": 60.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "WSM": {
+      "name": "Samoa",
+      "score": 76.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "SLB": {
+      "name": "Solomon Adaları",
+      "score": 62.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    },
+    "TON": {
+      "name": "Tonga",
+      "score": 68.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "TUV": {
+      "name": "Tuvalu",
+      "score": 72.0,
+      "classification": "Tatmin Edici",
+      "state_monopoly": false,
+      "oligarch_influence": "Orta"
+    },
+    "VUT": {
+      "name": "Vanuatu",
+      "score": 65.0,
+      "classification": "Sorunlu",
+      "state_monopoly": false,
+      "oligarch_influence": "Yüksek"
+    }
   }
 }

@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Suriye
 
-## 1. Ulusal Tarih ve Travmalar
-2011 iç savaşı yıkımı, Nusayri elit vs Sünni çoğunluk dengesi, YPG/SDG kontrolündeki kuzeydoğu petrol sahaları.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+2011 Mart ayında başlayan halk ayaklanması ve iç savaş, 500 binden fazla ölüm, 12 milyondan fazla yerinden edilme, kimyasal silah kullanımı ve ülkenin fiilen 4 parçaya bölünmesi (Rejim, SDG, SMO/Türkiye, HTŞ/İdlib).
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 23,227,014
-- **Bölgesel Ayrışmalar:** Başkent Şam ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 23,227,000
+- **Resmi ve Konuşulan Diller:** Arapça (Resmi), Kürtçe, Süryanice
+- **Kültürel Kırılma Eksenleri:** Nusayri/Alevi iktidar çekirdeği ile Sünni çoğunluk arasındaki mezhepsel nefret; Arap-Kürt çatışması ve Dürzi isyanları (Süveyda).
+- **Bölgesel Ayrışmalar:** Başkent Şam ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

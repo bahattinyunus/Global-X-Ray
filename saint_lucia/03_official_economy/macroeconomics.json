@@ -1,0 +1,27 @@
+{
+  "country": "Saint Lucia",
+  "official_name": "Saint Lucia",
+  "iso_code": "LCA",
+  "currency": "XCD",
+  "gdp_nominal_billion_usd": 2.4,
+  "gdp_per_capita_usd": 13000,
+  "inflation_rate_pct": 3.0,
+  "unemployment_rate_pct": 11.0,
+  "debt_to_gdp_pct": 58.0,
+  "top_exports": [
+    "Tarım ve Emtia",
+    "Petrol / Maden",
+    "Hafif Sanayi"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Rafine Yakıt",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Çin",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 18.0
+}

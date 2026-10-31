@@ -1,0 +1,30 @@
+{
+  "country": "Yunanistan",
+  "official_name": "Yunanistan Cumhuriyeti",
+  "iso_code": "GRC",
+  "currency": "EUR",
+  "gdp_nominal_billion_usd": 238.0,
+  "gdp_per_capita_usd": 22800,
+  "inflation_rate_pct": 3.0,
+  "unemployment_rate_pct": 10.0,
+  "debt_to_gdp_pct": 55.0,
+  "top_exports": [
+    "Makineler",
+    "Kimyasallar",
+    "İşlenmiş Ürünler",
+    "Hizmetler"
+  ],
+  "top_imports": [
+    "Enerji",
+    "Hammadde",
+    "Elektronik",
+    "Taşıtlar"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "İtalya",
+    "Bölgesel Komşular",
+    "AB"
+  ],
+  "shadow_economy_pct_gdp": 21.4
+}

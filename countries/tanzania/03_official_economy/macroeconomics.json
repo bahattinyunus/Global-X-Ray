@@ -1,0 +1,29 @@
+{
+  "country": "Tanzanya",
+  "official_name": "Tanzanya Cumhuriyeti",
+  "iso_code": "TZA",
+  "currency": "TZS",
+  "gdp_nominal_billion_usd": 79.1,
+  "gdp_per_capita_usd": 1200,
+  "inflation_rate_pct": 3.2,
+  "unemployment_rate_pct": 2.5,
+  "debt_to_gdp_pct": 60.0,
+  "top_exports": [
+    "Maden ve Emtia",
+    "Petrol / Gaz",
+    "Tarım Ürünleri"
+  ],
+  "top_imports": [
+    "İşlenmiş Yakıt",
+    "Gıda ve Tahıl",
+    "Makineler"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Fransa",
+    "Hindistan",
+    "BAE",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 30.0
+}

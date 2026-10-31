@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Alman Sanayi Federasyonu (BDI), otomotiv konsorsiyumları (VW, BMW, Mercedes), sendikalar ve koalisyon partileri bürokrasisi.
+DAX sanayi tekelleri (BDI lobisi), otomotiv karteli (VDA), aile mülkiyetindeki dev Mittelstand holdingleri ve BND/BfV güvenlik koordinasyonu.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (İsviçre, Lüksemburg ve Hollanda vergi optimizasyon holdingleri.) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+ABD askeri üsleri (Ramstein Hava Üssü) ve nükleer caydırıcılık şemsiyesi; Rus gazı kesintisi sonrası Amerikan LNG bağımlılığı.

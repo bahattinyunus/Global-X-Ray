@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Fiji
 
-## 1. Ulusal Tarih ve Travmalar
-Fiji modern tarihinde bölgesel eşitsizlikler, etnik/kabile dengeleri ve gelir dağılımı adaletsizliği kritik kırılma noktalarıdır.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+Fiji adalarında nükleer deneme mirası, sömürge bölünmeleri ve iklim felaketleri travmatik hafızadır.
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 929,766
-- **Bölgesel Ayrışmalar:** Başkent Suva ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 929,766
+- **Resmi ve Konuşulan Diller:** İngilizce, Fijice, Hintçe
+- **Kültürel Kırılma Eksenleri:** Geleneksel kabile şeflik yapıları ile modern anayasal meclis yetkileri arasındaki çelişkiler.
+- **Bölgesel Ayrışmalar:** Başkent Suva ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

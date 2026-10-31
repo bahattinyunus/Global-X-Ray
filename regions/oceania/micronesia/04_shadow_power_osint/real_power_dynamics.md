@@ -1,12 +1,14 @@
-# 🕶️ Karanlık Madde: Gerçek Güç Dinamikleri ve De Facto İktidar: Mikronezya
+# 🕶️ Karanlık Madde: Gerçek Güç Dinamikleri ve De Facto İktidar: Mikronezya Federal Devletleri
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Mikronezya karar alma mekanizmaları geleneksel siyasi elitler, kamu ihaleleriyle zenginleşen iş insanları ve bürokratik hizipler tarafından yönlendirilmektedir.
+ABD ile Serbest Birlik Sözleşmesi (COFA) mali bağımlılığı ve Pasifik askeri üs hakları.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Ada offshore tescil rejimleri, Avustralya ve Yeni Zelanda bankaları.) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+Avustralya mali yardımları ile Çin'in liman ve polis güvenlik anlaşmaları rekabeti.

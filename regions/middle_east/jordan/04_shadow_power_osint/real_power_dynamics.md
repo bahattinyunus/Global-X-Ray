@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-Kraliyet Divanı ve Genel İstihbarat Dairesi (GID / Dairat el-Mukhabarat).
+Kral II. Abdullah, Kraliyet Divanı (Basman Sarayı), Genel İstihbarat Dairesi (GID / Muhaberat) ve Doğu Şeria yerli Bedevi kabile elitleri.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (İsviçre, Londra lüks emlak piyasası, İngiliz Virjin Adaları (Pandora Papers ifşaları).) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+ABD'nin yıllık 1.4 milyar dolarlık doğrudan mali ve askeri yardımı olmaksızın bütçenin ayakta kalamaması; Körfez hibe bağımlılığı.

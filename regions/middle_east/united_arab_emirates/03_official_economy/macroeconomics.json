@@ -2,30 +2,32 @@
   "country": "Birleşik Arap Emirlikleri",
   "official_name": "Birleşik Arap Emirlikleri",
   "iso_code": "ARE",
-  "currency": "AED",
-  "gdp_nominal_billion_usd": 507.5,
-  "gdp_per_capita_usd": 53700,
-  "inflation_rate_pct": 2.5,
+  "currency": "AED (BAE Dirhemi)",
+  "gdp_nominal_billion_usd": 504.0,
+  "gdp_per_capita_usd": 52900,
+  "inflation_rate_pct": 2.3,
   "unemployment_rate_pct": 2.7,
+  "debt_to_gdp_pct": 29.8,
   "top_exports": [
     "Ham Petrol",
-    "Altın & Mücevherat",
-    "Yeniden İhracat (Elektronik)",
-    "Petrol Gazları"
+    "Doğal Gaz & Rafine Ürünler",
+    "Re-eksport Altın ve Kıymetli Madenler",
+    "Alüminyum",
+    "Mücevherat"
   ],
   "top_imports": [
-    "Altın (İşlenmemiş)",
-    "Yayın Ekipmanları",
+    "İşlenmemiş Altın",
+    "Yayın Ekipmanları & Telefonlar",
     "Otomobil",
-    "Mücevher"
+    "Havacılık Yedek Parçaları"
   ],
   "major_trading_partners": [
     "Hindistan",
     "Çin",
-    "Japonya",
     "Suudi Arabistan",
     "ABD",
-    "İsviçre"
+    "İsviçre",
+    "Türkiye"
   ],
   "shadow_economy_pct_gdp": 18.0
 }

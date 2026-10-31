@@ -1,9 +1,11 @@
 # 📡 Medya Mülkiyeti, Sansür ve Bilgi Kontrolü: Amerika Birleşik Devletleri
 
+---
+
 ## 1. Medya Mülkiyet Haritası
-Yasal olarak Birinci Değişiklik tam koruma sağlar; ancak medya altı büyük şirket (Comcast, Disney, Warner Bros Discovery, Paramount, Fox, Sony) tekelindedir.
+Medya 6 büyük mega-konglomera (Comcast/NBC, Disney/ABC, Paramount/CBS, Warner Bros Discovery/CNN, Fox Corporation, News Corp) tarafından kontrol edilir; yüksek kutuplaşma ve partizan yayıncılık hakimdir.
 
 ## 2. Sansür Mekanizmaları ve Dijital Gözetim
-- **Resmi Düzenleyici Kurullar:** Yayın durdurma ve idari para cezaları.
-- **Siber Yasalar ve İnternet Engellemeleri:** Muhalif haber portalları, yolsuzluk ifşaları ve sosyal medya platformları üzerindeki bant daraltma ve engelleme kararları.
-- **Gazetecilere Yönelik Baskılar:** Akreditasyon iptalleri, yargısal taciz ve reklam gelirlerinden mahrum bırakma.
+- **Resmi Düzenleyici Kurullar:** Yayın durdurma, para cezaları ve lisans iptalleriyle muhalif yayın organları üzerinde finansal baskı.
+- **Siber Yasalar ve İnternet Engellemeleri:** Yolsuzluk ifşaları, bağımsız haber portalları ve sosyal medya ağlarına yönelik bant daraltma ve erişim engeli kararları.
+- **Gazetecilere Yönelik Baskılar:** Akreditasyon iptalleri, yargısal taciz, tutuklama tehditleri ve kamu reklam gelirlerinden mahrum bırakma.

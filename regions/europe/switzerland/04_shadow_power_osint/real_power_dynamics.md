@@ -2,11 +2,13 @@
 
 > *"Görünen makamlar resmi evrakları imzalar; asıl kararlar ise bütçelerin, imtiyazların ve istihbarat dosyalarının kesiştiği kapalı kapılar ardında alınır."*
 
+---
+
 ## 1. Fiili Güç Odakları (De Facto Decision Makers)
-İsviçre karar alma mekanizmaları geleneksel siyasi elitler, kamu ihaleleriyle zenginleşen iş insanları ve bürokratik hizipler tarafından yönlendirilmektedir.
+Cenevre ve Zürih özel bankacılık elitleri, küresel emtia tüccarları karteli (Glencore, Trafigura, Vitol), ilaç devleri (Roche, Novartis) ve Nestlé.
 
 ## 2. Kleptokrasi, İhale Dağıtımı ve Sermaye Transferi
-Kamu altyapı projeleri, maden/enerji lisansları ve gümrük muafiyetleri iktidar koalisyonunun sadık sermayedarlarına transfer edilmekte; elde edilen rantın bir kısmı offshore hesaplar ve lüks gayrimenkul yatırımlarıyla sistem dışına çıkarılmaktadır.
+Kamu altyapı sözleşmeleri, madencilik/enerji lisansları ve gümrük muafiyetleri iktidar elitlerinin sadık sermaye konsorsiyumuna transfer edilmekte; elde edilen rant offshore vergi cennetleri (Cenevre, Lugano ve Zürih özel bankaları (Dünyanın sınır ötesi servetinin %22'sini yöneten 1 numaralı merkez).) üzerinden küresel finans sistemine taşınmaktadır.
 
 ## 3. Küresel / Bölgesel Jeopolitik Bağımlılık
-Ülkenin dış politika adımları borçlanma mekanizmaları, kritik enerji akışları ve askeri güvenlik garantileri nedeniyle küresel güç odaklarıyla doğrudan bağlantılıdır.
+Rusya yaptırımlarına katılarak tarafsızlık ilkesini esnetmesi; ABD Hazine Bakanlığı ve AB mali regülasyon baskısı.

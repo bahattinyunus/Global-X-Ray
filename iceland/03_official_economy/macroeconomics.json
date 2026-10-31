@@ -1,0 +1,30 @@
+{
+  "country": "İzlanda",
+  "official_name": "İzlanda Cumhuriyeti",
+  "iso_code": "ISL",
+  "currency": "ISK",
+  "gdp_nominal_billion_usd": 31.0,
+  "gdp_per_capita_usd": 80000,
+  "inflation_rate_pct": 5.5,
+  "unemployment_rate_pct": 3.5,
+  "debt_to_gdp_pct": 55.0,
+  "top_exports": [
+    "Makineler",
+    "Kimyasallar",
+    "İşlenmiş Ürünler",
+    "Hizmetler"
+  ],
+  "top_imports": [
+    "Enerji",
+    "Hammadde",
+    "Elektronik",
+    "Taşıtlar"
+  ],
+  "major_trading_partners": [
+    "Almanya",
+    "İtalya",
+    "Bölgesel Komşular",
+    "AB"
+  ],
+  "shadow_economy_pct_gdp": 7.5
+}

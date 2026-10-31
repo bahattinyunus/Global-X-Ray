@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Pakistan
 
-## 1. Ulusal Tarih ve Travmalar
-Keşmir ihtilafı, Peştun ve Beluç ayrılıkçı çatışmaları, siyasetçilerin ordu tarafından yargı yoluyla tasfiyesi geleneği.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+1947 kanlı bölünmesi, 1971 Bangladeş Kurtuluş Savaşı ve ülkenin bölünmesi travması, askeri darbeler zinciri (Eyüp Han, Ziya ül-Hak, Müşerref) ve İmran Han'ın tutuklanmasıyla patlak veren sokak isyanları.
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 241,499,431
-- **Bölgesel Ayrışmalar:** Başkent İslamabad ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 240,485,658
+- **Resmi ve Konuşulan Diller:** Urduca ve İngilizce (Resmi), Pencapça, Peştuca, Sindhi, Beluçça
+- **Kültürel Kırılma Eksenleri:** Pencap egemenliği karşısında Beluç ayrılıkçı gerilla savaşı ve Peştun Tahaffuz Hareketi hoşnutsuzluğu.
+- **Bölgesel Ayrışmalar:** Başkent İslamabad ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

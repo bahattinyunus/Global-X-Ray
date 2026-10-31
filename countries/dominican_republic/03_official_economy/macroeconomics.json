@@ -1,0 +1,27 @@
+{
+  "country": "Dominik Cumhuriyeti",
+  "official_name": "Dominik Cumhuriyeti Cumhuriyeti",
+  "iso_code": "DOM",
+  "currency": "DOP",
+  "gdp_nominal_billion_usd": 121.0,
+  "gdp_per_capita_usd": 10700,
+  "inflation_rate_pct": 3.5,
+  "unemployment_rate_pct": 5.0,
+  "debt_to_gdp_pct": 58.0,
+  "top_exports": [
+    "Tarım ve Emtia",
+    "Petrol / Maden",
+    "Hafif Sanayi"
+  ],
+  "top_imports": [
+    "Makineler",
+    "Rafine Yakıt",
+    "Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Çin",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 30.0
+}

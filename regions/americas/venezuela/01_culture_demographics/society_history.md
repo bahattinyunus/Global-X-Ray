@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Venezuela
 
-## 1. Ulusal Tarih ve Travmalar
-Venezuela modern tarihinde bölgesel eşitsizlikler, etnik/kabile dengeleri ve gelir dağılımı adaletsizliği kritik kırılma noktalarıdır.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+Venezuela modern tarihinde sömürge mirası, askeri müdahaleler ve gelir dağılımı eşitsizliği ana gerilim hatlarıdır.
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 28,838,499
-- **Bölgesel Ayrışmalar:** Başkent Caracas ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 28,838,499
+- **Resmi ve Konuşulan Diller:** İspanyolca
+- **Kültürel Kırılma Eksenleri:** Yerli hakları, toprak mülkiyeti kavgaları ve metropol-kırsal kutuplaşması.
+- **Bölgesel Ayrışmalar:** Başkent Karakas ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

@@ -1,0 +1,32 @@
+{
+  "country": "Güney Kore",
+  "official_name": "Kore Cumhuriyeti",
+  "iso_code": "KOR",
+  "currency": "KRW (Güney Kore Wonu)",
+  "gdp_nominal_billion_usd": 1712.0,
+  "gdp_per_capita_usd": 33100,
+  "inflation_rate_pct": 2.6,
+  "unemployment_rate_pct": 2.8,
+  "debt_to_gdp_pct": 53.8,
+  "top_exports": [
+    "Yarı İletkenler ve Bellek Çipleri (DRAM/NAND)",
+    "Otomobiller ve Elektrikli Taşıtlar",
+    "Gemi İnşaatı (Konteyner ve LNG Tankerleri)",
+    "Petrol Rafineri Ürünleri",
+    "Akıllı Telefonlar ve Ekranlar (OLED)"
+  ],
+  "top_imports": [
+    "Ham Petrol ve Gaz",
+    "Makineler ve Ekipman",
+    "Metaller",
+    "Hassas Kimyasallar"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "ABD",
+    "Vietnam",
+    "Japonya",
+    "Avustralya"
+  ],
+  "shadow_economy_pct_gdp": 21.3
+}

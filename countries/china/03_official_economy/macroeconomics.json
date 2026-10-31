@@ -1,0 +1,33 @@
+{
+  "country": "Çin",
+  "official_name": "Çin Halk Cumhuriyeti",
+  "iso_code": "CHN",
+  "currency": "CNY (Çin Yuanı / Renminbi)",
+  "gdp_nominal_billion_usd": 17794.0,
+  "gdp_per_capita_usd": 12600,
+  "inflation_rate_pct": 0.4,
+  "unemployment_rate_pct": 5.1,
+  "debt_to_gdp_pct": 77.0,
+  "top_exports": [
+    "Elektronik ve Akıllı Telefonlar",
+    "Güneş Panelleri ve Lityum Bataryalar",
+    "Elektrikli Araçlar (EV)",
+    "Endüstriyel Makineler",
+    "Demir-Çelik ve Plastik"
+  ],
+  "top_imports": [
+    "Entegre Devreler ve Yarı İletkenler",
+    "Ham Petrol ve Doğalgaz",
+    "Demir Cevheri",
+    "Soya Fasulyesi ve Tarım"
+  ],
+  "major_trading_partners": [
+    "ABD",
+    "Güneydoğu Asya (ASEAN)",
+    "Avrupa Birliği",
+    "Japonya",
+    "Güney Kore",
+    "Rusya"
+  ],
+  "shadow_economy_pct_gdp": 12.7
+}

@@ -1,0 +1,32 @@
+{
+  "country": "Suudi Arabistan",
+  "official_name": "Suudi Arabistan Krallığı",
+  "iso_code": "SAU",
+  "currency": "SAR (Suudi Riyali)",
+  "gdp_nominal_billion_usd": 1069.0,
+  "gdp_per_capita_usd": 32590,
+  "inflation_rate_pct": 2.1,
+  "unemployment_rate_pct": 4.8,
+  "debt_to_gdp_pct": 26.2,
+  "top_exports": [
+    "Ham Petrol",
+    "Rafine Petrol Ürünleri",
+    "Petrokimyasallar",
+    "Plastik ve Kauçuk"
+  ],
+  "top_imports": [
+    "Savunma Sistemleri ve Mühimmat",
+    "Motorlu Taşıtlar",
+    "Telekom Ekipmanları",
+    "İlaç ve Tıbbi Cihaz"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Hindistan",
+    "Japonya",
+    "Güney Kore",
+    "ABD",
+    "BAE"
+  ],
+  "shadow_economy_pct_gdp": 16.2
+}

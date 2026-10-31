@@ -1,28 +1,29 @@
 {
   "country": "Tuvalu",
-  "official_name": "Tuvalu Devleti",
+  "official_name": "Tuvalu",
   "iso_code": "TUV",
   "currency": "AUD",
   "gdp_nominal_billion_usd": 0.06,
   "gdp_per_capita_usd": 5300,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "inflation_rate_pct": 3.5,
+  "unemployment_rate_pct": 6.0,
+  "debt_to_gdp_pct": 45.0,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Balık ve Ton Balığı",
+    "Kopralık Hindistan Cevizi",
+    "Kereste",
+    "Turizm"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
-    "Kimyasallar"
+    "Yakıt",
+    "Gıda Maddeleri",
+    "Makineler"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
+    "Avustralya",
     "Çin",
-    "ABD",
-    "Avrupa Birliği"
+    "Yeni Zelanda",
+    "ABD"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "shadow_economy_pct_gdp": 15.0
 }

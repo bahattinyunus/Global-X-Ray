@@ -1,0 +1,29 @@
+{
+  "country": "Cibuti",
+  "official_name": "Cibuti",
+  "iso_code": "DJI",
+  "currency": "DJF",
+  "gdp_nominal_billion_usd": 4.1,
+  "gdp_per_capita_usd": 3600,
+  "inflation_rate_pct": 2.5,
+  "unemployment_rate_pct": 10.0,
+  "debt_to_gdp_pct": 60.0,
+  "top_exports": [
+    "Maden ve Emtia",
+    "Petrol / Gaz",
+    "Tarım Ürünleri"
+  ],
+  "top_imports": [
+    "İşlenmiş Yakıt",
+    "Gıda ve Tahıl",
+    "Makineler"
+  ],
+  "major_trading_partners": [
+    "Çin",
+    "Fransa",
+    "Hindistan",
+    "BAE",
+    "Bölgesel Komşular"
+  ],
+  "shadow_economy_pct_gdp": 30.0
+}

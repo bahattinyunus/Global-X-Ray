@@ -1,28 +1,32 @@
 {
   "country": "Yeni Zelanda",
-  "official_name": "Yeni Zelanda Devleti",
+  "official_name": "Yeni Zelanda (Aotearoa)",
   "iso_code": "NZL",
-  "currency": "NZD",
+  "currency": "NZD (Yeni Zelanda Doları)",
   "gdp_nominal_billion_usd": 253.0,
   "gdp_per_capita_usd": 48400,
-  "inflation_rate_pct": 5.5,
-  "unemployment_rate_pct": 6.8,
+  "inflation_rate_pct": 2.2,
+  "unemployment_rate_pct": 4.8,
+  "debt_to_gdp_pct": 43.0,
   "top_exports": [
-    "Doğal Kaynaklar",
-    "Tarım Ürünleri",
-    "Hafif Sanayi Malları"
+    "Süt Tozu, Tereyağı ve Peynir (Fonterra)",
+    "Kuzu ve Sığır Eti",
+    "Kereste ve Tomruk",
+    "Kivi ve Meyve",
+    "Şarap (Sauvignon Blanc)"
   ],
   "top_imports": [
-    "Petrol Ürünleri",
-    "Makineler & Ekipman",
-    "Tüketim Malları",
-    "Kimyasallar"
+    "Petrol ve Rafine Yakıtlar",
+    "Motorlu Taşıtlar",
+    "Makineler ve Uçaklar",
+    "Elektronik"
   ],
   "major_trading_partners": [
-    "Bölgesel Komşular",
-    "Çin",
+    "Çin (İhracatın %28'i)",
+    "Avustralya",
     "ABD",
-    "Avrupa Birliği"
+    "Japonya",
+    "Güney Kore"
   ],
-  "shadow_economy_pct_gdp": 25.0
+  "shadow_economy_pct_gdp": 8.0
 }

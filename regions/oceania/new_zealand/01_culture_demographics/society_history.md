@@ -1,9 +1,17 @@
 # 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Yeni Zelanda
 
-## 1. Ulusal Tarih ve Travmalar
-Yeni Zelanda modern tarihinde bölgesel eşitsizlikler, etnik/kabile dengeleri ve gelir dağılımı adaletsizliği kritik kırılma noktalarıdır.
+> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
+
+---
+
+## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
+1840 Waitangi Anlaşması yorumlama krizleri, 2019 Christchurch cami terör saldırısı travması ve küresel milyarderlerin kıyamet sığınakları (Doomsday Bunkers) üssüne dönüşmesi.
 
 ## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Nüfus:** Yaklaşık 5,228,100
-- **Bölgesel Ayrışmalar:** Başkent Wellington ve taşra vilayetleri arasındaki sosyo-ekonomik uçurumlar.
-- **Toplumsal Kutuplaşma Dinamikleri:** Geleneksel elitler ile yeni kentli orta sınıf arasındaki rekabet.
+- **Toplam Nüfus:** Yaklaşık 5,228,100
+- **Resmi ve Konuşulan Diller:** İngilizce (Resmi), Maori Dili (Resmi), Yeni Zelanda İşaret Dili
+- **Kültürel Kırılma Eksenleri:** Maori yerli hakları (Co-governance) tartışmaları ve yeni koalisyon hükümetinin geleneksel Maori politikalarını budama girişimlerine karşı protestolar.
+- **Bölgesel Ayrışmalar:** Başkent Wellington ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+
+## 3. Toplumsal Kutuplaşma Dinamikleri
+Geleneksel imtiyazlı elitler ile kentleşen yeni orta ve alt sınıflar arasındaki ekonomik çatışma; liyakat erozyonu ve genç kuşakların göç dinamikleri.

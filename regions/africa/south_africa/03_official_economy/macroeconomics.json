@@ -2,29 +2,32 @@
   "country": "Güney Afrika",
   "official_name": "Güney Afrika Cumhuriyeti",
   "iso_code": "ZAF",
-  "currency": "ZAR",
+  "currency": "ZAR (Güney Afrika Randı)",
   "gdp_nominal_billion_usd": 377.0,
-  "gdp_per_capita_usd": 6200,
-  "inflation_rate_pct": 5.2,
+  "gdp_per_capita_usd": 6080,
+  "inflation_rate_pct": 4.4,
   "unemployment_rate_pct": 33.5,
+  "debt_to_gdp_pct": 74.0,
   "top_exports": [
-    "Platin & Kıymetli Madenler",
-    "Altın",
-    "Demir Cevheri & Kömür",
-    "Otomobil"
+    "Platin ve Altın",
+    "Demir Cevheri ve Kömür",
+    "Otomotiv ve Parçaları",
+    "Elmas",
+    "Narenciye ve Şarap"
   ],
   "top_imports": [
-    "Ham Petrol",
     "Rafine Petrol",
-    "Elektronik",
-    "Makineler"
+    "Elektronik ve Telefonlar",
+    "Makineler",
+    "Otomobil"
   ],
   "major_trading_partners": [
     "Çin",
     "ABD",
     "Almanya",
+    "İngiltere",
     "Japonya",
-    "İngiltere"
+    "Hindistan"
   ],
   "shadow_economy_pct_gdp": 24.1
 }

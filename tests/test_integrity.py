@@ -94,5 +94,42 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
                 self.assertIn("top_exports", data)
                 self.assertIn("shadow_economy_pct_gdp", data)
 
+    def test_research_dossiers_exist_and_non_empty(self):
+        """research/ altındaki derin istihbarat ve jeopolitik dosyalarının varlığı ve doluluğu kontrol edilir."""
+        research_dir = BASE_DIR / "research"
+        self.assertTrue(research_dir.exists(), "research/ dizini bulunamadı!")
+        expected_dossiers = [
+            "THEORETICAL_FRAMEWORKS.md",
+            "SHADOW_BANKING_AND_OFFSHORE_FLOWS.md",
+            "PROPAGANDA_AND_INFORMATION_WARFARE.md",
+            "GEOPOLITICAL_CHOKEPOINTS_AND_CORRIDORS.md",
+            "MILITARY_INDUSTRIAL_COMPLEX_AND_PMCS.md",
+            "INTELLIGENCE_AGENCIES_AND_BLACK_OPS.md",
+            "RESOURCE_WARS_AND_COMMODITY_SUPER_CARTELS.md",
+            "WHISTLEBLOWERS_LEAKS_AND_FORENSIC_STANDARDS.md"
+        ]
+        for dossier in expected_dossiers:
+            d_path = research_dir / dossier
+            self.assertTrue(d_path.exists(), f"Eksik araştırma dosyası: {dossier}")
+            self.assertGreater(d_path.stat().st_size, 3000, f"{dossier} dosyası kapsamlı ve en az 3KB olmalıdır!")
+
+    def test_intelligence_and_offshore_datasets(self):
+        """Yeni istihbarat teşkilatları ve vergi cennetleri datasetlerinin geçerliliği doğrulanır."""
+        intel_file = self.datasets_dir / "intelligence_agencies_registry.json"
+        offshore_file = self.datasets_dir / "offshore_havens_matrix.csv"
+
+        self.assertTrue(intel_file.exists(), "intelligence_agencies_registry.json bulunamadı!")
+        self.assertTrue(offshore_file.exists(), "offshore_havens_matrix.csv bulunamadı!")
+
+        with open(intel_file, "r", encoding="utf-8") as f:
+            intel_data = json.load(f)
+            self.assertIn("agencies", intel_data)
+            self.assertGreaterEqual(len(intel_data["agencies"]), 10)
+
+        with open(offshore_file, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            rows = list(reader)
+            self.assertGreaterEqual(len(rows), 15, "Vergi cennetleri matrisi en az 15 merkez içermelidir!")
+
 if __name__ == "__main__":
     unittest.main()

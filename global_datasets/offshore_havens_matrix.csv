@@ -1,11 +1,21 @@
-jurisdiction,type,financial_secrecy_index,top_clients,primary_services,key_leaks_referenced
-Cayman Islands,British Overseas Territory,High,US / UK / Global Hedge Funds,Offshore Funds / Shell Companies / Tax Avoidance,Panama Papers / Paradise Papers
-British Virgin Islands (BVI),British Overseas Territory,Very High,Russian Oligarchs / Chinese Tycoons / Middle East,Anonymous Shell Entities / Asset Shielding,Pandora Papers / OCCRP
-Switzerland,Sovereign European State,High,Global High Net Worth Elites / Autocrats,Private Banking / Numbered Vaults / Gold Storage,Credit Suisse Leaks (Suisse Secrets)
-United Arab Emirates (Dubai),Middle East Hub,Very High,Russian / African / South Asian Elites,Real Estate Laundering / Gold Smuggling / Free Zones,Dubai Uncovered / FATF Grey List
-Delaware / Nevada / Wyoming,US Domestic Haven,High,US & International Corporations,Anonymous LLCs / Disregarded Entities,FinCEN Files / ICIJ
-Cyprus,EU Member State,Medium-High,Russian & Ukrainian Wealthy Networks,Golden Passports (Archived) / Holding Companies,Cyprus Confidential 2023
-Panama,Central American Nation,Medium-High,Latin American & Global Corrupt Networks,Bearer Shares / Nominee Directors / Legal Fronts,Mossack Fonseca / Panama Papers 2016
-Singapore,Asian Global Hub,High,East Asian & Southeast Asian Tycoons,Wealth Management / Trust Funds / Family Offices,Pandora Papers
-Luxembourg,EU Member State,Medium-High,Multinational Tech & Energy Corporations,Cross-border Lending / Tax Rulings / SPVs,OpenLux / LuxLeaks
-Seychelles,Indian Ocean Island State,Very High,Eastern European & African Networks,Offshore IBC Formations / Crypto Licensing,Pandora Papers
+Jurisdiction,ISO2,FSI_Ranking,Corporate_Tax_Rate_Pct,Secrecy_Score_100,Primary_Illicit_Flow_Type,Key_Enablers_and_Services
+Cayman Islands,KY,2,0.0,76,Hedge Funds & Structured Finance,Nominee trusts, exempt companies, captive insurance
+United States (Delaware/Wyoming),US,1,21.0,67,Anonymous Shell LLCs & Real Estate,Unregulated corporate formation agents, no public beneficial register
+Switzerland,CH,3,11.9,70,Private Wealth Banking & Commodity Trading,Numbered accounts legacy, attorney-client privilege, freeport storage
+Singapore,SG,5,17.0,65,Asian Capital Flight & Family Offices,Variable Capital Companies (VCC), trade financing hubs
+Hong Kong,HK,4,16.5,66,Mainland China Outflows & Round-Tripping,Multi-currency clearing, shelf companies, nominee directors
+United Kingdom (City of London),GB,12,25.0,47,Global Clearing & Offshore Trust Network,Crown dependencies liaison, Scottish limited partnerships
+Luxembourg,LU,6,24.9,55,Multinational Tax Arbitrage & SOPARFIs,Private wealth holding companies, specialized investment funds
+British Virgin Islands,VG,9,0.0,81,Anonymous International Business Companies,BVI BC entities, over 400,000 active shell registrations
+United Arab Emirates (Dubai),AE,8,9.0,77,Gold Smuggling & Sanctions Arbitrage,Free zone companies (DMCC, DIFC), cash-for-real-estate
+Netherlands,NL,10,25.8,51,Dutch Sandwich / Royalty Conduit,Letterbox companies (brievenbusfirma), double tax treaties
+Ireland,IE,11,12.5,48,Double Irish / Tech Intellectual Property,IP holding subsidiaries, Green Jersey structures
+Bermuda,BM,15,0.0,83,Captive Insurance & Reinsurance Slush,Zero corporate income tax, Fortune 500 capital accumulation
+Jersey,JE,16,0.0,74,Ultra-High-Net-Worth Dynasty Trusts,Trust and company service providers, Royal Court sealed records
+Guernsey,GG,18,0.0,73,Protected Cell Companies & Captives,Specialist offshore fund administration, zero capital gains tax
+Isle of Man,IM,20,0.0,72,Aviation & Superyacht Tax Schemes,VAT leasing arrangements, private aircraft registration
+Panama,PA,22,25.0,72,Maritime Flag of Convenience & Bearer Shares,Law firms (Mossack Fonseca legacy), private interest foundations
+Liechtenstein,LI,24,12.5,78,Anstalts & Secret Family Foundations,Strict banking secrecy, non-reporting wealth protection trusts
+Bahamas,BS,25,0.0,75,Cruise Shipping & Asset Protection Trusts,International business companies, zero estate/gift taxes
+Cyprus,CY,28,12.5,62,Russian & Eastern European Offshore Conduit,Citizenship-by-investment legacy, double tax treaties with CIS
+Mauritius,MU,30,15.0,60,African & Indian Inward Investment Route,Global Business Companies (GBC), tax treaty shopping\n

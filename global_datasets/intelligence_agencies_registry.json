@@ -1,0 +1,172 @@
+{
+  "_metadata": {
+    "title": "Global Intelligence Agencies & Security Services Comprehensive Registry",
+    "version": "2.0.0",
+    "last_updated": "2026-10",
+    "admiralty_code_standard": "B2+ (Reliable Source / Verified via Cross-Reference)",
+    "scope": "Primary foreign, domestic, signals, and military intelligence apparatuses of leading global powers"
+  },
+  "agencies": [
+    {
+      "country": "United States",
+      "iso2": "US",
+      "primary_foreign": "Central Intelligence Agency (CIA)",
+      "primary_signals": "National Security Agency (NSA)",
+      "primary_domestic": "Federal Bureau of Investigation (FBI)",
+      "primary_military": "Defense Intelligence Agency (DIA)",
+      "oversight_mechanism": "Senate Select Committee on Intelligence (SSCI), FISC Court",
+      "estimated_annual_budget_usd": "85,000,000,000 (Combined Black Budget)",
+      "notorious_operations": [
+        "Operation Ajax (1953)",
+        "MKUltra",
+        "Operation Cyclone",
+        "PRISM Surveillance"
+      ],
+      "classification_level": "Global Tier 1 SIGINT/HUMINT/Covert Action"
+    },
+    {
+      "country": "United Kingdom",
+      "iso2": "GB",
+      "primary_foreign": "Secret Intelligence Service (SIS / MI6)",
+      "primary_signals": "Government Communications Headquarters (GCHQ)",
+      "primary_domestic": "Security Service (MI5)",
+      "primary_military": "Defence Intelligence (DI)",
+      "oversight_mechanism": "Intelligence and Security Committee of Parliament (ISC), Investigatory Powers Tribunal",
+      "estimated_annual_budget_usd": "4,200,000,000",
+      "notorious_operations": [
+        "Operation Boot (1953 with CIA)",
+        "Operation Tempora (Fiber tapping)",
+        "Bletchley Park Ultra"
+      ],
+      "classification_level": "Global Tier 1 Five-Eyes Core"
+    },
+    {
+      "country": "Russia",
+      "iso2": "RU",
+      "primary_foreign": "Foreign Intelligence Service (SVR)",
+      "primary_signals": "Federal Guard Service (FSO) / 16th Center FSB",
+      "primary_domestic": "Federal Security Service (FSB)",
+      "primary_military": "Main Directorate of the General Staff (GRU)",
+      "oversight_mechanism": "Security Council of Russia (Direct Presidential Control - De Facto No Parliamentary Oversight)",
+      "estimated_annual_budget_usd": "12,000,000,000 (Opaque Security Allocation)",
+      "notorious_operations": [
+        "Active Measures (Operation INFEKTION)",
+        "SolarWinds Cyber Intrusion",
+        "GRU Salisbury Operation"
+      ],
+      "classification_level": "Global Tier 1 Hybrid Warfare & HUMINT"
+    },
+    {
+      "country": "China",
+      "iso2": "CN",
+      "primary_foreign": "Ministry of State Security (MSS - Guoanbu)",
+      "primary_signals": "PLA Strategic Support Force / Cyberspace Force",
+      "primary_domestic": "Ministry of Public Security (MPS - Gonganbu)",
+      "primary_military": "Joint Staff Department Intelligence Bureau",
+      "oversight_mechanism": "Central National Security Commission of the CCP",
+      "estimated_annual_budget_usd": "15,000,000,000 (Extrapolated)",
+      "notorious_operations": [
+        "Operation Cloud Hopper",
+        "OPM Data Breach (2015)",
+        "Ministry 3PLA Advanced Persistent Threats"
+      ],
+      "classification_level": "Global Tier 1 Cyber Espionage & Economic Intelligence"
+    },
+    {
+      "country": "Israel",
+      "iso2": "IL",
+      "primary_foreign": "Institute for Intelligence and Special Operations (Mossad)",
+      "primary_signals": "Unit 8200 (ISNU)",
+      "primary_domestic": "General Security Service (Shin Bet / Shabak)",
+      "primary_military": "Aman (Military Intelligence Directorate)",
+      "oversight_mechanism": "Knesset Subcommittee for Intelligence and Secret Services, Prime Ministerial Direct Authority",
+      "estimated_annual_budget_usd": "3,800,000,000",
+      "notorious_operations": [
+        "Operation Damocles",
+        "Operation Wrath of God",
+        "Stuxnet (Operation Olympic Games with NSA)",
+        "Archival Heist Tehran (2018)"
+      ],
+      "classification_level": "Global Tier 1 Targeted Lethal Action & Cyber Capability"
+    },
+    {
+      "country": "France",
+      "iso2": "FR",
+      "primary_foreign": "General Directorate for External Security (DGSE)",
+      "primary_signals": "DGSE Technical Directorate (Boulevard Mortier)",
+      "primary_domestic": "General Directorate for Internal Security (DGSI)",
+      "primary_military": "Directorate of Military Intelligence (DRM)",
+      "oversight_mechanism": "Parliamentary Delegation on Intelligence (DPR), National Commission for Control of Intelligence Techniques (CNCTR)",
+      "estimated_annual_budget_usd": "3,200,000,000",
+      "notorious_operations": [
+        "Operation Satanic (Rainbow Warrior Bombing 1985)",
+        "Françafrique covert networks (Jacques Foccart)",
+        "Sahel counter-insurgency"
+      ],
+      "classification_level": "European Sovereign Autonomous Intelligence Tier"
+    },
+    {
+      "country": "Germany",
+      "iso2": "DE",
+      "primary_foreign": "Federal Intelligence Service (BND)",
+      "primary_signals": "BND Department VI (Technical Intelligence / Bad Aibling)",
+      "primary_domestic": "Federal Office for the Protection of the Constitution (BfV)",
+      "primary_military": "Military Counterintelligence Service (MAD)",
+      "oversight_mechanism": "Parliamentary Oversight Panel (PKGr), G10 Commission",
+      "estimated_annual_budget_usd": "1,600,000,000",
+      "notorious_operations": [
+        "Operation Rubicon (Crypto AG ownership with CIA 1970-1993)",
+        "Gehlen Organization Cold War recruitment"
+      ],
+      "classification_level": "Major European SIGINT & Technical Intelligence"
+    },
+    {
+      "country": "Turkey",
+      "iso2": "TR",
+      "primary_foreign": "National Intelligence Organization (MİT)",
+      "primary_signals": "MİT Electronic and Technical Intelligence Directorate (GES Command integration)",
+      "primary_domestic": "MİT Domestic Intelligence Directorate / EGM Security Branch",
+      "primary_military": "General Staff Intelligence Directorate (Gnkur. İstihbarat)",
+      "oversight_mechanism": "Security and Intelligence Commission of Turkish Grand National Assembly (TBMM), Presidential Direct Chain",
+      "estimated_annual_budget_usd": "1,400,000,000 (Excluding autonomous operational assets)",
+      "notorious_operations": [
+        "Capture of Abdullah Öcalan (Nairobi 1999)",
+        "Cross-border drone strikes Northern Iraq/Syria",
+        "Libya & Nagorno-Karabakh advisory missions"
+      ],
+      "classification_level": "Dominant Regional Armed Drone & Paramilitary Intelligence Actor"
+    },
+    {
+      "country": "Iran",
+      "iso2": "IR",
+      "primary_foreign": "IRGC Quds Force Intelligence",
+      "primary_signals": "Basij Cyber Command / IRGC Electronic Warfare Unit",
+      "primary_domestic": "Ministry of Intelligence and Security (VAJA / MOIS)",
+      "primary_military": "Artesh Intelligence Department",
+      "oversight_mechanism": "Supreme National Security Council (Direct Reporting to Supreme Leader Ali Khamenei)",
+      "estimated_annual_budget_usd": "2,800,000,000 (Combined Conventional & Revolutionary Guard allocations)",
+      "notorious_operations": [
+        "Axis of Resistance proxy network integration (Hezbollah, PMU, Houthis)",
+        "AMIA bombing logistics (alleged)",
+        "Cyber attacks against Saudi Aramco (Shamoon)"
+      ],
+      "classification_level": "Asymmetric Proxy Network & Regional Covert Power"
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso2": "SA",
+      "primary_foreign": "General Intelligence Presidency (GIP - Al-Mukhabarat al-A'amah)",
+      "primary_signals": "State Security Cyber Warfare Center",
+      "primary_domestic": "Presidency of State Security (Mabahith)",
+      "primary_military": "Armed Forces Intelligence and Security Authority",
+      "oversight_mechanism": "Direct oversight by Crown Prince & King (No legislative review)",
+      "estimated_annual_budget_usd": "3,000,000,000",
+      "notorious_operations": [
+        "Funding of Afghan Mujahideen (Operation Cyclone co-sponsor)",
+        "Tiger Squad (Firqat el-Nemr) covert extractions",
+        "Jamal Khashoggi assassination (Istanbul 2018)"
+      ],
+      "classification_level": "Resource-Backed Authoritarian Intelligence & Covert Slush Fund Hub"
+    }
+  ]
+}

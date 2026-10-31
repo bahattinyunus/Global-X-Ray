@@ -147,5 +147,32 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
             data = json.load(f)
             self.assertEqual(len(data["countries"]), 205)
 
+    def test_regional_dossiers_and_case_studies(self):
+        """6 ana bölgenin README dosyaları ve dossiers/ altındaki derin vaka analizleri kontrol edilir."""
+        expected_regions = ["middle_east", "europe", "asia", "americas", "africa", "oceania"]
+        for reg in expected_regions:
+            reg_readme = self.regions_dir / reg / "README.md"
+            self.assertTrue(reg_readme.exists(), f"Eksik bölge dosyası: {reg}/README.md")
+            self.assertGreater(reg_readme.stat().st_size, 1000, f"{reg}/README.md yetersiz!")
+
+        dossiers_dir = BASE_DIR / "dossiers"
+        self.assertTrue(dossiers_dir.exists(), "dossiers/ dizini bulunamadı!")
+        expected_cases = [
+            "CASE_STUDY_1MDB.md",
+            "CASE_STUDY_MAGNITSKY_AND_TROIKA_LAUNDROMAT.md",
+            "CASE_STUDY_ODEBRECHT_LAVA_JATO.md",
+            "CASE_STUDY_PEGASUS_PROJECT.md"
+        ]
+        for case in expected_cases:
+            case_path = dossiers_dir / case
+            self.assertTrue(case_path.exists(), f"Eksik vaka analizi: {case}")
+            self.assertGreater(case_path.stat().st_size, 2000, f"{case} dosyası en az 2KB olmalıdır!")
+
+        # Yeni datasetler
+        choke_file = self.datasets_dir / "chokepoints_registry.json"
+        pmc_file = self.datasets_dir / "pmc_mercenary_groups.json"
+        self.assertTrue(choke_file.exists())
+        self.assertTrue(pmc_file.exists())
+
 if __name__ == "__main__":
     unittest.main()

@@ -11,6 +11,9 @@ Kullanım:
   python scripts/xray_cli.py top-shadow [sayi]
   python scripts/xray_cli.py top-gdp [sayi]
   python scripts/xray_cli.py intel [ulke_adi]
+  python scripts/xray_cli.py pmc [arama]
+  python scripts/xray_cli.py chokepoints [arama]
+  python scripts/xray_cli.py cases
   python scripts/xray_cli.py list [bolge]
   python scripts/xray_cli.py stats
 """
@@ -32,6 +35,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 REGISTRY_PATH = BASE_DIR / "global_datasets" / "countries_registry.json"
 INTEL_PATH = BASE_DIR / "global_datasets" / "intelligence_agencies_registry.json"
 MATRIX_PATH = BASE_DIR / "global_datasets" / "global_power_matrix.json"
+PMC_PATH = BASE_DIR / "global_datasets" / "pmc_mercenary_groups.json"
+CHOKE_PATH = BASE_DIR / "global_datasets" / "chokepoints_registry.json"
+DOSSIERS_DIR = BASE_DIR / "dossiers"
 
 def load_registry():
     with open(REGISTRY_PATH, "r", encoding="utf-8") as f:
@@ -70,7 +76,6 @@ def show_country(query: str):
     macro_path = c_dir / "03_official_economy" / "macroeconomics.json"
     shadow_path = c_dir / "04_shadow_power_osint" / "real_power_dynamics.md"
     oligarch_path = c_dir / "04_shadow_power_osint" / "oligarch_network.csv"
-    media_path = c_dir / "04_shadow_power_osint" / "media_censorship_matrix.md"
 
     print("=" * 75)
     print(f"🌍 KÜRESEL RÖNTGEN RAPORU: {c['name'].upper()} ({c['code']})")
@@ -90,6 +95,7 @@ def show_country(query: str):
             print(f"  Kişi Başı Gelir: ${m.get('gdp_per_capita_usd'):,}")
             print(f"  Enflasyon: %{m.get('inflation_rate_pct')}")
             print(f"  Kamu Borcu / GSYH: %{m.get('debt_to_gdp_pct', 'N/A')}")
+            print(f"  Dış Borç: ${m.get('external_debt_billion_usd', 'N/A')}B")
             print(f"  Ana İhracat: {', '.join(m.get('top_exports', []))}")
             print(f"  Ticaret Ortakları: {', '.join(m.get('major_trading_partners', []))}")
         print("-" * 75)
@@ -130,7 +136,6 @@ def compare_countries(q1: str, q2: str):
     print(f"{'Nominal GSYH (USD)':<30} | ${c1['gdp_usd_b']:<21,.1f}B | ${c2['gdp_usd_b']:<21,.1f}B")
     print(f"{'Gölge Ekonomi Oranı':<30} | %{c1['shadow_economy_pct']:<21.1f} | %{c2['shadow_economy_pct']:<21.1f}")
 
-    # GSYH farkı
     ratio = c1['gdp_usd_b'] / max(c2['gdp_usd_b'], 0.01)
     print("-" * 80)
     if ratio > 1:
@@ -190,6 +195,56 @@ def show_intel(query=None):
         print(f"  • Operasyonlar:  {', '.join(a.get('notorious_operations', []))}")
         print("-" * 80)
 
+def show_pmcs(query=None):
+    if not PMC_PATH.exists():
+        print("[-] PMC veritabanı bulunamadı.")
+        return
+    with open(PMC_PATH, "r", encoding="utf-8") as f:
+        pmcs = json.load(f).get("companies", [])
+    if query:
+        q = query.lower()
+        pmcs = [p for p in pmcs if q in p["name"].lower() or q in p["country_of_origin"].lower()]
+    print(f"⚔️ ÖZEL ASKERİ ŞİRKETLER (PMC) VERİTABANI ({len(pmcs)} Şirket):")
+    print("=" * 80)
+    for p in pmcs:
+        print(f"[{p['name']} ({p['country_of_origin']})]")
+        print(f"  • Hukuki Statü:  {p['legal_status']}")
+        print(f"  • Tahmini Güç:   {p['estimated_manpower']}")
+        print(f"  • Aktif Sahalar: {', '.join(p['active_theaters'])}")
+        print(f"  • Gelir Modeli:  {', '.join(p['primary_revenue_sources'])}")
+        print("-" * 80)
+
+def show_chokepoints(query=None):
+    if not CHOKE_PATH.exists():
+        print("[-] Boğazlar veritabanı bulunamadı.")
+        return
+    with open(CHOKE_PATH, "r", encoding="utf-8") as f:
+        cps = json.load(f).get("chokepoints", [])
+    if query:
+        q = query.lower()
+        cps = [c for c in cps if q in c["name"].lower() or q in c["english_name"].lower()]
+    print(f"🚢 STRATEJİK DENİZ DARBOĞAZLARI & KANALLAR ({len(cps)} Boğaz):")
+    print("=" * 80)
+    for c in cps:
+        print(f"[{c['name']} / {c['english_name']}] - {c['type']}")
+        print(f"  • Kontrol Eden Devletler: {', '.join(c['controlling_states'])}")
+        print(f"  • Günlük Petrol Transiti: {c['daily_petroleum_transit_barrels']:,} varil/gün (%{c['share_of_global_maritime_oil_pct']})")
+        print(f"  • Yıllık Gemi Geçişi:    {c['annual_vessel_transits']:,}")
+        print(f"  • Tehdit Vektörleri:     {', '.join(c['asymmetric_threats'])}")
+        print(f"  • Risk Seviyesi:         {c['geopolitical_risk_level']}")
+        print("-" * 80)
+
+def show_case_studies():
+    if not DOSSIERS_DIR.exists():
+        print("[-] Vaka analizleri klasörü bulunamadı.")
+        return
+    files = list(DOSSIERS_DIR.glob("*.md"))
+    print(f"📁 DERİN ADLİ OSINT VAKA ANALİZLERİ ({len(files)} Dosya):")
+    print("=" * 80)
+    for f in files:
+        print(f"  • {f.name:<45} -> dossiers/{f.name}")
+    print("=" * 80)
+
 def show_stats():
     registry = load_registry()
     total_gdp = sum(c.get("gdp_usd_b", 0) for c in registry)
@@ -227,6 +282,14 @@ def main():
     elif cmd in ["intel", "istihbarat"]:
         q = sys.argv[2] if len(sys.argv) > 2 else None
         show_intel(q)
+    elif cmd in ["pmc", "parali-asker"]:
+        q = sys.argv[2] if len(sys.argv) > 2 else None
+        show_pmcs(q)
+    elif cmd in ["chokepoints", "bogaz", "bogazlar"]:
+        q = sys.argv[2] if len(sys.argv) > 2 else None
+        show_chokepoints(q)
+    elif cmd in ["cases", "vaka", "dossiers"]:
+        show_case_studies()
     elif cmd in ["stats", "istatistik"]:
         show_stats()
     elif cmd in ["list", "liste"]:
@@ -235,7 +298,6 @@ def main():
         for c in reg:
             print(f"  • {c['name']:<25} ({c['code']}) - {c['region']}")
     else:
-        # Tek argüman olarak ülke adı verilmiş olabilir
         show_country(cmd)
 
 if __name__ == "__main__":

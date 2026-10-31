@@ -1,0 +1,116 @@
+{
+  "_metadata": {
+    "title": "Küresel Stratejik Boğazlar, Kanallar ve Transit Darboğazları Sicili",
+    "version": "1.0.0",
+    "source_authority": "US Energy Information Administration (EIA), IMO, Lloyd's List"
+  },
+  "chokepoints": [
+    {
+      "name": "Hürmüz Boğazı",
+      "english_name": "Strait of Hormuz",
+      "type": "Doğal Deniz Boğazı",
+      "controlling_states": [
+        "İran",
+        "Umman"
+      ],
+      "daily_petroleum_transit_barrels": 21000000,
+      "share_of_global_maritime_oil_pct": 21.0,
+      "annual_vessel_transits": 33000,
+      "asymmetric_threats": [
+        "İran seyir füzeleri",
+        "Deniz mayınlama",
+        "Hızlı hücumbot sürüleri"
+      ],
+      "alternative_route": "Suudi Doğu-Batı Petroline boru hattı (Kısmi kapasite)",
+      "geopolitical_risk_level": "Aşırı Yüksek (Critical)"
+    },
+    {
+      "name": "Malakka Boğazı",
+      "english_name": "Strait of Malacca",
+      "type": "Doğal Deniz Boğazı",
+      "controlling_states": [
+        "Endonezya",
+        "Malezya",
+        "Singapur"
+      ],
+      "daily_petroleum_transit_barrels": 16000000,
+      "share_of_global_maritime_oil_pct": 16.0,
+      "annual_vessel_transits": 84000,
+      "asymmetric_threats": [
+        "Deniz haydutluğu",
+        "Batılı donanmaların blokajı (Malakka İkilemi)"
+      ],
+      "alternative_route": "Sunda ve Lombok boğazları (+3 gün, +$1.2M sefer maliyeti)",
+      "geopolitical_risk_level": "Yüksek (High)"
+    },
+    {
+      "name": "Süveyş Kanalı",
+      "english_name": "Suez Canal",
+      "type": "Yapay Su Yolu",
+      "controlling_states": [
+        "Mısır"
+      ],
+      "daily_petroleum_transit_barrels": 5500000,
+      "share_of_global_maritime_oil_pct": 9.0,
+      "annual_vessel_transits": 22000,
+      "asymmetric_threats": [
+        "Gemi karaya oturması (Ever Given)",
+        "Sina terör saldırıları"
+      ],
+      "alternative_route": "Ümit Burnu (Güney Afrika) rotası (+10-14 gün seyir)",
+      "geopolitical_risk_level": "Yüksek (High)"
+    },
+    {
+      "name": "Babülmendep Boğazı",
+      "english_name": "Bab el-Mandeb Strait",
+      "type": "Doğal Deniz Boğazı",
+      "controlling_states": [
+        "Yemen",
+        "Cibuti",
+        "Eritre"
+      ],
+      "daily_petroleum_transit_barrels": 4800000,
+      "share_of_global_maritime_oil_pct": 8.0,
+      "annual_vessel_transits": 21000,
+      "asymmetric_threats": [
+        "Husi gemisavar balistik füzeleri ve intihar İHA'ları"
+      ],
+      "alternative_route": "Ümit Burnu etrafından dolaşım",
+      "geopolitical_risk_level": "Kritik Savaş Alanı (Hostile)"
+    },
+    {
+      "name": "Panama Kanalı",
+      "english_name": "Panama Canal",
+      "type": "Yapay Su Yolu (Kademeli Havuz Sistemi)",
+      "controlling_states": [
+        "Panama"
+      ],
+      "daily_petroleum_transit_barrels": 1000000,
+      "share_of_global_maritime_oil_pct": 3.0,
+      "annual_vessel_transits": 14000,
+      "asymmetric_threats": [
+        "Tatlı su kıtlığı ve Gatun Gölü kuraklığı",
+        "Teknik arızalar"
+      ],
+      "alternative_route": "Macellan Boğazı / Horn Burnu (+22 gün)",
+      "geopolitical_risk_level": "Orta / Ekolojik Risk (Moderate)"
+    },
+    {
+      "name": "İstanbul ve Çanakkale Boğazları",
+      "english_name": "Turkish Straits (Bosporus & Dardanelles)",
+      "type": "Doğal Deniz Boğazları (Montrö Rejimi)",
+      "controlling_states": [
+        "Türkiye"
+      ],
+      "daily_petroleum_transit_barrels": 3000000,
+      "share_of_global_maritime_oil_pct": 3.5,
+      "annual_vessel_transits": 40000,
+      "asymmetric_threats": [
+        "Montrö Boğazlar Sözleşmesi kısıtlamaları",
+        "Karadeniz serseri mayınları"
+      ],
+      "alternative_route": "Kara boru hatları (BTC, CPC)",
+      "geopolitical_risk_level": "Stratejik & Hukuki Kilit (Strategic)"
+    }
+  ]
+}

@@ -6,8 +6,9 @@
   <img src="https://img.shields.io/badge/Coverage-205%20Countries%20%26%20Entities-blue?style=for-the-badge&logo=globe" alt="Coverage">
   <img src="https://img.shields.io/badge/Architecture-4--Layer%20Deep%20State-black?style=for-the-badge" alt="4-Layer">
   <img src="https://img.shields.io/badge/Research%20Dossiers-8%20Deep%20Investigations-gold?style=for-the-badge" alt="Dossiers">
+  <img src="https://img.shields.io/badge/Case%20Studies-4%20Forensic%20Investigations-crimson?style=for-the-badge" alt="Case Studies">
   <img src="https://img.shields.io/badge/Verification-Admiralty%20Code%20B2+-success?style=for-the-badge" alt="Verification">
-  <img src="https://img.shields.io/badge/Global%20GDP-$105.5%20Trillion-green?style=for-the-badge" alt="Global GDP">
+  <img src="https://img.shields.io/badge/Global%20GDP-$105.6%20Trillion-green?style=for-the-badge" alt="Global GDP">
   <img src="https://img.shields.io/badge/License-Open%20Intelligence-purple?style=for-the-badge" alt="License">
 </p>
 
@@ -54,9 +55,6 @@
 > *"İnsanları pasif ve itaatkar tutmanın akıllıca yolu, kabul edilebilir kanaat spektrumunu sıkıca sınırlamak; fakat o dar spektrum içinde son derece canlı ve hararetli bir tartışmaya izin vermektir."*  
 > — **Noam Chomsky** (*The Common Good*, 1998)
 
-> *"Koyun sürüsünü andıran şaşkın kitlelerin tepişmesinden ve kükremesinden uzak, huzurlu bir düzen için kamuoyu özel sınıf tarafından yönlendirilmelidir."*  
-> — **Walter Lippmann** (*Public Opinion*, 1922)
-
 > *"Evrensel aldatmacanın hüküm sürdüğü dönemlerde hakikati söylemek devrimci bir eylemdir."*  
 > — **George Orwell** (*1984*, 1949)
 
@@ -69,43 +67,80 @@
 > *"Hükümdar tuzakları tanımak için tilki, kurtları korkutmak için aslan olmak zorundadır."*  
 > — **Niccolò Machiavelli** (*Il Principe*, 1532)
 
-> *"İktidar yozlaştırır; mutlak iktidar ise mutlaka yozlaştırır."*  
-> — **Lord Acton** (1887)
+---
 
-> *"Halkın çoğunluğu küçük bir yalandan ziyade büyük bir yalana çok daha kolay inanır."*  
-> — **OSS Psikolojik Analiz Raporu** (1943)
+## 🗺️ BÖLGESEL MASTER JEOPOLİTİK DOSYALARI (/regions)
 
-> *"Bir toplulukta yağma bir grup insan için bir yaşam biçimi haline geldiğinde, zaman içinde kendilerine bunu meşrulaştıran bir hukuk sistemi ve bunu yücelten bir ahlak kodu inşa ederler."*  
-> — **Frédéric Bastiat** (*Economic Sophisms*, 1845)
+Kıtalar bazında güç mimarisi, güvenlik paktları ve çatışma hatları:
 
-> *"Denizlere hükmeden ticarete hükmeder; ticarete hükmeden dünyanın zenginliğine ve dolayısıyla dünyanın kendisine hükmeder."*  
-> — **Sir Walter Raleigh** (1610)
-
-> *"Petrolü kontrol ederseniz ulusları kontrol edersiniz; gıdayı kontrol ederseniz insanları kontrol edersiniz; parayı kontrol ederseniz dünyayı kontrol edersiniz."*  
-> — **Henry Kissinger** (Reelpolitik Doktrini)
+| Bölge | Jeostratejik Kapsam | Dosya Bağlantısı |
+| :--- | :--- | :--- |
+| 🕌 **Ortadoğu** | Hürmüz ve Babülmendep, Direniş Ekseni, İbrahim Paktı, Körfez Hanedan Tröstleri | [**regions/middle_east/README.md**](regions/middle_east/README.md) |
+| 🏰 **Avrupa** | NATO Kuzey Kanadı, Suwalki Koridoru, Rusya Enerji Ayrışması, City of London & Lüksemburg | [**regions/europe/README.md**](regions/europe/README.md) |
+| ⛩️ **Asya & Hint-Pasifik** | ABD-Çin Rekabeti, Birinci Ada Zinciri, Tayvan Yarı İletken Tekeli, Malakka İkilemi | [**regions/asia/README.md**](regions/asia/README.md) |
+| 🌎 **Amerika** | Monroe Doktrini, Narko-Kartel Kartografyası (CJNG/Sinaloa), Lityum Üçgeni, Panama Kanalı | [**regions/americas/README.md**](regions/americas/README.md) |
+| 🌍 **Afrika** | Yeni Afrika Paylaşım Savaşı, Françafrique Çöküşü, Sahel Darbeler Kuşağı, Wagner / Afrika Kolordusu | [**regions/africa/README.md**](regions/africa/README.md) |
+| 🏝️ **Okyanusya** | AUKUS Paktı, Pasifik Ada Devletleri MEB Hakimiyeti, Çin Güvenlik Anlaşmaları | [**regions/oceania/README.md**](regions/oceania/README.md) |
 
 ---
 
-## 📚 DERİN ARAŞTIRMA VE İSTİHBARAT DOSYALARI (/research)
+## 📁 DERİN ADLİ OSINT VAKA ANALİZLERİ (/dossiers)
 
-Bu araştırma külliyatı, projenin kuramsal omurgasını oluşturan 8 bağımsız, ansiklopedik inceleme dosyasından oluşur:
+Tarihin en büyük kleptokratik ve siber istihbarat operasyonlarının adli bilişim ve finansal akış analizleri:
+
+| Vaka Dosyası | Konu | Temel Bulgular & Yöntem |
+| :--- | :--- | :--- |
+| 💸 [**CASE_STUDY_1MDB.md**](dossiers/CASE_STUDY_1MDB.md) | 1MDB Egemen Varlık Fonu Soygunu | $4.5 Milyar kamu kaynağının Goldman Sachs ve BVI paravan şirketleri üzerinden aklanması. |
+| ⚖️ [**CASE_STUDY_MAGNITSKY_AND_TROIKA_LAUNDROMAT.md**](dossiers/CASE_STUDY_MAGNITSKY_AND_TROIKA_LAUNDROMAT.md) | Magnitsky & Rus Çamaşırhanesi | Moldova mahkeme ilamları ve Danske Bank üzerinden $20+ milyar oligark parasının Avrupa'ya kaçırılması. |
+| 🏗️ [**CASE_STUDY_ODEBRECHT_LAVA_JATO.md**](dossiers/CASE_STUDY_ODEBRECHT_LAVA_JATO.md) | Odebrecht & Lava Jato Rüşvet Karteli | 12 ülkede başkanlara rüşvet dağıtmak için kurulan resmi "Yapılandırılmış Operasyonlar Bölümü". |
+| 📱 [**CASE_STUDY_PEGASUS_PROJECT.md**](dossiers/CASE_STUDY_PEGASUS_PROJECT.md) | Pegasus Sıfır-Tıklama Siber Casusluk | NSO Group casus yazılımının Kaşıkçı cinayeti, 14 devlet başkanı ve 189 gazeteciye karşı kullanımı. |
+
+---
+
+## 🚢 KÜRESEL DENİZ DARBOĞAZLARI & TRANSİT KİLİTLERİ
+
+Dünya deniz petrolünün ve ticaretinin aktığı kilit boğazlar (`global_datasets/chokepoints_registry.json`):
+
+| Boğaz / Kanal | Tip | Kıyıdaş Devletler | Günlük Petrol Transiti | Jeopolitik Risk Seviyesi |
+| :--- | :--- | :--- | :--- | :--- |
+| **Hürmüz Boğazı** (Strait of Hormuz) | Doğal Deniz Boğazı | İran, Umman | 21,000,000 v/g (%21.0) | Aşırı Yüksek (Critical) |
+| **Malakka Boğazı** (Strait of Malacca) | Doğal Deniz Boğazı | Endonezya, Malezya, Singapur | 16,000,000 v/g (%16.0) | Yüksek (High) |
+| **Süveyş Kanalı** (Suez Canal) | Yapay Su Yolu | Mısır | 5,500,000 v/g (%9.0) | Yüksek (High) |
+| **Babülmendep Boğazı** (Bab el-Mandeb Strait) | Doğal Deniz Boğazı | Yemen, Cibuti, Eritre | 4,800,000 v/g (%8.0) | Kritik Savaş Alanı (Hostile) |
+| **Panama Kanalı** (Panama Canal) | Yapay Su Yolu (Kademeli Havuz Sistemi) | Panama | 1,000,000 v/g (%3.0) | Orta / Ekolojik Risk (Moderate) |
+| **İstanbul ve Çanakkale Boğazları** (Turkish Straits (Bosporus & Dardanelles)) | Doğal Deniz Boğazları (Montrö Rejimi) | Türkiye | 3,000,000 v/g (%3.5) | Stratejik & Hukuki Kilit (Strategic) |
+
+---
+
+## ⚔️ ÖZEL ASKERİ ŞİRKETLER (PMC) & PARAMİLİTERLER
+
+Devletlerin örtülü operasyon ve vekil savaşlarında kullandığı askeri yükleniciler (`global_datasets/pmc_mercenary_groups.json`):
+
+| Şirket / Şebeke | Menşei | Tahmini İnsan Gücü | Aktif Harekât Sahaları | Hukuki Statü |
+| :--- | :--- | :---: | :--- | :--- |
+| **Wagner Group / Afrika Kolordusu (Africa Corps)** | Rusya | 35,000 - 50,000 | Mali, Burkina Faso, Nijer, Orta Afrika Cumhuriyeti, Suriye, Libya | Savunma Bakanlığı (GRU) bağlı gayriresmi paramiliter güç |
+| **Constellis (Eski Blackwater / Academi)** | Amerika Birleşik Devletleri | 16,000+ | Irak, Afganistan, Körfez Ülkeleri, Afrika | Kayıtlı ABD Savunma ve Güvenlik Yüklenicisi |
+| **Frontier Services Group (FSG)** | Hong Kong / Çin (Kurucu: Erik Prince) | 3,000+ | Kuşak-Yol güzergahı, Demokratik Kongo Cumhuriyeti, Sudan, Pakistan | Hong Kong Borsası kotasyonlu lojistik ve güvenlik şirketi |
+| **SADAT Uluslararası Savunma Danışmanlık** | Türkiye | 1,000+ (Yedek eğitim havuzu) | Suriye, Libya, Kafkaslar | Özel Savunma ve Stratejik Danışmanlık Şirketi |
+
+---
+
+## 📚 ANSİKLOPEDİK ARAŞTIRMA DOSYALARI (/research)
 
 | Araştırma Dosyası | Tematik Alan | Kapsam & Temel Vurgular |
 | :--- | :--- | :--- |
-| 📑 [**THEORETICAL_FRAMEWORKS.md**](research/THEORETICAL_FRAMEWORKS.md) | Derin Devlet & Güç Seçkinleri Teorisi | C. Wright Mills (Güç Seçkinleri), Peter Dale Scott (Derin Politika), Carl Schmitt (İstisna Hali), Michael Glennon (İkili Devlet), Gladio ve Susurluk analizleri. |
-| 💰 [**SHADOW_BANKING_AND_OFFSHORE_FLOWS.md**](research/SHADOW_BANKING_AND_OFFSHORE_FLOWS.md) | Küresel Kleptokrasi & Vergi Cennetleri | City of London, Delaware/Wyoming, İsviçre serbest limanları, Panama/Pandora Papers ifşaatları, Ticarete Dayalı Para Aklama (TBML) ve Mirror Trading. |
-| 🧠 [**PROPAGANDA_AND_INFORMATION_WARFARE.md**](research/PROPAGANDA_AND_INFORMATION_WARFARE.md) | Bilişsel Savaş & Algoritmik Manipülasyon | Chomsky'nin 5 Filtreli Propaganda Modeli, Operation Mockingbird, KGB Aktif Tedbirler (Maskirovka), Pegasus ve Predator casus yazılım ekosistemleri. |
-| 🚢 [**GEOPOLITICAL_CHOKEPOINTS_AND_CORRIDORS.md**](research/GEOPOLITICAL_CHOKEPOINTS_AND_CORRIDORS.md) | Jeopolitik Darboğazlar & Deniz Hakimiyeti | Hürmüz, Malakka, Babülmendep, Süveyş, Panama; denizaltı fiber optik kabloları ve SIGINT dinleme istasyonları, INSTC ve Kuşak-Yol koridorları. |
-| ⚔️ [**MILITARY_INDUSTRIAL_COMPLEX_AND_PMCS.md**](research/MILITARY_INDUSTRIAL_COMPLEX_AND_PMCS.md) | Askeri-Endüstriyel Kompleks & Paralı Askerler | Savunma ihale kartelleri (Demir Üçgen), Döner Kapı mekanizması, Özel Askeri Şirketler (Wagner, Blackwater, Sadat), yapay zeka güdümlü algoritmik harp. |
-| 🕵️ [**INTELLIGENCE_AGENCIES_AND_BLACK_OPS.md**](research/INTELLIGENCE_AGENCIES_AND_BLACK_OPS.md) | İstihbarat Teşkilatları & Örtülü Operasyonlar | Operation Ajax (1953), Condor Planı, Church Komitesi ifşaatları, Five Eyes (FVEY) paktı ve karşılıklı yasal boşluktan yararlanma mimarisi. |
-| ⛏️ [**RESOURCE_WARS_AND_COMMODITY_SUPER_CARTELS.md**](research/RESOURCE_WARS_AND_COMMODITY_SUPER_CARTELS.md) | Kritik Madenler & Emtia Kartelleri | Lityum üçgeni, Kongo Kobalt tekeli, Glencore/Trafigura/Vitol İsviçre emtia oligopolü, 1974 Petrodolar paktı ve Petroyuan geçişi. |
-| 🔓 [**WHISTLEBLOWERS_LEAKS_AND_FORENSIC_STANDARDS.md**](research/WHISTLEBLOWERS_LEAKS_AND_FORENSIC_STANDARDS.md) | İfşaatçılar, Kriptografi & Adli Standartlar | Pentagon Belgeleri'nden Vault 7'ye sızıntı analizi, metadata adli bilişimi, renkli yazıcı sarı nokta takibi ve Admiralty Kod (B2+) doğrulama standardı. |
+| 📑 [**THEORETICAL_FRAMEWORKS.md**](research/THEORETICAL_FRAMEWORKS.md) | Derin Devlet & Güç Seçkinleri Teorisi | C. Wright Mills, Peter Dale Scott, Carl Schmitt, Michael Glennon, Gladio ve Susurluk. |
+| 💰 [**SHADOW_BANKING_AND_OFFSHORE_FLOWS.md**](research/SHADOW_BANKING_AND_OFFSHORE_FLOWS.md) | Küresel Kleptokrasi & Vergi Cennetleri | City of London, Delaware, Panama/Pandora Papers, TBML ve Mirror Trading. |
+| 🧠 [**PROPAGANDA_AND_INFORMATION_WARFARE.md**](research/PROPAGANDA_AND_INFORMATION_WARFARE.md) | Bilişsel Savaş & Algoritmik Manipülasyon | Chomsky Propaganda Modeli, Operation Mockingbird, Maskirovka, Pegasus/Predator siber araçları. |
+| 🚢 [**GEOPOLITICAL_CHOKEPOINTS_AND_CORRIDORS.md**](research/GEOPOLITICAL_CHOKEPOINTS_AND_CORRIDORS.md) | Jeopolitik Darboğazlar & Deniz Hakimiyeti | Hürmüz, Malakka, Süveyş; denizaltı fiber optik kabloları ve SIGINT dinleme istasyonları. |
+| ⚔️ [**MILITARY_INDUSTRIAL_COMPLEX_AND_PMCS.md**](research/MILITARY_INDUSTRIAL_COMPLEX_AND_PMCS.md) | Askeri-Endüstriyel Kompleks & Paralı Askerler | Savunma ihale Demir Üçgeni, Döner Kapı mekanizması, algoritmik harp ve dron doygunluğu. |
+| 🕵️ [**INTELLIGENCE_AGENCIES_AND_BLACK_OPS.md**](research/INTELLIGENCE_AGENCIES_AND_BLACK_OPS.md) | İstihbarat Teşkilatları & Örtülü Operasyonlar | Operation Ajax (1953), Condor Planı, Church Komitesi ifşaatları, Five Eyes (FVEY) paktı. |
+| ⛏️ [**RESOURCE_WARS_AND_COMMODITY_SUPER_CARTELS.md**](research/RESOURCE_WARS_AND_COMMODITY_SUPER_CARTELS.md) | Kritik Madenler & Emtia Kartelleri | Lityum üçgeni, Kongo Kobaltı, Glencore/Trafigura/Vitol emtia oligopolü, Petrodolar/Petroyuan. |
+| 🔓 [**WHISTLEBLOWERS_LEAKS_AND_FORENSIC_STANDARDS.md**](research/WHISTLEBLOWERS_LEAKS_AND_FORENSIC_STANDARDS.md) | İfşaatçılar, Kriptografi & Adli Standartlar | Pentagon Belgeleri'nden Vault 7'ye sızıntı analizi, metadata bilişimi ve Admiralty Kod (B2+). |
 
 ---
 
 ## 🕵️ KÜRESEL İSTİHBARAT TEŞKİLATLARI & GÜÇ MİMARİSİ
-
-Proje kapsamında takip edilen başlıca küresel istihbarat servisleri ve resmi operasyonel sınıflandırmaları (`global_datasets/intelligence_agencies_registry.json`):
 
 | Ülke | Dış İstihbarat (HUMINT) | Sinyal İstihbaratı (SIGINT) | İç Güvenlik / Karşı İstihbarat | Tahmini Yıllık Bütçe | Operasyonel Sınıflandırma |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -132,8 +167,6 @@ Proje, Birleşmiş Milletler üyesi tüm egemen devletler ile de-facto tanınan 
 
 ## 📐 ANALİTİK ÇERÇEVE: 4 KATMANLI DERİN DEVLET MODELİ
 
-Her ülke klasörü, devlet mekanizmasını 4 temel anatomik katmana ayırarak analiz eder:
-
 ```mermaid
 flowchart TD
     subgraph Katmanlar["Global X-Ray 4 Katmanlı Güç Anatomisi"]
@@ -150,28 +183,6 @@ flowchart TD
 
 ---
 
-## 💸 KLEPTOKRASİ & OFF-SHORE SERMAYE KAÇIRMA DÖNGÜSÜ
-
-Gelişmekte olan ve otokratik ülkelerden batılı finans merkezlerine yönelen kayıt dışı servet transferinin anatomisi:
-
-```mermaid
-sequenceDiagram
-    autonumber
-    actor Kleptokrat as Otokrat / Siyasi Klik
-    participant Varlık as Kamu İhalesi & Doğal Kaynak
-    participant Paravan as BVI / Delaware Kabuk Şirket
-    participant Banka as İsviçre / Londra / Dubai Bankası
-    participant RealEstate as Londra / NY / Dubai Gayrimenkulü
-
-    Kleptokrat->>Varlık: Kamu ihalelerinden komisyon / Kaynak gaspı
-    Varlık->>Paravan: Sahte fatura & Transfer fiyatlandırması
-    Paravan->>Banka: Katmanlama (Layering) & İsimsiz Trust hesabı
-    Banka->>RealEstate: Entegrasyon: Lüks gayrimenkul, yat & sanat eseri alımı
-    Note over Kleptokrat,RealEstate: Sermaye tamamen aklanır ve batı hukuk güvencesine alınır.
-```
-
----
-
 ## 🛡️ DOĞRULAMA STANDARDI: ADMİRALTY CODE (B2+)
 
 Bu repoda yer alan tüm iddialar, NATO / Admiralty Kod doğrulama standardına göre derecelendirilmiştir. Minimum kabul eşiğimiz **B2** düzeyidir:
@@ -181,23 +192,9 @@ Bu repoda yer alan tüm iddialar, NATO / Admiralty Kod doğrulama standardına g
 
 ---
 
-## 📊 KÜRESEL GÖSTERGELER & VERİ SETLERİ ÖZETİ
-
-Repodaki `global_datasets/` klasörü altında tutulan standartlaştırılmış veriler:
-
-| Gösterge | Kapsam | Kaynak Kurumlar / Metodoloji | Veri Yolu |
-| :--- | :---: | :--- | :--- |
-| **Kayıt Dışı Ekonomi İndeksi** | 205 Ülke | IMF, World Bank, Friedrich Schneider MIMIC Modeli | `global_datasets/global_shadow_economy.csv` |
-| **Gerçek Basın Özgürlüğü** | 205 Ülke | RSF, CPJ, Gazeteci Cinayetleri ve Otosansür Skoru | `global_datasets/press_freedom_real_index.json` |
-| **Vergi Cennetleri & Gizlilik** | 20 Merkez | Tax Justice Network Financial Secrecy Index (FSI) | `global_datasets/offshore_havens_matrix.csv` |
-| **İstihbarat Teşkilatları** | 10 Güç | Sayıştaylar, İstihbarat Komisyonları, Savunma Bütçeleri | `global_datasets/intelligence_agencies_registry.json` |
-| **Ülke Ana Sicili** | 205 Ülke | ISO-3166, Dünya Bankası WDI, Resmi Veriler | `global_datasets/countries_registry.json` |
-
----
-
 ## 🗺️ 205 ÜLKELİK KÜRESEL ATLAS İNDEKSİ
 
-Aşağıdaki tabloda projedeki tüm bağımsız ülkeler alfabetik sırada listelenmiştir. Her bağlantı doğrudan **proje ana dizinindeki** ilgili ülkenin detaylı istihbarat profiline yönlendirir:
+Aşağıdaki tabloda projedeki tüm bağımsız ülkeler listelenmiştir. Her bağlantı doğrudan **proje ana dizinindeki** ilgili ülkenin detaylı istihbarat profiline yönlendirir:
 
 | Ülke | Bölge | ISO | Başkent | Rapor Bağlantısı | GSYİH (USD) | Kayıt Dışı (%) |
 | :--- | :--- | :---: | :--- | :--- | :---: | :---: |
@@ -417,16 +414,20 @@ Projeyi komut satırından hızlıca sorgulamak için `scripts/xray_cli.py` arac
 # Türkiye profilini terminalde aç
 python scripts/xray_cli.py turkey
 
-# Almanya dosyasını incele
-python scripts/xray_cli.py germany
+# İki ülkeyi jeopolitik olarak karşılaştır
+python scripts/xray_cli.py compare turkey iran
 
-# Tüm kayıtlı ülkeleri listele
-python scripts/xray_cli.py --list
+# Boğazlar ve transit koridorlarını incele
+python scripts/xray_cli.py chokepoints
+
+# Özel askeri şirketleri (PMC) listele
+python scripts/xray_cli.py pmc
+
+# Vaka analizlerini görüntüle
+python scripts/xray_cli.py cases
 ```
 
 ## 🧪 BÜTÜNLÜK TESTLERİ
-
-Yapılan değişikliklerin ve 205 ülkenin doğruluğunu test etmek için:
 
 ```bash
 python tests/test_integrity.py

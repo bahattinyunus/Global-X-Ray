@@ -1,0 +1,84 @@
+{
+  "_metadata": {
+    "title": "Özel Askeri Şirketler (PMC) ve Paramiliter Şebekeler Sicili",
+    "version": "1.0.0",
+    "admiralty_verification": "B2+"
+  },
+  "companies": [
+    {
+      "name": "Wagner Group / Afrika Kolordusu (Africa Corps)",
+      "country_of_origin": "Rusya",
+      "legal_status": "Savunma Bakanlığı (GRU) bağlı gayriresmi paramiliter güç",
+      "estimated_manpower": "35,000 - 50,000",
+      "active_theaters": [
+        "Mali",
+        "Burkina Faso",
+        "Nijer",
+        "Orta Afrika Cumhuriyeti",
+        "Suriye",
+        "Libya"
+      ],
+      "primary_revenue_sources": [
+        "Altın ve elmas madeni imtiyazları",
+        "Doğal gaz sahası güvenliği"
+      ],
+      "international_sanctions": [
+        "ABD OFAC Yaptırımları",
+        "AB Terör Örgütü Nitelemesi"
+      ]
+    },
+    {
+      "name": "Constellis (Eski Blackwater / Academi)",
+      "country_of_origin": "Amerika Birleşik Devletleri",
+      "legal_status": "Kayıtlı ABD Savunma ve Güvenlik Yüklenicisi",
+      "estimated_manpower": "16,000+",
+      "active_theaters": [
+        "Irak",
+        "Afganistan",
+        "Körfez Ülkeleri",
+        "Afrika"
+      ],
+      "primary_revenue_sources": [
+        "ABD Dışişleri ve Pentagon koruma sözleşmeleri"
+      ],
+      "international_sanctions": [
+        "Nisour Meydanı katliamı davası tazminatları"
+      ]
+    },
+    {
+      "name": "Frontier Services Group (FSG)",
+      "country_of_origin": "Hong Kong / Çin (Kurucu: Erik Prince)",
+      "legal_status": "Hong Kong Borsası kotasyonlu lojistik ve güvenlik şirketi",
+      "estimated_manpower": "3,000+",
+      "active_theaters": [
+        "Kuşak-Yol güzergahı",
+        "Demokratik Kongo Cumhuriyeti",
+        "Sudan",
+        "Pakistan"
+      ],
+      "primary_revenue_sources": [
+        "Çin devlet madencilik ve altyapı projelerinin korunması"
+      ],
+      "international_sanctions": [
+        "ABD Ticaret Bakanlığı Denetim Listesi"
+      ]
+    },
+    {
+      "name": "SADAT Uluslararası Savunma Danışmanlık",
+      "country_of_origin": "Türkiye",
+      "legal_status": "Özel Savunma ve Stratejik Danışmanlık Şirketi",
+      "estimated_manpower": "1,000+ (Yedek eğitim havuzu)",
+      "active_theaters": [
+        "Suriye",
+        "Libya",
+        "Kafkaslar"
+      ],
+      "primary_revenue_sources": [
+        "Gayrinizami harp eğitimi, askeri lojistik danışmanlık"
+      ],
+      "international_sanctions": [
+        "Çeşitli muhalif ve uluslararası STK raporları"
+      ]
+    }
+  ]
+}

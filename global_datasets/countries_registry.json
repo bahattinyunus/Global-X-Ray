@@ -5,12 +5,15 @@
     "code": "TUR",
     "region": "middle_east",
     "capital": "Ankara",
-    "path": "regions/middle_east/turkey",
+    "path": "countries/turkey",
     "gdp_usd_b": 1154.0,
     "population": 85372377,
     "shadow_economy_pct": 28.4,
     "press_score": 38.3,
-    "official_leader": "Recep Tayyip Erdoğan (Cumhurbaşkanı)"
+    "official_leader": "Recep Tayyip Erdoğan (Cumhurbaşkanı)",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/turkey"
   },
   {
     "slug": "iran",
@@ -18,12 +21,15 @@
     "code": "IRN",
     "region": "middle_east",
     "capital": "Tahran",
-    "path": "regions/middle_east/iran",
+    "path": "countries/iran",
     "gdp_usd_b": 403.5,
     "population": 88550570,
     "shadow_economy_pct": 36.5,
     "press_score": 23.2,
-    "official_leader": "Ali Hamaney (Dini Lider) / Mesud Pezeşkiyan (Cumhurbaşkanı)"
+    "official_leader": "Ali Hamaney (Dini Lider) / Mesud Pezeşkiyan (Cumhurbaşkanı)",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/iran"
   },
   {
     "slug": "saudi_arabia",
@@ -31,12 +37,15 @@
     "code": "SAU",
     "region": "middle_east",
     "capital": "Riyad",
-    "path": "regions/middle_east/saudi_arabia",
+    "path": "countries/saudi_arabia",
     "gdp_usd_b": 1069.0,
     "population": 36408820,
     "shadow_economy_pct": 16.2,
     "press_score": 32.4,
-    "official_leader": "Kral Selman bin Abdülaziz / Veliaht Prens Muhammed bin Selman (MBS)"
+    "official_leader": "Kral Selman bin Abdülaziz / Veliaht Prens Muhammed bin Selman (MBS)",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/saudi_arabia"
   },
   {
     "slug": "israel",
@@ -44,12 +53,15 @@
     "code": "ISR",
     "region": "middle_east",
     "capital": "Kudüs (Tel Aviv idari/uluslararası)",
-    "path": "regions/middle_east/israel",
+    "path": "countries/israel",
     "gdp_usd_b": 509.9,
     "population": 9842000,
     "shadow_economy_pct": 18.5,
     "press_score": 53.2,
-    "official_leader": "Binyamin Netanyahu (Başbakan) / Isaac Herzog (Cumhurbaşkanı)"
+    "official_leader": "Binyamin Netanyahu (Başbakan) / Isaac Herzog (Cumhurbaşkanı)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/israel"
   },
   {
     "slug": "united_arab_emirates",
@@ -57,12 +69,15 @@
     "code": "ARE",
     "region": "middle_east",
     "capital": "Abu Dabi",
-    "path": "regions/middle_east/united_arab_emirates",
+    "path": "countries/united_arab_emirates",
     "gdp_usd_b": 504.0,
     "population": 9516871,
     "shadow_economy_pct": 18.0,
     "press_score": 38.6,
-    "official_leader": "Muhammed bin Zayid el-Nahyan (BAE Devlet Başkanı / Abu Dabi Emiri)"
+    "official_leader": "Muhammed bin Zayid el-Nahyan (BAE Devlet Başkanı / Abu Dabi Emiri)",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/united_arab_emirates"
   },
   {
     "slug": "iraq",
@@ -70,12 +85,15 @@
     "code": "IRQ",
     "region": "middle_east",
     "capital": "Bağdat",
-    "path": "regions/middle_east/iraq",
+    "path": "countries/iraq",
     "gdp_usd_b": 250.8,
     "population": 45504560,
     "shadow_economy_pct": 38.0,
     "press_score": 32.9,
-    "official_leader": "Muhammed Şiya es-Sudani (Başbakan) / Abdüllatif Reşid (Cumhurbaşkanı)"
+    "official_leader": "Muhammed Şiya es-Sudani (Başbakan) / Abdüllatif Reşid (Cumhurbaşkanı)",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/iraq"
   },
   {
     "slug": "syria",
@@ -83,12 +101,15 @@
     "code": "SYR",
     "region": "middle_east",
     "capital": "Şam",
-    "path": "regions/middle_east/syria",
+    "path": "countries/syria",
     "gdp_usd_b": 12.5,
     "population": 23227000,
     "shadow_economy_pct": 65.0,
     "press_score": 17.2,
-    "official_leader": "Beşar Esad (Devlet Başkanı) / Muhammed Gazi el-Celali (Başbakan)"
+    "official_leader": "Beşar Esad (Devlet Başkanı) / Muhammed Gazi el-Celali (Başbakan)",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/syria"
   },
   {
     "slug": "qatar",
@@ -96,12 +117,15 @@
     "code": "QAT",
     "region": "middle_east",
     "capital": "Doha",
-    "path": "regions/middle_east/qatar",
+    "path": "countries/qatar",
     "gdp_usd_b": 235.5,
     "population": 2979206,
     "shadow_economy_pct": 12.5,
     "press_score": 58.4,
-    "official_leader": "Şeyh Temim bin Hamad el-Sani (Emir) / Şeyh Muhammed bin Abdurrahman (Başbakan)"
+    "official_leader": "Şeyh Temim bin Hamad el-Sani (Emir) / Şeyh Muhammed bin Abdurrahman (Başbakan)",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/qatar"
   },
   {
     "slug": "lebanon",
@@ -109,12 +133,15 @@
     "code": "LBN",
     "region": "middle_east",
     "capital": "Beyrut",
-    "path": "regions/middle_east/lebanon",
+    "path": "countries/lebanon",
     "gdp_usd_b": 17.9,
     "population": 5353930,
     "shadow_economy_pct": 45.0,
     "press_score": 43.8,
-    "official_leader": "Necip Mikati (Geçici Başbakan) / Cumhurbaşkanlığı Makamı Boş"
+    "official_leader": "Necip Mikati (Geçici Başbakan) / Cumhurbaşkanlığı Makamı Boş",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/lebanon"
   },
   {
     "slug": "jordan",
@@ -122,12 +149,15 @@
     "code": "JOR",
     "region": "middle_east",
     "capital": "Amman",
-    "path": "regions/middle_east/jordan",
+    "path": "countries/jordan",
     "gdp_usd_b": 50.8,
     "population": 11337052,
     "shadow_economy_pct": 26.0,
     "press_score": 43.1,
-    "official_leader": "Kral II. Abdullah / Cafer Hassan (Başbakan)"
+    "official_leader": "Kral II. Abdullah / Cafer Hassan (Başbakan)",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/jordan"
   },
   {
     "slug": "kuwait",
@@ -135,12 +165,15 @@
     "code": "KWT",
     "region": "middle_east",
     "capital": "Kuveyt",
-    "path": "regions/middle_east/kuwait",
+    "path": "countries/kuwait",
     "gdp_usd_b": 160.0,
     "population": 4440000,
     "shadow_economy_pct": 14.2,
     "press_score": 41.5,
-    "official_leader": "Şeyh Mişal el-Ahmed el-Cabir el-Sabah (Emir) / Şeyh Ahmed Abdullah (Başbakan)"
+    "official_leader": "Şeyh Mişal el-Ahmed el-Cabir el-Sabah (Emir) / Şeyh Ahmed Abdullah (Başbakan)",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/kuwait"
   },
   {
     "slug": "oman",
@@ -148,12 +181,15 @@
     "code": "OMN",
     "region": "middle_east",
     "capital": "Maskat",
-    "path": "regions/middle_east/oman",
+    "path": "countries/oman",
     "gdp_usd_b": 108.0,
     "population": 4576298,
     "shadow_economy_pct": 17.5,
     "press_score": 42.0,
-    "official_leader": "Heysem bin Tarık (Sultan ve Başbakan)"
+    "official_leader": "Heysem bin Tarık (Sultan ve Başbakan)",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/oman"
   },
   {
     "slug": "bahrain",
@@ -161,12 +197,15 @@
     "code": "BHR",
     "region": "middle_east",
     "capital": "Manama",
-    "path": "regions/middle_east/bahrain",
+    "path": "countries/bahrain",
     "gdp_usd_b": 44.0,
     "population": 1501635,
     "shadow_economy_pct": 19.0,
     "press_score": 30.5,
-    "official_leader": "Kral Hamad bin İsa el-Halife / Veliaht Prens Selman (Başbakan)"
+    "official_leader": "Kral Hamad bin İsa el-Halife / Veliaht Prens Selman (Başbakan)",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/bahrain"
   },
   {
     "slug": "yemen",
@@ -174,12 +213,15 @@
     "code": "YEM",
     "region": "middle_east",
     "capital": "Sana (Aden geçici başkent)",
-    "path": "regions/middle_east/yemen",
+    "path": "countries/yemen",
     "gdp_usd_b": 21.0,
     "population": 33696614,
     "shadow_economy_pct": 60.0,
     "press_score": 22.4,
-    "official_leader": "Mehdi el-Meşat (Sana/Husi Yüksek Siyasi Konsey) / Reşad el-Alimi (Aden/Başkanlık Liderlik Konseyi)"
+    "official_leader": "Mehdi el-Meşat (Sana/Husi Yüksek Siyasi Konsey) / Reşad el-Alimi (Aden/Başkanlık Liderlik Konseyi)",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/yemen"
   },
   {
     "slug": "palestine",
@@ -187,12 +229,15 @@
     "code": "PSE",
     "region": "middle_east",
     "capital": "Kudüs (Ramallah idari merkez)",
-    "path": "regions/middle_east/palestine",
+    "path": "countries/palestine",
     "gdp_usd_b": 18.0,
     "population": 5483450,
     "shadow_economy_pct": 38.0,
     "press_score": 37.8,
-    "official_leader": "Mahmud Abbas (Devlet Başkanı) / Muhammed Mustafa (Başbakan)"
+    "official_leader": "Mahmud Abbas (Devlet Başkanı) / Muhammed Mustafa (Başbakan)",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/palestine"
   },
   {
     "slug": "northern_cyprus",
@@ -200,12 +245,15 @@
     "code": "TRNC",
     "region": "middle_east",
     "capital": "Lefkoşa",
-    "path": "regions/middle_east/northern_cyprus",
+    "path": "countries/northern_cyprus",
     "gdp_usd_b": 4.2,
     "population": 382836,
     "shadow_economy_pct": 42.0,
     "press_score": 52.0,
-    "official_leader": "Ersin Tatar (Cumhurbaşkanı) / Ünal Üstel (Başbakan)"
+    "official_leader": "Ersin Tatar (Cumhurbaşkanı) / Ünal Üstel (Başbakan)",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/northern_cyprus"
   },
   {
     "slug": "germany",
@@ -213,12 +261,15 @@
     "code": "DEU",
     "region": "europe",
     "capital": "Berlin",
-    "path": "regions/europe/germany",
+    "path": "countries/germany",
     "gdp_usd_b": 4456.0,
     "population": 84482267,
     "shadow_economy_pct": 9.8,
     "press_score": 81.9,
-    "official_leader": "Olaf Scholz (Şansölye) / Frank-Walter Steinmeier (Cumhurbaşkanı)"
+    "official_leader": "Olaf Scholz (Şansölye) / Frank-Walter Steinmeier (Cumhurbaşkanı)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/germany"
   },
   {
     "slug": "united_kingdom",
@@ -226,12 +277,15 @@
     "code": "GBR",
     "region": "europe",
     "capital": "Londra",
-    "path": "regions/europe/united_kingdom",
+    "path": "countries/united_kingdom",
     "gdp_usd_b": 3332.0,
     "population": 67736802,
     "shadow_economy_pct": 11.2,
     "press_score": 78.5,
-    "official_leader": "Kral III. Charles / Keir Starmer (Başbakan)"
+    "official_leader": "Kral III. Charles / Keir Starmer (Başbakan)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/united_kingdom"
   },
   {
     "slug": "france",
@@ -239,12 +293,15 @@
     "code": "FRA",
     "region": "europe",
     "capital": "Paris",
-    "path": "regions/europe/france",
+    "path": "countries/france",
     "gdp_usd_b": 3052.0,
     "population": 68170228,
     "shadow_economy_pct": 13.8,
     "press_score": 78.7,
-    "official_leader": "Emmanuel Macron (Cumhurbaşkanı) / Michel Barnier (Başbakan)"
+    "official_leader": "Emmanuel Macron (Cumhurbaşkanı) / Michel Barnier (Başbakan)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/france"
   },
   {
     "slug": "russia",
@@ -252,12 +309,15 @@
     "code": "RUS",
     "region": "europe",
     "capital": "Moskova",
-    "path": "regions/europe/russia",
+    "path": "countries/russia",
     "gdp_usd_b": 2021.0,
     "population": 144236933,
     "shadow_economy_pct": 38.2,
     "press_score": 29.98,
-    "official_leader": "Vladimir Putin (Devlet Başkanı) / Mihail Mişustin (Başbakan)"
+    "official_leader": "Vladimir Putin (Devlet Başkanı) / Mihail Mişustin (Başbakan)",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/russia"
   },
   {
     "slug": "ukraine",
@@ -265,12 +325,15 @@
     "code": "UKR",
     "region": "europe",
     "capital": "Kiev",
-    "path": "regions/europe/ukraine",
+    "path": "countries/ukraine",
     "gdp_usd_b": 178.0,
     "population": 37000000,
     "shadow_economy_pct": 32.6,
     "press_score": 64.3,
-    "official_leader": "Volodimir Zelenski (Devlet Başkanı) / Denis Şmihal (Başbakan)"
+    "official_leader": "Volodimir Zelenski (Devlet Başkanı) / Denis Şmihal (Başbakan)",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/ukraine"
   },
   {
     "slug": "italy",
@@ -278,12 +341,15 @@
     "code": "ITA",
     "region": "europe",
     "capital": "Roma",
-    "path": "regions/europe/italy",
+    "path": "countries/italy",
     "gdp_usd_b": 2255.0,
     "population": 58850717,
     "shadow_economy_pct": 20.5,
     "press_score": 76.16,
-    "official_leader": "Giorgia Meloni (Başbakan) / Sergio Mattarella (Cumhurbaşkanı)"
+    "official_leader": "Giorgia Meloni (Başbakan) / Sergio Mattarella (Cumhurbaşkanı)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/italy"
   },
   {
     "slug": "spain",
@@ -291,12 +357,15 @@
     "code": "ESP",
     "region": "europe",
     "capital": "Madrid",
-    "path": "regions/europe/spain",
+    "path": "countries/spain",
     "gdp_usd_b": 1580.0,
     "population": 48373336,
     "shadow_economy_pct": 17.2,
     "press_score": 79.5,
-    "official_leader": "Kral VI. Felipe / Pedro Sánchez (Başbakan)"
+    "official_leader": "Kral VI. Felipe / Pedro Sánchez (Başbakan)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/spain"
   },
   {
     "slug": "poland",
@@ -304,12 +373,15 @@
     "code": "POL",
     "region": "europe",
     "capital": "Varşova",
-    "path": "regions/europe/poland",
+    "path": "countries/poland",
     "gdp_usd_b": 842.0,
     "population": 36821749,
     "shadow_economy_pct": 19.2,
     "press_score": 67.2,
-    "official_leader": "Donald Tusk (Başbakan) / Andrzej Duda (Cumhurbaşkanı)"
+    "official_leader": "Donald Tusk (Başbakan) / Andrzej Duda (Cumhurbaşkanı)",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/poland"
   },
   {
     "slug": "netherlands",
@@ -317,12 +389,15 @@
     "code": "NLD",
     "region": "europe",
     "capital": "Amsterdam (Lahey hükümet merkezi)",
-    "path": "regions/europe/netherlands",
+    "path": "countries/netherlands",
     "gdp_usd_b": 1118.0,
     "population": 17947682,
     "shadow_economy_pct": 7.8,
     "press_score": 86.8,
-    "official_leader": "Kral Willem-Alexander / Dick Schoof (Başbakan)"
+    "official_leader": "Kral Willem-Alexander / Dick Schoof (Başbakan)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/netherlands"
   },
   {
     "slug": "switzerland",
@@ -330,12 +405,15 @@
     "code": "CHE",
     "region": "europe",
     "capital": "Bern",
-    "path": "regions/europe/switzerland",
+    "path": "countries/switzerland",
     "gdp_usd_b": 905.0,
     "population": 8853000,
     "shadow_economy_pct": 6.4,
     "press_score": 84.0,
-    "official_leader": "Viola Amherd (Konfederasyon Başkanı) / 7 Üyeli Federal Konsey"
+    "official_leader": "Viola Amherd (Konfederasyon Başkanı) / 7 Üyeli Federal Konsey",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/switzerland"
   },
   {
     "slug": "albania",
@@ -343,12 +421,15 @@
     "code": "ALB",
     "region": "europe",
     "capital": "Tiran",
-    "path": "regions/europe/albania",
+    "path": "countries/albania",
     "gdp_usd_b": 23.0,
     "population": 2761785,
     "shadow_economy_pct": 31.0,
     "press_score": 54.0,
-    "official_leader": "Edi Rama"
+    "official_leader": "Edi Rama",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/albania"
   },
   {
     "slug": "andorra",
@@ -356,12 +437,15 @@
     "code": "AND",
     "region": "europe",
     "capital": "Andorra la Vella",
-    "path": "regions/europe/andorra",
+    "path": "countries/andorra",
     "gdp_usd_b": 3.7,
     "population": 79824,
     "shadow_economy_pct": 11.5,
     "press_score": 78.0,
-    "official_leader": "Xavier Espot Zamora"
+    "official_leader": "Xavier Espot Zamora",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/andorra"
   },
   {
     "slug": "austria",
@@ -369,12 +453,15 @@
     "code": "AUT",
     "region": "europe",
     "capital": "Viyana",
-    "path": "regions/europe/austria",
+    "path": "countries/austria",
     "gdp_usd_b": 516.0,
     "population": 9104772,
     "shadow_economy_pct": 8.5,
     "press_score": 77.0,
-    "official_leader": "Karl Nehammer"
+    "official_leader": "Karl Nehammer",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/austria"
   },
   {
     "slug": "belarus",
@@ -382,12 +469,15 @@
     "code": "BLR",
     "region": "europe",
     "capital": "Minsk",
-    "path": "regions/europe/belarus",
+    "path": "countries/belarus",
     "gdp_usd_b": 72.0,
     "population": 9200617,
     "shadow_economy_pct": 31.0,
     "press_score": 15.0,
-    "official_leader": "Aleksandr Lukaşenko"
+    "official_leader": "Aleksandr Lukaşenko",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/belarus"
   },
   {
     "slug": "belgium",
@@ -395,12 +485,15 @@
     "code": "BEL",
     "region": "europe",
     "capital": "Brüksel",
-    "path": "regions/europe/belgium",
+    "path": "countries/belgium",
     "gdp_usd_b": 632.0,
     "population": 11697557,
     "shadow_economy_pct": 12.0,
     "press_score": 80.0,
-    "official_leader": "Alexander De Croo"
+    "official_leader": "Alexander De Croo",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/belgium"
   },
   {
     "slug": "bosnia_and_herzegovina",
@@ -408,12 +501,15 @@
     "code": "BIH",
     "region": "europe",
     "capital": "Saraybosna",
-    "path": "regions/europe/bosnia_and_herzegovina",
+    "path": "countries/bosnia_and_herzegovina",
     "gdp_usd_b": 27.0,
     "population": 3233526,
     "shadow_economy_pct": 33.0,
     "press_score": 60.0,
-    "official_leader": "Denis Bećirović"
+    "official_leader": "Denis Bećirović",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/bosnia_and_herzegovina"
   },
   {
     "slug": "bulgaria",
@@ -421,12 +517,15 @@
     "code": "BGR",
     "region": "europe",
     "capital": "Sofya",
-    "path": "regions/europe/bulgaria",
+    "path": "countries/bulgaria",
     "gdp_usd_b": 101.0,
     "population": 6447710,
     "shadow_economy_pct": 22.0,
     "press_score": 62.0,
-    "official_leader": "Rumen Radev"
+    "official_leader": "Rumen Radev",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/bulgaria"
   },
   {
     "slug": "croatia",
@@ -434,12 +533,15 @@
     "code": "HRV",
     "region": "europe",
     "capital": "Zagreb",
-    "path": "regions/europe/croatia",
+    "path": "countries/croatia",
     "gdp_usd_b": 82.0,
     "population": 3855641,
     "shadow_economy_pct": 18.0,
     "press_score": 72.0,
-    "official_leader": "Andrej Plenković"
+    "official_leader": "Andrej Plenković",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/croatia"
   },
   {
     "slug": "cyprus",
@@ -447,12 +549,15 @@
     "code": "CYP",
     "region": "europe",
     "capital": "Lefkoşa",
-    "path": "regions/europe/cyprus",
+    "path": "countries/cyprus",
     "gdp_usd_b": 32.2,
     "population": 1251488,
     "shadow_economy_pct": 24.0,
     "press_score": 75.0,
-    "official_leader": "Nikos Hristodulidis"
+    "official_leader": "Nikos Hristodulidis",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/cyprus"
   },
   {
     "slug": "czech_republic",
@@ -460,12 +565,15 @@
     "code": "CZE",
     "region": "europe",
     "capital": "Prag",
-    "path": "regions/europe/czech_republic",
+    "path": "countries/czech_republic",
     "gdp_usd_b": 330.0,
     "population": 10827529,
     "shadow_economy_pct": 13.5,
     "press_score": 83.0,
-    "official_leader": "Petr Fiala"
+    "official_leader": "Petr Fiala",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/czech_republic"
   },
   {
     "slug": "denmark",
@@ -473,12 +581,15 @@
     "code": "DNK",
     "region": "europe",
     "capital": "Kopenhag",
-    "path": "regions/europe/denmark",
+    "path": "countries/denmark",
     "gdp_usd_b": 400.0,
     "population": 5932654,
     "shadow_economy_pct": 8.0,
     "press_score": 89.0,
-    "official_leader": "Mette Frederiksen"
+    "official_leader": "Mette Frederiksen",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/denmark"
   },
   {
     "slug": "estonia",
@@ -486,12 +597,15 @@
     "code": "EST",
     "region": "europe",
     "capital": "Tallinn",
-    "path": "regions/europe/estonia",
+    "path": "countries/estonia",
     "gdp_usd_b": 41.0,
     "population": 1365884,
     "shadow_economy_pct": 11.0,
     "press_score": 88.0,
-    "official_leader": "Kristen Michal"
+    "official_leader": "Kristen Michal",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/estonia"
   },
   {
     "slug": "finland",
@@ -499,12 +613,15 @@
     "code": "FIN",
     "region": "europe",
     "capital": "Helsinki",
-    "path": "regions/europe/finland",
+    "path": "countries/finland",
     "gdp_usd_b": 300.0,
     "population": 5563970,
     "shadow_economy_pct": 8.5,
     "press_score": 88.0,
-    "official_leader": "Petteri Orpo"
+    "official_leader": "Petteri Orpo",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/finland"
   },
   {
     "slug": "greece",
@@ -512,12 +629,15 @@
     "code": "GRC",
     "region": "europe",
     "capital": "Atina",
-    "path": "regions/europe/greece",
+    "path": "countries/greece",
     "gdp_usd_b": 238.0,
     "population": 10413982,
     "shadow_economy_pct": 21.4,
     "press_score": 55.0,
-    "official_leader": "Kiryakos Miçotakis"
+    "official_leader": "Kiryakos Miçotakis",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/greece"
   },
   {
     "slug": "hungary",
@@ -525,12 +645,15 @@
     "code": "HUN",
     "region": "europe",
     "capital": "Budapeşte",
-    "path": "regions/europe/hungary",
+    "path": "countries/hungary",
     "gdp_usd_b": 212.0,
     "population": 9600000,
     "shadow_economy_pct": 19.0,
     "press_score": 60.0,
-    "official_leader": "Viktor Orbán"
+    "official_leader": "Viktor Orbán",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/hungary"
   },
   {
     "slug": "iceland",
@@ -538,12 +661,15 @@
     "code": "ISL",
     "region": "europe",
     "capital": "Reykjavik",
-    "path": "regions/europe/iceland",
+    "path": "countries/iceland",
     "gdp_usd_b": 31.0,
     "population": 387800,
     "shadow_economy_pct": 7.5,
     "press_score": 85.0,
-    "official_leader": "Bjarni Benediktsson"
+    "official_leader": "Bjarni Benediktsson",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/iceland"
   },
   {
     "slug": "ireland",
@@ -551,12 +677,15 @@
     "code": "IRL",
     "region": "europe",
     "capital": "Dublin",
-    "path": "regions/europe/ireland",
+    "path": "countries/ireland",
     "gdp_usd_b": 545.0,
     "population": 5262000,
     "shadow_economy_pct": 9.5,
     "press_score": 87.0,
-    "official_leader": "Simon Harris"
+    "official_leader": "Simon Harris",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/ireland"
   },
   {
     "slug": "kosovo",
@@ -564,12 +693,15 @@
     "code": "XKX",
     "region": "europe",
     "capital": "Priştine",
-    "path": "regions/europe/kosovo",
+    "path": "countries/kosovo",
     "gdp_usd_b": 10.4,
     "population": 1762000,
     "shadow_economy_pct": 30.0,
     "press_score": 62.0,
-    "official_leader": "Albin Kurti"
+    "official_leader": "Albin Kurti",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/kosovo"
   },
   {
     "slug": "latvia",
@@ -577,12 +709,15 @@
     "code": "LVA",
     "region": "europe",
     "capital": "Riga",
-    "path": "regions/europe/latvia",
+    "path": "countries/latvia",
     "gdp_usd_b": 43.6,
     "population": 1883008,
     "shadow_economy_pct": 18.0,
     "press_score": 80.0,
-    "official_leader": "Evika Siliņa"
+    "official_leader": "Evika Siliņa",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/latvia"
   },
   {
     "slug": "liechtenstein",
@@ -590,12 +725,15 @@
     "code": "LIE",
     "region": "europe",
     "capital": "Vaduz",
-    "path": "regions/europe/liechtenstein",
+    "path": "countries/liechtenstein",
     "gdp_usd_b": 7.7,
     "population": 39584,
     "shadow_economy_pct": 8.0,
     "press_score": 82.0,
-    "official_leader": "Daniel Risch"
+    "official_leader": "Daniel Risch",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/liechtenstein"
   },
   {
     "slug": "lithuania",
@@ -603,12 +741,15 @@
     "code": "LTU",
     "region": "europe",
     "capital": "Vilnius",
-    "path": "regions/europe/lithuania",
+    "path": "countries/lithuania",
     "gdp_usd_b": 77.8,
     "population": 2857279,
     "shadow_economy_pct": 17.0,
     "press_score": 85.0,
-    "official_leader": "Gitanas Nausėda"
+    "official_leader": "Gitanas Nausėda",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/lithuania"
   },
   {
     "slug": "luxembourg",
@@ -616,12 +757,15 @@
     "code": "LUX",
     "region": "europe",
     "capital": "Lüksemburg",
-    "path": "regions/europe/luxembourg",
+    "path": "countries/luxembourg",
     "gdp_usd_b": 86.0,
     "population": 660809,
     "shadow_economy_pct": 7.0,
     "press_score": 84.0,
-    "official_leader": "Luc Frieden"
+    "official_leader": "Luc Frieden",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/luxembourg"
   },
   {
     "slug": "malta",
@@ -629,12 +773,15 @@
     "code": "MLT",
     "region": "europe",
     "capital": "Valletta",
-    "path": "regions/europe/malta",
+    "path": "countries/malta",
     "gdp_usd_b": 20.4,
     "population": 535064,
     "shadow_economy_pct": 22.0,
     "press_score": 65.0,
-    "official_leader": "Robert Abela"
+    "official_leader": "Robert Abela",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/malta"
   },
   {
     "slug": "moldova",
@@ -642,12 +789,15 @@
     "code": "MDA",
     "region": "europe",
     "capital": "Kişinev",
-    "path": "regions/europe/moldova",
+    "path": "countries/moldova",
     "gdp_usd_b": 16.5,
     "population": 2512758,
     "shadow_economy_pct": 28.0,
     "press_score": 63.0,
-    "official_leader": "Maia Sandu"
+    "official_leader": "Maia Sandu",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/moldova"
   },
   {
     "slug": "monaco",
@@ -655,12 +805,15 @@
     "code": "MCO",
     "region": "europe",
     "capital": "Monako",
-    "path": "regions/europe/monaco",
+    "path": "countries/monaco",
     "gdp_usd_b": 8.8,
     "population": 39050,
     "shadow_economy_pct": 10.0,
     "press_score": 75.0,
-    "official_leader": "Prens II. Albert"
+    "official_leader": "Prens II. Albert",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/monaco"
   },
   {
     "slug": "montenegro",
@@ -668,12 +821,15 @@
     "code": "MNE",
     "region": "europe",
     "capital": "Podgorica",
-    "path": "regions/europe/montenegro",
+    "path": "countries/montenegro",
     "gdp_usd_b": 7.4,
     "population": 620739,
     "shadow_economy_pct": 26.0,
     "press_score": 68.0,
-    "official_leader": "Milojko Spajić"
+    "official_leader": "Milojko Spajić",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/montenegro"
   },
   {
     "slug": "north_macedonia",
@@ -681,12 +837,15 @@
     "code": "MKD",
     "region": "europe",
     "capital": "Üsküp",
-    "path": "regions/europe/north_macedonia",
+    "path": "countries/north_macedonia",
     "gdp_usd_b": 15.8,
     "population": 1836713,
     "shadow_economy_pct": 28.0,
     "press_score": 61.0,
-    "official_leader": "Hristijan Mickoski"
+    "official_leader": "Hristijan Mickoski",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/north_macedonia"
   },
   {
     "slug": "norway",
@@ -694,12 +853,15 @@
     "code": "NOR",
     "region": "europe",
     "capital": "Oslo",
-    "path": "regions/europe/norway",
+    "path": "countries/norway",
     "gdp_usd_b": 485.0,
     "population": 5488984,
     "shadow_economy_pct": 8.2,
     "press_score": 91.89,
-    "official_leader": "Jonas Gahr Støre"
+    "official_leader": "Jonas Gahr Støre",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/norway"
   },
   {
     "slug": "portugal",
@@ -707,12 +869,15 @@
     "code": "PRT",
     "region": "europe",
     "capital": "Lizbon",
-    "path": "regions/europe/portugal",
+    "path": "countries/portugal",
     "gdp_usd_b": 287.0,
     "population": 10467366,
     "shadow_economy_pct": 16.0,
     "press_score": 82.0,
-    "official_leader": "Luís Montenegro"
+    "official_leader": "Luís Montenegro",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/portugal"
   },
   {
     "slug": "romania",
@@ -720,12 +885,15 @@
     "code": "ROU",
     "region": "europe",
     "capital": "Bükreş",
-    "path": "regions/europe/romania",
+    "path": "countries/romania",
     "gdp_usd_b": 350.0,
     "population": 19051562,
     "shadow_economy_pct": 26.0,
     "press_score": 69.0,
-    "official_leader": "Marcel Ciolacu"
+    "official_leader": "Marcel Ciolacu",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/romania"
   },
   {
     "slug": "san_marino",
@@ -733,12 +901,15 @@
     "code": "SMR",
     "region": "europe",
     "capital": "San Marino",
-    "path": "regions/europe/san_marino",
+    "path": "countries/san_marino",
     "gdp_usd_b": 1.8,
     "population": 33660,
     "shadow_economy_pct": 12.0,
     "press_score": 72.0,
-    "official_leader": "Alessandro Rossi / Milena Gasperoni"
+    "official_leader": "Alessandro Rossi / Milena Gasperoni",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/san_marino"
   },
   {
     "slug": "serbia",
@@ -746,12 +917,15 @@
     "code": "SRB",
     "region": "europe",
     "capital": "Belgrad",
-    "path": "regions/europe/serbia",
+    "path": "countries/serbia",
     "gdp_usd_b": 75.0,
     "population": 6647003,
     "shadow_economy_pct": 27.0,
     "press_score": 52.0,
-    "official_leader": "Aleksandar Vučić"
+    "official_leader": "Aleksandar Vučić",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/serbia"
   },
   {
     "slug": "slovakia",
@@ -759,12 +933,15 @@
     "code": "SVK",
     "region": "europe",
     "capital": "Bratislava",
-    "path": "regions/europe/slovakia",
+    "path": "countries/slovakia",
     "gdp_usd_b": 132.0,
     "population": 5431752,
     "shadow_economy_pct": 15.0,
     "press_score": 68.0,
-    "official_leader": "Robert Fico"
+    "official_leader": "Robert Fico",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/slovakia"
   },
   {
     "slug": "slovenia",
@@ -772,12 +949,15 @@
     "code": "SVN",
     "region": "europe",
     "capital": "Ljubljana",
-    "path": "regions/europe/slovenia",
+    "path": "countries/slovenia",
     "gdp_usd_b": 68.0,
     "population": 2116972,
     "shadow_economy_pct": 11.0,
     "press_score": 78.0,
-    "official_leader": "Robert Golob"
+    "official_leader": "Robert Golob",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/slovenia"
   },
   {
     "slug": "sweden",
@@ -785,12 +965,15 @@
     "code": "SWE",
     "region": "europe",
     "capital": "Stockholm",
-    "path": "regions/europe/sweden",
+    "path": "countries/sweden",
     "gdp_usd_b": 593.0,
     "population": 10521556,
     "shadow_economy_pct": 7.8,
     "press_score": 88.15,
-    "official_leader": "Ulf Kristersson"
+    "official_leader": "Ulf Kristersson",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/sweden"
   },
   {
     "slug": "transnistria",
@@ -798,12 +981,15 @@
     "code": "PMR",
     "region": "europe",
     "capital": "Tiraspol",
-    "path": "regions/europe/transnistria",
+    "path": "countries/transnistria",
     "gdp_usd_b": 1.1,
     "population": 465000,
     "shadow_economy_pct": 55.0,
     "press_score": 25.0,
-    "official_leader": "Vadim Krasnoselsky"
+    "official_leader": "Vadim Krasnoselsky",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/transnistria"
   },
   {
     "slug": "vatican_city",
@@ -811,12 +997,15 @@
     "code": "VAT",
     "region": "europe",
     "capital": "Vatikan",
-    "path": "regions/europe/vatican_city",
+    "path": "countries/vatican_city",
     "gdp_usd_b": 0.05,
     "population": 764,
     "shadow_economy_pct": 15.0,
     "press_score": 65.0,
-    "official_leader": "Papa Françesko (Jorge Mario Bergoglio)"
+    "official_leader": "Papa Françesko (Jorge Mario Bergoglio)",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/vatican_city"
   },
   {
     "slug": "china",
@@ -824,12 +1013,15 @@
     "code": "CHN",
     "region": "asia",
     "capital": "Pekin",
-    "path": "regions/asia/china",
+    "path": "countries/china",
     "gdp_usd_b": 17794.0,
     "population": 1409670000,
     "shadow_economy_pct": 12.7,
     "press_score": 22.97,
-    "official_leader": "Şi Cinping (ÇKP Genel Sekreteri ve Devlet Başkanı) / Li Çiang (Başbakan)"
+    "official_leader": "Şi Cinping (ÇKP Genel Sekreteri ve Devlet Başkanı) / Li Çiang (Başbakan)",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/china"
   },
   {
     "slug": "india",
@@ -837,12 +1029,15 @@
     "code": "IND",
     "region": "asia",
     "capital": "Yeni Delhi",
-    "path": "regions/asia/india",
+    "path": "countries/india",
     "gdp_usd_b": 3937.0,
     "population": 1428627663,
     "shadow_economy_pct": 22.4,
     "press_score": 36.6,
-    "official_leader": "Narendra Modi (Başbakan) / Droupadi Murmu (Cumhurbaşkanı)"
+    "official_leader": "Narendra Modi (Başbakan) / Droupadi Murmu (Cumhurbaşkanı)",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/india"
   },
   {
     "slug": "japan",
@@ -850,12 +1045,15 @@
     "code": "JPN",
     "region": "asia",
     "capital": "Tokyo",
-    "path": "regions/asia/japan",
+    "path": "countries/japan",
     "gdp_usd_b": 4210.0,
     "population": 124500000,
     "shadow_economy_pct": 9.1,
     "press_score": 64.37,
-    "official_leader": "İmparator Naruhito / Shigeru Ishiba (Başbakan)"
+    "official_leader": "İmparator Naruhito / Shigeru Ishiba (Başbakan)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/japan"
   },
   {
     "slug": "south_korea",
@@ -863,12 +1061,15 @@
     "code": "KOR",
     "region": "asia",
     "capital": "Seul",
-    "path": "regions/asia/south_korea",
+    "path": "countries/south_korea",
     "gdp_usd_b": 1712.0,
     "population": 51784059,
     "shadow_economy_pct": 21.3,
     "press_score": 70.83,
-    "official_leader": "Yoon Suk-yeol (Devlet Başkanı) / Han Duck-soo (Başbakan)"
+    "official_leader": "Yoon Suk-yeol (Devlet Başkanı) / Han Duck-soo (Başbakan)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/south_korea"
   },
   {
     "slug": "taiwan",
@@ -876,12 +1077,15 @@
     "code": "TWN",
     "region": "asia",
     "capital": "Taipei",
-    "path": "regions/asia/taiwan",
+    "path": "countries/taiwan",
     "gdp_usd_b": 756.0,
     "population": 23570000,
     "shadow_economy_pct": 18.0,
     "press_score": 76.0,
-    "official_leader": "Lai Ching-te (Devlet Başkanı) / Cho Jung-tai (Başbakan)"
+    "official_leader": "Lai Ching-te (Devlet Başkanı) / Cho Jung-tai (Başbakan)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/taiwan"
   },
   {
     "slug": "pakistan",
@@ -889,12 +1093,15 @@
     "code": "PAK",
     "region": "asia",
     "capital": "İslamabad",
-    "path": "regions/asia/pakistan",
+    "path": "countries/pakistan",
     "gdp_usd_b": 338.0,
     "population": 240485658,
     "shadow_economy_pct": 35.6,
     "press_score": 39.5,
-    "official_leader": "Şahbaz Şerif (Başbakan) / Asıf Ali Zerdari (Cumhurbaşkanı)"
+    "official_leader": "Şahbaz Şerif (Başbakan) / Asıf Ali Zerdari (Cumhurbaşkanı)",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/pakistan"
   },
   {
     "slug": "afghanistan",
@@ -902,12 +1109,15 @@
     "code": "AFG",
     "region": "asia",
     "capital": "Kabil",
-    "path": "regions/asia/afghanistan",
+    "path": "countries/afghanistan",
     "gdp_usd_b": 14.5,
     "population": 41128771,
     "shadow_economy_pct": 50.0,
     "press_score": 18.0,
-    "official_leader": "Mevlevi Hibetullah Ahundzade"
+    "official_leader": "Mevlevi Hibetullah Ahundzade",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/afghanistan"
   },
   {
     "slug": "armenia",
@@ -915,12 +1125,15 @@
     "code": "ARM",
     "region": "asia",
     "capital": "Erivan",
-    "path": "regions/asia/armenia",
+    "path": "countries/armenia",
     "gdp_usd_b": 24.2,
     "population": 2780000,
     "shadow_economy_pct": 28.0,
     "press_score": 71.0,
-    "official_leader": "Nikol Paşinyan"
+    "official_leader": "Nikol Paşinyan",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/armenia"
   },
   {
     "slug": "azerbaijan",
@@ -928,12 +1141,15 @@
     "code": "AZE",
     "region": "asia",
     "capital": "Bakü",
-    "path": "regions/asia/azerbaijan",
+    "path": "countries/azerbaijan",
     "gdp_usd_b": 78.7,
     "population": 10145212,
     "shadow_economy_pct": 38.0,
     "press_score": 29.0,
-    "official_leader": "İlham Aliyev"
+    "official_leader": "İlham Aliyev",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/azerbaijan"
   },
   {
     "slug": "bangladesh",
@@ -941,12 +1157,15 @@
     "code": "BGD",
     "region": "asia",
     "capital": "Dakka",
-    "path": "regions/asia/bangladesh",
+    "path": "countries/bangladesh",
     "gdp_usd_b": 460.0,
     "population": 171186372,
     "shadow_economy_pct": 32.0,
     "press_score": 35.0,
-    "official_leader": "Muhammed Yunus"
+    "official_leader": "Muhammed Yunus",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/bangladesh"
   },
   {
     "slug": "bhutan",
@@ -954,12 +1173,15 @@
     "code": "BTN",
     "region": "asia",
     "capital": "Thimphu",
-    "path": "regions/asia/bhutan",
+    "path": "countries/bhutan",
     "gdp_usd_b": 2.9,
     "population": 782455,
     "shadow_economy_pct": 15.0,
     "press_score": 75.0,
-    "official_leader": "Jigme Khesar Namgyel Wangchuck"
+    "official_leader": "Jigme Khesar Namgyel Wangchuck",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/bhutan"
   },
   {
     "slug": "brunei",
@@ -967,12 +1189,15 @@
     "code": "BRN",
     "region": "asia",
     "capital": "Bandar Seri Begavan",
-    "path": "regions/asia/brunei",
+    "path": "countries/brunei",
     "gdp_usd_b": 16.7,
     "population": 449002,
     "shadow_economy_pct": 12.0,
     "press_score": 45.0,
-    "official_leader": "Hassanal Bolkiah"
+    "official_leader": "Hassanal Bolkiah",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/brunei"
   },
   {
     "slug": "cambodia",
@@ -980,12 +1205,15 @@
     "code": "KHM",
     "region": "asia",
     "capital": "Phnom Penh",
-    "path": "regions/asia/cambodia",
+    "path": "countries/cambodia",
     "gdp_usd_b": 31.8,
     "population": 16767842,
     "shadow_economy_pct": 40.0,
     "press_score": 40.0,
-    "official_leader": "Hun Manet"
+    "official_leader": "Hun Manet",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/cambodia"
   },
   {
     "slug": "georgia",
@@ -993,12 +1221,15 @@
     "code": "GEO",
     "region": "asia",
     "capital": "Tiflis",
-    "path": "regions/asia/georgia",
+    "path": "countries/georgia",
     "gdp_usd_b": 30.5,
     "population": 3712000,
     "shadow_economy_pct": 22.0,
     "press_score": 61.0,
-    "official_leader": "İrakli Kobahidze"
+    "official_leader": "İrakli Kobahidze",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/georgia"
   },
   {
     "slug": "hong_kong",
@@ -1006,12 +1237,15 @@
     "code": "HKG",
     "region": "asia",
     "capital": "Hong Kong",
-    "path": "regions/asia/hong_kong",
+    "path": "countries/hong_kong",
     "gdp_usd_b": 382.0,
     "population": 7498100,
     "shadow_economy_pct": 14.0,
     "press_score": 43.0,
-    "official_leader": "John Lee Ka-chiu"
+    "official_leader": "John Lee Ka-chiu",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/hong_kong"
   },
   {
     "slug": "indonesia",
@@ -1019,12 +1253,15 @@
     "code": "IDN",
     "region": "asia",
     "capital": "Cakarta",
-    "path": "regions/asia/indonesia",
+    "path": "countries/indonesia",
     "gdp_usd_b": 1371.0,
     "population": 277534122,
     "shadow_economy_pct": 20.8,
     "press_score": 53.0,
-    "official_leader": "Prabowo Subianto"
+    "official_leader": "Prabowo Subianto",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/indonesia"
   },
   {
     "slug": "kazakhstan",
@@ -1032,12 +1269,15 @@
     "code": "KAZ",
     "region": "asia",
     "capital": "Astana",
-    "path": "regions/asia/kazakhstan",
+    "path": "countries/kazakhstan",
     "gdp_usd_b": 261.0,
     "population": 20000000,
     "shadow_economy_pct": 28.5,
     "press_score": 45.0,
-    "official_leader": "Kasım Cömert Tokayev"
+    "official_leader": "Kasım Cömert Tokayev",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/kazakhstan"
   },
   {
     "slug": "kyrgyzstan",
@@ -1045,12 +1285,15 @@
     "code": "KGZ",
     "region": "asia",
     "capital": "Bişkek",
-    "path": "regions/asia/kyrgyzstan",
+    "path": "countries/kyrgyzstan",
     "gdp_usd_b": 14.0,
     "population": 7000000,
     "shadow_economy_pct": 30.0,
     "press_score": 48.0,
-    "official_leader": "Sadır Caparov"
+    "official_leader": "Sadır Caparov",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/kyrgyzstan"
   },
   {
     "slug": "laos",
@@ -1058,12 +1301,15 @@
     "code": "LAO",
     "region": "asia",
     "capital": "Vientiane",
-    "path": "regions/asia/laos",
+    "path": "countries/laos",
     "gdp_usd_b": 15.8,
     "population": 7525000,
     "shadow_economy_pct": 35.0,
     "press_score": 36.0,
-    "official_leader": "Thongloun Sisoulith"
+    "official_leader": "Thongloun Sisoulith",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/laos"
   },
   {
     "slug": "macau",
@@ -1071,12 +1317,15 @@
     "code": "MAC",
     "region": "asia",
     "capital": "Makao",
-    "path": "regions/asia/macau",
+    "path": "countries/macau",
     "gdp_usd_b": 47.0,
     "population": 686607,
     "shadow_economy_pct": 15.0,
     "press_score": 55.0,
-    "official_leader": "Ho Iat Seng"
+    "official_leader": "Ho Iat Seng",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/macau"
   },
   {
     "slug": "malaysia",
@@ -1084,12 +1333,15 @@
     "code": "MYS",
     "region": "asia",
     "capital": "Kuala Lumpur",
-    "path": "regions/asia/malaysia",
+    "path": "countries/malaysia",
     "gdp_usd_b": 430.0,
     "population": 33938221,
     "shadow_economy_pct": 18.0,
     "press_score": 55.0,
-    "official_leader": "Enver İbrahim"
+    "official_leader": "Enver İbrahim",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/malaysia"
   },
   {
     "slug": "maldives",
@@ -1097,12 +1349,15 @@
     "code": "MDV",
     "region": "asia",
     "capital": "Male",
-    "path": "regions/asia/maldives",
+    "path": "countries/maldives",
     "gdp_usd_b": 6.6,
     "population": 523781,
     "shadow_economy_pct": 22.0,
     "press_score": 56.0,
-    "official_leader": "Muhammed Muizzu"
+    "official_leader": "Muhammed Muizzu",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/maldives"
   },
   {
     "slug": "mongolia",
@@ -1110,12 +1365,15 @@
     "code": "MNG",
     "region": "asia",
     "capital": "Ulanbatur",
-    "path": "regions/asia/mongolia",
+    "path": "countries/mongolia",
     "gdp_usd_b": 19.9,
     "population": 3447157,
     "shadow_economy_pct": 28.0,
     "press_score": 59.0,
-    "official_leader": "Luvsannamsrain Oyun-Erdene"
+    "official_leader": "Luvsannamsrain Oyun-Erdene",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/mongolia"
   },
   {
     "slug": "myanmar",
@@ -1123,12 +1381,15 @@
     "code": "MMR",
     "region": "asia",
     "capital": "Naypyidaw",
-    "path": "regions/asia/myanmar",
+    "path": "countries/myanmar",
     "gdp_usd_b": 65.0,
     "population": 54179306,
     "shadow_economy_pct": 50.0,
     "press_score": 22.0,
-    "official_leader": "Min Aung Hlaing"
+    "official_leader": "Min Aung Hlaing",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/myanmar"
   },
   {
     "slug": "nepal",
@@ -1136,12 +1397,15 @@
     "code": "NPL",
     "region": "asia",
     "capital": "Katmandu",
-    "path": "regions/asia/nepal",
+    "path": "countries/nepal",
     "gdp_usd_b": 40.8,
     "population": 30547580,
     "shadow_economy_pct": 34.0,
     "press_score": 58.0,
-    "official_leader": "K. P. Sharma Oli"
+    "official_leader": "K. P. Sharma Oli",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/nepal"
   },
   {
     "slug": "north_korea",
@@ -1149,12 +1413,15 @@
     "code": "PRK",
     "region": "asia",
     "capital": "Pyongyang",
-    "path": "regions/asia/north_korea",
+    "path": "countries/north_korea",
     "gdp_usd_b": 18.0,
     "population": 26069416,
     "shadow_economy_pct": 65.0,
     "press_score": 10.0,
-    "official_leader": "Kim Jong Un"
+    "official_leader": "Kim Jong Un",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/north_korea"
   },
   {
     "slug": "philippines",
@@ -1162,12 +1429,15 @@
     "code": "PHL",
     "region": "asia",
     "capital": "Manila",
-    "path": "regions/asia/philippines",
+    "path": "countries/philippines",
     "gdp_usd_b": 437.0,
     "population": 115559009,
     "shadow_economy_pct": 28.0,
     "press_score": 52.0,
-    "official_leader": "Ferdinand Marcos Jr."
+    "official_leader": "Ferdinand Marcos Jr.",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/philippines"
   },
   {
     "slug": "singapore",
@@ -1175,12 +1445,15 @@
     "code": "SGP",
     "region": "asia",
     "capital": "Singapur",
-    "path": "regions/asia/singapore",
+    "path": "countries/singapore",
     "gdp_usd_b": 501.0,
     "population": 5917600,
     "shadow_economy_pct": 8.0,
     "press_score": 54.0,
-    "official_leader": "Lawrence Wong"
+    "official_leader": "Lawrence Wong",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/singapore"
   },
   {
     "slug": "sri_lanka",
@@ -1188,12 +1461,15 @@
     "code": "LKA",
     "region": "asia",
     "capital": "Kolombo",
-    "path": "regions/asia/sri_lanka",
+    "path": "countries/sri_lanka",
     "gdp_usd_b": 84.4,
     "population": 22181000,
     "shadow_economy_pct": 32.0,
     "press_score": 53.0,
-    "official_leader": "Anura Kumara Dissanayake"
+    "official_leader": "Anura Kumara Dissanayake",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/sri_lanka"
   },
   {
     "slug": "tajikistan",
@@ -1201,12 +1477,15 @@
     "code": "TJK",
     "region": "asia",
     "capital": "Duşanbe",
-    "path": "regions/asia/tajikistan",
+    "path": "countries/tajikistan",
     "gdp_usd_b": 12.0,
     "population": 10143543,
     "shadow_economy_pct": 35.0,
     "press_score": 38.0,
-    "official_leader": "İmamali Rahmon"
+    "official_leader": "İmamali Rahmon",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/tajikistan"
   },
   {
     "slug": "thailand",
@@ -1214,12 +1493,15 @@
     "code": "THA",
     "region": "asia",
     "capital": "Bangkok",
-    "path": "regions/asia/thailand",
+    "path": "countries/thailand",
     "gdp_usd_b": 514.0,
     "population": 71801279,
     "shadow_economy_pct": 42.0,
     "press_score": 57.0,
-    "official_leader": "Paetongtarn Shinawatra"
+    "official_leader": "Paetongtarn Shinawatra",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/thailand"
   },
   {
     "slug": "timor_leste",
@@ -1227,12 +1509,15 @@
     "code": "TLS",
     "region": "asia",
     "capital": "Dili",
-    "path": "regions/asia/timor_leste",
+    "path": "countries/timor_leste",
     "gdp_usd_b": 3.2,
     "population": 1341296,
     "shadow_economy_pct": 30.0,
     "press_score": 84.0,
-    "official_leader": "José Ramos-Horta"
+    "official_leader": "José Ramos-Horta",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/timor_leste"
   },
   {
     "slug": "turkmenistan",
@@ -1240,12 +1525,15 @@
     "code": "TKM",
     "region": "asia",
     "capital": "Aşkabat",
-    "path": "regions/asia/turkmenistan",
+    "path": "countries/turkmenistan",
     "gdp_usd_b": 81.8,
     "population": 6430770,
     "shadow_economy_pct": 45.0,
     "press_score": 25.82,
-    "official_leader": "Serdar Berdimuhammedov / Gurbangulu Berdimuhammedov"
+    "official_leader": "Serdar Berdimuhammedov / Gurbangulu Berdimuhammedov",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/turkmenistan"
   },
   {
     "slug": "uzbekistan",
@@ -1253,12 +1541,15 @@
     "code": "UZB",
     "region": "asia",
     "capital": "Taşkent",
-    "path": "regions/asia/uzbekistan",
+    "path": "countries/uzbekistan",
     "gdp_usd_b": 90.8,
     "population": 36412350,
     "shadow_economy_pct": 33.0,
     "press_score": 46.0,
-    "official_leader": "Şevket Mirziyoyev"
+    "official_leader": "Şevket Mirziyoyev",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/uzbekistan"
   },
   {
     "slug": "vietnam",
@@ -1266,12 +1557,15 @@
     "code": "VNM",
     "region": "asia",
     "capital": "Hanoi",
-    "path": "regions/asia/vietnam",
+    "path": "countries/vietnam",
     "gdp_usd_b": 430.0,
     "population": 98186856,
     "shadow_economy_pct": 25.0,
     "press_score": 24.0,
-    "official_leader": "To Lam"
+    "official_leader": "To Lam",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/vietnam"
   },
   {
     "slug": "united_states",
@@ -1279,12 +1573,15 @@
     "code": "USA",
     "region": "americas",
     "capital": "Washington, D.C.",
-    "path": "regions/americas/united_states",
+    "path": "countries/united_states",
     "gdp_usd_b": 27360.0,
     "population": 334914895,
     "shadow_economy_pct": 8.5,
     "press_score": 75.8,
-    "official_leader": "Joe Biden / Donald Trump (Seçilmiş Başkan) - Kongre ve Yüksek Mahkeme"
+    "official_leader": "Joe Biden / Donald Trump (Seçilmiş Başkan) - Kongre ve Yüksek Mahkeme",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/united_states"
   },
   {
     "slug": "brazil",
@@ -1292,12 +1589,15 @@
     "code": "BRA",
     "region": "americas",
     "capital": "Brasilia",
-    "path": "regions/americas/brazil",
+    "path": "countries/brazil",
     "gdp_usd_b": 2173.0,
     "population": 203062512,
     "shadow_economy_pct": 33.5,
     "press_score": 62.0,
-    "official_leader": "Luiz Inácio Lula da Silva (Devlet Başkanı) / Geraldo Alckmin (Devlet Başkanı Yardımcısı)"
+    "official_leader": "Luiz Inácio Lula da Silva (Devlet Başkanı) / Geraldo Alckmin (Devlet Başkanı Yardımcısı)",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/brazil"
   },
   {
     "slug": "mexico",
@@ -1305,12 +1605,15 @@
     "code": "MEX",
     "region": "americas",
     "capital": "Mexico City",
-    "path": "regions/americas/mexico",
+    "path": "countries/mexico",
     "gdp_usd_b": 1788.0,
     "population": 129388467,
     "shadow_economy_pct": 29.8,
     "press_score": 45.0,
-    "official_leader": "Claudia Sheinbaum (Devlet Başkanı) - Morena Partisi"
+    "official_leader": "Claudia Sheinbaum (Devlet Başkanı) - Morena Partisi",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/mexico"
   },
   {
     "slug": "canada",
@@ -1318,12 +1621,15 @@
     "code": "CAN",
     "region": "americas",
     "capital": "Ottawa",
-    "path": "regions/americas/canada",
+    "path": "countries/canada",
     "gdp_usd_b": 2140.0,
     "population": 40100000,
     "shadow_economy_pct": 10.5,
     "press_score": 83.5,
-    "official_leader": "Kral III. Charles / Justin Trudeau (Başbakan)"
+    "official_leader": "Kral III. Charles / Justin Trudeau (Başbakan)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/canada"
   },
   {
     "slug": "argentina",
@@ -1331,12 +1637,15 @@
     "code": "ARG",
     "region": "americas",
     "capital": "Buenos Aires",
-    "path": "regions/americas/argentina",
+    "path": "countries/argentina",
     "gdp_usd_b": 640.0,
     "population": 46044703,
     "shadow_economy_pct": 27.2,
     "press_score": 63.0,
-    "official_leader": "Javier Milei (Devlet Başkanı) / Victoria Villarruel (Devlet Başkanı Yardımcısı)"
+    "official_leader": "Javier Milei (Devlet Başkanı) / Victoria Villarruel (Devlet Başkanı Yardımcısı)",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/argentina"
   },
   {
     "slug": "antigua_and_barbuda",
@@ -1344,12 +1653,15 @@
     "code": "ATG",
     "region": "americas",
     "capital": "Saint John's",
-    "path": "regions/americas/antigua_and_barbuda",
+    "path": "countries/antigua_and_barbuda",
     "gdp_usd_b": 1.8,
     "population": 93763,
     "shadow_economy_pct": 15.0,
     "press_score": 75.0,
-    "official_leader": "Gaston Browne"
+    "official_leader": "Gaston Browne",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/antigua_and_barbuda"
   },
   {
     "slug": "bahamas",
@@ -1357,12 +1669,15 @@
     "code": "BHS",
     "region": "americas",
     "capital": "Nassau",
-    "path": "regions/americas/bahamas",
+    "path": "countries/bahamas",
     "gdp_usd_b": 14.0,
     "population": 412623,
     "shadow_economy_pct": 12.0,
     "press_score": 76.0,
-    "official_leader": "Philip Davis"
+    "official_leader": "Philip Davis",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/bahamas"
   },
   {
     "slug": "barbados",
@@ -1370,12 +1685,15 @@
     "code": "BRB",
     "region": "americas",
     "capital": "Bridgetown",
-    "path": "regions/americas/barbados",
+    "path": "countries/barbados",
     "gdp_usd_b": 6.2,
     "population": 281635,
     "shadow_economy_pct": 14.0,
     "press_score": 78.0,
-    "official_leader": "Mia Mottley"
+    "official_leader": "Mia Mottley",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/barbados"
   },
   {
     "slug": "belize",
@@ -1383,12 +1701,15 @@
     "code": "BLZ",
     "region": "americas",
     "capital": "Belmopan",
-    "path": "regions/americas/belize",
+    "path": "countries/belize",
     "gdp_usd_b": 3.2,
     "population": 405272,
     "shadow_economy_pct": 25.0,
     "press_score": 68.0,
-    "official_leader": "Johnny Briceño"
+    "official_leader": "Johnny Briceño",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/belize"
   },
   {
     "slug": "bolivia",
@@ -1396,12 +1717,15 @@
     "code": "BOL",
     "region": "americas",
     "capital": "Sucre (La Paz hükümet)",
-    "path": "regions/americas/bolivia",
+    "path": "countries/bolivia",
     "gdp_usd_b": 46.0,
     "population": 12388571,
     "shadow_economy_pct": 55.0,
     "press_score": 50.0,
-    "official_leader": "Luis Arce"
+    "official_leader": "Luis Arce",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/bolivia"
   },
   {
     "slug": "chile",
@@ -1409,12 +1733,15 @@
     "code": "CHL",
     "region": "americas",
     "capital": "Santiago",
-    "path": "regions/americas/chile",
+    "path": "countries/chile",
     "gdp_usd_b": 340.0,
     "population": 19600000,
     "shadow_economy_pct": 18.0,
     "press_score": 75.0,
-    "official_leader": "Gabriel Boric"
+    "official_leader": "Gabriel Boric",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/chile"
   },
   {
     "slug": "colombia",
@@ -1422,12 +1749,15 @@
     "code": "COL",
     "region": "americas",
     "capital": "Bogota",
-    "path": "regions/americas/colombia",
+    "path": "countries/colombia",
     "gdp_usd_b": 363.0,
     "population": 52085168,
     "shadow_economy_pct": 33.0,
     "press_score": 58.0,
-    "official_leader": "Gustavo Petro"
+    "official_leader": "Gustavo Petro",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/colombia"
   },
   {
     "slug": "costa_rica",
@@ -1435,12 +1765,15 @@
     "code": "CRI",
     "region": "americas",
     "capital": "San Jose",
-    "path": "regions/americas/costa_rica",
+    "path": "countries/costa_rica",
     "gdp_usd_b": 86.0,
     "population": 5212173,
     "shadow_economy_pct": 15.0,
     "press_score": 80.0,
-    "official_leader": "Rodrigo Chaves Robles"
+    "official_leader": "Rodrigo Chaves Robles",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/costa_rica"
   },
   {
     "slug": "cuba",
@@ -1448,12 +1781,15 @@
     "code": "CUB",
     "region": "americas",
     "capital": "Havana",
-    "path": "regions/americas/cuba",
+    "path": "countries/cuba",
     "gdp_usd_b": 107.0,
     "population": 11194449,
     "shadow_economy_pct": 45.0,
     "press_score": 16.0,
-    "official_leader": "Miguel Díaz-Canel"
+    "official_leader": "Miguel Díaz-Canel",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/cuba"
   },
   {
     "slug": "dominica",
@@ -1461,12 +1797,15 @@
     "code": "DMA",
     "region": "americas",
     "capital": "Roseau",
-    "path": "regions/americas/dominica",
+    "path": "countries/dominica",
     "gdp_usd_b": 0.65,
     "population": 72737,
     "shadow_economy_pct": 20.0,
     "press_score": 72.0,
-    "official_leader": "Roosevelt Skerrit"
+    "official_leader": "Roosevelt Skerrit",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/dominica"
   },
   {
     "slug": "dominican_republic",
@@ -1474,12 +1813,15 @@
     "code": "DOM",
     "region": "americas",
     "capital": "Santo Domingo",
-    "path": "regions/americas/dominican_republic",
+    "path": "countries/dominican_republic",
     "gdp_usd_b": 121.0,
     "population": 11332972,
     "shadow_economy_pct": 30.0,
     "press_score": 65.0,
-    "official_leader": "Luis Abinader"
+    "official_leader": "Luis Abinader",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/dominican_republic"
   },
   {
     "slug": "ecuador",
@@ -1487,12 +1829,15 @@
     "code": "ECU",
     "region": "americas",
     "capital": "Quito",
-    "path": "regions/americas/ecuador",
+    "path": "countries/ecuador",
     "gdp_usd_b": 118.0,
     "population": 18000000,
     "shadow_economy_pct": 35.0,
     "press_score": 55.0,
-    "official_leader": "Daniel Noboa"
+    "official_leader": "Daniel Noboa",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/ecuador"
   },
   {
     "slug": "el_salvador",
@@ -1500,12 +1845,15 @@
     "code": "SLV",
     "region": "americas",
     "capital": "San Salvador",
-    "path": "regions/americas/el_salvador",
+    "path": "countries/el_salvador",
     "gdp_usd_b": 35.0,
     "population": 6364943,
     "shadow_economy_pct": 28.0,
     "press_score": 54.0,
-    "official_leader": "Nayib Bukele"
+    "official_leader": "Nayib Bukele",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/el_salvador"
   },
   {
     "slug": "greenland",
@@ -1513,12 +1861,15 @@
     "code": "GRL",
     "region": "americas",
     "capital": "Nuuk",
-    "path": "regions/americas/greenland",
+    "path": "countries/greenland",
     "gdp_usd_b": 3.2,
     "population": 56609,
     "shadow_economy_pct": 10.0,
     "press_score": 80.0,
-    "official_leader": "Múte B. Egede"
+    "official_leader": "Múte B. Egede",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/greenland"
   },
   {
     "slug": "grenada",
@@ -1526,12 +1877,15 @@
     "code": "GRD",
     "region": "americas",
     "capital": "Saint George's",
-    "path": "regions/americas/grenada",
+    "path": "countries/grenada",
     "gdp_usd_b": 1.3,
     "population": 125438,
     "shadow_economy_pct": 22.0,
     "press_score": 74.0,
-    "official_leader": "Dickon Mitchell"
+    "official_leader": "Dickon Mitchell",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/grenada"
   },
   {
     "slug": "guatemala",
@@ -1539,12 +1893,15 @@
     "code": "GTM",
     "region": "americas",
     "capital": "Guatemala City",
-    "path": "regions/americas/guatemala",
+    "path": "countries/guatemala",
     "gdp_usd_b": 102.0,
     "population": 18092026,
     "shadow_economy_pct": 40.0,
     "press_score": 48.0,
-    "official_leader": "Bernardo Arévalo"
+    "official_leader": "Bernardo Arévalo",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/guatemala"
   },
   {
     "slug": "guyana",
@@ -1552,12 +1909,15 @@
     "code": "GUY",
     "region": "americas",
     "capital": "Georgetown",
-    "path": "regions/americas/guyana",
+    "path": "countries/guyana",
     "gdp_usd_b": 17.0,
     "population": 808726,
     "shadow_economy_pct": 30.0,
     "press_score": 70.0,
-    "official_leader": "Irfaan Ali"
+    "official_leader": "Irfaan Ali",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/guyana"
   },
   {
     "slug": "haiti",
@@ -1565,12 +1925,15 @@
     "code": "HTI",
     "region": "americas",
     "capital": "Port-au-Prince",
-    "path": "regions/americas/haiti",
+    "path": "countries/haiti",
     "gdp_usd_b": 20.0,
     "population": 11724763,
     "shadow_economy_pct": 70.0,
     "press_score": 40.0,
-    "official_leader": "Garry Conille / Geçiş Konseyi"
+    "official_leader": "Garry Conille / Geçiş Konseyi",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/haiti"
   },
   {
     "slug": "honduras",
@@ -1578,12 +1941,15 @@
     "code": "HND",
     "region": "americas",
     "capital": "Tegucigalpa",
-    "path": "regions/americas/honduras",
+    "path": "countries/honduras",
     "gdp_usd_b": 34.0,
     "population": 10432860,
     "shadow_economy_pct": 35.0,
     "press_score": 50.0,
-    "official_leader": "Xiomara Castro"
+    "official_leader": "Xiomara Castro",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/honduras"
   },
   {
     "slug": "jamaica",
@@ -1591,12 +1957,15 @@
     "code": "JAM",
     "region": "americas",
     "capital": "Kingston",
-    "path": "regions/americas/jamaica",
+    "path": "countries/jamaica",
     "gdp_usd_b": 19.5,
     "population": 2825544,
     "shadow_economy_pct": 25.0,
     "press_score": 76.0,
-    "official_leader": "Andrew Holness"
+    "official_leader": "Andrew Holness",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/jamaica"
   },
   {
     "slug": "nicaragua",
@@ -1604,12 +1973,15 @@
     "code": "NIC",
     "region": "americas",
     "capital": "Managua",
-    "path": "regions/americas/nicaragua",
+    "path": "countries/nicaragua",
     "gdp_usd_b": 17.0,
     "population": 6948392,
     "shadow_economy_pct": 42.0,
     "press_score": 30.0,
-    "official_leader": "Daniel Ortega / Rosario Murillo"
+    "official_leader": "Daniel Ortega / Rosario Murillo",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/nicaragua"
   },
   {
     "slug": "panama",
@@ -1617,12 +1989,15 @@
     "code": "PAN",
     "region": "americas",
     "capital": "Panama City",
-    "path": "regions/americas/panama",
+    "path": "countries/panama",
     "gdp_usd_b": 83.0,
     "population": 4408581,
     "shadow_economy_pct": 25.0,
     "press_score": 64.0,
-    "official_leader": "José Raúl Mulino"
+    "official_leader": "José Raúl Mulino",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/panama"
   },
   {
     "slug": "paraguay",
@@ -1630,12 +2005,15 @@
     "code": "PRY",
     "region": "americas",
     "capital": "Asuncion",
-    "path": "regions/americas/paraguay",
+    "path": "countries/paraguay",
     "gdp_usd_b": 44.0,
     "population": 6780744,
     "shadow_economy_pct": 38.0,
     "press_score": 55.0,
-    "official_leader": "Santiago Peña"
+    "official_leader": "Santiago Peña",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/paraguay"
   },
   {
     "slug": "peru",
@@ -1643,12 +2021,15 @@
     "code": "PER",
     "region": "americas",
     "capital": "Lima",
-    "path": "regions/americas/peru",
+    "path": "countries/peru",
     "gdp_usd_b": 268.0,
     "population": 34000000,
     "shadow_economy_pct": 45.0,
     "press_score": 56.0,
-    "official_leader": "Dina Boluarte"
+    "official_leader": "Dina Boluarte",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/peru"
   },
   {
     "slug": "puerto_rico",
@@ -1656,12 +2037,15 @@
     "code": "PRI",
     "region": "americas",
     "capital": "San Juan",
-    "path": "regions/americas/puerto_rico",
+    "path": "countries/puerto_rico",
     "gdp_usd_b": 113.0,
     "population": 3205691,
     "shadow_economy_pct": 18.0,
     "press_score": 70.0,
-    "official_leader": "Pedro Pierluisi"
+    "official_leader": "Pedro Pierluisi",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/puerto_rico"
   },
   {
     "slug": "saint_kitts_and_nevis",
@@ -1669,12 +2053,15 @@
     "code": "KNA",
     "region": "americas",
     "capital": "Basseterre",
-    "path": "regions/americas/saint_kitts_and_nevis",
+    "path": "countries/saint_kitts_and_nevis",
     "gdp_usd_b": 1.1,
     "population": 47658,
     "shadow_economy_pct": 15.0,
     "press_score": 76.0,
-    "official_leader": "Terrance Drew"
+    "official_leader": "Terrance Drew",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/saint_kitts_and_nevis"
   },
   {
     "slug": "saint_lucia",
@@ -1682,12 +2069,15 @@
     "code": "LCA",
     "region": "americas",
     "capital": "Castries",
-    "path": "regions/americas/saint_lucia",
+    "path": "countries/saint_lucia",
     "gdp_usd_b": 2.4,
     "population": 180251,
     "shadow_economy_pct": 18.0,
     "press_score": 75.0,
-    "official_leader": "Philip J. Pierre"
+    "official_leader": "Philip J. Pierre",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/saint_lucia"
   },
   {
     "slug": "saint_vincent_and_the_grenadines",
@@ -1695,12 +2085,15 @@
     "code": "VCT",
     "region": "americas",
     "capital": "Kingstown",
-    "path": "regions/americas/saint_vincent_and_the_grenadines",
+    "path": "countries/saint_vincent_and_the_grenadines",
     "gdp_usd_b": 1.0,
     "population": 104332,
     "shadow_economy_pct": 20.0,
     "press_score": 75.0,
-    "official_leader": "Ralph Gonsalves"
+    "official_leader": "Ralph Gonsalves",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/saint_vincent_and_the_grenadines"
   },
   {
     "slug": "suriname",
@@ -1708,12 +2101,15 @@
     "code": "SUR",
     "region": "americas",
     "capital": "Paramaribo",
-    "path": "regions/americas/suriname",
+    "path": "countries/suriname",
     "gdp_usd_b": 3.6,
     "population": 618040,
     "shadow_economy_pct": 35.0,
     "press_score": 72.0,
-    "official_leader": "Chan Santokhi"
+    "official_leader": "Chan Santokhi",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/suriname"
   },
   {
     "slug": "trinidad_and_tobago",
@@ -1721,12 +2117,15 @@
     "code": "TTO",
     "region": "americas",
     "capital": "Port of Spain",
-    "path": "regions/americas/trinidad_and_tobago",
+    "path": "countries/trinidad_and_tobago",
     "gdp_usd_b": 28.0,
     "population": 1531044,
     "shadow_economy_pct": 18.0,
     "press_score": 78.0,
-    "official_leader": "Keith Rowley"
+    "official_leader": "Keith Rowley",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/trinidad_and_tobago"
   },
   {
     "slug": "uruguay",
@@ -1734,12 +2133,15 @@
     "code": "URY",
     "region": "americas",
     "capital": "Montevideo",
-    "path": "regions/americas/uruguay",
+    "path": "countries/uruguay",
     "gdp_usd_b": 77.0,
     "population": 3422794,
     "shadow_economy_pct": 12.0,
     "press_score": 85.0,
-    "official_leader": "Luis Lacalle Pou"
+    "official_leader": "Luis Lacalle Pou",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/uruguay"
   },
   {
     "slug": "venezuela",
@@ -1747,12 +2149,15 @@
     "code": "VEN",
     "region": "americas",
     "capital": "Karakas",
-    "path": "regions/americas/venezuela",
+    "path": "countries/venezuela",
     "gdp_usd_b": 102.0,
     "population": 28838499,
     "shadow_economy_pct": 60.0,
     "press_score": 20.0,
-    "official_leader": "Nicolás Maduro"
+    "official_leader": "Nicolás Maduro",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/venezuela"
   },
   {
     "slug": "egypt",
@@ -1760,12 +2165,15 @@
     "code": "EGY",
     "region": "africa",
     "capital": "Kahire",
-    "path": "regions/africa/egypt",
+    "path": "countries/egypt",
     "gdp_usd_b": 395.0,
     "population": 105000000,
     "shadow_economy_pct": 34.8,
     "press_score": 30.23,
-    "official_leader": "Abdülfettah es-Sisi (Cumhurbaşkanı) / Mustafa Medbuli (Başbakan)"
+    "official_leader": "Abdülfettah es-Sisi (Cumhurbaşkanı) / Mustafa Medbuli (Başbakan)",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/egypt"
   },
   {
     "slug": "nigeria",
@@ -1773,12 +2181,15 @@
     "code": "NGA",
     "region": "africa",
     "capital": "Abuja",
-    "path": "regions/africa/nigeria",
+    "path": "countries/nigeria",
     "gdp_usd_b": 375.0,
     "population": 223804632,
     "shadow_economy_pct": 52.4,
     "press_score": 46.8,
-    "official_leader": "Bola Ahmed Tinubu (Devlet Başkanı) - APC Partisi"
+    "official_leader": "Bola Ahmed Tinubu (Devlet Başkanı) - APC Partisi",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/nigeria"
   },
   {
     "slug": "south_africa",
@@ -1786,12 +2197,15 @@
     "code": "ZAF",
     "region": "africa",
     "capital": "Pretoria (İdari), Cape Town (Yasama), Bloemfontein (Yargı)",
-    "path": "regions/africa/south_africa",
+    "path": "countries/south_africa",
     "gdp_usd_b": 377.0,
     "population": 62027503,
     "shadow_economy_pct": 24.1,
     "press_score": 78.6,
-    "official_leader": "Cyril Ramaphosa (Devlet Başkanı) - ANC ve DA Koalisyonu"
+    "official_leader": "Cyril Ramaphosa (Devlet Başkanı) - ANC ve DA Koalisyonu",
+    "economy_group_id": "03_gelismekte_olan_devler_ve_brics",
+    "economy_group_name": "Gelişmekte Olan Devler, BRICS ve İmalat Merkezleri",
+    "economy_path": "03_gelismekte_olan_devler_ve_brics/south_africa"
   },
   {
     "slug": "algeria",
@@ -1799,12 +2213,15 @@
     "code": "DZA",
     "region": "africa",
     "capital": "Cezayir",
-    "path": "regions/africa/algeria",
+    "path": "countries/algeria",
     "gdp_usd_b": 239.0,
     "population": 45606480,
     "shadow_economy_pct": 32.0,
     "press_score": 43.0,
-    "official_leader": "Abdülmecid Tebbun"
+    "official_leader": "Abdülmecid Tebbun",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/algeria"
   },
   {
     "slug": "angola",
@@ -1812,12 +2229,15 @@
     "code": "AGO",
     "region": "africa",
     "capital": "Luanda",
-    "path": "regions/africa/angola",
+    "path": "countries/angola",
     "gdp_usd_b": 93.8,
     "population": 35588987,
     "shadow_economy_pct": 38.0,
     "press_score": 58.0,
-    "official_leader": "João Lourenço"
+    "official_leader": "João Lourenço",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/angola"
   },
   {
     "slug": "benin",
@@ -1825,12 +2245,15 @@
     "code": "BEN",
     "region": "africa",
     "capital": "Porto-Novo (Cotonou)",
-    "path": "regions/africa/benin",
+    "path": "countries/benin",
     "gdp_usd_b": 19.5,
     "population": 13352864,
     "shadow_economy_pct": 40.0,
     "press_score": 60.0,
-    "official_leader": "Patrice Talon"
+    "official_leader": "Patrice Talon",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/benin"
   },
   {
     "slug": "botswana",
@@ -1838,12 +2261,15 @@
     "code": "BWA",
     "region": "africa",
     "capital": "Gaborone",
-    "path": "regions/africa/botswana",
+    "path": "countries/botswana",
     "gdp_usd_b": 21.4,
     "population": 2630296,
     "shadow_economy_pct": 18.0,
     "press_score": 78.0,
-    "official_leader": "Duma Boko"
+    "official_leader": "Duma Boko",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/botswana"
   },
   {
     "slug": "burkina_faso",
@@ -1851,12 +2277,15 @@
     "code": "BFA",
     "region": "africa",
     "capital": "Ouagadougou",
-    "path": "regions/africa/burkina_faso",
+    "path": "countries/burkina_faso",
     "gdp_usd_b": 20.3,
     "population": 22673762,
     "shadow_economy_pct": 45.0,
     "press_score": 45.0,
-    "official_leader": "İbrahim Traore"
+    "official_leader": "İbrahim Traore",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/burkina_faso"
   },
   {
     "slug": "burundi",
@@ -1864,12 +2293,15 @@
     "code": "BDI",
     "region": "africa",
     "capital": "Gitega (Bujumbura)",
-    "path": "regions/africa/burundi",
+    "path": "countries/burundi",
     "gdp_usd_b": 3.8,
     "population": 12889576,
     "shadow_economy_pct": 50.0,
     "press_score": 42.0,
-    "official_leader": "Évariste Ndayishimiye"
+    "official_leader": "Évariste Ndayishimiye",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/burundi"
   },
   {
     "slug": "cabo_verde",
@@ -1877,12 +2309,15 @@
     "code": "CPV",
     "region": "africa",
     "capital": "Praia",
-    "path": "regions/africa/cabo_verde",
+    "path": "countries/cabo_verde",
     "gdp_usd_b": 2.6,
     "population": 593149,
     "shadow_economy_pct": 15.0,
     "press_score": 79.0,
-    "official_leader": "José Maria Neves"
+    "official_leader": "José Maria Neves",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/cabo_verde"
   },
   {
     "slug": "cameroon",
@@ -1890,12 +2325,15 @@
     "code": "CMR",
     "region": "africa",
     "capital": "Yaounde",
-    "path": "regions/africa/cameroon",
+    "path": "countries/cameroon",
     "gdp_usd_b": 49.0,
     "population": 27914536,
     "shadow_economy_pct": 38.0,
     "press_score": 42.0,
-    "official_leader": "Paul Biya"
+    "official_leader": "Paul Biya",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/cameroon"
   },
   {
     "slug": "central_african_republic",
@@ -1903,12 +2341,15 @@
     "code": "CAF",
     "region": "africa",
     "capital": "Bangui",
-    "path": "regions/africa/central_african_republic",
+    "path": "countries/central_african_republic",
     "gdp_usd_b": 2.7,
     "population": 5579144,
     "shadow_economy_pct": 65.0,
     "press_score": 45.0,
-    "official_leader": "Faustin-Archange Touadéra"
+    "official_leader": "Faustin-Archange Touadéra",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/central_african_republic"
   },
   {
     "slug": "chad",
@@ -1916,12 +2357,15 @@
     "code": "TCD",
     "region": "africa",
     "capital": "N'Djamena",
-    "path": "regions/africa/chad",
+    "path": "countries/chad",
     "gdp_usd_b": 13.0,
     "population": 17723315,
     "shadow_economy_pct": 50.0,
     "press_score": 40.0,
-    "official_leader": "Mahamat İdriss Déby"
+    "official_leader": "Mahamat İdriss Déby",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/chad"
   },
   {
     "slug": "comoros",
@@ -1929,12 +2373,15 @@
     "code": "COM",
     "region": "africa",
     "capital": "Moroni",
-    "path": "regions/africa/comoros",
+    "path": "countries/comoros",
     "gdp_usd_b": 1.4,
     "population": 836774,
     "shadow_economy_pct": 35.0,
     "press_score": 52.0,
-    "official_leader": "Azali Assoumani"
+    "official_leader": "Azali Assoumani",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/comoros"
   },
   {
     "slug": "democratic_republic_of_the_congo",
@@ -1942,12 +2389,15 @@
     "code": "COD",
     "region": "africa",
     "capital": "Kinşasa",
-    "path": "regions/africa/democratic_republic_of_the_congo",
+    "path": "countries/democratic_republic_of_the_congo",
     "gdp_usd_b": 67.5,
     "population": 99010212,
     "shadow_economy_pct": 55.0,
     "press_score": 42.0,
-    "official_leader": "Félix Tshisekedi"
+    "official_leader": "Félix Tshisekedi",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/democratic_republic_of_the_congo"
   },
   {
     "slug": "djibouti",
@@ -1955,12 +2405,15 @@
     "code": "DJI",
     "region": "africa",
     "capital": "Cibuti",
-    "path": "regions/africa/djibouti",
+    "path": "countries/djibouti",
     "gdp_usd_b": 4.1,
     "population": 1120849,
     "shadow_economy_pct": 30.0,
     "press_score": 35.0,
-    "official_leader": "İsmail Ömer Guelleh"
+    "official_leader": "İsmail Ömer Guelleh",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/djibouti"
   },
   {
     "slug": "equatorial_guinea",
@@ -1968,12 +2421,15 @@
     "code": "GNQ",
     "region": "africa",
     "capital": "Malabo",
-    "path": "regions/africa/equatorial_guinea",
+    "path": "countries/equatorial_guinea",
     "gdp_usd_b": 12.0,
     "population": 1674908,
     "shadow_economy_pct": 45.0,
     "press_score": 18.0,
-    "official_leader": "Teodoro Obiang Nguema Mbasogo"
+    "official_leader": "Teodoro Obiang Nguema Mbasogo",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/equatorial_guinea"
   },
   {
     "slug": "eritrea",
@@ -1981,12 +2437,15 @@
     "code": "ERI",
     "region": "africa",
     "capital": "Asmara",
-    "path": "regions/africa/eritrea",
+    "path": "countries/eritrea",
     "gdp_usd_b": 2.6,
     "population": 3684032,
     "shadow_economy_pct": 60.0,
     "press_score": 12.0,
-    "official_leader": "Isaias Afwerki"
+    "official_leader": "Isaias Afwerki",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/eritrea"
   },
   {
     "slug": "eswatini",
@@ -1994,12 +2453,15 @@
     "code": "SWZ",
     "region": "africa",
     "capital": "Mbabane (Lobamba)",
-    "path": "regions/africa/eswatini",
+    "path": "countries/eswatini",
     "gdp_usd_b": 4.8,
     "population": 1201670,
     "shadow_economy_pct": 30.0,
     "press_score": 40.0,
-    "official_leader": "Kral III. Mswati"
+    "official_leader": "Kral III. Mswati",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/eswatini"
   },
   {
     "slug": "ethiopia",
@@ -2007,12 +2469,15 @@
     "code": "ETH",
     "region": "africa",
     "capital": "Addis Ababa",
-    "path": "regions/africa/ethiopia",
+    "path": "countries/ethiopia",
     "gdp_usd_b": 163.0,
     "population": 123379924,
     "shadow_economy_pct": 35.0,
     "press_score": 45.0,
-    "official_leader": "Abiy Ahmed"
+    "official_leader": "Abiy Ahmed",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/ethiopia"
   },
   {
     "slug": "gabon",
@@ -2020,12 +2485,15 @@
     "code": "GAB",
     "region": "africa",
     "capital": "Libreville",
-    "path": "regions/africa/gabon",
+    "path": "countries/gabon",
     "gdp_usd_b": 21.0,
     "population": 2388992,
     "shadow_economy_pct": 30.0,
     "press_score": 55.0,
-    "official_leader": "Brice Clotaire Oligui Nguema"
+    "official_leader": "Brice Clotaire Oligui Nguema",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/gabon"
   },
   {
     "slug": "gambia",
@@ -2033,12 +2501,15 @@
     "code": "GMB",
     "region": "africa",
     "capital": "Banjul",
-    "path": "regions/africa/gambia",
+    "path": "countries/gambia",
     "gdp_usd_b": 2.3,
     "population": 2705992,
     "shadow_economy_pct": 35.0,
     "press_score": 65.0,
-    "official_leader": "Adama Barrow"
+    "official_leader": "Adama Barrow",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/gambia"
   },
   {
     "slug": "ghana",
@@ -2046,12 +2517,15 @@
     "code": "GHA",
     "region": "africa",
     "capital": "Accra",
-    "path": "regions/africa/ghana",
+    "path": "countries/ghana",
     "gdp_usd_b": 76.0,
     "population": 33475870,
     "shadow_economy_pct": 35.0,
     "press_score": 66.0,
-    "official_leader": "Nana Akufo-Addo"
+    "official_leader": "Nana Akufo-Addo",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/ghana"
   },
   {
     "slug": "guinea",
@@ -2059,12 +2533,15 @@
     "code": "GIN",
     "region": "africa",
     "capital": "Konakri",
-    "path": "regions/africa/guinea",
+    "path": "countries/guinea",
     "gdp_usd_b": 23.0,
     "population": 13859341,
     "shadow_economy_pct": 40.0,
     "press_score": 48.0,
-    "official_leader": "Mamady Doumbouya"
+    "official_leader": "Mamady Doumbouya",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/guinea"
   },
   {
     "slug": "guinea_bissau",
@@ -2072,12 +2549,15 @@
     "code": "GNB",
     "region": "africa",
     "capital": "Bissau",
-    "path": "regions/africa/guinea_bissau",
+    "path": "countries/guinea_bissau",
     "gdp_usd_b": 2.0,
     "population": 2105566,
     "shadow_economy_pct": 45.0,
     "press_score": 58.0,
-    "official_leader": "Umaro Sissoco Embaló"
+    "official_leader": "Umaro Sissoco Embaló",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/guinea_bissau"
   },
   {
     "slug": "ivory_coast",
@@ -2085,12 +2565,15 @@
     "code": "CIV",
     "region": "africa",
     "capital": "Yamoussoukro (Abidjan)",
-    "path": "regions/africa/ivory_coast",
+    "path": "countries/ivory_coast",
     "gdp_usd_b": 86.0,
     "population": 29389150,
     "shadow_economy_pct": 35.0,
     "press_score": 69.0,
-    "official_leader": "Alassane Ouattara"
+    "official_leader": "Alassane Ouattara",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/ivory_coast"
   },
   {
     "slug": "kenya",
@@ -2098,12 +2581,15 @@
     "code": "KEN",
     "region": "africa",
     "capital": "Nairobi",
-    "path": "regions/africa/kenya",
+    "path": "countries/kenya",
     "gdp_usd_b": 115.0,
     "population": 54027487,
     "shadow_economy_pct": 33.0,
     "press_score": 52.0,
-    "official_leader": "William Ruto"
+    "official_leader": "William Ruto",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/kenya"
   },
   {
     "slug": "lesotho",
@@ -2111,12 +2597,15 @@
     "code": "LSO",
     "region": "africa",
     "capital": "Maseru",
-    "path": "regions/africa/lesotho",
+    "path": "countries/lesotho",
     "gdp_usd_b": 2.6,
     "population": 2306000,
     "shadow_economy_pct": 30.0,
     "press_score": 65.0,
-    "official_leader": "Kral III. Letsie / Sam Matekane"
+    "official_leader": "Kral III. Letsie / Sam Matekane",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/lesotho"
   },
   {
     "slug": "liberia",
@@ -2124,12 +2613,15 @@
     "code": "LBR",
     "region": "africa",
     "capital": "Monrovia",
-    "path": "regions/africa/liberia",
+    "path": "countries/liberia",
     "gdp_usd_b": 4.3,
     "population": 5302681,
     "shadow_economy_pct": 45.0,
     "press_score": 64.0,
-    "official_leader": "Joseph Boakai"
+    "official_leader": "Joseph Boakai",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/liberia"
   },
   {
     "slug": "libya",
@@ -2137,12 +2629,15 @@
     "code": "LBY",
     "region": "africa",
     "capital": "Trablus",
-    "path": "regions/africa/libya",
+    "path": "countries/libya",
     "gdp_usd_b": 45.0,
     "population": 6812341,
     "shadow_economy_pct": 50.0,
     "press_score": 40.0,
-    "official_leader": "Abdülhamid Dibeybe (Trablus) / Usame Hammad & Hafter (Bingazi)"
+    "official_leader": "Abdülhamid Dibeybe (Trablus) / Usame Hammad & Hafter (Bingazi)",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/libya"
   },
   {
     "slug": "madagascar",
@@ -2150,12 +2645,15 @@
     "code": "MDG",
     "region": "africa",
     "capital": "Antananarivo",
-    "path": "regions/africa/madagascar",
+    "path": "countries/madagascar",
     "gdp_usd_b": 16.0,
     "population": 29611714,
     "shadow_economy_pct": 40.0,
     "press_score": 62.0,
-    "official_leader": "Andry Rajoelina"
+    "official_leader": "Andry Rajoelina",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/madagascar"
   },
   {
     "slug": "malawi",
@@ -2163,12 +2661,15 @@
     "code": "MWI",
     "region": "africa",
     "capital": "Lilongwe",
-    "path": "regions/africa/malawi",
+    "path": "countries/malawi",
     "gdp_usd_b": 13.0,
     "population": 20405317,
     "shadow_economy_pct": 42.0,
     "press_score": 60.0,
-    "official_leader": "Lazarus Chakwera"
+    "official_leader": "Lazarus Chakwera",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/malawi"
   },
   {
     "slug": "mali",
@@ -2176,12 +2677,15 @@
     "code": "MLI",
     "region": "africa",
     "capital": "Bamako",
-    "path": "regions/africa/mali",
+    "path": "countries/mali",
     "gdp_usd_b": 21.0,
     "population": 22593590,
     "shadow_economy_pct": 45.0,
     "press_score": 44.0,
-    "official_leader": "Assimi Goïta"
+    "official_leader": "Assimi Goïta",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/mali"
   },
   {
     "slug": "mauritania",
@@ -2189,12 +2693,15 @@
     "code": "MRT",
     "region": "africa",
     "capital": "Nuakşot",
-    "path": "regions/africa/mauritania",
+    "path": "countries/mauritania",
     "gdp_usd_b": 10.5,
     "population": 4614974,
     "shadow_economy_pct": 35.0,
     "press_score": 64.0,
-    "official_leader": "Muhammed Veled Gazvani"
+    "official_leader": "Muhammed Veled Gazvani",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/mauritania"
   },
   {
     "slug": "mauritius",
@@ -2202,12 +2709,15 @@
     "code": "MUS",
     "region": "africa",
     "capital": "Port Louis",
-    "path": "regions/africa/mauritius",
+    "path": "countries/mauritius",
     "gdp_usd_b": 14.5,
     "population": 1262524,
     "shadow_economy_pct": 15.0,
     "press_score": 74.0,
-    "official_leader": "Navin Ramgoolam"
+    "official_leader": "Navin Ramgoolam",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/mauritius"
   },
   {
     "slug": "morocco",
@@ -2215,12 +2725,15 @@
     "code": "MAR",
     "region": "africa",
     "capital": "Rabat",
-    "path": "regions/africa/morocco",
+    "path": "countries/morocco",
     "gdp_usd_b": 147.0,
     "population": 37457971,
     "shadow_economy_pct": 27.0,
     "press_score": 52.0,
-    "official_leader": "Kral VI. Muhammed / Aziz Ahannuş (Başbakan)"
+    "official_leader": "Kral VI. Muhammed / Aziz Ahannuş (Başbakan)",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/morocco"
   },
   {
     "slug": "mozambique",
@@ -2228,12 +2741,15 @@
     "code": "MOZ",
     "region": "africa",
     "capital": "Maputo",
-    "path": "regions/africa/mozambique",
+    "path": "countries/mozambique",
     "gdp_usd_b": 20.6,
     "population": 32969518,
     "shadow_economy_pct": 42.0,
     "press_score": 56.0,
-    "official_leader": "Daniel Chapo"
+    "official_leader": "Daniel Chapo",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/mozambique"
   },
   {
     "slug": "namibia",
@@ -2241,12 +2757,15 @@
     "code": "NAM",
     "region": "africa",
     "capital": "Windhoek",
-    "path": "regions/africa/namibia",
+    "path": "countries/namibia",
     "gdp_usd_b": 12.6,
     "population": 2567012,
     "shadow_economy_pct": 22.0,
     "press_score": 81.0,
-    "official_leader": "Nangolo Mbumba"
+    "official_leader": "Nangolo Mbumba",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/namibia"
   },
   {
     "slug": "niger",
@@ -2254,12 +2773,15 @@
     "code": "NER",
     "region": "africa",
     "capital": "Niamey",
-    "path": "regions/africa/niger",
+    "path": "countries/niger",
     "gdp_usd_b": 16.6,
     "population": 26207977,
     "shadow_economy_pct": 48.0,
     "press_score": 55.0,
-    "official_leader": "Abdourahamane Tchiani"
+    "official_leader": "Abdourahamane Tchiani",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/niger"
   },
   {
     "slug": "republic_of_the_congo",
@@ -2267,12 +2789,15 @@
     "code": "COG",
     "region": "africa",
     "capital": "Brazzaville",
-    "path": "regions/africa/republic_of_the_congo",
+    "path": "countries/republic_of_the_congo",
     "gdp_usd_b": 15.0,
     "population": 5970000,
     "shadow_economy_pct": 45.0,
     "press_score": 50.0,
-    "official_leader": "Denis Sassou Nguesso"
+    "official_leader": "Denis Sassou Nguesso",
+    "economy_group_id": "02_petro_ve_enerji_devleri",
+    "economy_group_name": "Petro-Devletler ve Enerji İhracatçıları",
+    "economy_path": "02_petro_ve_enerji_devleri/republic_of_the_congo"
   },
   {
     "slug": "rwanda",
@@ -2280,12 +2805,15 @@
     "code": "RWA",
     "region": "africa",
     "capital": "Kigali",
-    "path": "regions/africa/rwanda",
+    "path": "countries/rwanda",
     "gdp_usd_b": 14.1,
     "population": 13776698,
     "shadow_economy_pct": 28.0,
     "press_score": 40.0,
-    "official_leader": "Paul Kagame"
+    "official_leader": "Paul Kagame",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/rwanda"
   },
   {
     "slug": "sao_tome_and_principe",
@@ -2293,12 +2821,15 @@
     "code": "STP",
     "region": "africa",
     "capital": "Sao Tome",
-    "path": "regions/africa/sao_tome_and_principe",
+    "path": "countries/sao_tome_and_principe",
     "gdp_usd_b": 0.6,
     "population": 227380,
     "shadow_economy_pct": 30.0,
     "press_score": 75.0,
-    "official_leader": "Patrice Trovoada"
+    "official_leader": "Patrice Trovoada",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/sao_tome_and_principe"
   },
   {
     "slug": "senegal",
@@ -2306,12 +2837,15 @@
     "code": "SEN",
     "region": "africa",
     "capital": "Dakar",
-    "path": "regions/africa/senegal",
+    "path": "countries/senegal",
     "gdp_usd_b": 31.0,
     "population": 17316449,
     "shadow_economy_pct": 30.0,
     "press_score": 62.0,
-    "official_leader": "Bassirou Diomaye Faye / Ousmane Sonko (Başbakan)"
+    "official_leader": "Bassirou Diomaye Faye / Ousmane Sonko (Başbakan)",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/senegal"
   },
   {
     "slug": "seychelles",
@@ -2319,12 +2853,15 @@
     "code": "SYC",
     "region": "africa",
     "capital": "Victoria",
-    "path": "regions/africa/seychelles",
+    "path": "countries/seychelles",
     "gdp_usd_b": 2.1,
     "population": 107660,
     "shadow_economy_pct": 12.0,
     "press_score": 77.0,
-    "official_leader": "Wavel Ramkalawan"
+    "official_leader": "Wavel Ramkalawan",
+    "economy_group_id": "04_offshore_ve_finansal_merkezler",
+    "economy_group_name": "Offshore Finansal Sığınaklar ve Vergi Cennetleri",
+    "economy_path": "04_offshore_ve_finansal_merkezler/seychelles"
   },
   {
     "slug": "sierra_leone",
@@ -2332,12 +2869,15 @@
     "code": "SLE",
     "region": "africa",
     "capital": "Freetown",
-    "path": "regions/africa/sierra_leone",
+    "path": "countries/sierra_leone",
     "gdp_usd_b": 4.2,
     "population": 8605718,
     "shadow_economy_pct": 45.0,
     "press_score": 62.0,
-    "official_leader": "Julius Maada Bio"
+    "official_leader": "Julius Maada Bio",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/sierra_leone"
   },
   {
     "slug": "somalia",
@@ -2345,12 +2885,15 @@
     "code": "SOM",
     "region": "africa",
     "capital": "Mogadişu",
-    "path": "regions/africa/somalia",
+    "path": "countries/somalia",
     "gdp_usd_b": 11.6,
     "population": 17597511,
     "shadow_economy_pct": 70.0,
     "press_score": 28.0,
-    "official_leader": "Hasan Şeyh Mahmud"
+    "official_leader": "Hasan Şeyh Mahmud",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/somalia"
   },
   {
     "slug": "somaliland",
@@ -2358,12 +2901,15 @@
     "code": "SOMX",
     "region": "africa",
     "capital": "Hargeisa",
-    "path": "regions/africa/somaliland",
+    "path": "countries/somaliland",
     "gdp_usd_b": 3.4,
     "population": 5700000,
     "shadow_economy_pct": 55.0,
     "press_score": 45.0,
-    "official_leader": "Muse Bihi Abdi"
+    "official_leader": "Muse Bihi Abdi",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/somaliland"
   },
   {
     "slug": "south_sudan",
@@ -2371,12 +2917,15 @@
     "code": "SSD",
     "region": "africa",
     "capital": "Juba",
-    "path": "regions/africa/south_sudan",
+    "path": "countries/south_sudan",
     "gdp_usd_b": 6.5,
     "population": 10913164,
     "shadow_economy_pct": 65.0,
     "press_score": 25.0,
-    "official_leader": "Salva Kiir Mayardit"
+    "official_leader": "Salva Kiir Mayardit",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/south_sudan"
   },
   {
     "slug": "sudan",
@@ -2384,12 +2933,15 @@
     "code": "SDN",
     "region": "africa",
     "capital": "Hartum (Port Sudan)",
-    "path": "regions/africa/sudan",
+    "path": "countries/sudan",
     "gdp_usd_b": 30.0,
     "population": 46874204,
     "shadow_economy_pct": 65.0,
     "press_score": 22.0,
-    "official_leader": "Abdulfettah el-Burhan (SAF) / Hemedti (RSF)"
+    "official_leader": "Abdulfettah el-Burhan (SAF) / Hemedti (RSF)",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/sudan"
   },
   {
     "slug": "tanzania",
@@ -2397,12 +2949,15 @@
     "code": "TZA",
     "region": "africa",
     "capital": "Dodoma (Darüsselam)",
-    "path": "regions/africa/tanzania",
+    "path": "countries/tanzania",
     "gdp_usd_b": 79.1,
     "population": 65497748,
     "shadow_economy_pct": 30.0,
     "press_score": 56.0,
-    "official_leader": "Samia Suluhu Hassan"
+    "official_leader": "Samia Suluhu Hassan",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/tanzania"
   },
   {
     "slug": "togo",
@@ -2410,12 +2965,15 @@
     "code": "TGO",
     "region": "africa",
     "capital": "Lome",
-    "path": "regions/africa/togo",
+    "path": "countries/togo",
     "gdp_usd_b": 9.1,
     "population": 8848699,
     "shadow_economy_pct": 38.0,
     "press_score": 55.0,
-    "official_leader": "Faure Gnassingbé"
+    "official_leader": "Faure Gnassingbé",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/togo"
   },
   {
     "slug": "tunisia",
@@ -2423,12 +2981,15 @@
     "code": "TUN",
     "region": "africa",
     "capital": "Tunus",
-    "path": "regions/africa/tunisia",
+    "path": "countries/tunisia",
     "gdp_usd_b": 51.2,
     "population": 12356117,
     "shadow_economy_pct": 35.0,
     "press_score": 48.0,
-    "official_leader": "Kais Saied"
+    "official_leader": "Kais Saied",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/tunisia"
   },
   {
     "slug": "uganda",
@@ -2436,12 +2997,15 @@
     "code": "UGA",
     "region": "africa",
     "capital": "Kampala",
-    "path": "regions/africa/uganda",
+    "path": "countries/uganda",
     "gdp_usd_b": 49.3,
     "population": 47249585,
     "shadow_economy_pct": 35.0,
     "press_score": 42.0,
-    "official_leader": "Yoweri Museveni"
+    "official_leader": "Yoweri Museveni",
+    "economy_group_id": "07_kirilgan_ve_borc_krizindekiler",
+    "economy_group_name": "Kırılgan, Ağır Borçlu ve Yaptırım Altındaki Devletler",
+    "economy_path": "07_kirilgan_ve_borc_krizindekiler/uganda"
   },
   {
     "slug": "western_sahara",
@@ -2449,12 +3013,15 @@
     "code": "ESH",
     "region": "africa",
     "capital": "El Aaiun (Tifariti)",
-    "path": "regions/africa/western_sahara",
+    "path": "countries/western_sahara",
     "gdp_usd_b": 0.9,
     "population": 587259,
     "shadow_economy_pct": 45.0,
     "press_score": 30.0,
-    "official_leader": "Brahim Ghali"
+    "official_leader": "Brahim Ghali",
+    "economy_group_id": "06_orta_gelir_ve_ureticiler",
+    "economy_group_name": "Orta Gelir Düzeyi ve Bölgesel Üreticiler",
+    "economy_path": "06_orta_gelir_ve_ureticiler/western_sahara"
   },
   {
     "slug": "zambia",
@@ -2462,12 +3029,15 @@
     "code": "ZMB",
     "region": "africa",
     "capital": "Lusaka",
-    "path": "regions/africa/zambia",
+    "path": "countries/zambia",
     "gdp_usd_b": 29.5,
     "population": 20017675,
     "shadow_economy_pct": 35.0,
     "press_score": 60.0,
-    "official_leader": "Hakainde Hichilema"
+    "official_leader": "Hakainde Hichilema",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/zambia"
   },
   {
     "slug": "zimbabwe",
@@ -2475,12 +3045,15 @@
     "code": "ZWE",
     "region": "africa",
     "capital": "Harare",
-    "path": "regions/africa/zimbabwe",
+    "path": "countries/zimbabwe",
     "gdp_usd_b": 26.5,
     "population": 16320537,
     "shadow_economy_pct": 65.0,
     "press_score": 38.0,
-    "official_leader": "Emmerson Mnangagwa"
+    "official_leader": "Emmerson Mnangagwa",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/zimbabwe"
   },
   {
     "slug": "australia",
@@ -2488,12 +3061,15 @@
     "code": "AUS",
     "region": "oceania",
     "capital": "Canberra",
-    "path": "regions/oceania/australia",
+    "path": "countries/australia",
     "gdp_usd_b": 1724.0,
     "population": 26439111,
     "shadow_economy_pct": 9.2,
     "press_score": 76.5,
-    "official_leader": "Kral III. Charles / Anthony Albanese (Başbakan)"
+    "official_leader": "Kral III. Charles / Anthony Albanese (Başbakan)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/australia"
   },
   {
     "slug": "new_zealand",
@@ -2501,12 +3077,15 @@
     "code": "NZL",
     "region": "oceania",
     "capital": "Wellington",
-    "path": "regions/oceania/new_zealand",
+    "path": "countries/new_zealand",
     "gdp_usd_b": 253.0,
     "population": 5228100,
     "shadow_economy_pct": 8.0,
     "press_score": 84.2,
-    "official_leader": "Kral III. Charles / Christopher Luxon (Başbakan)"
+    "official_leader": "Kral III. Charles / Christopher Luxon (Başbakan)",
+    "economy_group_id": "01_ileri_sanayi_g7",
+    "economy_group_name": "G7 ve İleri Teknoloji / Sanayi Ekonomileri",
+    "economy_path": "01_ileri_sanayi_g7/new_zealand"
   },
   {
     "slug": "fiji",
@@ -2514,12 +3093,15 @@
     "code": "FJI",
     "region": "oceania",
     "capital": "Suva",
-    "path": "regions/oceania/fiji",
+    "path": "countries/fiji",
     "gdp_usd_b": 5.5,
     "population": 929766,
     "shadow_economy_pct": 25.0,
     "press_score": 60.0,
-    "official_leader": "Sitiveni Rabuka"
+    "official_leader": "Sitiveni Rabuka",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/fiji"
   },
   {
     "slug": "kiribati",
@@ -2527,12 +3109,15 @@
     "code": "KIR",
     "region": "oceania",
     "capital": "Tarawa",
-    "path": "regions/oceania/kiribati",
+    "path": "countries/kiribati",
     "gdp_usd_b": 0.28,
     "population": 131232,
     "shadow_economy_pct": 20.0,
     "press_score": 65.0,
-    "official_leader": "Taneti Maamau"
+    "official_leader": "Taneti Maamau",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/kiribati"
   },
   {
     "slug": "marshall_islands",
@@ -2540,12 +3125,15 @@
     "code": "MHL",
     "region": "oceania",
     "capital": "Majuro",
-    "path": "regions/oceania/marshall_islands",
+    "path": "countries/marshall_islands",
     "gdp_usd_b": 0.28,
     "population": 41569,
     "shadow_economy_pct": 15.0,
     "press_score": 70.0,
-    "official_leader": "Hilda Heine"
+    "official_leader": "Hilda Heine",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/marshall_islands"
   },
   {
     "slug": "micronesia",
@@ -2553,12 +3141,15 @@
     "code": "FSM",
     "region": "oceania",
     "capital": "Palikir",
-    "path": "regions/oceania/micronesia",
+    "path": "countries/micronesia",
     "gdp_usd_b": 0.46,
     "population": 114164,
     "shadow_economy_pct": 18.0,
     "press_score": 72.0,
-    "official_leader": "Wesley Simina"
+    "official_leader": "Wesley Simina",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/micronesia"
   },
   {
     "slug": "nauru",
@@ -2566,12 +3157,15 @@
     "code": "NRU",
     "region": "oceania",
     "capital": "Yaren",
-    "path": "regions/oceania/nauru",
+    "path": "countries/nauru",
     "gdp_usd_b": 0.15,
     "population": 12511,
     "shadow_economy_pct": 20.0,
     "press_score": 60.0,
-    "official_leader": "David Adeang"
+    "official_leader": "David Adeang",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/nauru"
   },
   {
     "slug": "palau",
@@ -2579,12 +3173,15 @@
     "code": "PLW",
     "region": "oceania",
     "capital": "Ngerulmud",
-    "path": "regions/oceania/palau",
+    "path": "countries/palau",
     "gdp_usd_b": 0.3,
     "population": 18055,
     "shadow_economy_pct": 15.0,
     "press_score": 75.0,
-    "official_leader": "Surangel Whipps Jr."
+    "official_leader": "Surangel Whipps Jr.",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/palau"
   },
   {
     "slug": "papua_new_guinea",
@@ -2592,12 +3189,15 @@
     "code": "PNG",
     "region": "oceania",
     "capital": "Port Moresby",
-    "path": "regions/oceania/papua_new_guinea",
+    "path": "countries/papua_new_guinea",
     "gdp_usd_b": 31.0,
     "population": 10142619,
     "shadow_economy_pct": 38.0,
     "press_score": 60.0,
-    "official_leader": "James Marape"
+    "official_leader": "James Marape",
+    "economy_group_id": "05_kritik_maden_ve_hammadde",
+    "economy_group_name": "Kritik Maden ve Stratejik Emtia İhracatçıları",
+    "economy_path": "05_kritik_maden_ve_hammadde/papua_new_guinea"
   },
   {
     "slug": "samoa",
@@ -2605,12 +3205,15 @@
     "code": "WSM",
     "region": "oceania",
     "capital": "Apia",
-    "path": "regions/oceania/samoa",
+    "path": "countries/samoa",
     "gdp_usd_b": 0.93,
     "population": 222382,
     "shadow_economy_pct": 22.0,
     "press_score": 76.0,
-    "official_leader": "Fiamē Naomi Mataʻafa"
+    "official_leader": "Fiamē Naomi Mataʻafa",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/samoa"
   },
   {
     "slug": "solomon_islands",
@@ -2618,12 +3221,15 @@
     "code": "SLB",
     "region": "oceania",
     "capital": "Honiara",
-    "path": "regions/oceania/solomon_islands",
+    "path": "countries/solomon_islands",
     "gdp_usd_b": 1.6,
     "population": 724273,
     "shadow_economy_pct": 30.0,
     "press_score": 62.0,
-    "official_leader": "Jeremiah Manele"
+    "official_leader": "Jeremiah Manele",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/solomon_islands"
   },
   {
     "slug": "tonga",
@@ -2631,12 +3237,15 @@
     "code": "TON",
     "region": "oceania",
     "capital": "Nukuʻalofa",
-    "path": "regions/oceania/tonga",
+    "path": "countries/tonga",
     "gdp_usd_b": 0.52,
     "population": 106858,
     "shadow_economy_pct": 25.0,
     "press_score": 68.0,
-    "official_leader": "Kral VI. Tupou / Siaosi Sovaleni"
+    "official_leader": "Kral VI. Tupou / Siaosi Sovaleni",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/tonga"
   },
   {
     "slug": "tuvalu",
@@ -2644,12 +3253,15 @@
     "code": "TUV",
     "region": "oceania",
     "capital": "Funafuti",
-    "path": "regions/oceania/tuvalu",
+    "path": "countries/tuvalu",
     "gdp_usd_b": 0.06,
     "population": 11312,
     "shadow_economy_pct": 15.0,
     "press_score": 72.0,
-    "official_leader": "Feleti Teo"
+    "official_leader": "Feleti Teo",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/tuvalu"
   },
   {
     "slug": "vanuatu",
@@ -2657,11 +3269,14 @@
     "code": "VUT",
     "region": "oceania",
     "capital": "Port Vila",
-    "path": "regions/oceania/vanuatu",
+    "path": "countries/vanuatu",
     "gdp_usd_b": 1.1,
     "population": 326740,
     "shadow_economy_pct": 28.0,
     "press_score": 65.0,
-    "official_leader": "Charlot Salwai"
+    "official_leader": "Charlot Salwai",
+    "economy_group_id": "08_kucuk_ada_ve_turizm_ekonomileri",
+    "economy_group_name": "Küçük Ada Devletleri ve Turizm / Hizmet Ekonomileri",
+    "economy_path": "08_kucuk_ada_ve_turizm_ekonomileri/vanuatu"
   }
 ]

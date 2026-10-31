@@ -72,7 +72,9 @@ def show_country(query: str):
         print(f"[-] Ülke bulunamadı: '{query}'")
         return
         
-    c_dir = BASE_DIR / c["slug"] if (BASE_DIR / c["slug"]).exists() else BASE_DIR / c["path"]
+    c_dir = BASE_DIR / c.get("economy_path", c.get("path", f"countries/{c['slug']}"))
+    if not c_dir.exists():
+        c_dir = BASE_DIR / c.get("path", f"countries/{c['slug']}")
     macro_path = c_dir / "03_official_economy" / "macroeconomics.json"
     shadow_path = c_dir / "04_shadow_power_osint" / "real_power_dynamics.md"
     oligarch_path = c_dir / "04_shadow_power_osint" / "oligarch_network.csv"
@@ -260,6 +262,36 @@ def show_stats():
     print(f"• Ortalama Gölge Ekonomi Oranı: %{avg_shadow:.2f}")
     print("=" * 60)
 
+def show_economy_groups(query=None):
+    registry = load_registry()
+    groups = {}
+    for c in registry:
+        gid = c.get("economy_group_id", "06_orta_gelir_ve_ureticiler")
+        gname = c.get("economy_group_name", "Orta Gelir Düzeyi ve Bölgesel Üreticiler")
+        if gid not in groups:
+            groups[gid] = {"name": gname, "countries": []}
+        groups[gid]["countries"].append(c)
+
+    if query:
+        q = query.lower()
+        matched_groups = {k: v for k, v in groups.items() if q in k.lower() or q in v["name"].lower()}
+        if not matched_groups:
+            print(f"[-] Eşleşen ekonomik blok bulunamadı: '{query}'")
+            return
+        groups = matched_groups
+
+    print("=" * 70)
+    print("📊 KÜRESEL RÖNTGEN - EKONOMİK ARKETİPLER VE GÜÇ BLOKLARI")
+    print("=" * 70)
+    for gid, data in sorted(groups.items()):
+        total_gdp = sum(c.get("gdp_usd_b", 0) for c in data["countries"])
+        avg_sh = sum(c.get("shadow_economy_pct", 0) for c in data["countries"]) / len(data["countries"])
+        print(f"\n🏛️ [{gid}] {data['name']}")
+        print(f"   Kapsam: {len(data['countries'])} Ülke | Toplam GSYİH: ${total_gdp:,.1f}B | Ort. Gölge: %{avg_sh:.1f}")
+        c_names = [f"{c['name']} ({c['code']})" for c in sorted(data["countries"], key=lambda x: x["name"])]
+        print(f"   Üyeler: {', '.join(c_names)}")
+    print("=" * 70)
+
 def main():
     if len(sys.argv) < 2:
         print(__doc__)
@@ -273,6 +305,9 @@ def main():
         compare_countries(sys.argv[2], sys.argv[3])
     elif cmd in ["search", "ara", "s"] and len(sys.argv) > 2:
         search_term(" ".join(sys.argv[2:]))
+    elif cmd in ["economy", "ekonomik", "eko"]:
+        q = sys.argv[2] if len(sys.argv) > 2 else None
+        show_economy_groups(q)
     elif cmd in ["top-shadow", "golge"]:
         limit = int(sys.argv[2]) if len(sys.argv) > 2 else 15
         top_shadow(limit)

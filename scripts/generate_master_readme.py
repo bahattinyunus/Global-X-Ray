@@ -2,11 +2,19 @@
 """
 scripts/generate_master_readme.py
 Generates the comprehensive, quote-rich, authoritative master README.md for Global-X-Ray,
-including the 5 high-impact thematic intelligence graphics.
+including the 5 high-impact thematic intelligence graphics and the 8 economic archetype blocks.
 """
 
+import os
+import sys
 import json
 from pathlib import Path
+
+if sys.stdout.encoding and sys.stdout.encoding.lower() != 'utf-8':
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -26,24 +34,28 @@ with open(BASE_DIR / "global_datasets" / "pmc_mercenary_groups.json", encoding="
 # Türkçe isme göre alfabetik sırala
 countries_sorted = sorted(countries, key=lambda x: x["name"])
 
-# Bölge etiketleri ve emojileri
-region_labels = {
-    "middle_east": "🕌 Ortadoğu",
-    "europe": "🏰 Avrupa",
-    "asia": "⛩️ Asya",
-    "americas": "🌎 Amerika",
-    "africa": "🌍 Afrika",
-    "oceania": "🏝️ Okyanusya"
+# Ekonomik Blok Etiketleri ve Rozetleri
+economy_badges = {
+    "01_ileri_sanayi_g7": "🏭 İleri Sanayi / G7",
+    "02_petro_ve_enerji_devleri": "🛢️ Petro-Devletler",
+    "03_gelismekte_olan_devler_ve_brics": "🚀 BRICS & İmalat",
+    "04_offshore_ve_finansal_merkezler": "🏦 Offshore / Sığınak",
+    "05_kritik_maden_ve_hammadde": "⛏️ Kritik Maden / Emtia",
+    "06_orta_gelir_ve_ureticiler": "🚜 Orta Gelir / Bölgesel",
+    "07_kirilgan_ve_borc_krizindekiler": "⚠️ Kırılgan / Yaptırım",
+    "08_kucuk_ada_ve_turizm_ekonomileri": "🏝️ Ada & Turizm"
 }
 
-# 205 Ülkelik Atlas Tablosu
+# 205 Ülkelik Atlas Tablosu (Ekonomik modellere göre yapılandırılmış)
 atlas_rows = []
 for c in countries_sorted:
-    reg_label = region_labels.get(c["region"], c["region"])
-    link = f"[{c['name']} İstihbarat Raporu]({c['slug']}/README.md)"
+    eco_id = c.get("economy_group_id", "06_orta_gelir_ve_ureticiler")
+    eco_badge = economy_badges.get(eco_id, "🌐 Karma Model")
+    eco_path = c.get("economy_path", f"06_orta_gelir_ve_ureticiler/{c['slug']}")
+    link = f"[{c['name']} Raporu]({eco_path}/README.md)"
     sh_str = f"%{c.get('shadow_economy_pct', 25.0)}"
     gdp_str = f"${c.get('gdp_usd_b', 0):,.1f}B"
-    atlas_rows.append(f"| **{c['name']}** | {reg_label} | `{c['code']}` | {c['capital']} | {link} | {gdp_str} | {sh_str} |")
+    atlas_rows.append(f"| **{c['name']}** | {eco_badge} | `{c['code']}` | {c['capital']} | {link} | {gdp_str} | {sh_str} |")
 
 atlas_table_md = "\n".join(atlas_rows)
 
@@ -76,6 +88,7 @@ master_readme_content = f"""# 🌍 KÜRESEL RÖNTGEN (GLOBAL X-RAY)
 <p align="center">
   <img src="https://img.shields.io/badge/OSINT-Standardized-red?style=for-the-badge&logo=target" alt="OSINT">
   <img src="https://img.shields.io/badge/Coverage-205%20Countries%20%26%20Entities-blue?style=for-the-badge&logo=globe" alt="Coverage">
+  <img src="https://img.shields.io/badge/Economic%20Classification-8%20Macro%20Archetypes-blueviolet?style=for-the-badge" alt="Economic Archetypes">
   <img src="https://img.shields.io/badge/Architecture-4--Layer%20Deep%20State-black?style=for-the-badge" alt="4-Layer">
   <img src="https://img.shields.io/badge/Research%20Dossiers-8%20Deep%20Investigations-gold?style=for-the-badge" alt="Dossiers">
   <img src="https://img.shields.io/badge/Case%20Studies-4%20Forensic%20Investigations-crimson?style=for-the-badge" alt="Case Studies">
@@ -98,53 +111,34 @@ master_readme_content = f"""# 🌍 KÜRESEL RÖNTGEN (GLOBAL X-RAY)
 > — **Edward L. Bernays** (*Propaganda*, 1928)
 
 > *"Washington'daki gerçek yöneticiler görünmezdir ve güçlerini perde arkasından kullanırlar."*  
-> — **Felix Frankfurter** (ABD Yüksek Mahkemesi Yargıcı, 1952)
+> — **Felix Frankfurter** (ABD Yüksek Mahkeme Yargıcı, 1952)
 
-> *"Siyaset; kimin, neyi, ne zaman ve nasıl aldığının incelenmesidir."*  
-> — **Harold Lasswell** (*Politics: Who Gets What, When, How*, 1936)
-
-> *"Her büyük servetin arkasında, faili asla cezalandırılmamış çünkü ustaca işlenmiş unutulmuş bir suç yatar."*  
-> — **Honoré de Balzac** (*Le Père Goriot*, 1835)
-
-> *"Bir ulusun para arzını basma ve kontrol etme yetkisini bana verin; yasalarını kimin yaptığını zerre kadar umursamam."*  
-> — **Mayer Amschel Rothschild** (Uluslararası Finans Hanedanı Kurucusu)
-
-> *"Bankacılar dünyaya hükmeder. Onlardan her şeyi alın ama para yaratma güçlerini bırakın; bir kalem darbesiyle her şeyi geri alacak kadar mevduat yaratırlar."*  
-> — **Sir Josiah Stamp** (İngiltere Merkez Bankası Direktörü, 1927)
-
-> *"Hükümet konseylerinde, askeri-endüstriyel kompleks tarafından yersiz nüfuz elde edilmesine karşı uyanık olmalıyız. Yanlış ellere geçmiş gücün yaratacağı felaket potansiyeli mevcuttur ve sürecektir."*  
-> — **Dwight D. Eisenhower** (ABD 34. Başkanı, Veda Konuşması, 1961)
-
-> *"Savaş bir hiledir, bir soygundur (War is a racket). Daima öyle olmuştur. Muhtemelen en eskisi, kolayca en karlı olanı, kesinlikle en acımasızıdır. Kârların dolarlarla, kayıpların ise canlarla hesaplandığı tek uluslararası iştir."*  
-> — **Tümgeneral Smedley Butler** (*War is a Racket*, 1935)
-
-> *"Savaş, siyasetin başka araçlarla devamıdır."*  
-> — **Carl von Clausewitz** (*Vom Kriege*, 1832)
-
-> *"Güçlü olan gücünün yettiğini yapar, zayıf olan ise çekmek zorunda olduğunu çeker."*  
-> — **Thukididis** (*Peloponnesos Savaşları - Melos Diyaloğu*, MÖ 416)
-
-> *"İnsanları pasif ve itaatkar tutmanın akıllıca yolu, kabul edilebilir kanaat spektrumunu sıkıca sınırlamak; fakat o dar spektrum içinde son derece canlı ve hararetli bir tartışmaya izin vermektir."*  
-> — **Noam Chomsky** (*The Common Good*, 1998)
-
-> *"Evrensel aldatmacanın hüküm sürdüğü dönemlerde hakikati söylemek devrimci bir eylemdir."*  
-> — **George Orwell** (*1984*, 1949)
-
-> *"Eğer savaşlar yalanlarla başlatılabiliyorsa, barış da gerçeklerle inşa edilebilir."*  
-> — **Julian Assange** (WikiLeaks Kurucusu, 2011)
-
-> *"Her yaptığımın ve her söylediğimin kaydedildiği bir dünyada yaşamak istemiyorum."*  
-> — **Edward Snowden** (NSA Whistleblower, 2013)
-
-> *"Hükümdar tuzakları tanımak için tilki, kurtları korkutmak için aslan olmak zorundadır."*  
-> — **Niccolò Machiavelli** (*Il Principe*, 1532)
+> *"Gölge bankacılık ve offshore cennetleri küresel kapitalizmin kara deliğidir. Egemen yasalar bu çekim alanında bükülür."*  
+> — **Küresel Röntgen Finansal İstihbarat Doktrini**
 
 ---
 
-## 📐 ANALİTİK ÇERÇEVE: 4 KATMANLI DERİN DEVLET MODELİ
+## 📊 EKONOMİK MODELLERE GÖRE KÜRESEL GÜÇ BLOKLARI (/economies)
+
+Bu repoda ülkeler klasik coğrafi kıtalara göre değil, **küresel sermaye birikim modelleri, hammadde bağımlılıkları ve jeo-ekonomik işlevlerine göre 8 temel blokta** gruplandırılmıştır. Her grup klasörü doğrudan proje kök dizininde ve `economies/` arşivinde yer almaktadır:
+
+| Blok Kodu & Arketip | Yapısal Ekonomik Rolü | Kapsam | Tahmini Blok GSYİH | Gölge Ekonomi | Kök Klasör Bağlantısı |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| 🏭 **01. İleri Sanayi ve G7** | Küresel rezerv para, patent tekelleri, ileri savunma/yarı iletken sanayisi | 28 Ülke | ~$56.4T | %11.5 | [**01_ileri_sanayi_g7/**](01_ileri_sanayi_g7/README.md) |
+| 🛢️ **02. Petro-Devletler ve Enerji** | Hidrokarbon rantı, OPEC+ kotası, egemen varlık fonları (SWF), jeopolitik boru hatları | 23 Ülke | ~$5.8T | %29.4 | [**02_petro_ve_enerji_devleri/**](02_petro_ve_enerji_devleri/README.md) |
+| 🚀 **03. BRICS & Gelişen Devler** | Küresel imalat tabanı, tedarik zinciri omurgası, demografik işgücü devi | 21 Ülke | ~$32.6T | %28.5 | [**03_gelismekte_olan_devler_ve_brics/**](03_gelismekte_olan_devler_ve_brics/README.md) |
+| 🏦 **04. Offshore & Vergi Cennetleri** | Katı bankacılık gizliliği, sıfır vergi, shell company kabuk ağları, kleptokrasi aklama | 14 Ülke | ~$2.1T | %16.2 | [**04_offshore_ve_finansal_merkezler/**](04_offshore_ve_finansal_merkezler/README.md) |
+| ⛏️ **05. Kritik Maden & Emtia** | Kobalt, lityum, bakır, altın ve nadir toprak elementleri; emtia oligopolleri | 22 Ülke | ~$1.9T | %38.1 | [**05_kritik_maden_ve_hammadde/**](05_kritik_maden_ve_hammadde/README.md) |
+| 🚜 **06. Orta Gelir & Üreticiler** | Tarım, tekstil, bölgesel sanayi ve tüketim pazarı; orta gelir tuzağı kırılganlığı | 39 Ülke | ~$3.4T | %31.7 | [**06_orta_gelir_ve_ureticiler/**](06_orta_gelir_ve_ureticiler/README.md) |
+| ⚠️ **07. Kırılgan & Yaptırım Altındakiler** | Borç krizi, hiperenflasyon, uluslararası ambargolar, sıcak çatışma ve devlet zaafiyeti | 32 Ülke | ~$0.6T | %46.3 | [**07_kirilgan_ve_borc_krizindekiler/**](07_kirilgan_ve_borc_krizindekiler/README.md) |
+| 🏝️ **08. Küçük Ada & Turizm** | Turizm gelirleri, açık deniz MEB alanları, bayrak kiralama ve iklim kırılganlığı | 26 Ülke | ~$0.2T | %26.9 | [**08_kucuk_ada_ve_turizm_ekonomileri/**](08_kucuk_ada_ve_turizm_ekonomileri/README.md) |
+
+---
+
+## 🏛️ 4 KATMANLI DERİN DEVLET METODOLOJİSİ
 
 <p align="center">
-  <img src="assets/images/4_layer_power_architecture.jpg" alt="4-Layer Deep State Power Architecture" width="90%">
+  <img src="assets/images/4_layer_power_architecture.jpg" alt="4 Layer Power Architecture" width="90%">
 </p>
 
 ```mermaid
@@ -289,11 +283,11 @@ Bu repoda yer alan tüm iddialar, NATO / Admiralty Kod doğrulama standardına g
 
 ---
 
-## 🗺️ 205 ÜLKELİK KÜRESEL ATLAS İNDEKSİ
+## 🗺️ 205 ÜLKELİK KÜRESEL ATLAS İNDEKSİ (EKONOMİK MODELLERİYLE)
 
-Aşağıdaki tabloda projedeki tüm bağımsız ülkeler listelenmiştir. Her bağlantı doğrudan **proje ana dizinindeki** ilgili ülkenin detaylı istihbarat profiline yönlendirir:
+Aşağıdaki tabloda projedeki tüm bağımsız ülkeler listelenmiştir. Her bağlantı doğrudan kök dizindeki ilgili **ekonomik blok klasörü** altındaki detaylı istihbarat profiline yönlendirir:
 
-| Ülke | Bölge | ISO | Başkent | Rapor Bağlantısı | GSYİH (USD) | Kayıt Dışı (%) |
+| Ülke | Ekonomik Model | ISO | Başkent | Rapor Bağlantısı | GSYİH (USD) | Kayıt Dışı (%) |
 | :--- | :--- | :---: | :--- | :--- | :---: | :---: |
 {atlas_table_md}
 
@@ -309,6 +303,9 @@ python scripts/xray_cli.py turkey
 
 # İki ülkeyi jeopolitik olarak karşılaştır
 python scripts/xray_cli.py compare turkey iran
+
+# Ekonomik bloğa göre ülkeleri listele
+python scripts/xray_cli.py economy 01_ileri_sanayi_g7
 
 # Boğazlar ve transit koridorlarını incele
 python scripts/xray_cli.py chokepoints

@@ -1,0 +1,47 @@
+{
+  "country": "Filistin",
+  "official_name": "Filistin Devleti",
+  "iso_code": "PSE",
+  "currency": "ILS (İsrail Şekeli), JOD (Ürdün Dinarı), USD",
+  "gdp_nominal_billion_usd": 18.0,
+  "gdp_per_capita_usd": 3300,
+  "gdp_ppp_billion_usd": 26.1,
+  "inflation_rate_pct": 5.0,
+  "unemployment_rate_pct": 35.0,
+  "debt_to_gdp_pct": 50.0,
+  "budget_deficit_pct_gdp": -3.5,
+  "foreign_exchange_reserves_billion_usd": 2.2,
+  "external_debt_billion_usd": 6.3,
+  "central_bank_policy_rate_pct": 6.2,
+  "tax_revenue_pct_gdp": 22.5,
+  "top_exports": [
+    "Taş ve Mermer",
+    "Zeytinyağı",
+    "Hurma",
+    "Tekstil ve Ayakkabı"
+  ],
+  "top_imports": [
+    "Elektrik ve Su (İsrail'den)",
+    "Akaryakıt",
+    "Gıda",
+    "İnşaat Malzemeleri"
+  ],
+  "major_trading_partners": [
+    "İsrail (gümrük tekeli)",
+    "Ürdün",
+    "BAE",
+    "Türkiye",
+    "Mısır"
+  ],
+  "shadow_economy_pct_gdp": 38.0,
+  "critical_commodity_dependencies": [
+    "Rafine Petrol",
+    "Buğday / Tahıl",
+    "Yarı İletkenler"
+  ],
+  "strategic_economic_risks": [
+    "Yüksek enflasyon ve satın alma gücü erozyonu",
+    "Cari açık finansmanı ve dış borç çevrim riski",
+    "Sermaye kaçışı ve off-shore transfer baskısı"
+  ]
+}

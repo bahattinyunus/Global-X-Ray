@@ -59,7 +59,7 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
                 self.assertGreater(fpath.stat().st_size, 0, f"{fpath} dosyası boş olamaz!")
 
     def test_direct_countries_directory(self):
-        """countries/ dizini ve ana kök dizin altındaki 205 bağımsız klasör ve README dosyaları doğrulanır."""
+        """countries/ dizini altındaki 205 bağımsız klasör ve README dosyaları doğrulanır."""
         countries_dir = BASE_DIR / "countries"
         self.assertTrue(countries_dir.exists(), "countries/ dizini bulunamadı!")
         
@@ -71,12 +71,48 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
             countries = json.load(f)
 
         for c in countries:
-            # Hem countries/ hem kök dizindeki klasör ve README doğrulanır
-            root_c_dir = BASE_DIR / c["slug"]
-            self.assertTrue(root_c_dir.exists(), f"Kök dizinde {c['slug']} klasörü bulunamadı!")
-            root_readme = root_c_dir / "README.md"
-            self.assertTrue(root_readme.exists(), f"Kök {c['slug']} için README.md bulunamadı!")
-            self.assertGreater(root_readme.stat().st_size, 1000, f"Kök {c['slug']} README.md boş veya yetersiz olamaz!")
+            c_dir = countries_dir / c["slug"]
+            self.assertTrue(c_dir.exists(), f"countries/ altında {c['slug']} klasörü bulunamadı!")
+            c_readme = c_dir / "README.md"
+            self.assertTrue(c_readme.exists(), f"countries/{c['slug']} için README.md bulunamadı!")
+            self.assertGreater(c_readme.stat().st_size, 1000, f"countries/{c['slug']} README.md boş veya yetersiz olamaz!")
+
+    def test_economic_grouping_structure(self):
+        """Ülkelerin ekonomilerine göre 8 ana gruba yapılandırılması doğrulanır."""
+        expected_groups = [
+            "01_ileri_sanayi_g7",
+            "02_petro_ve_enerji_devleri",
+            "03_gelismekte_olan_devler_ve_brics",
+            "04_offshore_ve_finansal_merkezler",
+            "05_kritik_maden_ve_hammadde",
+            "06_orta_gelir_ve_ureticiler",
+            "07_kirilgan_ve_borc_krizindekiler",
+            "08_kucuk_ada_ve_turizm_ekonomileri"
+        ]
+
+        # 1. Kök dizindeki 8 grup klasörü ve README'leri
+        for gid in expected_groups:
+            grp_dir = BASE_DIR / gid
+            self.assertTrue(grp_dir.exists(), f"Kök ekonomik grup klasörü bulunamadı: {gid}")
+            grp_readme = grp_dir / "README.md"
+            self.assertTrue(grp_readme.exists(), f"{gid} altında README.md bulunamadı!")
+            self.assertGreater(grp_readme.stat().st_size, 500, f"{gid}/README.md yetersiz!")
+
+        # 2. economies/ klasörü ve indeks
+        eco_dir = BASE_DIR / "economies"
+        self.assertTrue(eco_dir.exists(), "economies/ ana dizini bulunamadı!")
+        self.assertTrue((eco_dir / "README.md").exists(), "economies/README.md bulunamadı!")
+
+        # 3. Tüm 205 ülkenin ilgili ekonomik grup içinde varlığı
+        registry = self.datasets_dir / "countries_registry.json"
+        with open(registry, "r", encoding="utf-8") as f:
+            countries = json.load(f)
+
+        for c in countries:
+            eco_path = BASE_DIR / c["economy_path"]
+            self.assertTrue(eco_path.exists(), f"Ülkenin ekonomik grup klasörü bulunamadı: {c['economy_path']}")
+            readme_path = eco_path / "README.md"
+            self.assertTrue(readme_path.exists(), f"{c['economy_path']}/README.md bulunamadı!")
 
     def test_macroeconomics_json_validity(self):
         """Kritik ülkelerin macroeconomics.json dosyalarının doğruluğu."""

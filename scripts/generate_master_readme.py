@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 scripts/generate_master_readme.py
-Generates the comprehensive, quote-rich, authoritative master README.md for Global-X-Ray.
+Generates the comprehensive, quote-rich, authoritative master README.md for Global-X-Ray,
+including the 5 high-impact thematic intelligence graphics.
 """
 
 import json
@@ -67,6 +68,10 @@ pmc_table_md = "\n".join(pmc_rows)
 
 master_readme_content = f"""# 🌍 KÜRESEL RÖNTGEN (GLOBAL X-RAY)
 ### *Açık Kaynak İstihbarat (OSINT), Derin Devlet Ağları, Oligarşik Sermaye & Kleptokrasi Haritalandırma Atlası*
+
+<p align="center">
+  <img src="assets/images/hero_banner.jpg" alt="Global X-Ray Hero Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OSINT-Standardized-red?style=for-the-badge&logo=target" alt="OSINT">
@@ -136,6 +141,76 @@ master_readme_content = f"""# 🌍 KÜRESEL RÖNTGEN (GLOBAL X-RAY)
 
 ---
 
+## 📐 ANALİTİK ÇERÇEVE: 4 KATMANLI DERİN DEVLET MODELİ
+
+<p align="center">
+  <img src="assets/images/4_layer_power_architecture.jpg" alt="4-Layer Deep State Power Architecture" width="90%">
+</p>
+
+```mermaid
+flowchart TD
+    subgraph Katmanlar["Global X-Ray 4 Katmanlı Güç Anatomisi"]
+        L1["01. Kültür, Etnik Denge & Demografi<br/>(Tarihsel travmalar, mezhepsel fay hatları, göç dalgaları)"]
+        L2["02. Resmi Devlet Mekanizması & Anayasa<br/>(Görünen yürütme, yargı, ordu teşkilatı, kanunlar)"]
+        L3["03. Resmi Makroekonomi & Dış Ticaret<br/>(GSYİH, ihracat-ithalat, döviz rezervleri, bütçe açığı)"]
+        L4["04. Gölge Güç, Kleptokrasi & OSINT<br/>(Gerçek güç merkezleri, oligark ağları, off-shore kaçış, sansür)"]
+    end
+    L1 --> L2
+    L2 --> L3
+    L3 --> L4
+    L4 -.->|"Perde Arkasından Yönetir"| L2
+```
+
+---
+
+## 💸 KLEPTOKRASİ & OFF-SHORE SERMAYE KAÇIRMA DÖNGÜSÜ
+
+<p align="center">
+  <img src="assets/images/offshore_kleptocracy_network.jpg" alt="Global Offshore Kleptocracy and Capital Flight" width="90%">
+</p>
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor Kleptokrat as Otokrat / Siyasi Klik
+    participant Varlık as Kamu İhalesi & Doğal Kaynak
+    participant Paravan as BVI / Delaware Kabuk Şirket
+    participant Banka as İsviçre / Londra / Dubai Bankası
+    participant RealEstate as Londra / NY / Dubai Gayrimenkulü
+
+    Kleptokrat->>Varlık: Kamu ihalelerinden komisyon / Kaynak gaspı
+    Varlık->>Paravan: Sahte fatura & Transfer fiyatlandırması
+    Paravan->>Banka: Katmanlama (Layering) & İsimsiz Trust hesabı
+    Banka->>RealEstate: Entegrasyon: Lüks gayrimenkul, yat & sanat eseri alımı
+    Note over Kleptokrat,RealEstate: Sermaye tamamen aklanır ve batı hukuk güvencesine alınır.
+```
+
+---
+
+## 🧠 BİLİŞSEL SAVAŞ & SİBER İSTİHBARAT MATRİSİ
+
+<p align="center">
+  <img src="assets/images/cognitive_warfare_surveillance.jpg" alt="Cognitive Warfare and Cyber Surveillance Matrix" width="90%">
+</p>
+
+Küresel sinyal istihbaratı (SIGINT), denizaltı fiber optik hat dinleme istasyonları, sıfır-tıklama mobil casus yazılımlar (Pegasus, Predator) ve kitlelerin algısını yöneten algoritmik sosyal medya filtreleri, 5. Nesil Harp (5GW) doktrininin temelini oluşturur.
+
+---
+
+## 🚢 KÜRESEL DENİZ DARBOĞAZLARI & TRANSİT KİLİTLERİ
+
+<p align="center">
+  <img src="assets/images/geopolitical_chokepoints.jpg" alt="Geopolitical Chokepoints and Strategic Corridors" width="90%">
+</p>
+
+Dünya deniz petrolünün ve ticaretinin aktığı kilit boğazlar (`global_datasets/chokepoints_registry.json`):
+
+| Boğaz / Kanal | Tip | Kıyıdaş Devletler | Günlük Petrol Transiti | Jeopolitik Risk Seviyesi |
+| :--- | :--- | :--- | :--- | :--- |
+{choke_table_md}
+
+---
+
 ## 🗺️ BÖLGESEL MASTER JEOPOLİTİK DOSYALARI (/regions)
 
 Kıtalar bazında güç mimarisi, güvenlik paktları ve çatışma hatları:
@@ -161,16 +236,6 @@ Tarihin en büyük kleptokratik ve siber istihbarat operasyonlarının adli bili
 | ⚖️ [**CASE_STUDY_MAGNITSKY_AND_TROIKA_LAUNDROMAT.md**](dossiers/CASE_STUDY_MAGNITSKY_AND_TROIKA_LAUNDROMAT.md) | Magnitsky & Rus Çamaşırhanesi | Moldova mahkeme ilamları ve Danske Bank üzerinden $20+ milyar oligark parasının Avrupa'ya kaçırılması. |
 | 🏗️ [**CASE_STUDY_ODEBRECHT_LAVA_JATO.md**](dossiers/CASE_STUDY_ODEBRECHT_LAVA_JATO.md) | Odebrecht & Lava Jato Rüşvet Karteli | 12 ülkede başkanlara rüşvet dağıtmak için kurulan resmi "Yapılandırılmış Operasyonlar Bölümü". |
 | 📱 [**CASE_STUDY_PEGASUS_PROJECT.md**](dossiers/CASE_STUDY_PEGASUS_PROJECT.md) | Pegasus Sıfır-Tıklama Siber Casusluk | NSO Group casus yazılımının Kaşıkçı cinayeti, 14 devlet başkanı ve 189 gazeteciye karşı kullanımı. |
-
----
-
-## 🚢 KÜRESEL DENİZ DARBOĞAZLARI & TRANSİT KİLİTLERİ
-
-Dünya deniz petrolünün ve ticaretinin aktığı kilit boğazlar (`global_datasets/chokepoints_registry.json`):
-
-| Boğaz / Kanal | Tip | Kıyıdaş Devletler | Günlük Petrol Transiti | Jeopolitik Risk Seviyesi |
-| :--- | :--- | :--- | :--- | :--- |
-{choke_table_md}
 
 ---
 
@@ -212,24 +277,6 @@ Devletlerin örtülü operasyon ve vekil savaşlarında kullandığı askeri yü
 **Küresel Röntgen (Global X-Ray)**, ulus devletlerin görünen resmi anayasal yapılarının ötesine geçerek; arka planda işleyen **derin güç odaklarını, askeri klikleri, istihbarat oligarşilerini, hanedan servetlerini, mafya-sermaye konsorsiyumlarını ve kayıt dışı para akışlarını** bilimsel ve doğrulanabilir OSINT (Open Source Intelligence) metodolojisi ile belgeleyen küresel bir araştırma ve istihbarat atlasıdır.
 
 Proje, Birleşmiş Milletler üyesi tüm egemen devletler ile de-facto tanınan kritik jeopolitik bölgeler dahil olmak üzere **tam 205 ülkeyi ve bölgeyi** analiz kapsamına alır.
-
----
-
-## 📐 ANALİTİK ÇERÇEVE: 4 KATMANLI DERİN DEVLET MODELİ
-
-```mermaid
-flowchart TD
-    subgraph Katmanlar["Global X-Ray 4 Katmanlı Güç Anatomisi"]
-        L1["01. Kültür, Etnik Denge & Demografi<br/>(Tarihsel travmalar, mezhepsel fay hatları, göç dalgaları)"]
-        L2["02. Resmi Devlet Mekanizması & Anayasa<br/>(Görünen yürütme, yargı, ordu teşkilatı, kanunlar)"]
-        L3["03. Resmi Makroekonomi & Dış Ticaret<br/>(GSYİH, ihracat-ithalat, döviz rezervleri, bütçe açığı)"]
-        L4["04. Gölge Güç, Kleptokrasi & OSINT<br/>(Gerçek güç merkezleri, oligark ağları, off-shore kaçış, sansür)"]
-    end
-    L1 --> L2
-    L2 --> L3
-    L3 --> L4
-    L4 -.->|"Perde Arkasından Yönetir"| L2
-```
 
 ---
 

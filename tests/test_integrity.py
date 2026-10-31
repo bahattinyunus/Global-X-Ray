@@ -131,5 +131,21 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
             rows = list(reader)
             self.assertGreaterEqual(len(rows), 15, "Vergi cennetleri matrisi en az 15 merkez içermelidir!")
 
+    def test_rankings_and_methodology(self):
+        """Metodoloji kılavuzları ve global sıralama raporu doğrulanır."""
+        method_dir = BASE_DIR / "methodology"
+        self.assertTrue((method_dir / "CORP_REGISTRY_RECONNAISSANCE.md").exists())
+        self.assertTrue((method_dir / "DATA_COLLECTION_GUIDE.md").exists())
+        self.assertTrue((method_dir / "OSINT_VERIFICATION.md").exists())
+
+        matrix_file = self.datasets_dir / "global_power_matrix.json"
+        report_file = self.datasets_dir / "GLOBAL_RANKINGS_REPORT.md"
+        self.assertTrue(matrix_file.exists())
+        self.assertTrue(report_file.exists())
+
+        with open(matrix_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            self.assertEqual(len(data["countries"]), 205)
+
 if __name__ == "__main__":
     unittest.main()

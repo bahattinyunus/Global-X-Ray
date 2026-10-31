@@ -1,55 +1,65 @@
-# 📚 Veri Toplama Kılavuzu (Data Collection Guide)
+# 📚 Kapsamlı OSINT Veri Toplama ve İstihbarat Protokolü
 
-Bu kılavuz, **Küresel Röntgen (Global X-Ray)** projesine veri toplarken, işlerken ve sisteme entegre ederken uyulması gereken metodolojiyi ve standartları belirler.
+> "Knowledge itself is power." (*Scientia potentia est.*)  
+> — **Sir Francis Bacon**, *Meditationes Sacrae* (1597)
 
----
-
-## 🎯 Temel Felsefe
-
-Küresel Röntgen; resmi verilerin ötesine geçerek devletlerin gerçek karar mekanizmalarını, sermaye akışlarını ve derin güç odaklarını haritalandırmayı amaçlar. Ancak bunu yaparken spekülasyona, teyitsiz dedikoduya veya asılsız komplo teorilerine asla yer vermez. Her veri, somut bir dayanak ve rasyonel metodolojiyle sunulmalıdır.
+> "There is no such thing as an innocent piece of information. Everything connects if you look deep enough."  
+> — **Umberto Eco**, *Foucault's Pendulum* (1988)
 
 ---
 
-## 🏛️ 4 Katmanlı Veri Toplama Protokolü
+## 1. Giriş ve Operasyonel Doktrin
 
-### Katman 1: Temel Taşlar (Kültür, Coğrafya ve Demografi)
-- **Hedef Dosyalar:** `society_history.md`, `demographics.csv`
-- **Toplanacak Veriler:**
-  - Nüfus, yaş piramidi, kentleşme oranı, etnik ve dilsel kırılımlar.
-  - Tarihsel kırılma anları, ulusal travmalar ve mitler.
-  - Etnik ve mezhepsel fay hatları, bölgesel ayrımlar.
-- **Kaynak Standartları:** BM Nüfus Fonu (UNFPA), Dünya Bankası, Pew Research, yerel istatistik kurumları, bağımsız akademik sosyoloji çalışmaları.
+Bu kılavuz, **Küresel Röntgen (Global X-Ray)** projesinin 205 egemen ve jeopolitik varlık üzerindeki açık kaynak istihbaratı (OSINT) toplama ve doğrulama süreçlerini yöneten temel saha yönergesidir.
 
-### Katman 2: Resmi Vitrin (The De Jure State)
-- **Hedef Dosyalar:** `constitution_gov.md`
-- **Toplanacak Veriler:**
-  - Anayasal rejim (Başkanlık, Yarı-Başkanlık, Parlamenter vb.).
-  - Yürütme, yasama ve yargı organlarının resmi işleyişi.
-  - Resmi ittifaklar, askeri paktlar ve uluslararası antlaşmalar.
-- **Kaynak Standartları:** Resmi Gazeteler, Hükümet portalları, V-Dem Enstitüsü, Freedom House yasal analizleri.
-
-### Katman 3: Yüzey Ekonomisi (The Official Economy)
-- **Hedef Dosyalar:** `macroeconomics.json`
-- **Toplanacak Veriler:**
-  - Nominal GSYH, Satın Alma Gücü Paritesi (SAGP), Enflasyon, Kamu Borcu / GSYH oranı.
-  - En büyük ihracat ve ithalat kalemleri (HS kodları bazında).
-  - Başlıca dış ticaret ortakları ve kritik emtia bağımlılıkları.
-- **Kaynak Standartları:** IMF WEO, Dünya Bankası Open Data, UN Comtrade, OEC (Observatory of Economic Complexity).
-
-### Katman 4: Karanlık Madde (OSINT & The De Facto Power)
-- **Hedef Dosyalar:** `real_power_dynamics.md`, `oligarch_network.csv`, `media_censorship_matrix.md`
-- **Toplanacak Veriler:**
-  - Gölge karar alıcılar (aile hanedanları, askeri cuntalar, istihbarat elitleri, oligark konsorsiyumları).
-  - Devlet ihaleleri, kamu kaynaklarının transfer edildiği holdingler ve offshore sermaye transferleri.
-  - Medya sahiplik haritası, oto-sansür mekanizmaları ve dijital gözetim araçları (Pegasus vb.).
-  - Küresel ve bölgesel uydu statüsü, dış vesayet ilişkileri.
-- **Kaynak Standartları:** ICIJ (Panama/Pandora Papers), OCCRP, Bellingcat, Transparency International CPI, Mahkeme iddianameleri, bağımsız araştırmacı gazetecilik konsorsiyumları.
+Geleneksel siyaset bilimi devletleri resmi anayasal kurumları üzerinden tanımlarken, Global X-Ray devletleri **maddi kaynakların, silahlı kuvvetlerin, istihbarat servislerinin ve kayıt dışı sermayenin çatışma alanı** olarak modeller.
 
 ---
 
-## 📋 Dosya ve İsimlendirme Standartları
+## 2. 4 Katmanlı Veri Toplama Mimarisi ve Veri Tabanı Kaynakları
 
-1. Ülke klasör adları küçük harf ve İngilizce ISO standardında olmalıdır: örn. `turkey`, `united_states`, `russia`, `china`, `germany`, `saudi_arabia`.
-2. Markdown dosyalarında başlıklar h1 (`#`), alt başlıklar h2 (`##`) hiyerarşisine uymalıdır.
-3. CSV dosyalarında ayırıcı virgül (`,`) ve kodlama `UTF-8` olmalıdır.
-4. JSON dosyaları 2 boşluk girintili, geçerli JSON sözdiziminde olmalıdır.
+```mermaid
+flowchart TD
+    subgraph Katman1["Katman 1: Coğrafya, Etnisite & Demografi"]
+        K1_1["BM Nüfus Fonu (UNFPA)"]
+        K1_2["Pew Research Demographics"]
+        K1_3["Joshua Project Etnik Dağılım"]
+    end
+
+    subgraph Katman2["Katman 2: De Jure Devlet & Hukuki Çerçeve"]
+        K2_1["V-Dem (Varieties of Democracy)"]
+        K2_2["Constitute Project (Dünya Anayasaları)"]
+        K2_3["Freedom House Hukuk Raporları"]
+    end
+
+    subgraph Katman3["Katman 3: Resmi Makroekonomi & Dış Ticaret"]
+        K3_1["Dünya Bankası WDI"]
+        K3_2["IMF Dünya Ekonomik Görünümü (WEO)"]
+        K3_3["OEC / UN Comtrade (Emtia ve HS Kodları)"]
+    end
+
+    subgraph Katman4["Katman 4: Gölge Güç, Kleptokrasi & OSINT"]
+        K4_1["ICIJ Offshore Leaks Database"]
+        K4_2["OCCRP Aleph Veri Platformu"]
+        K4_3["Tax Justice Network FSI"]
+        K4_4["RSF & CPJ Sansür ve Gazeteci İndeksleri"]
+    end
+```
+
+### 2.1 Katman 1: Sosyolojik ve Demografik Fay Hatları
+* **Tarihsel Kırılmalar:** Kolonyal sınırlar, iç savaşlar, etnik soykırımlar, mezhepsel bölünmeler.
+* **Demografik Risk Göstergeleri:** Genç işsizlik oranı (Youth Bulge teorisi), kentleşme hızı, mülteci/sığınmacı akımları.
+
+### 2.2 Katman 2: Resmi Anayasal Vitrin
+* **Rejim Tipi:** Başkanlık, Yarı-Başkanlık, Parlamenter Monarşi, Askeri Cunta, Teokrasi, Tek Parti Devleti.
+* **Güvenlik Mimarisi:** Resmi savunma bütçesi, NATO/KGAÖ/AUKUS gibi savunma paktı üyelikleri.
+
+### 2.3 Katman 3: Resmi Makroekonomi
+* **Makro Göstergeler:** Nominal GSYİH, SAGP GSYİH, Cari Denge / GSYİH, Kamu Borcu / GSYİH, Enflasyon ve Döviz Rezervleri.
+* **Ticaret Haritası:** İlk 5 ihraç ve ithal kalemi (HS 2/4-hane sınıflandırması), kritik emtia ithalat bağımlılığı (gıda, ham petrol, yarı iletkenler).
+
+### 2.4 Katman 4: Gölge Güç, Kleptokrasi ve Derin Yapılar
+* **De Facto Karar Alıcılar:** Seçimle gelmeyen askeri şuralar, hanedan aile meclisleri, istihbarat başkanları, tekelci holding patronları.
+* **Oligarşi Ağı:** Kamu ihalelerinden aslan payını alan sermaye grupları, vergi afları ve imtiyazlı maden ruhsatları.
+* **Sermaye Kaçışı & Offshore:** Paravan şirketler (BVI, Panama, Cayman, Delaware), Londra ve Dubai gayrimenkul varlıkları.
+* **Medya & Bilgi Kontrolü:** İktidar yanlısı medya konsorsiyumları, dijital gözetim araçları (Pegasus vb.), internet kapatmaları.

@@ -1,46 +1,54 @@
-# 🔍 OSINT Doğrulama ve Teyit Standartları (OSINT Verification Standards)
+# 🔍 OSINT Doğrulama Protokolü & Admiralty Standartları
 
-**Küresel Röntgen** projesi, bilgi kirliliğini önlemek ve analiz kalitesini en üst düzeyde tutmak amacıyla katı bir istihbarat ve OSINT doğrulama protokolü uygular.
+> "Trust, but verify." (*Доверяй, но проверяй.*)  
+> — **Rus Atasözü** *(Ronald Reagan tarafından Soğuk Savaş zirvelerinde popülerleştirilmiştir)*
 
----
-
-## 🏷️ Kaynak Güvenilirlik Sınıflandırması (Admiralty Code / NATO Standardı)
-
-Veriler ve iddialar değerlendirilirken NATO standartlarındaki kaynak güvenilirlik matrisi esas alınır:
-
-### Kaynak Güvenilirliği (Source Reliability)
-- **A - Tamamen Güvenilir:** Bağımsız uluslararası denetçiler, resmi mahkeme kararları, teyitli veri sızıntıları (ICIJ veri tabanı).
-- **B - Genellikle Güvenilir:** Saygın araştırmacı gazetecilik ağları (OCCRP, Bellingcat, ICIJ), akademik hakemli yayınlar.
-- **C - Kısmen Güvenilir:** Yerel muhalif medya, tek taraflı sivil toplum raporları.
-- **D - Şüpheli / Teyitsiz:** Sosyal medya paylaşımları, anonim ihbarlar.
-- **E - Güvenilmez:** Doğrudan devlet kontrolündeki propaganda veya dezenformasyon bültenleri.
-
-### Bilgi Doğruluğu (Information Credibility)
-- **1 - Teyit Edilmiş (Confirmed):** Bağımsız birden fazla kaynak tarafından doğrulanmış.
-- **2 - Muhtemelen Doğru (Probably True):** Mantıksal çerçeveyle örtüşen, kısmen doğrulanmış.
-- **3 - Olası (Possibly True):** Doğrulayıcı kanıt bulunmayan ancak bağlamla çelişmeyen.
-- **4 - Şüpheli (Doubtful):** Mantıksal tutarsızlıklar içeren.
-- **5 - Olanaksız (Improbable):** Çürütülmüş veya kasıtlı çarpıtma.
-
-> **Kural:** Repoda Katman 4 altında yer alacak iddialar en az **B2** (Genellikle Güvenilir kaynak + Muhtemelen Doğru bilgi) veya **A1** standardında olmalıdır.
+> "Falsehood flies, and truth comes limping after it, so that when men come to be undeceived, it is too late; the jest is over, and the tale has had its effect."  
+> — **Jonathan Swift**, *The Examiner* (1710)
 
 ---
 
-## 🛡️ Teyit Adımları
+## 1. Admiralty Kod Doğrulama Matrisi (NATO STANAG 2022)
 
-1. **Çapraz Doğrulama (Triangulation):** Önemli bir yolsuzluk veya oligark-siyaset ilişkisi iddiası en az iki bağımsız kaynakça zikredilmelidir.
-2. **Ticari Sicil ve Mülkiyet Doğrulaması:** Şirket ilişkileri ve ihale kazananları, ilgili ülkenin resmi ticaret sicil gazetesi veya sızdırılmış offshore veri tabanlarıyla eşleştirilmelidir.
-3. **Mali İz Takibi:** Kara para aklama veya servet transferi iddialarında bankacılık düzenleyici kurumları (FinCEN dosyaları vb.) veya mahkeme iddianameleri referans verilmelidir.
-4. **Metin İçi Alıntı Zorunluluğu:** 
-   ```markdown
-   Örnek format:
-   - Şirket X, 2021 yılında 4.2 milyar dolarlık otoyol ihalesini rekabetsiz kazanmıştır [[1] OCCRP Investigation, 2022](https://www.occrp.org).
-   ```
+Global X-Ray projesindeki her istihbarat iddiası aşağıdaki 6x6'lık değerlendirme matrisine göre derecelendirilir:
+
+| Kaynak Güvenilirliği (Source Reliability) | Bilgi Doğruluğu (Information Credibility) |
+| :--- | :--- |
+| **A - Tamamen Güvenilir:** Kaynağın dürüstlüğü ve geçmiş performansı kusursuzdur; resmi mahkeme tutanağı, Sayıştay raporu, bağımsız uluslararası denetim. | **1 - Teyit Edilmiş:** Bağımsız ve farklı yöntemler kullanan birden fazla kaynakça doğrulanmış. |
+| **B - Genellikle Güvenilir:** Kaynağın geçmiş performansı sağlamdır; ICIJ, OCCRP, Reuters Araştırma Masası, hakemli akademik çalışma. | **2 - Muhtemelen Doğru:** Mevcut durum ve bilinen olay akışıyla mantıksal uyum içindedir. |
+| **C - Kısmen Güvenilir:** Kaynak zaman zaman taraflı veya eksik bilgi vermiştir; yerel muhalif yayın organı, tek taraflı STK bülteni. | **3 - Mümkün / Olası:** Doğrulayıcı kanıt yoktur ancak bilinen koşullarla çelişmez. |
+| **D - Genellikle Güvenilmez:** Kaynağın geçmişte yanıltıcı bilgi verdiği bilinmektedir; anonim sosyal medya sızıntısı. | **4 - Şüpheli:** Mantıksal tutarsızlıklar taşır veya bilinen başka doğrularla çelişir. |
+| **E - Güvenilmez:** Kaynağın kasıtlı dezenformasyon ürettiği kanıtlanmıştır; devlet güdümlü propaganda bülteni. | **5 - Olanaksız:** Mantıksal ve fiziksel olarak imkansızdır, çürütülmüştür. |
+| **F - Güvenilirlik Yargılanamaz:** Kaynağın geçmişine veya güvenilirliğine dair hiçbir veri yoktur. | **6 - Doğruluk Yargılanamaz:** Bilginin doğruluğunu ölçecek hiçbir veri yoktur. |
+
+> [!IMPORTANT]
+> **Global X-Ray Standart Eşiği:** Repoda 4. Katman (Gölge Güç ve Kleptokrasi) altında yer alan tüm bulgular **en az B2** (Genellikle Güvenilir Kaynak + Muhtemelen Doğru Bilgi) veya **A1** standardında olmak zorundadır.
 
 ---
 
-## ❌ Kabul Edilmeyen İçerikler
+## 2. Şirket ve Para İzi Takibi: 3 Adımlı Teyit Döngüsü
 
-- Kaynak belirtilmemiş dedikodular ve anonim blog yazıları.
-- Doğrudan nefret söylemi, ırkçı veya ayrımcı genellemeler.
-- Çürütülmüş dezenformasyon anlatıları.
+```mermaid
+sequenceDiagram
+    autonumber
+    participant S as Saha / Açık Kaynak İddiası
+    participant T as Ticaret Sicil Gazetesi
+    participant L as Sızıntı Veri Tabanı (ICIJ/OCCRP)
+    participant B as Bankacılık / FinCEN SAR
+
+    S->>T: 1. Şirket tescili ve hissedar yapısının sorgulanması
+    T-->>S: Hissedarlar / Paravan yöneticiler tespit edildi
+    S->>L: 2. Offshore tröst ve nihai faydalanıcı (UBO) taraması
+    L-->>S: BVI / Panama gizli sermaye bağı belgelendi
+    S->>B: 3. Şüpheli İşlem Bildirimi (SAR) veya ceza iddianamesi eşleştirmesi
+    B-->>S: B2+ Dereceli Doğrulanmış İstihbarat Raporu
+```
+
+---
+
+## 3. Metadata Adli Bilişimi ve Sayısal Doğrulama
+
+İncelemeye alınan tüm sızıntı belgeler ve dijital deliller aşağıdaki kontrollerden geçirilir:
+1. **Kriptografik Bütünlük:** Orijinal sızıntı arşivinin `SHA-256` veya `BLAKE3` özeti alınarak değiştirilmediği mühürlenir.
+2. **Metadata İncelemesi:** Belge yazar adı, oluşturulma tarihi, yazılım sürümü (`exiftool`, `pdfid`, `oletools`) taranır.
+3. **Yazıcı Sarı Nokta Analizi (Machine Identification Codes):** Renkli lazer yazıcılardan basılan belgelerdeki seri numarası ve tarih desenleri çözümlenir.

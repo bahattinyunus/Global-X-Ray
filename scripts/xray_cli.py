@@ -46,6 +46,7 @@ SANCTIONS_PATH = BASE_DIR / "global_datasets" / "sanctions_and_embargoes_registr
 MINERALS_PATH = BASE_DIR / "global_datasets" / "critical_raw_materials_supply_chain.json"
 CABLES_PATH = BASE_DIR / "global_datasets" / "subsea_cables_and_sigint_stations.json"
 DOSSIERS_DIR = BASE_DIR / "dossiers"
+RESEARCH_DIR = BASE_DIR / "research"
 
 def load_registry():
     with open(REGISTRY_PATH, "r", encoding="utf-8") as f:
@@ -343,8 +344,23 @@ def show_case_studies():
     files = list(DOSSIERS_DIR.glob("*.md"))
     print(f"📁 DERİN ADLİ OSINT VAKA ANALİZLERİ ({len(files)} Dosya):")
     print("=" * 80)
-    for f in files:
-        print(f"  • {f.name:<45} -> dossiers/{f.name}")
+    for f in sorted(files, key=lambda x: x.name):
+        print(f"  • {f.name:<55} -> dossiers/{f.name}")
+    print("=" * 80)
+
+def show_research(query=None):
+    if not RESEARCH_DIR.exists():
+        print("[-] Araştırma dosyaları klasörü bulunamadı.")
+        return
+    files = list(RESEARCH_DIR.glob("*.md"))
+    if query:
+        q = query.lower()
+        files = [f for f in files if q in f.name.lower()]
+    print(f"📚 ANSİKLOPEDİK ARAŞTIRMA TEZLERİ & DOKTRİN DOSYALARI ({len(files)} Dosya):")
+    print("=" * 80)
+    for f in sorted(files, key=lambda x: x.name):
+        size_kb = f.stat().st_size / 1024
+        print(f"  • {f.name:<55} ({size_kb:,.1f} KB) -> research/{f.name}")
     print("=" * 80)
 
 def show_stats():
@@ -425,6 +441,9 @@ def main():
         show_chokepoints(q)
     elif cmd in ["cases", "vaka", "dossiers"]:
         show_case_studies()
+    elif cmd in ["research", "arastirma", "tez"]:
+        q = sys.argv[2] if len(sys.argv) > 2 else None
+        show_research(q)
     elif cmd in ["alliances", "ittifak", "pakt"]:
         q = sys.argv[2] if len(sys.argv) > 2 else None
         show_alliances(q)

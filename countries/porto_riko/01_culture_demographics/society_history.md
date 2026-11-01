@@ -1,35 +1,50 @@
-# 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Porto Riko
+# 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: Porto Riko (PRI)
 
-> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
-
----
-
-## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
-Porto Riko modern tarihinde sömürge mirası, askeri müdahaleler ve gelir dağılımı eşitsizliği ana gerilim hatlarıdır.
-
-Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Bu tarihsel miras, halk nezdinde devlet otoritesine yönelik algıyı belirleyen en temel psikolojik etkendir. Özellikle geçmişteki sınır revizyonları, iç savaşlar ve siyasi tasfiyeler, günümüzün siyasal rekabetinde birer meşruiyet ve mobilizasyon aracı olarak kullanılmaktadır.
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
-## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Toplam Nüfus:** Yaklaşık 3,205,691
-- **Resmi ve Konuşulan Diller:** İspanyolca, İngilizce
-- **Kültürel Kırılma Eksenleri:** Yerli hakları, toprak mülkiyeti kavgaları ve metropol-kırsal kutuplaşması.
-- **Bölgesel Ayrışmalar:** Başkent San Juan ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
-Toplum homojen bir yapı sergilememekte; etnik ve mezhepsel azınlıkların karar alma mekanizmalarına erişimi tarihsel olarak kısıtlı kalmaktadır. Taşra ile metropol kentler arasındaki sermaye ve eğitim eşitsizliği, siyasette popülist kutuplaşmanın zeminini beslemektedir.
+* **Medeniyet Sentezi:** Taíno Yerli Adası (Borikén) + Batı Afrika Bomba ve Plena Ritimleri + İspanyol Kolonyal Mimarisi + Karayip Salsa Başkenti.
+* **Kolektif Ethos & Ulusal Karakter:** 'Orgullo Boricua' (Porto Riko Gururu), sokak neşesi, müzikle yaşayan ruh, aileye düşkünlük, '¡Ay, bendito!' şefkati ve misafirperverlik.
+* **İletişim Tarzı (High / Low Context):** Yüksek Bağlamlı, Çok Hızlı, Coşkulu ve Duygusal. 'R' harfleri yumuşak 'L' gibi telaffuz edilir; kollar açılarak coşkuyla selamlaşılır.
 
 ---
 
-## 3. Demografik Baskılar, Genç Kuşak ve Beyin Göçü
-Genç nüfusun toplam nüfus içindeki payı yüksek olmakla birlikte, istihdam yaratma kapasitesinin zayıflığı "Gençlik Patlaması" (Youth Bulge) riskini tetiklemektedir. Nitelikli iş gücü, doktorlar, mühendisler ve araştırmacılar; ekonomik güvencesizlik, liyakatsizlik ve siyasi baskılar nedeniyle küresel merkezlere göç etmektedir. Bu durum, ülkenin beşeri sermaye havuzunu uzun vadede tüketmektedir.
+## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
+
+* **Boricua:** Yerli Taíno dilindeki Borikén'den gelen; Porto Riko toprağına, kültürüne, müziğine ve bayrağına duyulan tutkulu milli aidiyet.
+  > **
+* **¡Ay, bendito!:** Şefkat, empati, şaşkınlık ve merhameti aynı anda ifade eden, kalpten kopup gelen Porto Riko milli ünlemi.
+  > **
 
 ---
 
-## 4. Toplumsal Kutuplaşma Dinamikleri ve Kültür Savaşları
-Geleneksel imtiyazlı elitler ile sonradan zenginleşen yeni rejim elitleri arasındaki mücadele, kamuoyunda "kültür savaşları" kisvesi altında sunulmaktadır. Siyasal iktidarlar, ekonomik kriz ve enflasyon baskısını örtbas etmek adına dini, etnik ve milli hassasiyetleri körükleyerek toplumsal muhalefeti bölmektedir.
+## 3. Gündelik Hayat, Sosyal Ritüeller ve Yaşam Sanatı
+
+Noel döneminde sokaklarda sabaha kadar süren 'Parrandas' sürpriz müzikli ev baskınları; El Yunque yağmur ormanlarında Coquí kurbağasının sesini dinlemek; San Sebastián festivali sokak dansları.
 
 ---
 
-## 5. Sivil Toplumun Durumu ve Sosyal Sermaye
-Bağımsız sendikalar, insan hakları dernekleri ve çevre inisiyatifleri; fon kısıtlamaları, keyfi denetimler ve terör suçlamalarıyla etkisizleştirilmiştir. Sosyal sermaye ve yurttaşlar arası güven endeksi düşük seyretmekte, yurttaşlar sorunlarını kurumsal yollar yerine hemşehri, tarikat ve patronaj ağları üzerinden çözmeye zorlanmaktadır.
+## 4. Gastronomi Felsefesi ve Sofra Kültürü
+
+* **Mutfak Felsefesi:** Mofongo (kızartılmış yeşil muzun sarımsak ve domuz çıtırı ile havanda dövülüp deniz ürünleri veya etle doldurulması - milli yemek), Arroz con Gandules ve Lechón Asado.
+
+---
+
+## 5. Görgü Kuralları ve Sosyal Tabular (Do's & Don'ts)
+
+Coquí kurbağasının sesini küçümsemek ayıptır (yalnızca bu adada yaşar ve milli semboldür); misafire ikram edilen yemeği geri çevirmek hoş görülmez.
+
+---
+
+## 6. Edebiyat, Sanat ve Entelektüel Miras
+
+Salsa müziğinin devleri (Héctor Lavoe, El Gran Combo); Castillo San Felipe del Morro kalesi; şair Julia de Burgos.
+
+---
+
+## 7. Tarihsel Kırılma Noktaları, Demografi ve Sosyal Dönüşüm
+
+Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Taşra ile metropol kentler arasındaki eşitsizlikler, küresel göç dalgaları ve kuşaklar arası zihniyet dönüşümleri, ülkenin kültürel fay hatlarını sürekli yeniden üretmektedir.

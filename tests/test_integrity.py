@@ -303,7 +303,7 @@ class TestMedeniyetAtlasiIntegrity(unittest.TestCase):
             self.assertIn("civilization_realms", culture)
             self.assertIn("countries_cultural_dna", culture)
             self.assertEqual(len(culture["civilization_realms"]), 9)
-            self.assertGreaterEqual(len(culture["countries_cultural_dna"]), 60)
+            self.assertEqual(len(culture["countries_cultural_dna"]), 205)
 
     def test_geopolitics_and_intelligence_dossiers(self):
         """geopolitics_and_intelligence/ altındaki 11 stratejik dosya ve README doğrulanır."""

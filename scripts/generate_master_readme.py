@@ -318,7 +318,7 @@ master_readme_content = f"""# 🏛️ MEDENİYET ATLASI
 1. [🏛️ Giriş ve Medeniyet Atlası Manifestosu](#️-giriş-ve-medeniyet-atlasi-manifestosu)
 2. [🎭 Dünya Medeniyetleri ve Kültürel Kodlar Rehberi (Cultural DNA)](#-dünya-medeniyetleri-ve-kültürel-kodlar-rehberi-cultural-dna)
    - [🌐 9 Büyük Küresel Medeniyet Havzası](#-9-büyük-küresel-medeniyet-havzasi)
-   - [🧬 60 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı](#-40-örnek-medeniyet-çapasi-ulusal-karakterler-ve-yaşam-adabi)
+   - [🧬 205 Dünya Ulusunun Kültürel Karakter ve Yaşam Adabı Matrisi](#-205-dünya-ulusunun-kültürel-karakter-ve-yaşam-adabi-matrisi)
    - [📖 Çevrilemeyen Ruh Kavramları Galerisi](#-çevrilemeyen-ruh-kavramlari-galerisi)
    - [🍲 Dünya Gastronomi Felsefeleri & Sofra Ritüelleri](#-dünya-gastronomi-felsefeleri--sofra-ritüelleri)
    - [🧭 Küresel Nezaket Kuralları, İletişim Kodları ve Sosyal Tabular](#-küresel-nezaket-kurallari-iletişim-kodlari-ve-sosyal-tabular)
@@ -381,8 +381,8 @@ Bu nedenle bu ansiklopedi; **kültürü ve insanı merkeze koyan ana gövdesini*
 
 ---
 
-### 🧬 60 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı
-> 💡 *Her ülkenin kendi klasöründe (`01_culture_demographics/society_history.md`) tüm kültürel kodları, ritüelleri ve tabuları detaylıca işlenmiştir.*
+### 🧬 205 Dünya Ulusunun Kültürel Karakter ve Yaşam Adabı Matrisi
+> 💡 *205 dünya ulusunun tamamı kültürel DNA matrisine dahil edilmiştir. Her ülkenin kendi klasöründe (`01_culture_demographics/society_history.md`) tüm kültürel kodları, ritüelleri ve tabuları detaylıca işlenmiştir.*
 
 | Ülke | Ulusal Karakter & Temel Ethos | Çevrilemeyen Ruh Kavramları | İletişim Tarzı | Gastronomi & Sofra Felsefesi |
 | :--- | :--- | :--- | :--- | :--- |
@@ -391,7 +391,7 @@ Bu nedenle bu ansiklopedi; **kültürü ve insanı merkeze koyan ana gövdesini*
 ---
 
 ### 📖 ÇEVRİLEMEYEN RUH KAVRAMLARI GALERİSİ
-> 📚 *50'den fazla küresel kavramın kökenbilimsel ve sosyolojik tahlili için: [`culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md`](culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md)*
+> 📚 *205 ulustan 450'den fazla kavramın kökenbilimsel ve sosyolojik tahlili için: [`culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md`](culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md)*
 
 <p align="center">
   <img src="assets/images/untranslatable_soul_concepts_wisdom.jpg" alt="Çevrilemeyen Ruh Kavramları ve Kültürel Bilgelik" width="90%">

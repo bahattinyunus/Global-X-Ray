@@ -1,35 +1,50 @@
-# 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Umman
+# 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: Umman (OMN)
 
-> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
-
----
-
-## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
-Sultan Kabus'un 50 yıllık modernleştirici mutlak iktidarı ve 2020'de vefatı, Zufar isyanı hafızası, Ummanizasyon iş gücü politikası kaynaklı genç işsizliği protestoları.
-
-Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Bu tarihsel miras, halk nezdinde devlet otoritesine yönelik algıyı belirleyen en temel psikolojik etkendir. Özellikle geçmişteki sınır revizyonları, iç savaşlar ve siyasi tasfiyeler, günümüzün siyasal rekabetinde birer meşruiyet ve mobilizasyon aracı olarak kullanılmaktadır.
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
-## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Toplam Nüfus:** Yaklaşık 4,576,298
-- **Resmi ve Konuşulan Diller:** Arapça (Resmi), İngilizce
-- **Kültürel Kırılma Eksenleri:** İbadi İslam mezhebi hoşgörüsü sayesinde mezhepsel çatışmalardan uzak durma başarısı; ancak Maskat saray elitleri ile iç bölge kabileleri arasındaki refah farkı.
-- **Bölgesel Ayrışmalar:** Başkent Maskat ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
-Toplum homojen bir yapı sergilememekte; etnik ve mezhepsel azınlıkların karar alma mekanizmalarına erişimi tarihsel olarak kısıtlı kalmaktadır. Taşra ile metropol kentler arasındaki sermaye ve eğitim eşitsizliği, siyasette popülist kutuplaşmanın zeminini beslemektedir.
+* **Medeniyet Sentezi:** Kadim Mecan Denizciliği + İbadi İslam Felsefesi (Hoşgörü ve Şura) + Frankincense (Buhur) Yolu + Hint Okyanusu ve Zengibar Bağları.
+* **Kolektif Ethos & Ulusal Karakter:** Nezaket, sessiz vakar, derin dini ve mezhepsel hoşgörü, tabiata saygı, hançer (Khanjar) onuru ve denizci cesareti.
+* **İletişim Tarzı (High / Low Context):** Yüksek Bağlamlı, İnanılmaz Kibar ve Dingin. Ummanlılar seslerini asla yükseltmez; trafikte bile korna çalmak kaba karşılanır.
 
 ---
 
-## 3. Demografik Baskılar, Genç Kuşak ve Beyin Göçü
-Genç nüfusun toplam nüfus içindeki payı yüksek olmakla birlikte, istihdam yaratma kapasitesinin zayıflığı "Gençlik Patlaması" (Youth Bulge) riskini tetiklemektedir. Nitelikli iş gücü, doktorlar, mühendisler ve araştırmacılar; ekonomik güvencesizlik, liyakatsizlik ve siyasi baskılar nedeniyle küresel merkezlere göç etmektedir. Bu durum, ülkenin beşeri sermaye havuzunu uzun vadede tüketmektedir.
+## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
+
+* **Khanjar (خنجر):** Geleneksel kuşağa takılan eğri gümüş hançer; erkekliğin, asaletin, barışın ve milli kimliğin sarsılmaz nişanesi.
+  > **
+* **Falaj (فلج):** Dağlardan köylere suyu bin yıldır yerçekimiyle adilce paylaştıran kadim sulama kanalları ve toplumun su kardeşliği (UNESCO).
+  > **
 
 ---
 
-## 4. Toplumsal Kutuplaşma Dinamikleri ve Kültür Savaşları
-Geleneksel imtiyazlı elitler ile sonradan zenginleşen yeni rejim elitleri arasındaki mücadele, kamuoyunda "kültür savaşları" kisvesi altında sunulmaktadır. Siyasal iktidarlar, ekonomik kriz ve enflasyon baskısını örtbas etmek adına dini, etnik ve milli hassasiyetleri körükleyerek toplumsal muhalefeti bölmektedir.
+## 3. Gündelik Hayat, Sosyal Ritüeller ve Yaşam Sanatı
+
+Her buluşmada sıcak taze Umman Helvası (Halwa - safran, kakule ve gül suyuyla yapılır) ile kakuleli Umman kahvesi ikramı; beyaz 'Dishdasha' ve püsküllü 'Muzyar' kokusu.
 
 ---
 
-## 5. Sivil Toplumun Durumu ve Sosyal Sermaye
-Bağımsız sendikalar, insan hakları dernekleri ve çevre inisiyatifleri; fon kısıtlamaları, keyfi denetimler ve terör suçlamalarıyla etkisizleştirilmiştir. Sosyal sermaye ve yurttaşlar arası güven endeksi düşük seyretmekte, yurttaşlar sorunlarını kurumsal yollar yerine hemşehri, tarikat ve patronaj ağları üzerinden çözmeye zorlanmaktadır.
+## 4. Gastronomi Felsefesi ve Sofra Kültürü
+
+* **Mutfak Felsefesi:** Shuwa (özel baharatlarla marine edilen kuzu etinin muz yapraklarına sarılıp yer altına açılan fırında 24-48 saat pişmesi - bayram yemeği), Meshkak (şiş et).
+
+---
+
+## 5. Görgü Kuralları ve Sosyal Tabular (Do's & Don'ts)
+
+Umman'da sokakta kavga etmek veya bağırmak yasal olarak da suçtur; camilere girerken geleneksel saygı kurallarına uyulur.
+
+---
+
+## 6. Edebiyat, Sanat ve Entelektüel Miras
+
+Maskat Kraliyet Opera Binası; Sultan Kabus Ulu Camii; Sinbad efsanesinin kökeni olan Sohar denizcileri.
+
+---
+
+## 7. Tarihsel Kırılma Noktaları, Demografi ve Sosyal Dönüşüm
+
+Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Taşra ile metropol kentler arasındaki eşitsizlikler, küresel göç dalgaları ve kuşaklar arası zihniyet dönüşümleri, ülkenin kültürel fay hatlarını sürekli yeniden üretmektedir.

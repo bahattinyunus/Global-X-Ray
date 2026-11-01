@@ -1,35 +1,50 @@
-# 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Marshall Adaları
+# 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: Marshall Adaları (MHL)
 
-> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
-
----
-
-## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
-Marshall Adaları adalarında nükleer deneme mirası, sömürge bölünmeleri ve iklim felaketleri travmatik hafızadır.
-
-Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Bu tarihsel miras, halk nezdinde devlet otoritesine yönelik algıyı belirleyen en temel psikolojik etkendir. Özellikle geçmişteki sınır revizyonları, iç savaşlar ve siyasi tasfiyeler, günümüzün siyasal rekabetinde birer meşruiyet ve mobilizasyon aracı olarak kullanılmaktadır.
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
-## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Toplam Nüfus:** Yaklaşık 41,569
-- **Resmi ve Konuşulan Diller:** Marşalca, İngilizce
-- **Kültürel Kırılma Eksenleri:** Geleneksel kabile şeflik yapıları ile modern anayasal meclis yetkileri arasındaki çelişkiler.
-- **Bölgesel Ayrışmalar:** Başkent Majuro ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
-Toplum homojen bir yapı sergilememekte; etnik ve mezhepsel azınlıkların karar alma mekanizmalarına erişimi tarihsel olarak kısıtlı kalmaktadır. Taşra ile metropol kentler arasındaki sermaye ve eğitim eşitsizliği, siyasette popülist kutuplaşmanın zeminini beslemektedir.
+* **Medeniyet Sentezi:** Mikronezya Atol Denizcileri + Kadim Dalga Çubuk Haritaları (Stick Charts) + Nükleer Denemeler Hafızası (Bikini Atolü) + Pasifik Barışı.
+* **Kolektif Ethos & Ulusal Karakter:** 'Manit' (geleneksel örf ve adetler), okyanus dalgalarını okuma dehası, anaerkil toprak mirası, aile dayanışması ve nükleer mağduriyete karşı barış bilinci.
+* **İletişim Tarzı (High / Low Context):** Yüksek Bağlamlı, Nazik ve İnce. Göz kırpmak veya baş hafifçe yukarı kaldırmak 'Evet' ve karşılama işaretidir.
 
 ---
 
-## 3. Demografik Baskılar, Genç Kuşak ve Beyin Göçü
-Genç nüfusun toplam nüfus içindeki payı yüksek olmakla birlikte, istihdam yaratma kapasitesinin zayıflığı "Gençlik Patlaması" (Youth Bulge) riskini tetiklemektedir. Nitelikli iş gücü, doktorlar, mühendisler ve araştırmacılar; ekonomik güvencesizlik, liyakatsizlik ve siyasi baskılar nedeniyle küresel merkezlere göç etmektedir. Bu durum, ülkenin beşeri sermaye havuzunu uzun vadede tüketmektedir.
+## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
+
+* **Manit:** Marshall halkının bin yıllık misafirperverlik, saygı, paylaşma ve doğayla uyumlu geleneksel yaşam felsefesi.
+  > **
+* **Rebbilib / Mattang:** Palmiye çıtaları ve deniz kabuklarından yapılan, okyanus akıntılarını, dalga kırılımlarını ve ada konumlarını gösteren mucizevi geleneksel haritalar.
+  > **
 
 ---
 
-## 4. Toplumsal Kutuplaşma Dinamikleri ve Kültür Savaşları
-Geleneksel imtiyazlı elitler ile sonradan zenginleşen yeni rejim elitleri arasındaki mücadele, kamuoyunda "kültür savaşları" kisvesi altında sunulmaktadır. Siyasal iktidarlar, ekonomik kriz ve enflasyon baskısını örtbas etmek adına dini, etnik ve milli hassasiyetleri körükleyerek toplumsal muhalefeti bölmektedir.
+## 3. Gündelik Hayat, Sosyal Ritüeller ve Yaşam Sanatı
+
+Kemem (çocuğun birinci yaş doğum günü için tüm köyün günlerce kutlama yaptığı en büyük aile bayramı); kumsalda taze hindistan cevizi suyuyla sohbetler.
 
 ---
 
-## 5. Sivil Toplumun Durumu ve Sosyal Sermaye
-Bağımsız sendikalar, insan hakları dernekleri ve çevre inisiyatifleri; fon kısıtlamaları, keyfi denetimler ve terör suçlamalarıyla etkisizleştirilmiştir. Sosyal sermaye ve yurttaşlar arası güven endeksi düşük seyretmekte, yurttaşlar sorunlarını kurumsal yollar yerine hemşehri, tarikat ve patronaj ağları üzerinden çözmeye zorlanmaktadır.
+## 4. Gastronomi Felsefesi ve Sofra Kültürü
+
+* **Mutfak Felsefesi:** Barramundi balığı, taze ekmekağacı (Kwajleen), Pandanus meyvesi macunu (Jaankun), hindistan cevizli pirinç ve taro.
+
+---
+
+## 5. Görgü Kuralları ve Sosyal Tabular (Do's & Don'ts)
+
+Kadınların mülkiyet ve toprak mirasındaki kutsal yerine saygısızlık edilmez; mezarlıklara basılmaz ve gürültü yapılmaz.
+
+---
+
+## 6. Edebiyat, Sanat ve Entelektüel Miras
+
+Jaki-ed ince dokunmuş pandanus hasırları; Kathy Jetñil-Kijiner'in iklim adaleti şiirleri; geleneksel oyma kano (Wā) zanaatı.
+
+---
+
+## 7. Tarihsel Kırılma Noktaları, Demografi ve Sosyal Dönüşüm
+
+Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Taşra ile metropol kentler arasındaki eşitsizlikler, küresel göç dalgaları ve kuşaklar arası zihniyet dönüşümleri, ülkenin kültürel fay hatlarını sürekli yeniden üretmektedir.

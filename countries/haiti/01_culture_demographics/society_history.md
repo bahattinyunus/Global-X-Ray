@@ -1,35 +1,50 @@
-# 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Haiti
+# 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: Haiti (HTI)
 
-> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
-
----
-
-## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
-Haiti modern tarihinde sömürge mirası, askeri müdahaleler ve gelir dağılımı eşitsizliği ana gerilim hatlarıdır.
-
-Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Bu tarihsel miras, halk nezdinde devlet otoritesine yönelik algıyı belirleyen en temel psikolojik etkendir. Özellikle geçmişteki sınır revizyonları, iç savaşlar ve siyasi tasfiyeler, günümüzün siyasal rekabetinde birer meşruiyet ve mobilizasyon aracı olarak kullanılmaktadır.
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
-## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Toplam Nüfus:** Yaklaşık 11,724,763
-- **Resmi ve Konuşulan Diller:** Fransızca, Haiti Kreolü
-- **Kültürel Kırılma Eksenleri:** Yerli hakları, toprak mülkiyeti kavgaları ve metropol-kırsal kutuplaşması.
-- **Bölgesel Ayrışmalar:** Başkent Port-au-Prince ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
-Toplum homojen bir yapı sergilememekte; etnik ve mezhepsel azınlıkların karar alma mekanizmalarına erişimi tarihsel olarak kısıtlı kalmaktadır. Taşra ile metropol kentler arasındaki sermaye ve eğitim eşitsizliği, siyasette popülist kutuplaşmanın zeminini beslemektedir.
+* **Medeniyet Sentezi:** Dünyanın İlk Başarılı Köle Devrimi (1804) + Batı Afrika Vodou Maneviyatı + Fransız Kolonyal Karşıtı Direniş + Taino Mirası.
+* **Kolektif Ethos & Ulusal Karakter:** 'L'Union Fait La Force' (Birlikten Kuvvet Doğar), boyun eğmez özgürlük aşkı, acılar karşısında büyüleyici sanatsal yaratıcılık ve ata ruhlarına vefa.
+* **İletişim Tarzı (High / Low Context):** Yüksek Bağlamlı, Şiirsel, Tutkulu ve Mecazi. Haiti Kreolü (Kreyòl) atasözleriyle örülüdür ('Dèyè mòn, gen mòn' - Dağların ardında yine dağlar var).
 
 ---
 
-## 3. Demografik Baskılar, Genç Kuşak ve Beyin Göçü
-Genç nüfusun toplam nüfus içindeki payı yüksek olmakla birlikte, istihdam yaratma kapasitesinin zayıflığı "Gençlik Patlaması" (Youth Bulge) riskini tetiklemektedir. Nitelikli iş gücü, doktorlar, mühendisler ve araştırmacılar; ekonomik güvencesizlik, liyakatsizlik ve siyasi baskılar nedeniyle küresel merkezlere göç etmektedir. Bu durum, ülkenin beşeri sermaye havuzunu uzun vadede tüketmektedir.
+## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
+
+* **Soup Joumou:** Kölelik döneminde siyahilerin içmesi yasak olan, 1 Ocak 1804 bağımsızlık günü tüm halkın içtiği UNESCO tescilli kutsal özgürlük çorbası.
+  > **
+* **Konbit:** Köyde tarlayı sürmek veya ev inşa etmek için şarkılar ve davullar eşliğinde toplanan karşılıksız imece birliği.
+  > **
 
 ---
 
-## 4. Toplumsal Kutuplaşma Dinamikleri ve Kültür Savaşları
-Geleneksel imtiyazlı elitler ile sonradan zenginleşen yeni rejim elitleri arasındaki mücadele, kamuoyunda "kültür savaşları" kisvesi altında sunulmaktadır. Siyasal iktidarlar, ekonomik kriz ve enflasyon baskısını örtbas etmek adına dini, etnik ve milli hassasiyetleri körükleyerek toplumsal muhalefeti bölmektedir.
+## 3. Gündelik Hayat, Sosyal Ritüeller ve Yaşam Sanatı
+
+1 Ocak'ta her evde tencerelerce Soup Joumou kaynatılıp komşularla paylaşılması; Rara sokak müzik alayları; demir dövme sanat atölyeleri (Noailles).
 
 ---
 
-## 5. Sivil Toplumun Durumu ve Sosyal Sermaye
-Bağımsız sendikalar, insan hakları dernekleri ve çevre inisiyatifleri; fon kısıtlamaları, keyfi denetimler ve terör suçlamalarıyla etkisizleştirilmiştir. Sosyal sermaye ve yurttaşlar arası güven endeksi düşük seyretmekte, yurttaşlar sorunlarını kurumsal yollar yerine hemşehri, tarikat ve patronaj ağları üzerinden çözmeye zorlanmaktadır.
+## 4. Gastronomi Felsefesi ve Sofra Kültürü
+
+* **Mutfak Felsefesi:** Soup Joumou (balkabağı, et, muz ve sebzeli bağımsızlık çorbası), Griot (marine edilip kızartılmış çıtır domuz eti), Diri ak Djon Djon (siyah mantarlı kokulu pirinç) ve Piklis turşusu.
+
+---
+
+## 5. Görgü Kuralları ve Sosyal Tabular (Do's & Don'ts)
+
+Haiti'nin bağımsızlık mücadelesini ve tarihini küçümsemek; Vodou inancını Hollywood klişeleriyle şeytanlaştırmak büyük saygısızlıktır.
+
+---
+
+## 6. Edebiyat, Sanat ve Entelektüel Miras
+
+Dünyaca ünlü Haiti Naif Resim Ekolü (Hector Hyppolite); Citadelle Laferrière dağ kalesi; şair Jacques Roumain.
+
+---
+
+## 7. Tarihsel Kırılma Noktaları, Demografi ve Sosyal Dönüşüm
+
+Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Taşra ile metropol kentler arasındaki eşitsizlikler, küresel göç dalgaları ve kuşaklar arası zihniyet dönüşümleri, ülkenin kültürel fay hatlarını sürekli yeniden üretmektedir.

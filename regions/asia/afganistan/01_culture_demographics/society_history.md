@@ -1,35 +1,50 @@
-# 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Afganistan
+# 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: Afganistan (AFG)
 
-> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
-
----
-
-## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
-Afganistan tarihinde sömürge mirası, askeri darbeler ve etnik gerilimler belirleyicidir.
-
-Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Bu tarihsel miras, halk nezdinde devlet otoritesine yönelik algıyı belirleyen en temel psikolojik etkendir. Özellikle geçmişteki sınır revizyonları, iç savaşlar ve siyasi tasfiyeler, günümüzün siyasal rekabetinde birer meşruiyet ve mobilizasyon aracı olarak kullanılmaktadır.
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
-## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Toplam Nüfus:** Yaklaşık 41,128,771
-- **Resmi ve Konuşulan Diller:** Peştuca, Darice
-- **Kültürel Kırılma Eksenleri:** Hızlı sanayileşme ile geleneksel toplumsal hiyerarşi arasındaki çelişkiler.
-- **Bölgesel Ayrışmalar:** Başkent Kabil ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
-Toplum homojen bir yapı sergilememekte; etnik ve mezhepsel azınlıkların karar alma mekanizmalarına erişimi tarihsel olarak kısıtlı kalmaktadır. Taşra ile metropol kentler arasındaki sermaye ve eğitim eşitsizliği, siyasette popülist kutuplaşmanın zeminini beslemektedir.
+* **Medeniyet Sentezi:** İpek Yolu Antik Kavşağı + Hint-Avrupa ve Pers Edebi Havzası + Peştun Kabile Töresi (Pashtunwali) + İslam Tasavvufu (Mevlana'nın Doğum Yeri Belh).
+* **Kolektif Ethos & Ulusal Karakter:** 'Pashtunwali' onur kodu: 'Melmastia' (hayatı pahasına misafirperverlik), 'Badal' (adalet/intikam), 'Nanawatai' (af ve sığınma hakkı), boyun eğmez hürriyet aşkı.
+* **İletişim Tarzı (High / Low Context):** Yüksek Bağlamlı, Hitabet Dolu ve Gururlu. Aksakallıların (Cırga) sözü kanun hükmündedir; misafire sonsuz iltifat edilir.
 
 ---
 
-## 3. Demografik Baskılar, Genç Kuşak ve Beyin Göçü
-Genç nüfusun toplam nüfus içindeki payı yüksek olmakla birlikte, istihdam yaratma kapasitesinin zayıflığı "Gençlik Patlaması" (Youth Bulge) riskini tetiklemektedir. Nitelikli iş gücü, doktorlar, mühendisler ve araştırmacılar; ekonomik güvencesizlik, liyakatsizlik ve siyasi baskılar nedeniyle küresel merkezlere göç etmektedir. Bu durum, ülkenin beşeri sermaye havuzunu uzun vadede tüketmektedir.
+## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
+
+* **Melmastia (مېلمستيا):** Kapıya gelen yabancı kim olursa olsun, dini veya ırkı sorulmadan en iyi döşek ve en iyi yemeğin sunulduğu kutsal misafirperverlik andı.
+  > **
+* **Nang (ننګ):** Ailenin, yurdun, kadının ve namusun korunması için canı hiçe sayan sarsılmaz şeref duygusu.
+  > **
 
 ---
 
-## 4. Toplumsal Kutuplaşma Dinamikleri ve Kültür Savaşları
-Geleneksel imtiyazlı elitler ile sonradan zenginleşen yeni rejim elitleri arasındaki mücadele, kamuoyunda "kültür savaşları" kisvesi altında sunulmaktadır. Siyasal iktidarlar, ekonomik kriz ve enflasyon baskısını örtbas etmek adına dini, etnik ve milli hassasiyetleri körükleyerek toplumsal muhalefeti bölmektedir.
+## 3. Gündelik Hayat, Sosyal Ritüeller ve Yaşam Sanatı
+
+Çayhanelerde yeşil çay ve kakule eşliğinde saatlerce süren sohbetler; baharda Nevruz ve Buzkaşi (at üzerinde keçi kapma sporu) turnuvaları; Attan milli halk dansı.
 
 ---
 
-## 5. Sivil Toplumun Durumu ve Sosyal Sermaye
-Bağımsız sendikalar, insan hakları dernekleri ve çevre inisiyatifleri; fon kısıtlamaları, keyfi denetimler ve terör suçlamalarıyla etkisizleştirilmiştir. Sosyal sermaye ve yurttaşlar arası güven endeksi düşük seyretmekte, yurttaşlar sorunlarını kurumsal yollar yerine hemşehri, tarikat ve patronaj ağları üzerinden çözmeye zorlanmaktadır.
+## 4. Gastronomi Felsefesi ve Sofra Kültürü
+
+* **Mutfak Felsefesi:** Kābuli Palaw (fırınlanmış kuzu eti, safran, karamelize havuç ve kuru üzümle pişen görkemli pilav), Mantu mantısı, Bolani böreği ve tandır Nan ekmeği.
+
+---
+
+## 5. Görgü Kuralları ve Sosyal Tabular (Do's & Don'ts)
+
+Misafiri korumasız bırakmak veya ikram etmeden göndermek kabilenin yüz karasıdır; ekmek kırıntısına basılmaz; büyüklerin yanında ayak uzatılmaz.
+
+---
+
+## 6. Edebiyat, Sanat ve Entelektüel Miras
+
+Mevlana Celaleddin Rumi'nin Belh kökleri; Rübab telli çalgısı tınıları; Usta nakkaş Behzad'ın minyatür ekolü.
+
+---
+
+## 7. Tarihsel Kırılma Noktaları, Demografi ve Sosyal Dönüşüm
+
+Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Taşra ile metropol kentler arasındaki eşitsizlikler, küresel göç dalgaları ve kuşaklar arası zihniyet dönüşümleri, ülkenin kültürel fay hatlarını sürekli yeniden üretmektedir.

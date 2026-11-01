@@ -1,35 +1,48 @@
-# 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Dominika
+# 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: Dominika (DMA)
 
-> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
-
----
-
-## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
-Dominika modern tarihinde sömürge mirası, askeri müdahaleler ve gelir dağılımı eşitsizliği ana gerilim hatlarıdır.
-
-Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Bu tarihsel miras, halk nezdinde devlet otoritesine yönelik algıyı belirleyen en temel psikolojik etkendir. Özellikle geçmişteki sınır revizyonları, iç savaşlar ve siyasi tasfiyeler, günümüzün siyasal rekabetinde birer meşruiyet ve mobilizasyon aracı olarak kullanılmaktadır.
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
-## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Toplam Nüfus:** Yaklaşık 72,737
-- **Resmi ve Konuşulan Diller:** İngilizce
-- **Kültürel Kırılma Eksenleri:** Yerli hakları, toprak mülkiyeti kavgaları ve metropol-kırsal kutuplaşması.
-- **Bölgesel Ayrışmalar:** Başkent Roseau ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
-Toplum homojen bir yapı sergilememekte; etnik ve mezhepsel azınlıkların karar alma mekanizmalarına erişimi tarihsel olarak kısıtlı kalmaktadır. Taşra ile metropol kentler arasındaki sermaye ve eğitim eşitsizliği, siyasette popülist kutuplaşmanın zeminini beslemektedir.
+* **Medeniyet Sentezi:** Karayiplerin 'Doğa Adası' + Son Kalinago (Karib Yerlileri) Rezervi + Fransız ve İngiliz Kreol Kökleri.
+* **Kolektif Ethos & Ulusal Karakter:** Bozulmamış doğaya sığınma, Kalinago yerli bilgeliği, bitkisel şifacılık (Bush Tea), dayanıklılık ve sakin nehir felsefesi.
+* **İletişim Tarzı (High / Low Context):** Yüksek Bağlamlı ve Sakin. İngilizce ve Fransız kökenli Kwéyòl konuşulur; sıcak ve yardımseverdir.
 
 ---
 
-## 3. Demografik Baskılar, Genç Kuşak ve Beyin Göçü
-Genç nüfusun toplam nüfus içindeki payı yüksek olmakla birlikte, istihdam yaratma kapasitesinin zayıflığı "Gençlik Patlaması" (Youth Bulge) riskini tetiklemektedir. Nitelikli iş gücü, doktorlar, mühendisler ve araştırmacılar; ekonomik güvencesizlik, liyakatsizlik ve siyasi baskılar nedeniyle küresel merkezlere göç etmektedir. Bu durum, ülkenin beşeri sermaye havuzunu uzun vadede tüketmektedir.
+## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
+
+* **Koudmen:** Bir komşunun bahçesini temizlemek veya evini tamir etmek için köylülerin şarkılarla bir araya geldiği geleneksel imece.
+  > **
 
 ---
 
-## 4. Toplumsal Kutuplaşma Dinamikleri ve Kültür Savaşları
-Geleneksel imtiyazlı elitler ile sonradan zenginleşen yeni rejim elitleri arasındaki mücadele, kamuoyunda "kültür savaşları" kisvesi altında sunulmaktadır. Siyasal iktidarlar, ekonomik kriz ve enflasyon baskısını örtbas etmek adına dini, etnik ve milli hassasiyetleri körükleyerek toplumsal muhalefeti bölmektedir.
+## 3. Gündelik Hayat, Sosyal Ritüeller ve Yaşam Sanatı
+
+Sabahları şifalı yabani otlardan 'Bush Tea' demlemek; Morne Trois Pitons milli parkındaki Boiling Lake (Kaynayan Göl) yürüyüşleri; Dünya Kreol Müzik Festivali.
 
 ---
 
-## 5. Sivil Toplumun Durumu ve Sosyal Sermaye
-Bağımsız sendikalar, insan hakları dernekleri ve çevre inisiyatifleri; fon kısıtlamaları, keyfi denetimler ve terör suçlamalarıyla etkisizleştirilmiştir. Sosyal sermaye ve yurttaşlar arası güven endeksi düşük seyretmekte, yurttaşlar sorunlarını kurumsal yollar yerine hemşehri, tarikat ve patronaj ağları üzerinden çözmeye zorlanmaktadır.
+## 4. Gastronomi Felsefesi ve Sofra Kültürü
+
+* **Mutfak Felsefesi:** Callaloo Çorbası (dasyheen yaprakları, bamya ve hindistan cevizi sütüyle pişen koyu yeşil şifalı çorba), fırında daşin kökleri, taze nehir ıstakozu ve plantain.
+
+---
+
+## 5. Görgü Kuralları ve Sosyal Tabular (Do's & Don'ts)
+
+Kalinago yerli bölgesinde saygısız davranmak veya izinsiz ritüel fotoğrafları çekmek ayıptır; nehirleri ve yağmur ormanlarını kirletmek hoş görülmez.
+
+---
+
+## 6. Edebiyat, Sanat ve Entelektüel Miras
+
+Jean Rhys'ın edebiyat mirası ('Geniş Sargasso Denizi'); Kalinago kamış sepet işçiliği; Jing Ping halk müziği.
+
+---
+
+## 7. Tarihsel Kırılma Noktaları, Demografi ve Sosyal Dönüşüm
+
+Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Taşra ile metropol kentler arasındaki eşitsizlikler, küresel göç dalgaları ve kuşaklar arası zihniyet dönüşümleri, ülkenin kültürel fay hatlarını sürekli yeniden üretmektedir.

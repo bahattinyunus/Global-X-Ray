@@ -133,7 +133,7 @@ Yemek; yalnızca biyolojik bir karın doyurma eylemi değil, bir toplumun doğay
 
 ---
 
-## 🍽️ 40 Medeniyetin Sofra ve Mutfak Felsefesi
+## 🍽️ 205 Dünya Ulusunun Sofra ve Mutfak Felsefesi
 
 | Ülke / Medeniyet | Gastronomi Felsefesi & Sofra Adabı |
 | :--- | :--- |
@@ -169,7 +169,7 @@ Farklı kültürlerde saygı ifadesi olan bir davranış, başka bir coğrafyada
 
 ---
 
-## 🌐 40 Ülkenin Sosyal Tabuları ve İletişim Kodları
+## 🌐 205 Ülkenin Sosyal Tabuları ve İletişim Kodları
 
 | Ülke | Görgü Kuralları & Sosyal Tabular (Kaçınılması Gerekenler) | İletişim Tarzı (High/Low Context) |
 | :--- | :--- | :--- |
@@ -241,9 +241,9 @@ Bu dizin, dünya uluslarının **kültürel kodlarını, çevrilemeyen ruh kavra
 
 | Dosya | Konu | Temel Kapsam & İçerik |
 | :--- | :--- | :--- |
-| 📖 [**UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md**](UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md) | Çevrilemeyen Ruh Kavramları | Türkçe *Gönül, Hüzün, İmece*, Japonca *Ikigai, Wabi-sabi*, Almanca *Gemütlichkeit*, Portekizce *Saudade*, Zuluca *Ubuntu* dahil 50+ derin kavram. |
-| 🍲 [**GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md**](GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md) | Mutfaklar & Sofra Adabı | Anadolu bereket sofrası, Japon Washoku felsefesi, Hint Ayurveda baharatları, Kore fermantasyon sanatı ve Latin Amerika Asado ritüeli. |
-| 🚫 [**WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md**](WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md) | Görgü Kuralları & Tabular | 20 ülkenin do's and don'ts listesi, ayakkabı kuralları, hediyeleşme adabı ve Yüksek Bağlam (High Context) vs Düşük Bağlam iletişimi. |
+| 📖 [**UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md**](UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md) | Çevrilemeyen Ruh Kavramları | Türkçe *Gönül, Hüzün, İmece*, Japonca *Ikigai, Wabi-sabi*, Almanca *Gemütlichkeit*, Portekizce *Saudade*, Zuluca *Ubuntu* dahil 205 ulustan 450+ derin kavram. |
+| 🍲 [**GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md**](GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md) | Mutfaklar & Sofra Adabı | 205 dünya ulusunun mutfak felsefesi: Anadolu bereketi, Japon Washoku, Hint Ayurveda, Kore fermantasyonu ve Karayip-Afrika ritüelleri. |
+| 🚫 [**WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md**](WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md) | Görgü Kuralları & Tabular | 205 ülkenin do's and don'ts listesi, ayakkabı kuralları, hediyeleşme adabı ve Yüksek Bağlam (High Context) vs Düşük Bağlam iletişimi. |
 | 🏛️ [**CIVILIZATION_REALMS_AND_PHILOSOPHIES.md**](CIVILIZATION_REALMS_AND_PHILOSOPHIES.md) | 9 Büyük Medeniyet Havzası | Anadolu-Akdeniz, Doğu Asya, Cermen-İskandinav, Anglo-Sakson, Slav-Avrasya, Latin Amerika, Orta Doğu, Güney Asya ve Afrika medeniyet felsefeleri. |
 | 📜 [**GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md**](GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md) | Mitolojiler & Kurucu Destanlar | Gılgamış, Dede Korkut, Manas, Şehnâme, Mahabharata, Ramayana, İlyada & Odysseia, Kalevala, Nibelungenlied, Popol Vuh, Sundiata ve Dreamtime dahil 14 kurucu epos. |
 | 🏛️ [**WORLD_ARCHITECTURE_AND_SACRED_SPACES.md**](WORLD_ARCHITECTURE_AND_SACRED_SPACES.md) | Mimari & Şehir Felsefesi | İslam kubbe ve külliyeleri, Doğu Asya ahşap pagodaları (Douqong), Gotik ışık teolojisi (Lux Nova), Sahra Altı çamur mabetleri ve antik agora/piazza kamusal alan felsefeleri. |

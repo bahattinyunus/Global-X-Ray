@@ -30,6 +30,7 @@ Kullanım:
   python scripts/xray_cli.py cases
   python scripts/xray_cli.py list [bolge]
   python scripts/xray_cli.py stats
+  python scripts/xray_cli.py interactive (canlı interaktif sorgu kabuğu)
 """
 
 import sys
@@ -763,79 +764,81 @@ def show_economy_groups(query=None):
         print(f"   Üyeler: {', '.join(c_names)}")
     print("=" * 70)
 
-def main():
-    if len(sys.argv) < 2:
+def dispatch_command(args):
+    if not args:
         print(__doc__)
         return
 
-    cmd = sys.argv[1].lower()
+    cmd = args[0].lower()
 
-    if cmd in ["country", "ulke", "c"] and len(sys.argv) > 2:
-        show_country(" ".join(sys.argv[2:]))
+    if cmd in ["interactive", "shell", "kabuk"]:
+        interactive_shell()
+    elif cmd in ["country", "ulke", "c"] and len(args) > 1:
+        show_country(" ".join(args[1:]))
     elif cmd in ["culture", "kultur", "medeniyet", "kod"]:
-        q = " ".join(sys.argv[2:]) if len(sys.argv) > 2 else None
+        q = " ".join(args[1:]) if len(args) > 1 else None
         show_culture(q)
-    elif cmd in ["compare-culture", "kultur-karsilas", "karsilas-kultur"] and len(sys.argv) > 3:
-        compare_culture(sys.argv[2], sys.argv[3])
+    elif cmd in ["compare-culture", "kultur-karsilas", "karsilas-kultur"] and len(args) > 2:
+        compare_culture(args[1], args[2])
     elif cmd in ["epics", "destanlar", "destan", "mitoloji"]:
-        q = " ".join(sys.argv[2:]) if len(sys.argv) > 2 else None
+        q = " ".join(args[1:]) if len(args) > 1 else None
         show_epics(q)
     elif cmd in ["architecture", "mimari", "mimar"]:
-        q = " ".join(sys.argv[2:]) if len(sys.argv) > 2 else None
+        q = " ".join(args[1:]) if len(args) > 1 else None
         show_architecture(q)
-    elif cmd in ["compare", "karsilas", "vs"] and len(sys.argv) > 3:
-        compare_countries(sys.argv[2], sys.argv[3])
-    elif cmd in ["search", "ara", "s"] and len(sys.argv) > 2:
-        search_term(" ".join(sys.argv[2:]))
+    elif cmd in ["compare", "karsilas", "vs"] and len(args) > 2:
+        compare_countries(args[1], args[2])
+    elif cmd in ["search", "ara", "s"] and len(args) > 1:
+        search_term(" ".join(args[1:]))
     elif cmd in ["economy", "ekonomik", "eko"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_economy_groups(q)
     elif cmd in ["top-shadow", "golge"]:
-        limit = int(sys.argv[2]) if len(sys.argv) > 2 else 15
+        limit = int(args[1]) if len(args) > 1 else 15
         top_shadow(limit)
     elif cmd in ["top-gdp", "ekonomi"]:
-        limit = int(sys.argv[2]) if len(sys.argv) > 2 else 15
+        limit = int(args[1]) if len(args) > 1 else 15
         top_gdp(limit)
     elif cmd in ["intel", "istihbarat"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_intel(q)
     elif cmd in ["pmc", "parali-asker"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_pmcs(q)
     elif cmd in ["chokepoints", "bogaz", "bogazlar"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_chokepoints(q)
     elif cmd in ["cases", "vaka", "dossiers"]:
         show_case_studies()
     elif cmd in ["research", "arastirma", "tez"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_research(q)
     elif cmd in ["swf", "fon", "varlik-fonu"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_swfs(q)
     elif cmd in ["darkfleet", "tanker", "golge-filo"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_darkfleet(q)
     elif cmd in ["nuclear", "nukleer"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_nuclear(q)
     elif cmd in ["armstrade", "silah", "savunma"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_armstrade(q)
-    elif cmd in ["recon", "kesif", "dossier"] and len(sys.argv) > 2:
+    elif cmd in ["recon", "kesif", "dossier"] and len(args) > 1:
         from deep_recon import run_deep_recon
-        run_deep_recon(" ".join(sys.argv[2:]))
+        run_deep_recon(" ".join(args[1:]))
     elif cmd in ["alliances", "ittifak", "pakt"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_alliances(q)
     elif cmd in ["sanctions", "yaptirim", "ambargo"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_sanctions(q)
     elif cmd in ["minerals", "maden", "hammadde"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_minerals(q)
     elif cmd in ["cables", "kablo", "sigint"]:
-        q = sys.argv[2] if len(sys.argv) > 2 else None
+        q = args[1] if len(args) > 1 else None
         show_cables(q)
     elif cmd in ["stats", "istatistik"]:
         show_stats()
@@ -844,8 +847,37 @@ def main():
         print(f"📋 Toplam {len(reg)} Ülke Kayıtlı:")
         for c in reg:
             print(f"  • {c['name']:<25} ({c['code']}) - {c['region']}")
+    elif cmd in ["help", "yardim", "?"]:
+        print(__doc__)
     else:
         show_country(cmd)
+
+def interactive_shell():
+    print("=" * 80)
+    print("🏛️  MEDENİYET ATLASI - İNTERAKTİF KOMUT SATIRI KABUĞU (SHELL)")
+    print("   Ülkeleri, kültürleri, destanları ve güç dinamiklerini canlı sorgulayın.")
+    print("   Örnekler: 'culture turkiye', 'compare-culture turkiye japonya', 'epics'")
+    print("   Çıkmak için: 'exit', 'quit' veya 'q' yazabilirsiniz.")
+    print("=" * 80)
+    while True:
+        try:
+            line = input("\n[Medeniyet-Atlasi] > ").strip()
+            if not line:
+                continue
+            if line.lower() in ["exit", "quit", "q", "cikis"]:
+                print("İyi günler!")
+                break
+            parts = line.split()
+            dispatch_command(parts)
+        except (KeyboardInterrupt, EOFError):
+            print("\nÇıkış yapıldı.")
+            break
+
+def main():
+    if len(sys.argv) < 2:
+        print(__doc__)
+        return
+    dispatch_command(sys.argv[1:])
 
 if __name__ == "__main__":
     main()

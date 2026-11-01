@@ -1,4 +1,4 @@
-name: Global X-Ray CI
+name: Medeniyet Atlası CI & Doğrulama
 
 on:
   push:
@@ -8,16 +8,26 @@ on:
 
 jobs:
   validate:
+    name: Bütünlük, Kültür & Veri Doğrulama
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Depoyu Klonla (Checkout)
+      uses: actions/checkout@v4
 
-    - name: Set up Python
+    - name: Python 3.12 Kurulumu
       uses: actions/setup-python@v5
       with:
         python-version: '3.12'
 
-    - name: Run Integrity Tests
+    - name: Bütünlük ve Standart Testlerini Çalıştır (test_integrity.py)
       run: |
-        python tests/test_integrity.py
+        python tests/test_integrity.py -v
+
+    - name: CLI Terminal Motoru Duman Testi (xray_cli.py)
+      run: |
+        python scripts/xray_cli.py stats
+        python scripts/xray_cli.py culture turkiye
+        python scripts/xray_cli.py epics
+        python scripts/xray_cli.py architecture
+        python scripts/xray_cli.py compare-culture turkiye japonya

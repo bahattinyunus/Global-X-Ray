@@ -8,6 +8,7 @@ Bu dizin, dünya uluslarının **kültürel kodlarını, çevrilemeyen ruh kavra
 
 | Dosya | Konu | Temel Kapsam & İçerik |
 | :--- | :--- | :--- |
+| 🧬 [**CULTURAL_DNA_MATRIX.md**](CULTURAL_DNA_MATRIX.md) | 205 Ülkenin Kültürel DNA Matrisi | 205 dünya ulusunun ulusal karakteri, temel ethosu, çevrilemeyen ruh kavramları, iletişim kodları ve mutfak felsefesi. |
 | 📖 [**UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md**](UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md) | Çevrilemeyen Ruh Kavramları | Türkçe *Gönül, Hüzün, İmece*, Japonca *Ikigai, Wabi-sabi*, Almanca *Gemütlichkeit*, Portekizce *Saudade*, Zuluca *Ubuntu* dahil 205 ulustan 450+ derin kavram. |
 | 🍲 [**GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md**](GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md) | Mutfaklar & Sofra Adabı | 205 dünya ulusunun mutfak felsefesi: Anadolu bereketi, Japon Washoku, Hint Ayurveda, Kore fermantasyonu ve Karayip-Afrika ritüelleri. |
 | 🚫 [**WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md**](WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md) | Görgü Kuralları & Tabular | 205 ülkenin do's and don'ts listesi, ayakkabı kuralları, hediyeleşme adabı ve Yüksek Bağlam (High Context) vs Düşük Bağlam iletişimi. |

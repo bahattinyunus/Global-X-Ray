@@ -117,10 +117,10 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
     def test_macroeconomics_json_validity(self):
         """Kritik ülkelerin macroeconomics.json dosyalarının doğruluğu."""
         sample_countries = [
-            "regions/middle_east/turkey",
-            "regions/americas/united_states",
-            "regions/asia/china",
-            "regions/europe/russia"
+            "regions/middle_east/turkiye",
+            "regions/americas/amerika_birlesik_devletleri",
+            "regions/asia/cin",
+            "regions/europe/rusya"
         ]
         for c_rel in sample_countries:
             m_path = BASE_DIR / c_rel / "03_official_economy" / "macroeconomics.json"

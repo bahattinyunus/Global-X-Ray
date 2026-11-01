@@ -9,7 +9,8 @@ featuring:
 3. 4-Layer Power & Civilization Architecture.
 4. Strategic Geopolitics & Intelligence Routing Matrix (/geopolitics_and_intelligence/*.md).
 5. Regional dossiers (/regions), 12 forensic case studies (/dossiers), 12 research papers (/research).
-6. 205-country atlas index, OSINT methodology, CLI usage, and test verification.
+6. 205-country complete atlas index with direct links to all sub-contents (Culture, Shadow Power, State, Economy).
+7. OSINT methodology, CLI usage, and test verification.
 """
 
 import os
@@ -32,39 +33,6 @@ with open(BASE_DIR / "global_datasets" / "countries_registry.json", encoding="ut
 with open(BASE_DIR / "global_datasets" / "cultural_codes_and_civilizations_registry.json", encoding="utf-8") as f:
     culture_data = json.load(f)
 
-with open(BASE_DIR / "global_datasets" / "intelligence_agencies_registry.json", encoding="utf-8") as f:
-    intel_registry = json.load(f)
-
-with open(BASE_DIR / "global_datasets" / "chokepoints_registry.json", encoding="utf-8") as f:
-    chokepoints_data = json.load(f)
-
-with open(BASE_DIR / "global_datasets" / "pmc_mercenary_groups.json", encoding="utf-8") as f:
-    pmc_data = json.load(f)
-
-with open(BASE_DIR / "global_datasets" / "defense_alliances_and_treaties.json", encoding="utf-8") as f:
-    alliances_data = json.load(f)
-
-with open(BASE_DIR / "global_datasets" / "sanctions_and_embargoes_registry.json", encoding="utf-8") as f:
-    sanctions_data = json.load(f)
-
-with open(BASE_DIR / "global_datasets" / "critical_raw_materials_supply_chain.json", encoding="utf-8") as f:
-    minerals_data = json.load(f)
-
-with open(BASE_DIR / "global_datasets" / "subsea_cables_and_sigint_stations.json", encoding="utf-8") as f:
-    cables_data = json.load(f)
-
-with open(BASE_DIR / "global_datasets" / "sovereign_wealth_funds_registry.json", encoding="utf-8") as f:
-    swf_data = json.load(f)
-
-with open(BASE_DIR / "global_datasets" / "shadow_fleet_maritime_registry.json", encoding="utf-8") as f:
-    shadow_fleet_data = json.load(f)
-
-with open(BASE_DIR / "global_datasets" / "nuclear_arsenals_and_triad_registry.json", encoding="utf-8") as f:
-    nuclear_data = json.load(f)
-
-with open(BASE_DIR / "global_datasets" / "global_arms_trade_and_contractors.json", encoding="utf-8") as f:
-    armstrade_data = json.load(f)
-
 # Türkçe isme göre alfabetik sırala
 countries_sorted = sorted(countries, key=lambda x: x["name"])
 
@@ -80,20 +48,53 @@ economy_badges = {
     "08_kucuk_ada_ve_turizm_ekonomileri": "🏝️ Ada & Turizm"
 }
 
-# 205 Ülkelik Atlas Tablosu
+# Bölge İsimleri ve İkonları
+region_meta = {
+    "middle_east": ("🕌 Orta Doğu", "regions/middle_east/README.md"),
+    "europe": ("🏰 Avrupa", "regions/europe/README.md"),
+    "asia": ("⛩️ Asya & Hint-Pasifik", "regions/asia/README.md"),
+    "americas": ("🌎 Amerika Kıtası", "regions/americas/README.md"),
+    "africa": ("🌍 Afrika", "regions/africa/README.md"),
+    "oceania": ("🏝️ Okyanusya", "regions/oceania/README.md")
+}
+
+# 1. Bölgesel Hızlı Erişim Bölümü
+regional_sections = []
+for reg_key, (reg_title, reg_link) in region_meta.items():
+    reg_countries = [c for c in countries_sorted if c.get("region") == reg_key]
+    country_badges = [
+        f"[`{c['name']}`](countries/{c['slug']}/README.md)"
+        for c in reg_countries
+    ]
+    badge_str = " • ".join(country_badges)
+    regional_sections.append(
+        f"#### {reg_title} ({len(reg_countries)} Ülke) — [*Bölge Raporu*]({reg_link})\n{badge_str}\n"
+    )
+
+regional_nav_md = "\n".join(regional_sections)
+
+# 2. 205 Ülkelik Alt İçerik Yönlendirme Matrisi (Master Table)
 atlas_rows = []
 for c in countries_sorted:
+    c_slug = c["slug"]
     eco_id = c.get("economy_group_id", "06_orta_gelir_ve_ureticiler")
     eco_badge = economy_badges.get(eco_id, "🌐 Karma Model")
-    eco_path = c.get("economy_path", f"06_orta_gelir_ve_ureticiler/{c['slug']}")
-    link = f"[{c['name']} Dosyası]({eco_path}/README.md)"
-    sh_str = f"%{c.get('shadow_economy_pct', 25.0)}"
-    gdp_str = f"${c.get('gdp_usd_b', 0):,.1f}B"
-    atlas_rows.append(f"| **{c['name']}** | {eco_badge} | `{c['code']}` | {c['capital']} | {link} | {gdp_str} | {sh_str} |")
+    eco_path = c.get("economy_path", f"countries/{c_slug}")
+    
+    country_link = f"[{c['name']}](countries/{c_slug}/README.md)"
+    eco_badge_link = f"[{eco_badge}]({eco_path}/README.md)"
+    culture_link = f"[🎭 Kültür & Tarih](countries/{c_slug}/01_culture_demographics/society_history.md)"
+    shadow_link = f"[🕵️ Gölge Güç](countries/{c_slug}/04_shadow_power_osint/real_power_dynamics.md)"
+    state_link = f"[🏛️ Anayasa](countries/{c_slug}/02_official_state/constitution_gov.md)"
+    econ_link = f"[📈 Makroekonomi](countries/{c_slug}/03_official_economy/macroeconomics.json)"
+    
+    atlas_rows.append(
+        f"| **{country_link}** | `{c['code']}` | {c['capital']} | {eco_badge_link} | {culture_link} | {shadow_link} | {state_link} | {econ_link} |"
+    )
 
 atlas_table_md = "\n".join(atlas_rows)
 
-# 1. Medeniyet Havzaları Tablosu
+# 3. Medeniyet Havzaları Tablosu
 realms_rows = []
 for r in culture_data.get("civilization_realms", []):
     realms_rows.append(
@@ -101,7 +102,7 @@ for r in culture_data.get("civilization_realms", []):
     )
 realms_table_md = "\n".join(realms_rows)
 
-# 2. Kültürel Kodlar ve Ulusal DNA Tablosu (20 Ülke)
+# 4. Kültürel Kodlar ve Ulusal DNA Tablosu (20 Ülke)
 culture_rows = []
 for c in culture_data.get("countries_cultural_dna", []):
     words_list = [f"**{w['word']}** (*{w['meaning']}*)" for w in c.get("untranslatable_soul_concepts", [])[:2]]
@@ -122,7 +123,7 @@ for c in culture_data.get("countries_cultural_dna", []):
     )
 culture_table_md = "\n".join(culture_rows)
 
-# 3. İkonik Çevrilemeyen Ruh Kavramları Galerisi
+# 5. İkonik Çevrilemeyen Ruh Kavramları Galerisi
 iconic_concepts = [
     {
         "word": "Gönül",
@@ -205,7 +206,7 @@ for c in iconic_concepts:
 
 untranslatable_gallery_md = "\n\n".join(concept_cards)
 
-# 4. Mutfak Felsefeleri & Sofra Adabı Özeti
+# 6. Mutfak Felsefeleri & Sofra Adabı Özeti
 gastronomy_highlights = """| Mutfak Kültürü | Temel Felsefe | Kutsal Sofra Ritüeli & Adabı | Ekmek / Karbonhidrat Kodu |
 | :--- | :--- | :--- | :--- |
 | 🇹🇷 **Türk & Anadolu** | Bereket, misafirperverlik ve Tanrı misafiri hakkı; nimete şükür. | Sofradan misafir doymadan kalkılmaz; ekmek yere düşerse öpülüp alına konur; çay ikramı sohbetin mührüdür. | Somun, Pide, Lavaş: Yeryüzünün bereketi |
@@ -216,7 +217,7 @@ gastronomy_highlights = """| Mutfak Kültürü | Temel Felsefe | Kutsal Sofra Ri
 | 🇮🇳 **Hint (Ayurvedik Denge)** | *Sattvik*, *Rajasik*, *Tamasik* enerji dengesi; yemek prana (yaşam gücü) taşır. | Yemek sağ el ile yenir (sol el temiz kabul edilmez); tabaktaki tüm lezzetler parmak uçlarıyla hissedilerek vücuda alınır (*Thali* geleneği). | Roti, Naan, Chapati: Ateşin kutsal bereketi |
 | 🇲🇽 **Meksika (Mısır & Ata Ruhu)** | Mısır insanın özüdür (Maya Popol Vuh efsanesi); yemek atalarla kurulan canlı köprüdür. | Ölüler Günü'nde (*Día de los Muertos*) mezarlar ziyafet sofrasına çevrilir; yemek paylaşılmadan yenmez; sokak taquería'sı eşitlik alanıdır. | Tortilla: Bin yıllık kutsal mısır döngüsü |"""
 
-# 5. Nezaket Kuralları ve İletişim Tarzları Özeti
+# 7. Nezaket Kuralları ve İletişim Tarzları Özeti
 etiquette_highlights = """| Kültürel Parametre | Yüksek Bağlamlı Kültürler (High-Context)<br/>*(Japonya, Çin, Türkiye, Arap Dünyası, Latin Amerika)* | Düşük Bağlamlı Kültürler (Low-Context)<br/>*(Almanya, İsviçre, ABD, İskandinavya, Hollanda)* |
 | :--- | :--- | :--- |
 | **İletişim Üslubu** | İmalı, zarif, satır araları yüklü, söylenmeyenler söylenenlerden daha mühimdir (*Haragei*). | Net, dolaysız, şeffaf, kelimeler lafzi anlamıyla anlaşılır; imaya yer yoktur. |
@@ -225,7 +226,7 @@ etiquette_highlights = """| Kültürel Parametre | Yüksek Bağlamlı Kültürle
 | **Sosyal Mesafe (Proxemics)** | Yakın temas, sarılma, öpüşme ve samimi fiziksel temas normdur; mesafe sıcaklığı gösterir. | Geniş kişisel alan (1.5m); fiziksel temas profesyonel veya kamusal alanda hoş karşılanmaz. |
 | **Kartvizit / Selamlaşma** | Kartvizit iki elle saygıyla tutulur ve incelenir (*Meishi*); selamlaşma statüye göre derinleşir. | Hızlıca cebe atılabilir; sıkı ve kuru bir el sıkışma kafidir. |"""
 
-# 6. Jeopolitik ve İstihbarat Yönlendirme Matrisi (11 Özel Dosya)
+# 8. Jeopolitik ve İstihbarat Yönlendirme Matrisi (11 Özel Dosya)
 intel_matrix_rows = [
     (
         "☢️ **Nükleer Cephanelikler & Triad**",
@@ -322,18 +323,20 @@ master_readme_content = f"""# 🏛️ MEDENİYET ATLASI
    - [🍲 Dünya Gastronomi Felsefeleri & Sofra Ritüelleri](#-dünya-gastronomi-felsefeleri--sofra-ritüelleri)
    - [🧭 Küresel Nezaket Kuralları, İletişim Kodları ve Sosyal Tabular](#-küresel-nezaket-kurallari-iletişim-kodlari-ve-sosyal-tabular)
    - [📚 Medeniyet & Kültür Kütüphanesi Arşivi (/culture)](#-medeniyet--kültür-kütüphanesi-arşivi-culture)
-3. [📊 Ekonomik Modellere Göre 8 Küresel Güç Bloğu (/01_... - /08_...)](#-ekonomik-modellere-göre-8-küresel-güç-bloğu-01----08_)
-4. [🏛️ Metodoloji: 4 Katmanlı Ülke ve Güç Mimarisi](#️-metodoloji-4-katmanli-ülke-ve-güç-mimarisi)
-5. [🛡️ Doğrulama Standardı: NATO / Admiralty Kodu (B2+)](#️-doğrulama-standardi-nato--admiralty-kodu-b2)
-6. [🌐 Gerçekçi Güç, Savunma ve İstihbarat Doktrini (/geopolitics_and_intelligence)](#-gerçekçi-güç-savunma-ve-istihbarat-doktrini-geopolitics_and_intelligence)
+3. [🗺️ 205 ÜLKELİK KÜRESEL ATLAS: TÜM DÜNYA ULUSLARI VE ALT İÇERİK REHBERİ](#️-205-ülkelik-küresel-atlas-tüm-dünya-uluslari-ve-alt-i̇çerik-rehberi)
+   - [📍 Bölgesel Fihrist ve Hızlı Atlama](#-bölgesel-fihrist-ve-hizli-atlama)
+   - [📑 205 Ülkelik Master Alt İçerik Navigasyon Tablosu](#-205-ülkelik-master-alt-i̇çerik-navigasyon-tablosu)
+4. [📊 Ekonomik Modellere Göre 8 Küresel Güç Bloğu (/01_... - /08_...)](#-ekonomik-modellere-göre-8-küresel-güç-bloğu-01----08_)
+5. [🏛️ Metodoloji: 4 Katmanlı Ülke ve Güç Mimarisi](#️-metodoloji-4-katmanli-ülke-ve-güç-mimarisi)
+6. [🛡️ Doğrulama Standardı: NATO / Admiralty Kodu (B2+)](#️-doğrulama-standardi-nato--admiralty-kodu-b2)
+7. [🌐 Gerçekçi Güç, Savunma ve İstihbarat Doktrini (/geopolitics_and_intelligence)](#-gerçekçi-güç-savunma-ve-istihbarat-doktrini-geopolitics_and_intelligence)
    - [🛰️ Küresel İstihbarat ve Stratejik Dosyalar Matrisi (11 Özel Rapor)](#️-küresel-istihbarat-ve-stratejik-dosyalar-matrisi-11-özel-rapor)
    - [💸 Kleptokrasi & Offshore Sermaye Kaçırma Döngüsü](#-kleptokrasi--offshore-sermaye-kaçirma-döngüsü)
    - [🧠 Bilişsel Savaş & Siber İstihbarat Matrisi (5GW)](#-bilişsel-savaş--siber-istihbarat-matrisi-5gw)
    - [🚢 Küresel Deniz Darboğazları & Jeopolitik Kilit Noktaları](#-küresel-deniz-darboğazlari--jeopolitik-kilit-noktalari)
-7. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
-8. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
-9. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
-10. [🗺️ 205 Ülkelik Küresel Atlas İndeksi (Ekonomik ve Kültürel Modelleriyle)](#️-205-ülkelik-küresel-atlas-indeksi-ekonomik-ve-kültürel-modelleriyle)
+8. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
+9. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
+10. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
 11. [🔬 Metodoloji ve OSINT Araştırma Kılavuzları (/methodology)](#-metodoloji-ve-osint-araştirma-kilavuzlari-methodology)
 12. [🛠️ CLI Terminal Aracı ile Kullanım (xray_cli.py)](#️-cli-terminal-araci-ile-kullanim-xray_clipy)
 13. [🧪 Bütünlük ve Veri Doğrulama Testleri](#-bütünlük-ve-veri-doğrulama-testleri)
@@ -414,6 +417,32 @@ Kültürel zenginliğin derinlemesine tahlil edildiği özel araştırma dosyala
 * 🍲 [`culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md`](culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md): Sofra adabı, kutsal ekmek kültleri, çay/kahve seremonileri ve paylaşma ahlakı.
 * 🧭 [`culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md`](culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md): Vücut dili, jestler, hediyeleşme adabı, sessizlik kültürü ve ölümcül sosyal tabular.
 * 📚 [`culture/README.md`](culture/README.md): Kültür araştırmaları merkezi indeksi ve kaynakçası.
+
+---
+
+## 🗺️ 205 ÜLKELİK KÜRESEL ATLAS: TÜM DÜNYA ULUSLARI VE ALT İÇERİK REHBERİ
+
+Bu bölümde dünyadaki **205 egemen ve jeopolitik entite** alfabetik ve bölgesel olarak listelenmiştir. Her bir satırdaki bağlantılar, o ülkenin doğrudan ilgili **alt içerik dosyalarına** (Medeniyet/Kültür, Gölge Güç/OSINT, Anayasal Düzen ve Makroekonomi) tek tıkla ulaşmanızı sağlar:
+
+### 📍 Bölgesel Fihrist ve Hızlı Atlama
+
+{regional_nav_md}
+
+---
+
+### 📑 205 Ülkelik Master Alt İçerik Navigasyon Tablosu
+
+Aşağıdaki interaktif matriste yer alan her bağlantı doğrudan ilgili dosyanın derinliğine yönlendirir:
+* **Ülke Adı:** Ülkenin ana istihbarat ve kültür özet raporunu açar (`countries/<ülke>/README.md`).
+* **Ekonomik Model:** Ülkenin küresel işbölümündeki ekonomik bloğunu açar (`<blok>/<ülke>/README.md`).
+* **🎭 Kültür & Tarih:** Kültürel kodları, çevrilemeyen ruh kavramlarını ve yaşam tarzını açar (`01_culture_demographics/society_history.md`).
+* **🕵️ Gölge Güç:** Oligark ağlarını, derin klikleri ve kleptokrasi analizini açar (`04_shadow_power_osint/real_power_dynamics.md`).
+* **🏛️ Anayasa:** Resmi rejim, parlamento ve yargı yapısını açar (`02_official_state/constitution_gov.md`).
+* **📈 Makroekonomi:** GSYİH, dış ticaret ve kayıt dışı ekonomi verilerini açar (`03_official_economy/macroeconomics.json`).
+
+| Ülke & Ana Dosya | ISO | Başkent | Ekonomik Model | 🎭 Kültür, Medeniyet & Yaşam | 🕵️ Gölge Güç & OSINT | 🏛️ Resmi Devlet | 📈 Makroekonomi |
+| :--- | :---: | :--- | :--- | :--- | :--- | :--- | :--- |
+{atlas_table_md}
 
 ---
 
@@ -602,16 +631,6 @@ Projenin entelektüel ve metodolojik omurgasını oluşturan derin araştırma t
 
 ---
 
-## 🗺️ 205 ÜLKELİK KÜRESEL ATLAS İNDEKSİ (EKONOMİK VE KÜLTÜREL MODELLERİYLE)
-
-Aşağıdaki tabloda projedeki tüm bağımsız ülkeler listelenmiştir. Her bağlantı doğrudan kök dizindeki ilgili **ekonomik blok klasörü** altındaki detaylı profile yönlendirir:
-
-| Ülke | Ekonomik Model | ISO | Başkent | Rapor Bağlantısı | GSYİH (USD) | Kayıt Dışı (%) |
-| :--- | :--- | :---: | :--- | :--- | :---: | :---: |
-{atlas_table_md}
-
----
-
 ## 🔬 METODOLOJİ VE OSINT ARAŞTIRMA KILAVUZLARI (/methodology)
 
 Araştırmacılar, antropologlar, gazeteciler ve analistler için hazırlanan teknik kılavuzlar:
@@ -627,17 +646,20 @@ Araştırmacılar, antropologlar, gazeteciler ve analistler için hazırlanan te
 Tüm repoyu komut satırından hızlıca sorgulamak, kültürel kodları incelemek ve istihbarat analizi yapmak için `scripts/xray_cli.py` geliştirilmiştir:
 
 ```bash
-# Bir ülkenin 4 katmanlı tam kültür ve güç profilini terminalde görüntüle
-python scripts/xray_cli.py country turkey
+# Bir ülkenin 4 katmanlı tam kültür ve güç profilini terminalde görüntüle (Türkçe isim/slug veya ISO kodu)
+python scripts/xray_cli.py country turkiye
+python scripts/xray_cli.py country almanya
+python scripts/xray_cli.py country rusya
 
 # Bir ülkenin kültürel kodlarını, çevrilemeyen kavramlarını ve yaşam tarzını incele
-python scripts/xray_cli.py culture turkey
+python scripts/xray_cli.py culture turkiye
+python scripts/xray_cli.py culture japonya
 
 # Küresel 9 büyük medeniyet havzasını listele
 python scripts/xray_cli.py culture
 
 # İki ülkeyi jeopolitik, kültürel ve makroekonomik olarak karşılaştır
-python scripts/xray_cli.py compare turkey japan
+python scripts/xray_cli.py compare turkiye japonya
 
 # Ekonomik güç bloğuna göre ülkeleri filtrele ve analiz et
 python scripts/xray_cli.py economy 01_ileri_sanayi_g7
@@ -676,7 +698,7 @@ python scripts/xray_cli.py nuclear rus
 python scripts/xray_cli.py armstrade lockheed
 
 # Otomatik çok katmanlı derin keşif raporu üret ve dışa aktar
-python scripts/deep_recon.py turkey --export
+python scripts/deep_recon.py turkiye --export
 
 # 12 derin adli vaka analizini listele
 python scripts/xray_cli.py cases

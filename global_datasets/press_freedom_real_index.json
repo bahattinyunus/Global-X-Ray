@@ -1,5 +1,5 @@
 {
-  "turkey": {
+  "turkiye": {
     "country_name": "Türkiye",
     "iso_code": "TUR",
     "region": "middle_east",
@@ -35,7 +35,7 @@
       "Bant Daraltma"
     ]
   },
-  "saudi_arabia": {
+  "suudi_arabistan": {
     "country_name": "Suudi Arabistan",
     "iso_code": "SAU",
     "region": "middle_east",
@@ -53,7 +53,7 @@
       "Bant Daraltma"
     ]
   },
-  "israel": {
+  "israil": {
     "country_name": "İsrail",
     "iso_code": "ISR",
     "region": "middle_east",
@@ -69,7 +69,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "united_arab_emirates": {
+  "birlesik_arap_emirlikleri": {
     "country_name": "Birleşik Arap Emirlikleri",
     "iso_code": "ARE",
     "region": "middle_east",
@@ -87,7 +87,7 @@
       "Bant Daraltma"
     ]
   },
-  "iraq": {
+  "irak": {
     "country_name": "Irak",
     "iso_code": "IRQ",
     "region": "middle_east",
@@ -105,7 +105,7 @@
       "Bant Daraltma"
     ]
   },
-  "syria": {
+  "suriye": {
     "country_name": "Suriye",
     "iso_code": "SYR",
     "region": "middle_east",
@@ -123,7 +123,7 @@
       "Bant Daraltma"
     ]
   },
-  "qatar": {
+  "katar": {
     "country_name": "Katar",
     "iso_code": "QAT",
     "region": "middle_east",
@@ -139,7 +139,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "lebanon": {
+  "lubnan": {
     "country_name": "Lübnan",
     "iso_code": "LBN",
     "region": "middle_east",
@@ -157,7 +157,7 @@
       "Bant Daraltma"
     ]
   },
-  "jordan": {
+  "urdun": {
     "country_name": "Ürdün",
     "iso_code": "JOR",
     "region": "middle_east",
@@ -175,7 +175,7 @@
       "Bant Daraltma"
     ]
   },
-  "kuwait": {
+  "kuveyt": {
     "country_name": "Kuveyt",
     "iso_code": "KWT",
     "region": "middle_east",
@@ -193,7 +193,7 @@
       "Bant Daraltma"
     ]
   },
-  "oman": {
+  "umman": {
     "country_name": "Umman",
     "iso_code": "OMN",
     "region": "middle_east",
@@ -211,7 +211,7 @@
       "Bant Daraltma"
     ]
   },
-  "bahrain": {
+  "bahreyn": {
     "country_name": "Bahreyn",
     "iso_code": "BHR",
     "region": "middle_east",
@@ -247,7 +247,7 @@
       "Bant Daraltma"
     ]
   },
-  "palestine": {
+  "filistin": {
     "country_name": "Filistin",
     "iso_code": "PSE",
     "region": "middle_east",
@@ -265,7 +265,7 @@
       "Bant Daraltma"
     ]
   },
-  "northern_cyprus": {
+  "kuzey_kibris": {
     "country_name": "Kuzey Kıbrıs",
     "iso_code": "TRNC",
     "region": "middle_east",
@@ -281,7 +281,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "germany": {
+  "almanya": {
     "country_name": "Almanya",
     "iso_code": "DEU",
     "region": "europe",
@@ -297,7 +297,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "united_kingdom": {
+  "birlesik_krallik": {
     "country_name": "Birleşik Krallık",
     "iso_code": "GBR",
     "region": "europe",
@@ -313,7 +313,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "france": {
+  "fransa": {
     "country_name": "Fransa",
     "iso_code": "FRA",
     "region": "europe",
@@ -329,7 +329,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "russia": {
+  "rusya": {
     "country_name": "Rusya",
     "iso_code": "RUS",
     "region": "europe",
@@ -347,7 +347,7 @@
       "Bant Daraltma"
     ]
   },
-  "ukraine": {
+  "ukrayna": {
     "country_name": "Ukrayna",
     "iso_code": "UKR",
     "region": "europe",
@@ -363,7 +363,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "italy": {
+  "italya": {
     "country_name": "İtalya",
     "iso_code": "ITA",
     "region": "europe",
@@ -379,7 +379,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "spain": {
+  "ispanya": {
     "country_name": "İspanya",
     "iso_code": "ESP",
     "region": "europe",
@@ -395,7 +395,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "poland": {
+  "polonya": {
     "country_name": "Polonya",
     "iso_code": "POL",
     "region": "europe",
@@ -411,7 +411,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "netherlands": {
+  "hollanda": {
     "country_name": "Hollanda",
     "iso_code": "NLD",
     "region": "europe",
@@ -427,7 +427,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "switzerland": {
+  "isvicre": {
     "country_name": "İsviçre",
     "iso_code": "CHE",
     "region": "europe",
@@ -443,7 +443,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "albania": {
+  "arnavutluk": {
     "country_name": "Arnavutluk",
     "iso_code": "ALB",
     "region": "europe",
@@ -475,7 +475,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "austria": {
+  "avusturya": {
     "country_name": "Avusturya",
     "iso_code": "AUT",
     "region": "europe",
@@ -509,7 +509,7 @@
       "Bant Daraltma"
     ]
   },
-  "belgium": {
+  "belcika": {
     "country_name": "Belçika",
     "iso_code": "BEL",
     "region": "europe",
@@ -525,7 +525,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "bosnia_and_herzegovina": {
+  "bosna_hersek": {
     "country_name": "Bosna-Hersek",
     "iso_code": "BIH",
     "region": "europe",
@@ -541,7 +541,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "bulgaria": {
+  "bulgaristan": {
     "country_name": "Bulgaristan",
     "iso_code": "BGR",
     "region": "europe",
@@ -557,7 +557,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "croatia": {
+  "hirvatistan": {
     "country_name": "Hırvatistan",
     "iso_code": "HRV",
     "region": "europe",
@@ -573,7 +573,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "cyprus": {
+  "kibris_rum_kesimi": {
     "country_name": "Kıbrıs Rum Kesimi",
     "iso_code": "CYP",
     "region": "europe",
@@ -589,7 +589,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "czech_republic": {
+  "cekya": {
     "country_name": "Çekya",
     "iso_code": "CZE",
     "region": "europe",
@@ -605,7 +605,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "denmark": {
+  "danimarka": {
     "country_name": "Danimarka",
     "iso_code": "DNK",
     "region": "europe",
@@ -621,7 +621,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "estonia": {
+  "estonya": {
     "country_name": "Estonya",
     "iso_code": "EST",
     "region": "europe",
@@ -637,7 +637,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "finland": {
+  "finlandiya": {
     "country_name": "Finlandiya",
     "iso_code": "FIN",
     "region": "europe",
@@ -653,7 +653,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "greece": {
+  "yunanistan": {
     "country_name": "Yunanistan",
     "iso_code": "GRC",
     "region": "europe",
@@ -669,7 +669,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "hungary": {
+  "macaristan": {
     "country_name": "Macaristan",
     "iso_code": "HUN",
     "region": "europe",
@@ -685,7 +685,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "iceland": {
+  "izlanda": {
     "country_name": "İzlanda",
     "iso_code": "ISL",
     "region": "europe",
@@ -701,7 +701,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "ireland": {
+  "irlanda": {
     "country_name": "İrlanda",
     "iso_code": "IRL",
     "region": "europe",
@@ -717,7 +717,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "kosovo": {
+  "kosova": {
     "country_name": "Kosova",
     "iso_code": "XKX",
     "region": "europe",
@@ -733,7 +733,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "latvia": {
+  "letonya": {
     "country_name": "Letonya",
     "iso_code": "LVA",
     "region": "europe",
@@ -749,7 +749,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "liechtenstein": {
+  "lihtenstayn": {
     "country_name": "Lihtenştayn",
     "iso_code": "LIE",
     "region": "europe",
@@ -765,7 +765,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "lithuania": {
+  "litvanya": {
     "country_name": "Litvanya",
     "iso_code": "LTU",
     "region": "europe",
@@ -781,7 +781,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "luxembourg": {
+  "luksemburg": {
     "country_name": "Lüksemburg",
     "iso_code": "LUX",
     "region": "europe",
@@ -829,7 +829,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "monaco": {
+  "monako": {
     "country_name": "Monako",
     "iso_code": "MCO",
     "region": "europe",
@@ -845,7 +845,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "montenegro": {
+  "karadag": {
     "country_name": "Karadağ",
     "iso_code": "MNE",
     "region": "europe",
@@ -861,7 +861,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "north_macedonia": {
+  "kuzey_makedonya": {
     "country_name": "Kuzey Makedonya",
     "iso_code": "MKD",
     "region": "europe",
@@ -877,7 +877,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "norway": {
+  "norvec": {
     "country_name": "Norveç",
     "iso_code": "NOR",
     "region": "europe",
@@ -893,7 +893,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "portugal": {
+  "portekiz": {
     "country_name": "Portekiz",
     "iso_code": "PRT",
     "region": "europe",
@@ -909,7 +909,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "romania": {
+  "romanya": {
     "country_name": "Romanya",
     "iso_code": "ROU",
     "region": "europe",
@@ -941,7 +941,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "serbia": {
+  "sirbistan": {
     "country_name": "Sırbistan",
     "iso_code": "SRB",
     "region": "europe",
@@ -957,7 +957,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "slovakia": {
+  "slovakya": {
     "country_name": "Slovakya",
     "iso_code": "SVK",
     "region": "europe",
@@ -973,7 +973,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "slovenia": {
+  "slovenya": {
     "country_name": "Slovenya",
     "iso_code": "SVN",
     "region": "europe",
@@ -989,7 +989,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "sweden": {
+  "isvec": {
     "country_name": "İsveç",
     "iso_code": "SWE",
     "region": "europe",
@@ -1005,7 +1005,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "transnistria": {
+  "transdinyester": {
     "country_name": "Transdinyester",
     "iso_code": "PMR",
     "region": "europe",
@@ -1023,7 +1023,7 @@
       "Bant Daraltma"
     ]
   },
-  "vatican_city": {
+  "vatikan": {
     "country_name": "Vatikan",
     "iso_code": "VAT",
     "region": "europe",
@@ -1039,7 +1039,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "china": {
+  "cin": {
     "country_name": "Çin",
     "iso_code": "CHN",
     "region": "asia",
@@ -1057,7 +1057,7 @@
       "Bant Daraltma"
     ]
   },
-  "india": {
+  "hindistan": {
     "country_name": "Hindistan",
     "iso_code": "IND",
     "region": "asia",
@@ -1075,7 +1075,7 @@
       "Bant Daraltma"
     ]
   },
-  "japan": {
+  "japonya": {
     "country_name": "Japonya",
     "iso_code": "JPN",
     "region": "asia",
@@ -1091,7 +1091,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "south_korea": {
+  "guney_kore": {
     "country_name": "Güney Kore",
     "iso_code": "KOR",
     "region": "asia",
@@ -1107,7 +1107,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "taiwan": {
+  "tayvan": {
     "country_name": "Tayvan",
     "iso_code": "TWN",
     "region": "asia",
@@ -1141,7 +1141,7 @@
       "Bant Daraltma"
     ]
   },
-  "afghanistan": {
+  "afganistan": {
     "country_name": "Afganistan",
     "iso_code": "AFG",
     "region": "asia",
@@ -1159,7 +1159,7 @@
       "Bant Daraltma"
     ]
   },
-  "armenia": {
+  "ermenistan": {
     "country_name": "Ermenistan",
     "iso_code": "ARM",
     "region": "asia",
@@ -1175,7 +1175,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "azerbaijan": {
+  "azerbaycan": {
     "country_name": "Azerbaycan",
     "iso_code": "AZE",
     "region": "asia",
@@ -1193,7 +1193,7 @@
       "Bant Daraltma"
     ]
   },
-  "bangladesh": {
+  "banglades": {
     "country_name": "Bangladeş",
     "iso_code": "BGD",
     "region": "asia",
@@ -1245,7 +1245,7 @@
       "Bant Daraltma"
     ]
   },
-  "cambodia": {
+  "kambocya": {
     "country_name": "Kamboçya",
     "iso_code": "KHM",
     "region": "asia",
@@ -1263,7 +1263,7 @@
       "Bant Daraltma"
     ]
   },
-  "georgia": {
+  "gurcistan": {
     "country_name": "Gürcistan",
     "iso_code": "GEO",
     "region": "asia",
@@ -1297,7 +1297,7 @@
       "Bant Daraltma"
     ]
   },
-  "indonesia": {
+  "endonezya": {
     "country_name": "Endonezya",
     "iso_code": "IDN",
     "region": "asia",
@@ -1313,7 +1313,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "kazakhstan": {
+  "kazakistan": {
     "country_name": "Kazakistan",
     "iso_code": "KAZ",
     "region": "asia",
@@ -1331,7 +1331,7 @@
       "Bant Daraltma"
     ]
   },
-  "kyrgyzstan": {
+  "kirgizistan": {
     "country_name": "Kırgızistan",
     "iso_code": "KGZ",
     "region": "asia",
@@ -1367,7 +1367,7 @@
       "Bant Daraltma"
     ]
   },
-  "macau": {
+  "makao": {
     "country_name": "Makao",
     "iso_code": "MAC",
     "region": "asia",
@@ -1383,7 +1383,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "malaysia": {
+  "malezya": {
     "country_name": "Malezya",
     "iso_code": "MYS",
     "region": "asia",
@@ -1399,7 +1399,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "maldives": {
+  "maldivler": {
     "country_name": "Maldivler",
     "iso_code": "MDV",
     "region": "asia",
@@ -1415,7 +1415,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "mongolia": {
+  "mogolistan": {
     "country_name": "Moğolistan",
     "iso_code": "MNG",
     "region": "asia",
@@ -1465,7 +1465,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "north_korea": {
+  "kuzey_kore": {
     "country_name": "Kuzey Kore",
     "iso_code": "PRK",
     "region": "asia",
@@ -1483,7 +1483,7 @@
       "Bant Daraltma"
     ]
   },
-  "philippines": {
+  "filipinler": {
     "country_name": "Filipinler",
     "iso_code": "PHL",
     "region": "asia",
@@ -1499,7 +1499,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "singapore": {
+  "singapur": {
     "country_name": "Singapur",
     "iso_code": "SGP",
     "region": "asia",
@@ -1531,7 +1531,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "tajikistan": {
+  "tacikistan": {
     "country_name": "Tacikistan",
     "iso_code": "TJK",
     "region": "asia",
@@ -1549,7 +1549,7 @@
       "Bant Daraltma"
     ]
   },
-  "thailand": {
+  "tayland": {
     "country_name": "Tayland",
     "iso_code": "THA",
     "region": "asia",
@@ -1565,7 +1565,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "timor_leste": {
+  "dogu_timor": {
     "country_name": "Doğu Timor",
     "iso_code": "TLS",
     "region": "asia",
@@ -1599,7 +1599,7 @@
       "Bant Daraltma"
     ]
   },
-  "uzbekistan": {
+  "ozbekistan": {
     "country_name": "Özbekistan",
     "iso_code": "UZB",
     "region": "asia",
@@ -1635,7 +1635,7 @@
       "Bant Daraltma"
     ]
   },
-  "united_states": {
+  "amerika_birlesik_devletleri": {
     "country_name": "Amerika Birleşik Devletleri",
     "iso_code": "USA",
     "region": "americas",
@@ -1651,7 +1651,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "brazil": {
+  "brezilya": {
     "country_name": "Brezilya",
     "iso_code": "BRA",
     "region": "americas",
@@ -1667,7 +1667,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "mexico": {
+  "meksika": {
     "country_name": "Meksika",
     "iso_code": "MEX",
     "region": "americas",
@@ -1685,7 +1685,7 @@
       "Bant Daraltma"
     ]
   },
-  "canada": {
+  "kanada": {
     "country_name": "Kanada",
     "iso_code": "CAN",
     "region": "americas",
@@ -1701,7 +1701,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "argentina": {
+  "arjantin": {
     "country_name": "Arjantin",
     "iso_code": "ARG",
     "region": "americas",
@@ -1717,7 +1717,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "antigua_and_barbuda": {
+  "antigua_ve_barbuda": {
     "country_name": "Antigua ve Barbuda",
     "iso_code": "ATG",
     "region": "americas",
@@ -1733,7 +1733,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "bahamas": {
+  "bahamalar": {
     "country_name": "Bahamalar",
     "iso_code": "BHS",
     "region": "americas",
@@ -1781,7 +1781,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "bolivia": {
+  "bolivya": {
     "country_name": "Bolivya",
     "iso_code": "BOL",
     "region": "americas",
@@ -1797,7 +1797,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "chile": {
+  "sili": {
     "country_name": "Şili",
     "iso_code": "CHL",
     "region": "americas",
@@ -1813,7 +1813,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "colombia": {
+  "kolombiya": {
     "country_name": "Kolombiya",
     "iso_code": "COL",
     "region": "americas",
@@ -1829,7 +1829,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "costa_rica": {
+  "kosta_rika": {
     "country_name": "Kosta Rika",
     "iso_code": "CRI",
     "region": "americas",
@@ -1845,7 +1845,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "cuba": {
+  "kuba": {
     "country_name": "Küba",
     "iso_code": "CUB",
     "region": "americas",
@@ -1863,7 +1863,7 @@
       "Bant Daraltma"
     ]
   },
-  "dominica": {
+  "dominika": {
     "country_name": "Dominika",
     "iso_code": "DMA",
     "region": "americas",
@@ -1879,7 +1879,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "dominican_republic": {
+  "dominik_cumhuriyeti": {
     "country_name": "Dominik Cumhuriyeti",
     "iso_code": "DOM",
     "region": "americas",
@@ -1895,7 +1895,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "ecuador": {
+  "ekvador": {
     "country_name": "Ekvador",
     "iso_code": "ECU",
     "region": "americas",
@@ -1927,7 +1927,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "greenland": {
+  "gronland": {
     "country_name": "Grönland",
     "iso_code": "GRL",
     "region": "americas",
@@ -2027,7 +2027,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "jamaica": {
+  "jamaika": {
     "country_name": "Jamaika",
     "iso_code": "JAM",
     "region": "americas",
@@ -2043,7 +2043,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "nicaragua": {
+  "nikaragua": {
     "country_name": "Nikaragua",
     "iso_code": "NIC",
     "region": "americas",
@@ -2109,7 +2109,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "puerto_rico": {
+  "porto_riko": {
     "country_name": "Porto Riko",
     "iso_code": "PRI",
     "region": "americas",
@@ -2125,7 +2125,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "saint_kitts_and_nevis": {
+  "saint_kitts_ve_nevis": {
     "country_name": "Saint Kitts ve Nevis",
     "iso_code": "KNA",
     "region": "americas",
@@ -2157,7 +2157,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "saint_vincent_and_the_grenadines": {
+  "saint_vincent_ve_grenadinler": {
     "country_name": "Saint Vincent ve Grenadinler",
     "iso_code": "VCT",
     "region": "americas",
@@ -2173,7 +2173,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "suriname": {
+  "surinam": {
     "country_name": "Surinam",
     "iso_code": "SUR",
     "region": "americas",
@@ -2189,7 +2189,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "trinidad_and_tobago": {
+  "trinidad_ve_tobago": {
     "country_name": "Trinidad ve Tobago",
     "iso_code": "TTO",
     "region": "americas",
@@ -2239,7 +2239,7 @@
       "Bant Daraltma"
     ]
   },
-  "egypt": {
+  "misir": {
     "country_name": "Mısır",
     "iso_code": "EGY",
     "region": "africa",
@@ -2257,7 +2257,7 @@
       "Bant Daraltma"
     ]
   },
-  "nigeria": {
+  "nijerya": {
     "country_name": "Nijerya",
     "iso_code": "NGA",
     "region": "africa",
@@ -2275,7 +2275,7 @@
       "Bant Daraltma"
     ]
   },
-  "south_africa": {
+  "guney_afrika": {
     "country_name": "Güney Afrika",
     "iso_code": "ZAF",
     "region": "africa",
@@ -2291,7 +2291,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "algeria": {
+  "cezayir": {
     "country_name": "Cezayir",
     "iso_code": "DZA",
     "region": "africa",
@@ -2341,7 +2341,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "botswana": {
+  "botsvana": {
     "country_name": "Botsvana",
     "iso_code": "BWA",
     "region": "africa",
@@ -2393,7 +2393,7 @@
       "Bant Daraltma"
     ]
   },
-  "cabo_verde": {
+  "yesil_burun_adalari": {
     "country_name": "Yeşil Burun Adaları",
     "iso_code": "CPV",
     "region": "africa",
@@ -2409,7 +2409,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "cameroon": {
+  "kamerun": {
     "country_name": "Kamerun",
     "iso_code": "CMR",
     "region": "africa",
@@ -2427,7 +2427,7 @@
       "Bant Daraltma"
     ]
   },
-  "central_african_republic": {
+  "orta_afrika_cumhuriyeti": {
     "country_name": "Orta Afrika Cumhuriyeti",
     "iso_code": "CAF",
     "region": "africa",
@@ -2445,7 +2445,7 @@
       "Bant Daraltma"
     ]
   },
-  "chad": {
+  "cad": {
     "country_name": "Çad",
     "iso_code": "TCD",
     "region": "africa",
@@ -2463,7 +2463,7 @@
       "Bant Daraltma"
     ]
   },
-  "comoros": {
+  "komorlar": {
     "country_name": "Komorlar",
     "iso_code": "COM",
     "region": "africa",
@@ -2479,7 +2479,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "democratic_republic_of_the_congo": {
+  "demokratik_kongo_cumhuriyeti": {
     "country_name": "Demokratik Kongo Cumhuriyeti",
     "iso_code": "COD",
     "region": "africa",
@@ -2497,7 +2497,7 @@
       "Bant Daraltma"
     ]
   },
-  "djibouti": {
+  "cibuti": {
     "country_name": "Cibuti",
     "iso_code": "DJI",
     "region": "africa",
@@ -2515,7 +2515,7 @@
       "Bant Daraltma"
     ]
   },
-  "equatorial_guinea": {
+  "ekvator_ginesi": {
     "country_name": "Ekvator Ginesi",
     "iso_code": "GNQ",
     "region": "africa",
@@ -2533,7 +2533,7 @@
       "Bant Daraltma"
     ]
   },
-  "eritrea": {
+  "eritre": {
     "country_name": "Eritre",
     "iso_code": "ERI",
     "region": "africa",
@@ -2551,7 +2551,7 @@
       "Bant Daraltma"
     ]
   },
-  "eswatini": {
+  "esvatini": {
     "country_name": "Esvatini",
     "iso_code": "SWZ",
     "region": "africa",
@@ -2569,7 +2569,7 @@
       "Bant Daraltma"
     ]
   },
-  "ethiopia": {
+  "etiyopya": {
     "country_name": "Etiyopya",
     "iso_code": "ETH",
     "region": "africa",
@@ -2603,7 +2603,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "gambia": {
+  "gambiya": {
     "country_name": "Gambiya",
     "iso_code": "GMB",
     "region": "africa",
@@ -2619,7 +2619,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "ghana": {
+  "gana": {
     "country_name": "Gana",
     "iso_code": "GHA",
     "region": "africa",
@@ -2635,7 +2635,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "guinea": {
+  "gine": {
     "country_name": "Gine",
     "iso_code": "GIN",
     "region": "africa",
@@ -2653,7 +2653,7 @@
       "Bant Daraltma"
     ]
   },
-  "guinea_bissau": {
+  "gine_bissau": {
     "country_name": "Gine-Bissau",
     "iso_code": "GNB",
     "region": "africa",
@@ -2669,7 +2669,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "ivory_coast": {
+  "fildisi_sahili": {
     "country_name": "Fildişi Sahili",
     "iso_code": "CIV",
     "region": "africa",
@@ -2701,7 +2701,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "lesotho": {
+  "lesoto": {
     "country_name": "Lesoto",
     "iso_code": "LSO",
     "region": "africa",
@@ -2717,7 +2717,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "liberia": {
+  "liberya": {
     "country_name": "Liberya",
     "iso_code": "LBR",
     "region": "africa",
@@ -2751,7 +2751,7 @@
       "Bant Daraltma"
     ]
   },
-  "madagascar": {
+  "madagaskar": {
     "country_name": "Madagaskar",
     "iso_code": "MDG",
     "region": "africa",
@@ -2767,7 +2767,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "malawi": {
+  "malavi": {
     "country_name": "Malavi",
     "iso_code": "MWI",
     "region": "africa",
@@ -2801,7 +2801,7 @@
       "Bant Daraltma"
     ]
   },
-  "mauritania": {
+  "moritanya": {
     "country_name": "Moritanya",
     "iso_code": "MRT",
     "region": "africa",
@@ -2833,7 +2833,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "morocco": {
+  "fas": {
     "country_name": "Fas",
     "iso_code": "MAR",
     "region": "africa",
@@ -2849,7 +2849,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "mozambique": {
+  "mozambik": {
     "country_name": "Mozambik",
     "iso_code": "MOZ",
     "region": "africa",
@@ -2865,7 +2865,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "namibia": {
+  "namibya": {
     "country_name": "Namibya",
     "iso_code": "NAM",
     "region": "africa",
@@ -2881,7 +2881,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "niger": {
+  "nijer": {
     "country_name": "Nijer",
     "iso_code": "NER",
     "region": "africa",
@@ -2897,7 +2897,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "republic_of_the_congo": {
+  "kongo_cumhuriyeti_brazzaville": {
     "country_name": "Kongo Cumhuriyeti (Brazzaville)",
     "iso_code": "COG",
     "region": "africa",
@@ -2913,7 +2913,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "rwanda": {
+  "ruanda": {
     "country_name": "Ruanda",
     "iso_code": "RWA",
     "region": "africa",
@@ -2931,7 +2931,7 @@
       "Bant Daraltma"
     ]
   },
-  "sao_tome_and_principe": {
+  "sao_tome_ve_principe": {
     "country_name": "Sao Tome ve Principe",
     "iso_code": "STP",
     "region": "africa",
@@ -2963,7 +2963,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "seychelles": {
+  "seyseller": {
     "country_name": "Seyşeller",
     "iso_code": "SYC",
     "region": "africa",
@@ -2995,7 +2995,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "somalia": {
+  "somali": {
     "country_name": "Somali",
     "iso_code": "SOM",
     "region": "africa",
@@ -3031,7 +3031,7 @@
       "Bant Daraltma"
     ]
   },
-  "south_sudan": {
+  "guney_sudan": {
     "country_name": "Güney Sudan",
     "iso_code": "SSD",
     "region": "africa",
@@ -3067,7 +3067,7 @@
       "Bant Daraltma"
     ]
   },
-  "tanzania": {
+  "tanzanya": {
     "country_name": "Tanzanya",
     "iso_code": "TZA",
     "region": "africa",
@@ -3099,7 +3099,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "tunisia": {
+  "tunus": {
     "country_name": "Tunus",
     "iso_code": "TUN",
     "region": "africa",
@@ -3135,7 +3135,7 @@
       "Bant Daraltma"
     ]
   },
-  "western_sahara": {
+  "bati_sahra": {
     "country_name": "Batı Sahra",
     "iso_code": "ESH",
     "region": "africa",
@@ -3153,7 +3153,7 @@
       "Bant Daraltma"
     ]
   },
-  "zambia": {
+  "zambiya": {
     "country_name": "Zambiya",
     "iso_code": "ZMB",
     "region": "africa",
@@ -3169,7 +3169,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "zimbabwe": {
+  "zimbabve": {
     "country_name": "Zimbabve",
     "iso_code": "ZWE",
     "region": "africa",
@@ -3187,7 +3187,7 @@
       "Bant Daraltma"
     ]
   },
-  "australia": {
+  "avustralya": {
     "country_name": "Avustralya",
     "iso_code": "AUS",
     "region": "oceania",
@@ -3203,7 +3203,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "new_zealand": {
+  "yeni_zelanda": {
     "country_name": "Yeni Zelanda",
     "iso_code": "NZL",
     "region": "oceania",
@@ -3251,7 +3251,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "marshall_islands": {
+  "marshall_adalari": {
     "country_name": "Marshall Adaları",
     "iso_code": "MHL",
     "region": "oceania",
@@ -3267,7 +3267,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "micronesia": {
+  "mikronezya_federal_devletleri": {
     "country_name": "Mikronezya Federal Devletleri",
     "iso_code": "FSM",
     "region": "oceania",
@@ -3315,7 +3315,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "papua_new_guinea": {
+  "papua_yeni_gine": {
     "country_name": "Papua Yeni Gine",
     "iso_code": "PNG",
     "region": "oceania",
@@ -3347,7 +3347,7 @@
       "Standart İletişim Denetimi"
     ]
   },
-  "solomon_islands": {
+  "solomon_adalari": {
     "country_name": "Solomon Adaları",
     "iso_code": "SLB",
     "region": "oceania",

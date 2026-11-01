@@ -2,7 +2,7 @@
 ### *Dünya Uluslarının Kültürel Kodları, Yaşam Felsefesi, Medeniyet Havzaları ve Gerçek İktidar Anatomisi Ansiklopedisi*
 
 <p align="center">
-  <img src="assets/images/hero_banner.jpg" alt="Global X-Ray Hero Banner" width="100%">
+  <img src="assets/images/hero_banner.jpg" alt="Medeniyet Atlası Hero Banner" width="100%">
 </p>
 
 <p align="center">
@@ -175,20 +175,20 @@ Klasik kıta ve coğrafi bölge tasnifleri, modern küresel sermaye birikim dina
 ## 🏛️ METODOLOJİ: 4 KATMANLI DERİN DEVLET MİMARİSİ
 
 <p align="center">
-  <img src="assets/images/4_layer_power_architecture.jpg" alt="4 Layer Power Architecture" width="90%">
+  <img src="assets/images/4_layer_power_architecture.jpg" alt="Medeniyet Atlası 4 Katmanlı Ülke ve Güç Mimarisi" width="90%">
 </p>
 
 Repodaki istisnasız her ülke klasörü, birbirine bağlı ve disiplinlerarası **4 derin katmandan** meydana gelir:
 
 ### 🧩 Katmanların Analitik Ayrımı:
-* **01. Kültür, Etnik Denge & Demografi (`01_culture_demographics/`):** Toplumun tarihsel travmaları, mezhepsel ve kabilevi fay hatları, göç dalgaları ve demografik kırılganlıklar (`society_history.md`, `demographics.csv`).
+* **01. Medeniyet Kimliği, Kültür & Demografi (`01_culture_demographics/`):** Toplumun kültürel DNA'sı, çevrilemeyen kavramları, gelenekleri, tarihsel travmaları ve demografik kırılganlıklar (`society_history.md`, `demographics.csv`).
 * **02. Resmi Devlet Mekanizması & Anayasa (`02_official_state/`):** Görünen yürütme, parlamenter veya başkanlık yapısı, anayasal kuvvetler ayrılığı illüzyonu, yargı teşkilatı ve resmi silahlı kuvvetler doktrini (`constitution_gov.md`).
 * **03. Resmi Makroekonomi & Dış Ticaret (`03_official_economy/`):** Nominal ve SAGP GSYİH, cari denge, döviz rezervleri, dış borç stoku, bütçe açığı ve en büyük dış ticaret ortakları (`macroeconomics.json`).
 * **04. Gölge Güç, Kleptokrasi & OSINT (`04_shadow_power_osint/`):** Gerçek güç odakları, askeri-istihbarat cuntaları, oligark konsorsiyumları, hanedan tröstleri, offshore sermaye kaçış kanalları, basın sansür filtreleri ve algoritmik kontrol mekanizmaları (`real_power_dynamics.md`, `oligarch_network.csv`, `media_censorship_matrix.md`).
 
 ```mermaid
 flowchart TD
-    subgraph Katmanlar["Global X-Ray 4 Katmanlı Güç Anatomisi"]
+    subgraph Katmanlar["Medeniyet Atlası 4 Katmanlı Ülke ve Güç Anatomisi"]
         L1["01. Kültür, Etnik Denge & Demografi<br/>(Tarihsel travmalar, mezhepsel fay hatları, kabile dinamikleri)"]
         L2["02. Resmi Devlet Mekanizması & Anayasa<br/>(Görünen yürütme, parlamento, kanunlar, ordu bürokrasisi)"]
         L3["03. Resmi Makroekonomi & Dış Ticaret<br/>(GSYİH, ihracat-ithalat, döviz rezervleri, kamu borcu)"]

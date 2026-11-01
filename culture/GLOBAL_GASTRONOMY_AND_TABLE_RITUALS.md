@@ -1,5 +1,9 @@
 # 🍲 Dünya Mutfakları, Gastronomi Felsefesi ve Sofra Ritüelleri
 
+<p align="center">
+  <img src="../assets/images/global_gastronomy_table_rituals.jpg" alt="Dünya Gastronomi Felsefeleri ve Sofra Ritüelleri" width="90%">
+</p>
+
 > "Bana ne yediğini söyle, sana kim olduğunu söyleyeyim."  
 > — **Jean Anthelme Brillat-Savarin** (*Le Physiologie du Goût*, 1825)
 

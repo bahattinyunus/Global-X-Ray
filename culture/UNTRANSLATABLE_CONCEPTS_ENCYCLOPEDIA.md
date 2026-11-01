@@ -1,5 +1,9 @@
 # 📖 Çevrilemeyen Ruh Kavramları Ansiklopedisi (The Untranslatable Soul Words)
 
+<p align="center">
+  <img src="../assets/images/untranslatable_soul_concepts_wisdom.jpg" alt="Çevrilemeyen Ruh Kavramları ve Kültürel Bilgelik" width="90%">
+</p>
+
 > "Dil, varlığın evidir. Bir ulusun en derin felsefesi, başka hiçbir dile tam olarak tercüme edilemeyen kelimelerinde kristalleşir."  
 > — **Martin Heidegger**
 

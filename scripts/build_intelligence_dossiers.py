@@ -44,6 +44,10 @@ def build_nuclear():
 
     content = f"""# ☢️ Stratejik Nükleer Cephanelikler, Triad ve Caydırıcılık Sistemleri
 
+<p align="center">
+  <img src="../assets/images/nuclear_triad_strategic_deterrence.jpg" alt="Küresel Stratejik Nükleer Triad ve Caydırıcılık Mimarisi" width="90%">
+</p>
+
 > "{data.get('doctrine')}"
 
 ---

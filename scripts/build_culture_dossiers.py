@@ -38,6 +38,10 @@ def build_untranslatable():
 
     content = f"""# 📖 Çevrilemeyen Ruh Kavramları Ansiklopedisi (The Untranslatable Soul Words)
 
+<p align="center">
+  <img src="../assets/images/untranslatable_soul_concepts_wisdom.jpg" alt="Çevrilemeyen Ruh Kavramları ve Kültürel Bilgelik" width="90%">
+</p>
+
 > "Dil, varlığın evidir. Bir ulusun en derin felsefesi, başka hiçbir dile tam olarak tercüme edilemeyen kelimelerinde kristalleşir."  
 > — **Martin Heidegger**
 
@@ -87,6 +91,10 @@ def build_gastronomy():
         rows.append(f"| **{c['country']}** (`{c['code']}`) | {c['gastronomic_philosophy']} |")
 
     content = f"""# 🍲 Dünya Mutfakları, Gastronomi Felsefesi ve Sofra Ritüelleri
+
+<p align="center">
+  <img src="../assets/images/global_gastronomy_table_rituals.jpg" alt="Dünya Gastronomi Felsefeleri ve Sofra Ritüelleri" width="90%">
+</p>
 
 > "Bana ne yediğini söyle, sana kim olduğunu söyleyeyim."  
 > — **Jean Anthelme Brillat-Savarin** (*Le Physiologie du Goût*, 1825)
@@ -155,6 +163,10 @@ def build_civilizations():
         rows.append(f"| **{r['name']}** | {r['core_philosophy']} | `{', '.join(r['representative_states'])}` |")
 
     content = f"""# 🏛️ Küresel Medeniyet Havzaları ve Tarihsel Düşünce Külliyatı
+
+<p align="center">
+  <img src="../assets/images/world_civilizations_cultural_realms.jpg" alt="Dünya Medeniyet Havzaları ve Kültürel Kodlar Kartografyası" width="90%">
+</p>
 
 İnsanlık tarihi, belirli coğrafi iklimlerde ve manevi köklerde filizlenen büyük medeniyetlerin birikimidir:
 

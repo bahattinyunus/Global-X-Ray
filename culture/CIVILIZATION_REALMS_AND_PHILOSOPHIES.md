@@ -1,5 +1,9 @@
 # 🏛️ Küresel Medeniyet Havzaları ve Tarihsel Düşünce Külliyatı
 
+<p align="center">
+  <img src="../assets/images/world_civilizations_cultural_realms.jpg" alt="Dünya Medeniyet Havzaları ve Kültürel Kodlar Kartografyası" width="90%">
+</p>
+
 İnsanlık tarihi, belirli coğrafi iklimlerde ve manevi köklerde filizlenen büyük medeniyetlerin birikimidir:
 
 ---

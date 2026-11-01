@@ -1,5 +1,9 @@
 # ☢️ Stratejik Nükleer Cephanelikler, Triad ve Caydırıcılık Sistemleri
 
+<p align="center">
+  <img src="../assets/images/nuclear_triad_strategic_deterrence.jpg" alt="Küresel Stratejik Nükleer Triad ve Caydırıcılık Mimarisi" width="90%">
+</p>
+
 > "Nükleer silahlar ve stratejik nükleer triad (Kıtalararası Balistik Füzeler, Nükleer Tahrikli Balistik Füze Denizaltıları ve Stratejik Bombardıman Uçakları); egemen devletlerin nihai güvenlik garantisi ve karşılıklı garantili imha (MAD - Mutually Assured Destruction) dengesinin temelidir."
 
 ---

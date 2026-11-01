@@ -1,5 +1,5 @@
-# 🌍 DÜNYA MEDENİYETLERİ, KÜLTÜREL KODLAR & DERİN GÜÇ ATLASI
-### *205 Ülkenin Kültürel DNA'sı, Yaşam Felsefesi, Medeniyet Havzaları ve Gerçek İktidar Anatomisi Ansiklopedisi*
+# 🏛️ MEDENİYET ATLASI
+### *Dünya Uluslarının Kültürel Kodları, Yaşam Felsefesi, Medeniyet Havzaları ve Gerçek İktidar Anatomisi Ansiklopedisi*
 
 <p align="center">
   <img src="assets/images/hero_banner.jpg" alt="Global X-Ray Hero Banner" width="100%">
@@ -99,6 +99,16 @@ Bu nedenle bu ansiklopedi; **kültürü ve insanı merkeze koyan ana gövdesini*
 | **Çin** (`CHN`) | Kolektif uyum, toplumsal hiyerarşi, 'Guanxi' (kişisel güvene daya... | **Guanxi**, **Mianzi**, **Yuanfen** | Aşırı Dolaylı ve Nezaket Odaklı. As | Yemek hem şifa hem felsefedir (Tıbbi Beslenme - Yin ve Yang denge... |
 | **Rusya** (`RUS`) | Geniş ruh (Shirokaya Dusha), acıya ve soğuğa karşı doğaüstü dayan... | **Toska**, **Dusha**, **Avos** | Yüzeyde Soğuk ve Ciddi, İçeride Tut | Kış şartlarına meydan okuyan doyurucu lezzetler. Borş çorbası, Pe... |
 | **Hindistan** (`IND`) | Dharma (kozmik ahlaki nizam), Ahimsa (şiddetsizlik), derin hoşgör... | **Jugaad**, **Namaste**, **Chai-Pani** | Yüksek Bağlamlı ve Toleranslı. Başı | Baharatların simyası ve Ayurveda dengesi. Her baharatın bir sağlı... |
+| **Güney Kore** (`KOR`) | Aşırı çalışkanlık ve hız (Ppalli-ppalli kültürü), büyüklere ve hi... | **Jeong**, **Han**, **Nunchi** | Çok Yüksek Bağlamlı ve Hiyerarşik.  | Fermantasyon ve şifa. Her öğünde sofrada yer alan Kimchi (UNESCO ... |
+| **İspanya** (`ESP`) | Günü yaşama arzusu, sosyal sokak hayatı, 'Sobremesa' (yemek sonra... | **Sobremesa**, **Duende**, **Madrugar** | Sıcak, Doğrudan ve Yüksek Sesli. Ko | Tazelik ve paylaşım. Büyük tavada pişirilip ortaya konan Paella, ... |
+| **Brezilya** (`BRA`) | Coşku ve yaşama sevinci (Alegria), bedensel özgürlük, sıcak sarıl... | **Saudade**, **Jeitinho**, **Cafuné** | Son Derece Sıcak, Temas Odaklı ve S | Topraktan ve ateşten gelen bereket. Siyah fasulye ve tütsülenmiş ... |
+| **İran** (`IRN`) | Aşırı nezaket ve zarafet (Ta'arof), şiire ve edebi dile duyulan k... | **Ta'arof**, **Del-tangi**, **Rend** | Yüksek Düzeyde Metaforik, Şiirsel v | Safran, nar ekşisi ve ceviz ahengi. Tencerenin dibinde çıtırlaşan... |
+| **Mısır** (`EGY`) | Nil Nehri'nin getirdiği sonsuz sabır ve bereket inancı, mizah ve ... | **Gad'ana**, **Eish**, **Ma'alesh** | Canlı, Esprili ve Tiyatral. Mısırlı | Halkın doyurucu konfor yemekleri. Pirinç, makarna, mercimek, nohu... |
+| **Güney Afrika** (`ZAF`) | Ubuntu ('Ben, biz olduğumuz için benim'), affedicilik ve uzlaşma ... | **Ubuntu**, **Simunye**, **Lekker** | Sıcak, Rahat ve 11 Resmi Dilin Zeng | Kültürlerin füzyonu. Biltong (kurutulmuş baharatlı et), Bobotie (... |
+| **Meksika** (`MEX`) | Ölümle barışık olma ve onu hayatın kardeşi sayma, aileye mutlak b... | **Apapachar**, **Sobremesa**, **Madre** | Dolaylı, Nezaket Yüklü ve Küçültme  | UNESCO İnsanlık Mirası Meksika Mutfağı. Mısır (Maiz) kutsal varol... |
+| **İsveç** (`SWE`) | Denge ve itidal (Lagom), eşitlikçilik ve kimsenin kendini kimsede... | **Lagom**, **Fika**, **Allemansrätten** | Düşük Bağlamlı, Aşırı Sakin, Ölçülü | Kuzey doğasının sade lezzetleri. Yaban mersini reçeliyle sunulan ... |
+| **Yunanistan** (`GRC`) | Şeref, haysiyet ve dostuna karşı görev bilinci (Philotimo), yaşam... | **Philotimo**, **Meraki**, **Kefi** | Yüksek Bağlamlı, Hararetli, Samimi  | Güneşin ve zeytinin bereketi. Sızma zeytinyağı, Feta peyniri, Yun... |
+| **Arjantin** (`ARG`) | Derin melankoli ve nostalji, dostluk kültü (Amistad), retorik ve ... | **Chamuyo**, **Bronca**, **Gaucho** | İtalyan Tarzı Teatral El Hareketler | Ateş ve etin mükemmel dansı. Pampa sığırlarının odun kömüründe pi... |
 
 ---
 
@@ -826,6 +836,6 @@ python tests/test_integrity.py
 ---
 
 <p align="center">
-  <b>KÜRESEL RÖNTGEN (GLOBAL X-RAY)</b> &copy; 2026 &bull; <i>Hakikat, gizlenenlerin toplamıdır.</i><br/>
-  <i>"Veritas vos liberabit." (Gerçek sizi özgür kılacaktır.)</i>
+  <b>MEDENİYET ATLASI (CIVILIZATION ATLAS)</b> &copy; 2026 &bull; <i>Dünya uluslarını ruhlarıyla tanımak, gerçeği tüm katmanlarıyla anlamak.</i><br/>
+  <i>"İnsan bilmediğinin düşmanıdır; tanıdıkça sever ve anlar."</i>
 </p>

@@ -303,7 +303,7 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
             self.assertIn("civilization_realms", culture)
             self.assertIn("countries_cultural_dna", culture)
             self.assertEqual(len(culture["civilization_realms"]), 9)
-            self.assertGreaterEqual(len(culture["countries_cultural_dna"]), 10)
+            self.assertGreaterEqual(len(culture["countries_cultural_dna"]), 20)
 
 if __name__ == "__main__":
     unittest.main()

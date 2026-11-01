@@ -234,6 +234,176 @@
       "gastronomic_philosophy": "Baharatların simyası ve Ayurveda dengesi. Her baharatın bir sağlık ve ruhsal faydası olduğuna inanılır. Zengin vejetaryen mutfağı, köri çeşitleri, tandır ekmekleri (Naan/Roti), Biryani ve taze mercimek yahnisi (Dal).",
       "social_taboos_and_etiquette": "Yemek yerken veya birine bir şey uzatırken sol el kullanılmaz (temizlik dışı sayılır); tapınaklara ve evlere ayakkabıyla girilmez; büyüklere saygı için ayaklarına dokunarak kutsanma istenir (Charan Sparsh); inekler kutsaldır ve sokaklarda serbestçe dolaşırlar.",
       "literary_and_artistic_archetypes": "Mahabharata ve Ramayana destanları, Rabindranath Tagore; Sitar ustası Ravi Shankar, klasik Bharatanatyam dansı, Bollywood sineması ve Tac Mahal."
+    },
+    {
+      "country": "Güney Kore",
+      "code": "KOR",
+      "capital": "Seul",
+      "civilization_crossroads": "Neo-Konfüçyüsçü Toplumsal Düzen + Budist Felsefe + Hızlı Modernleşme ('Han Nehri Mucizesi') + Küresel K-Kültür Dalgası (Hallyu).",
+      "core_cultural_ethos": "Aşırı çalışkanlık ve hız (Ppalli-ppalli kültürü), büyüklere ve hiyerarşiye mutlak hürmet, ortak kolektif keder (Han) ve birbirine görünmez bağlarla kenetlenme (Jeong).",
+      "untranslatable_soul_concepts": [
+        {"word": "Jeong", "meaning": "Zamanla birlikte yaşanan anlardan, iyiliklerden ve hatta çatışmalardan doğan, koparılması imkansız duygusal şefkat ve aidiyet bağı."},
+        {"word": "Han", "meaning": "Kore halkının yüzyıllar boyu süren işgaller, bölünmeler ve trajedilerden süzülen; yenilgiye değil, yaratıcı bir azme ve sanata dönüşen kolektif hüzün tortusu."},
+        {"word": "Nunchi", "meaning": "Bir odaya veya ortama girildiğinde havadaki atmosferi, insanların gizli duygularını ve hiyerarşiyi anında sezme ve ona göre davranma gözlem dehası."}
+      ],
+      "social_rituals_and_lifestyle": "Mesai sonrası ekip arkadaşlarıyla Soju içip mangal yapma (Hoesik) ritüeli; kızarmış tavuk ve bira (Chimaek) keyfi; her yaş grubuna göre değişen 90 derecelik reverans selamı; hanbok giyilerek kutlanan Chuseok (Hasat Bayramı).",
+      "communication_style": "Çok Yüksek Bağlamlı ve Hiyerarşik. Karşındakinin yaşı bir yaş bile büyük olsa dilin hitap kipi (Jondaetmal - saygı dili) derhal değişir; göz teması ve beden dili saygı çerçevesinde kısıtlanır.",
+      "gastronomic_philosophy": "Fermantasyon ve şifa. Her öğünde sofrada yer alan Kimchi (UNESCO Mirası), kırmızı biber salçası (Gochujang), zengin yan mezeler (Banchan), Bibimbap ve paylaşarak yenen Kore Barbeküsü.",
+      "social_taboos_and_etiquette": "Büyüğün yanında içerken başı yana çevirmeden içmek saygısızlıktır; bir şeyi iki elle uzatmamak veya iki elle almamak kabalıktır; isimleri asla kırmızı mürekkeple yazılmaz (ölüm çağrışımı).",
+      "literary_and_artistic_archetypes": "Kore dizileri (K-Drama), K-Pop, Parasite filmi (Bong Joon-ho); Pansori geleneksel epik anlatı sanatı, Hangul alfabesi tasarım dehası."
+    },
+    {
+      "country": "İspanya",
+      "code": "ESP",
+      "capital": "Madrid (Kültür & Akdeniz: Barselona, Sevilla, Granada)",
+      "civilization_crossroads": "İber ve Roma Kökleri + 800 Yıllık Endülüs İslam-Arap Zarafeti (Elhamra) + Katolik İmparatorluk Çağı + Akdeniz Güneş Kültürü.",
+      "core_cultural_ethos": "Günü yaşama arzusu, sosyal sokak hayatı, 'Sobremesa' (yemek sonrası koyu sohbet), sanatta tutkulu dışavurum (Duende) ve hayatı aceleye getirmeme felsefesi.",
+      "untranslatable_soul_concepts": [
+        {"word": "Sobremesa", "meaning": "Yemek bittikten sonra saatlerce masadan kalkmadan, kahve veya içecek eşliğinde dostlarla yapılan derin, lezzetli ve kahkahalı sohbet dönemi."},
+        {"word": "Duende", "meaning": "Flamenko dansında veya şarkısında sanatçının bedenine giren, izleyicinin tüylerini diken diken eden ilahi, karanlık ve büyüleyici esrime gücü."},
+        {"word": "Madrugar", "meaning": "Güneş doğmadan, sabahın köründe kalkmak; sabahın getirdiği serinliği ve tazeliği yakalamak."}
+      ],
+      "social_rituals_and_lifestyle": "Bar bar dolaşıp ayakta atıştırmalık yeme kültürü (Tapeo); yaz aylarında öğle sıcağından kaçınma dinlenmesi (Siesta); akşam yemeklerinin saat 22:00'den önce başlamaması; kasaba festivalleri (Fiestas) ve sokak geçitleri.",
+      "communication_style": "Sıcak, Doğrudan ve Yüksek Sesli. Konuşurken söz kesmek bir kabalık değil, konuya duyulan yüksek ilginin ve tutkunun göstergesi kabul edilir.",
+      "gastronomic_philosophy": "Tazelik ve paylaşım. Büyük tavada pişirilip ortaya konan Paella, Jamón Ibérico (meşe palamuduyla beslenen domuz pastırması), Gazpacho soğuk çorbası, Churros ve zengin zeytinyağlı tapaslar.",
+      "social_taboos_and_etiquette": "Akşam yemeğine erken (saat 19:00'da) gitmek ve aceleyle kalkmak tuhaf karşılanır; bir ortamdan selam vermeden veya vedalaşmadan ayrılmak ayıptır.",
+      "literary_and_artistic_archetypes": "Miguel de Cervantes (Don Kişot), Federico García Lorca; Pablo Picasso, Salvador Dalí, Antoni Gaudí (Sagrada Família); Flamenko gitarı (Paco de Lucía)."
+    },
+    {
+      "country": "Brezilya",
+      "code": "BRA",
+      "capital": "Brasília (Kültür & Ruh: Rio de Janeiro, Salvador da Bahia, São Paulo)",
+      "civilization_crossroads": "Yerli Amazon Kabileleri + Portekiz Koloni Dili + Afrika Kökenli Kölelerin Ritmi ve Maneviyatı (Candomblé) + Küresel Göçmen Mozaiği.",
+      "core_cultural_ethos": "Coşku ve yaşama sevinci (Alegria), bedensel özgürlük, sıcak sarılmalar, esnek problem çözme becerisi (Jeitinho Brasileiro) ve derin müzikal ritim duygusu.",
+      "untranslatable_soul_concepts": [
+        {"word": "Saudade", "meaning": "Kaybedilen bir sevgiye, mekana, çocukluğa veya geçmişe duyulan; içinde hem tatlı bir sevgi hem de derin bir sızı barındıran nostaljik özlem."},
+        {"word": "Jeitinho", "meaning": "Bürokrasinin ve katı kuralların tıkandığı anlarda güler yüz, sempati ve yaratıcılıkla gayriresmi kestirme bir çıkış yolu bulma zekası."},
+        {"word": "Cafuné", "meaning": "Sevdiğin birinin saçlarının arasında parmaklarını şefkatle ve yavaşça gezdirerek onu rahatlatma eylemi."}
+      ],
+      "social_rituals_and_lifestyle": "Plajda (Copacabana / Ipanema) futbol, voleybol ve sosyalleşme; sokak köşelerinde spontane Samba ve Bossa Nova çemberleri (Roda de Samba); tüm ülkeyi kilitleyen yıllık Rio Karnavalı; Pazar günleri açık hava Churrasco (et mangalı) partileri.",
+      "communication_style": "Son Derece Sıcak, Temas Odaklı ve Samimi. Konuşurken omuza dokunmak, sarılmak (Abraço) ve yanak yanağa öpüşmek gündelik selamlaşmanın doğal parçasıdır.",
+      "gastronomic_philosophy": "Topraktan ve ateşten gelen bereket. Siyah fasulye ve tütsülenmiş etlerle güveçte pişen ulusal yemek Feijoada, tapyoka krepleri, Açaí meyvesi ve kadeh kadeh Caipirinha.",
+      "social_taboos_and_etiquette": "Aşırı soğuk, mesafeli ve resmi davranmak 'kibirli' olarak damgalanır; partilere davet saatinden 30-45 dakika sonra gitmek sosyal bir normdur; aceleci olmak ve stres yaymak ayıplanır.",
+      "literary_and_artistic_archetypes": "Jorge Amado, Clarice Lispector, Paulo Coelho; Pelé, Ayrton Senna; Tom Jobim, Astrud Gilberto (The Girl from Ipanema), Oscar Niemeyer mimarisi."
+    },
+    {
+      "country": "İran",
+      "code": "IRN",
+      "capital": "Tahran (Tarih & Şiir: İsfahan, Şiraz, Tebriz)",
+      "civilization_crossroads": "3.000 Yıllık Pers İmparatorluğu (Ahamenişler) + Zerdüştlük Felsefesi + İslam-Şii Mistisizmi + İpek Yolu Minyatür ve Halı Sanatı.",
+      "core_cultural_ethos": "Aşırı nezaket ve zarafet (Ta'arof), şiire ve edebi dile duyulan kutsal aşk, bahçe estetiği (Cennet Bahçesi / Pardis) ve haneye yönelik derin mahremiyet hürmeti.",
+      "untranslatable_soul_concepts": [
+        {"word": "Ta'arof", "meaning": "Kişinin kendi arzusunu bastırıp karşısındakine mutlak öncelik ve hürmet sunduğu, tekliflerin defalarca reddedilip ısrarla yinelendiği son derece karmaşık kültürel nezaket dansı."},
+        {"word": "Del-tangi", "meaning": "Gönlün daralması, kalbin bir kafese sıkışmış gibi sevdiklerini ve manevi vatanı özlemesi hali."},
+        {"word": "Rend", "meaning": "Dışarıdan dünyevi görünen ancak içinde tasavvufi bilgeliği ve hürriyeti saklayan, Hafız-ı Şirazi'nin ideal insan tipi."}
+      ],
+      "social_rituals_and_lifestyle": "Nevruz (Yeni Yıl) bayramında 'Haft-Sin' (S harfiyle başlayan 7 simgesel nesne) sofrası kurma; parklarda ve nehir kenarlarında semaverle çay içme piknikleri; evlerde Hafız Divanı'ndan niyet açma (Fal-e Hafez) ritüeli.",
+      "communication_style": "Yüksek Düzeyde Metaforik, Şiirsel ve Dolaylı. Düşünceler doğrudan söylenmek yerine beyitlerle, mesellerle ve incelikli imalarla aktarılır.",
+      "gastronomic_philosophy": "Safran, nar ekşisi ve ceviz ahengi. Tencerenin dibinde çıtırlaşan altın sarısı pirinç kabuğu (Tahdig), fesencan yahnisi, safranlı kuzu kebapları (Çello Kebap) ve gülsuyu aromalı tatlılar.",
+      "social_taboos_and_etiquette": "Ta'arof yapmadan bir ikramı hemen ilk teklifte kabul etmek görgüsüzlük sayılır (en az 2-3 kez kibarca reddedilmelidir); ayakkabıyla halıya basılmaz; büyüklerin yanında ayak uzatılmaz.",
+      "literary_and_artistic_archetypes": "Hafız-ı Şirazi, Ömer Hayyam, Firdevsi (Şehname), Sadi-i Şirazi, Mevlana; Abbas Kiyarüstemi sineması, el dokuması İsfahan ipek halıları."
+    },
+    {
+      "country": "Mısır",
+      "code": "EGY",
+      "capital": "Kahire (Nil Kıyısı & Tarih: İskenderiye, Luksor, Asvan)",
+      "civilization_crossroads": "7.000 Yıllık Antik Firavunlar Medeniyeti + Kıpti Hristiyan Mirası + İslam Halifeliği ve El-Ezher İlmi + Modern Arap Edebiyatı Merkezi.",
+      "core_cultural_ethos": "Nil Nehri'nin getirdiği sonsuz sabır ve bereket inancı, mizah ve nükteye sığınma (Nokta kültürü), mertlik ve cömertlik (Gad'ana) ve geniş aile bağları.",
+      "untranslatable_soul_concepts": [
+        {"word": "Gad'ana", "meaning": "Zor durumdaki bir komşunun veya yabancının yardımına hiçbir menfaat beklemeden koşan, mert, cesur ve güvenilir sokak delikanlılığı ahlakı."},
+        {"word": "Eish", "meaning": "Mısır Arapçasında hem 'Ekmek' hem de 'Hayat/Yaşamak' anlamına gelen, ekmeğin varoluşla bir tutulduğu kutsal kelime."},
+        {"word": "Ma'alesh", "meaning": "Boşver, canın sağ olsun, kader böyleymiş; tüm dertleri ve kazaları sabırla savuşturan kadim teselli sözü."}
+      ],
+      "social_rituals_and_lifestyle": "Tarihi Han el-Halili çarşısındaki geleneksel kahvehanelerde (Ahwa) nane çayı ve nargile eşliğinde tavla oynamak; sokak radyolarından yükselen Ümmü Gülsüm şarkılarını huşu içinde dinlemek; Cuma namazı sonrası mahalle buluşmaları.",
+      "communication_style": "Canlı, Esprili ve Tiyatral. Mısırlılar en büyük kriz anlarında dahi fıkra anlatarak ve şakalaşarak rahatlamayı bir yaşam refleksi haline getirmiştir.",
+      "gastronomic_philosophy": "Halkın doyurucu konfor yemekleri. Pirinç, makarna, mercimek, nohut ve kavrulmuş soğanla hazırlanan ulusal lezzet Koshari, bakla ezmesi (Ful Medames) ve sarımsaklı yeşil ot çorbası (Mulukhiyah).",
+      "social_taboos_and_etiquette": "Yemeğin tuzuna bakmadan masada ekstra tuz istemek aşçıya hakaret sayılır; sol el temiz kabul edilmez; yaşlıların yanında sigara içmek veya yüksek sesle gülmek ayıplanır.",
+      "literary_and_artistic_archetypes": "Necib Mahfuz (Nobel Edebiyat Ödülü), Taha Hüseyin; Ümmü Gülsüm (Doğu'nun Yıldızı), Abdülhalim Hafız; Piramitler ve İslam Kahiresi mimarisi."
+    },
+    {
+      "country": "Güney Afrika",
+      "code": "ZAF",
+      "capital": "Pretoria (Yasama: Cape Town, Yargı: Bloemfontein, Ticaret: Johannesburg)",
+      "civilization_crossroads": "Kadim San ve Khoi Halkları + Bantu Göçleri (Zulu, Xhosa) + Felemenk ve İngiliz Sömürge Dönemi + Apartheid Mücadelesi ve Gökkuşağı Ulusu.",
+      "core_cultural_ethos": "Ubuntu ('Ben, biz olduğumuz için benim'), affedicilik ve uzlaşma iradesi, kabile dayanışması, doğayla iç içe yaşam ve sporla birleşen ulusal gurur.",
+      "untranslatable_soul_concepts": [
+        {"word": "Ubuntu", "meaning": "İnsanlığın birbirine bağlı olduğu inancı: 'Bir insan ancak başka insanlar aracılığıyla gerçek bir insandır.'"},
+        {"word": "Simunye", "meaning": "'Biz biriz'; farklı dillerden, ırklardan ve kökenlerden gelen insanların ortak bir kaderde kardeşleşmesi ideali."},
+        {"word": "Lekker", "meaning": "Harika, lezzetli, neşeli, keyifli olan her durumu tanımlayan en popüler yerel ifade."}
+      ],
+      "social_rituals_and_lifestyle": "Hafta sonları etlerin kömür ateşinde saatlerce pişirildiği ve herkesin bir araya geldiği Braai (açık hava mangalı); Rugby ve Kriket milli maçlarında stadyumları inleten marşlar; sokaklarda icra edilen enerjik Gumboot dansı.",
+      "communication_style": "Sıcak, Rahat ve 11 Resmi Dilin Zenginliğiyle Harmanlanmış. İnsanlar karşılaştıklarında mutlaka hal hatır sorar, aceleci iş konuşmaları kaba bulunur.",
+      "gastronomic_philosophy": "Kültürlerin füzyonu. Biltong (kurutulmuş baharatlı et), Bobotie (baharatlı kıymalı güveç), Chakalaka acı sebze sosu, Boerewors sosisi ve Rooibos çayı.",
+      "social_taboos_and_etiquette": "Irkçı veya ayrımcı ima ve şakalar en ağır toplumsal tabudur; bir eve davet edildiğinde Braai için kendi içeceğini veya katkısını getirmemek görgüsüzlük sayılır.",
+      "literary_and_artistic_archetypes": "Nelson Mandela, Desmond Tutu, J.M. Coetzee, Nadine Gordimer; Miriam Makeba (Mama Africa), Hugh Masekela; Masa Dağı ve Kruger vahşi doğası."
+    },
+    {
+      "country": "Meksika",
+      "code": "MEX",
+      "capital": "Mexico City (CDMX)",
+      "civilization_crossroads": "Maya ve Aztek Medeniyetleri + İspanyol Katolik Barok Mirası + Zapatista Devrimci Köylü Ruhu + Canlı Çağdaş Sanat.",
+      "core_cultural_ethos": "Ölümle barışık olma ve onu hayatın kardeşi sayma, aileye mutlak bağlılık (Familismo), renk cümbüşü, şarkılarla hüzün dağıtma ve kaderci neşe.",
+      "untranslatable_soul_concepts": [
+        {"word": "Apapachar", "meaning": "Nahuatl dilinden gelen ve 'Ruhu kucaklamak, bedenin ötesinde bir insanın kalbini şefkatle okşamak' anlamına gelen en derin sevgi sözcüğü."},
+        {"word": "Sobremesa", "meaning": "Zengin yemek sonrası masada kalarak aileyle ve dostlarla saatlerce süren tatlı dedikodu ve sohbet zamanı."},
+        {"word": "Madre", "meaning": "Yalnızca biyolojik anne değil; kültürde kutsallığı, saygıyı ve tüm duygusal patlamaları temsil eden merkezi arketip."}
+      ],
+      "social_rituals_and_lifestyle": "Día de los Muertos (Ölüler Günü) festivalinde mezarlıkları kadife çiçekleri ve mumlarla süsleyip ölmüş akrabalarla 'şenlik' yapma; sokak köşelerinde Mariachi müzisyenlerinin aşk ve kahramanlık serenatları; Pazar günleri aile piknikleri.",
+      "communication_style": "Dolaylı, Nezaket Yüklü ve Küçültme Ekleriyle (Diminutivos) Dolu. 'Ahorita' (hemen şimdi) demek aslında 'belki sonra veya hiçbir zaman' anlamına gelebilir.",
+      "gastronomic_philosophy": "UNESCO İnsanlık Mirası Meksika Mutfağı. Mısır (Maiz) kutsal varoluş unsurudur. Yüzlerce çeşit acı biber (Chili), kakao ve baharatlarla günlerce kaynatılan Mole sosu, Taco çeşitleri, Guacamole ve Tequila/Mezcal.",
+      "social_taboos_and_etiquette": "Bir annenin veya ev sahibinin hazırladığı acı yemeği veya tekilayı elinin tersiyle itmek; birinin annesine yönelik argo kullanmak ölümcül hakaret sayılır.",
+      "literary_and_artistic_archetypes": "Octavio Paz, Juan Rulfo, Carlos Fuentes; Frida Kahlo, Diego Rivera duvar resimleri; Chichen Itza piramitleri ve Mariachi müziği."
+    },
+    {
+      "country": "İsveç",
+      "code": "SWE",
+      "capital": "Stockholm",
+      "civilization_crossroads": "Viking Denizcilik Mirası + Protestan İş Ahlakı + Sosyal Demokrat Refah Devleti Modeli + Doğa Merkezli Ekolojik Bilinç.",
+      "core_cultural_ethos": "Denge ve itidal (Lagom), eşitlikçilik ve kimsenin kendini kimseden üstün görmemesi kuralı (Janteloven), doğayla uyum ve kamusal dürüstlük.",
+      "untranslatable_soul_concepts": [
+        {"word": "Lagom", "meaning": "Ne çok fazla, ne çok az; tam kararında, yeterli, dengeli ve ölçülü olma erdemi."},
+        {"word": "Fika", "meaning": "Günde en az bir-iki kez işi bırakıp kahve ve taze fırından çıkmış tarçınlı çörek (Kanelbulle) eşliğinde dostlarla yapılan dinlendirici sosyal mola."},
+        {"word": "Allemansrätten", "meaning": "Doğada serbestçe dolaşma, çadır kurma ve yabani çilek/mantar toplama anayasal hakkı; doğanın tüm insanlara ait olduğu inancı."}
+      ],
+      "social_rituals_and_lifestyle": "Yılın en uzun gününde çiçekten taçlar takılıp direk etrafında dans edilen Midsommar kutlaması; kış aylarında pencerelere sıcak mumlar koyup Fika yapmak; buz tutmuş göllerde yüzüp ardından ahşap saunaya girmek.",
+      "communication_style": "Düşük Bağlamlı, Aşırı Sakin, Ölçülü ve Mütevazı. Övünmek veya zenginliğini uluorta sergilemek 'Janteloven' kuralına göre büyük bir görgüsüzlüktür.",
+      "gastronomic_philosophy": "Kuzey doğasının sade lezzetleri. Yaban mersini reçeliyle sunulan İsveç köftesi (Köttbullar), marine ringa balığı (Sill), somon gravlax, çavdar gevreği (Knäckebröd) ve mayalanmış tuzlu balık (Surströmming).",
+      "social_taboos_and_etiquette": "Kişisel alana fiziksel olarak fazla yaklaşmak; sıraya kaynak yapmak; fika davetini 'işim var' diyerek sürekli reddetmek asosyallik kabul edilir.",
+      "literary_and_artistic_archetypes": "August Strindberg, Astrid Lindgren (Pippi Uzunçorap); Ingmar Bergman sineması; ABBA, Roxette; İskandinav minimalist mobilya ve mimarisi."
+    },
+    {
+      "country": "Yunanistan",
+      "code": "GRC",
+      "capital": "Atina",
+      "civilization_crossroads": "Antik Helen Felsefesi, Tiyatrosu ve Demokrasisi + Doğu Roma (Bizans) Ortodoks Mirası + 400 Yıllık Osmanlı Ortak Yaşamı + Ege ve Akdeniz Ada Ruhu.",
+      "core_cultural_ethos": "Şeref, haysiyet ve dostuna karşı görev bilinci (Philotimo), yaşama aşkı ve coşku (Kefi), bir işi canını ve ruhunu katarak yapma arzusu (Meraki) ve deniz sevdası.",
+      "untranslatable_soul_concepts": [
+        {"word": "Philotimo", "meaning": "Kelime anlamıyla 'onur sevgisi'; kişinin ailesine, dostlarına ve topluma karşı hiçbir karşılık beklemeden hissettiği derin fedakarlık, asalet ve şeref duygusu."},
+        {"word": "Meraki", "meaning": "Bir yemeği pişirirken, bir resmi yaparken veya bir işi icra ederken içine ruhunu, sevgini ve benliğini katma tutkusu."},
+        {"word": "Kefi", "meaning": "Müzikle, dansla veya iyi bir sohbetle gelen, kederleri silip süpüren taşkın yaşama neşesi ve coşku anı."}
+      ],
+      "social_rituals_and_lifestyle": "Akşamları deniz kıyısındaki geleneksel tavernalarda buzuki eşliğinde uzo ve meze sofrası; öğleden sonraları buzlu Frappe içilerek saatlerce süren meydan sohbetleri; Paskalya'da (Pascha) sokaklarda kuzu çevirme şenlikleri.",
+      "communication_style": "Yüksek Bağlamlı, Hararetli, Samimi ve Jestlerle Dolu. Politik ve felsefi tartışmalar bir kavga değil, Antik Agora geleneğinin günümüzdeki eğlenceli bir devamıdır.",
+      "gastronomic_philosophy": "Güneşin ve zeytinin bereketi. Sızma zeytinyağı, Feta peyniri, Yunan salatası (Horiatiki), Musakka, Souvlaki ve denizden taze çıkmış ızgara ahtapot.",
+      "social_taboos_and_etiquette": "Misafire ikram edilen mezeleri veya uzoyu geri çevirmek; birinin yüzüne doğru avuç içini açık şekilde uzatmak (Moutza jesti - en ağır hakaret) büyük tabudur.",
+      "literary_and_artistic_archetypes": "Homeros, Platon, Aristoteles, Nikos Kazancakis (Zorba); Mikis Theodorakis (Sirtaki), Maria Callas; Akropolis ve Kiklad ada mimarisi."
+    },
+    {
+      "country": "Arjantin",
+      "code": "ARG",
+      "capital": "Buenos Aires",
+      "civilization_crossroads": "İspanyol ve İtalyan Göçmen Dalgası + Pampa Bozkırlarının Gaucho (Kovboy) Özgürlüğü + Paris Mimarisi Özentisi + Latin Amerika Tutkusu.",
+      "core_cultural_ethos": "Derin melankoli ve nostalji, dostluk kültü (Amistad), retorik ve ikna sanatı (Chamuyo), futbol tutkusu ve paylaşarak içilen Mate çayı kardeşliği.",
+      "untranslatable_soul_concepts": [
+        {"word": "Chamuyo", "meaning": "Bir insanı etkilemek, ikna etmek veya büyülemek için kullanılan son derece tatlı, edebi, esprili ve akıcı laf cambazlığı."},
+        {"word": "Bronca", "meaning": "Haksızlığa, yolsuzluğa veya hayal kırıklığına karşı insanın içini kavuran, isyana dönüşen yoğun öfke ve hırs patlaması."},
+        {"word": "Gaucho", "meaning": "Yalnızca bozkır kovboyu değil; özgürlüğüne düşkün, cömert, mert ve at sırtında yaşayan efsanevi halk kahramanı figürü."}
+      ],
+      "social_rituals_and_lifestyle": "Özel metal pipet (Bombilla) ve kabak kapta (Calabaza) hazırlanan Mate çayının elden ele dolaştırılarak ortak içilmesi; saatler süren odun ateşinde Asado (et ziyafeti); San Telmo sokaklarında doğaçlama Tango dansı; pazar günleri stadyumlarda hayatı durduran futbol derbileri.",
+      "communication_style": "İtalyan Tarzı Teatral El Hareketleri, Yüksek Özgüven ve Felsefi Derinlik. Arjantinliler dünyada kişi başına en çok psikanaliste giden halktır; kendi ruh hallerini analiz etmeyi bir sanat olarak severler.",
+      "gastronomic_philosophy": "Ateş ve etin mükemmel dansı. Pampa sığırlarının odun kömüründe piştiği Asado, Chimichurri sosu, kıymalı Empanadas böreği, Dulce de Leche (süt reçeli) ve Malbec şarapları.",
+      "social_taboos_and_etiquette": "Sana uzatılan Mate çayını aldıktan sonra 'Gracias' (teşekkür ederim) demek 'daha fazla istemiyorum, doydum' anlamına gelir (içmeye devam etmek istiyorsan sessizce geri uzatmalısın); futbol kulübü tercihleriyle alay etmek kavga sebebidir.",
+      "literary_and_artistic_archetypes": "Jorge Luis Borges, Julio Cortázar; Carlos Gardel, Astor Piazzolla (Nuevo Tango); Diego Maradona, Lionel Messi; La Boca renkli sokakları."
     }
   ]
 }

@@ -185,8 +185,8 @@ for c in culture_data["countries_cultural_dna"]:
     culture_rows.append(f"| **{c['country']}** (`{c['code']}`) | {c['core_cultural_ethos'][:65]}... | {words} | {c['communication_style'][:35]} | {c['gastronomic_philosophy'][:65]}... |")
 culture_table_md = "\n".join(culture_rows)
 
-master_readme_content = f"""# 🌍 DÜNYA MEDENİYETLERİ, KÜLTÜREL KODLAR & DERİN GÜÇ ATLASI
-### *205 Ülkenin Kültürel DNA'sı, Yaşam Felsefesi, Medeniyet Havzaları ve Gerçek İktidar Anatomisi Ansiklopedisi*
+master_readme_content = f"""# 🏛️ MEDENİYET ATLASI
+### *Dünya Uluslarının Kültürel Kodları, Yaşam Felsefesi, Medeniyet Havzaları ve Gerçek İktidar Anatomisi Ansiklopedisi*
 
 <p align="center">
   <img src="assets/images/hero_banner.jpg" alt="Global X-Ray Hero Banner" width="100%">
@@ -716,8 +716,8 @@ python tests/test_integrity.py
 ---
 
 <p align="center">
-  <b>KÜRESEL RÖNTGEN (GLOBAL X-RAY)</b> &copy; 2026 &bull; <i>Hakikat, gizlenenlerin toplamıdır.</i><br/>
-  <i>"Veritas vos liberabit." (Gerçek sizi özgür kılacaktır.)</i>
+  <b>MEDENİYET ATLASI (CIVILIZATION ATLAS)</b> &copy; 2026 &bull; <i>Dünya uluslarını ruhlarıyla tanımak, gerçeği tüm katmanlarıyla anlamak.</i><br/>
+  <i>"İnsan bilmediğinin düşmanıdır; tanıdıkça sever ve anlar."</i>
 </p>
 """
 

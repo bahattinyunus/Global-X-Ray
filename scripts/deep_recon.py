@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 scripts/deep_recon.py
-Küresel Röntgen Çok Katmanlı Derin İstihbarat Keşif Motoru (Deep Reconnaissance Engine)
+Medeniyet Atlası Çok Katmanlı Kültür & Derin Güç Keşif Motoru (Deep Reconnaissance Engine)
 
 Kullanım:
   python scripts/deep_recon.py <ulke_adi_veya_kodu>
@@ -41,6 +41,7 @@ def run_deep_recon(query, export_md=False):
     swf_data = load_json("sovereign_wealth_funds_registry.json")
     cables_data = load_json("subsea_cables_and_sigint_stations.json")
     shadow_fleet_data = load_json("shadow_fleet_maritime_registry.json")
+    culture_data = load_json("cultural_codes_and_civilizations_registry.json")
 
     # Ülkeyi bul
     q = query.lower().strip()
@@ -113,12 +114,27 @@ def run_deep_recon(query, export_md=False):
         if target["name"].lower() in st.get("country", "").lower():
             sigint_stations.append(f"{st['station_name']} ({st['operator']})")
 
+    # Kültürel Kodlar
+    target_culture = None
+    for cd in culture_data.get("countries_cultural_dna", []):
+        if cd.get("code") == target["code"] or target["name"].lower() in cd.get("country", "").lower():
+            target_culture = cd
+            break
+
     # Rapor çıktısı
     lines = []
     lines.append("=" * 80)
-    lines.append(f"🎯 KÜRESEL RÖNTGEN DERİN İSTİHBARAT KEŞİF RAPORU (DEEP RECON)")
+    lines.append(f"🎯 MEDENİYET ATLASI DERİN KEŞİF RAPORU (DEEP RECON)")
     lines.append(f"   HEDEF: {target['name'].upper()} ({target['code']}) &bull; BAŞKENT: {target['capital'].upper()}")
     lines.append("=" * 80)
+    if target_culture:
+        lines.append("🎭 MEDENİYET KİMLİĞİ VE KÜLTÜREL KODLAR:")
+        lines.append(f"   [+] Medeniyet Havzası: {target_culture.get('civilization_crossroads')}")
+        lines.append(f"   [+] Ulusal Karakter:   {target_culture.get('core_cultural_ethos')}")
+        lines.append(f"   [+] İletişim Tarzı:    {target_culture.get('communication_style')}")
+        words = [f"{w['word']} ({w['meaning'][:40]}...)" for w in target_culture.get("untranslatable_soul_concepts", [])[:3]]
+        lines.append(f"   [+] Kilit Kavramlar:   {'; '.join(words)}")
+        lines.append("-" * 80)
     lines.append(f"• Doğrulama Kodu:         NATO / Admiralty B2+ (Genellikle Güvenilir / Teyitli)")
     lines.append(f"• Ekonomik Güç Bloğu:     {target.get('economy_group_name', 'Bilinmiyor')} [{target.get('economy_group_id', '')}]")
     lines.append(f"• Coğrafi Bölge:          {target['region'].upper()}")

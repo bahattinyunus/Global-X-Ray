@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 scripts/xray_cli.py
-Küresel Röntgen (Global X-Ray) - Komut Satırı İstihbarat & Analiz Terminali
+Medeniyet Atlası (Civilization Atlas) - Kültürel Kodlar, Yaşam Felsefesi & Güç Terminali
 
 Kullanım:
   python scripts/xray_cli.py country <ulke_adi_veya_kodu>
@@ -100,9 +100,9 @@ def show_country(query: str):
     shadow_path = c_dir / "04_shadow_power_osint" / "real_power_dynamics.md"
     oligarch_path = c_dir / "04_shadow_power_osint" / "oligarch_network.csv"
 
-    print("=" * 75)
-    print(f"🌍 KÜRESEL RÖNTGEN RAPORU: {c['name'].upper()} ({c['code']})")
-    print("=" * 75)
+    print("=" * 80)
+    print(f"🏛️ MEDENİYET ATLASI RAPORU: {c['name'].upper()} ({c['code']})")
+    print("=" * 80)
     print(f"• Bölge: {c['region'].replace('_', ' ').title()}")
     print(f"• Başkent: {c['capital']}")
     print(f"• Nüfus: {c['population']:,}")
@@ -574,7 +574,7 @@ def show_stats():
     avg_shadow = sum(c.get("shadow_economy_pct", 0) for c in registry) / len(registry)
     
     print("=" * 60)
-    print("🌐 KÜRESEL RÖNTGEN SİSTEM İSTATİSTİKLERİ")
+    print("🌐 MEDENİYET ATLASI - SİSTEM İSTATİSTİKLERİ")
     print("=" * 60)
     print(f"• Kayıtlı Toplam Varlık Sayısı: {len(registry)} Ülke & Bölge")
     print(f"• Toplam Dünya Nüfusu:          {total_pop:,}")
@@ -601,7 +601,7 @@ def show_economy_groups(query=None):
         groups = matched_groups
 
     print("=" * 70)
-    print("📊 KÜRESEL RÖNTGEN - EKONOMİK ARKETİPLER VE GÜÇ BLOKLARI")
+    print("📊 MEDENİYET ATLASI - EKONOMİK ARKETİPLER VE GÜÇ BLOKLARI")
     print("=" * 70)
     for gid, data in sorted(groups.items()):
         total_gdp = sum(c.get("gdp_usd_b", 0) for c in data["countries"])

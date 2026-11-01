@@ -204,7 +204,10 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
             "CASE_STUDY_PEGASUS_PROJECT.md",
             "CASE_STUDY_PANDORA_PAPERS_AND_OFFSHORE_SECRECY.md",
             "CASE_STUDY_NORD_STREAM_SABOTAGE_AND_ENERGY_WARFARE.md",
-            "CASE_STUDY_OPERATION_GLADIO_AND_STAY_BEHIND_NETWORKS.md"
+            "CASE_STUDY_OPERATION_GLADIO_AND_STAY_BEHIND_NETWORKS.md",
+            "CASE_STUDY_BCCI_THE_BANK_OF_CROOKS_AND_CLINICS.md",
+            "CASE_STUDY_STUXNET_OLYMPIC_GAMES_CYBER_SABOTAGE.md",
+            "CASE_STUDY_CAMBRIDGE_ANALYTICA_AND_PSYCHOGRAPHIC_WARFARE.md"
         ]
         for case in expected_cases:
             case_path = dossiers_dir / case
@@ -218,6 +221,8 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
         sanctions_file = self.datasets_dir / "sanctions_and_embargoes_registry.json"
         minerals_file = self.datasets_dir / "critical_raw_materials_supply_chain.json"
         cables_file = self.datasets_dir / "subsea_cables_and_sigint_stations.json"
+        swf_file = self.datasets_dir / "sovereign_wealth_funds_registry.json"
+        darkfleet_file = self.datasets_dir / "shadow_fleet_maritime_registry.json"
 
         self.assertTrue(choke_file.exists(), "chokepoints_registry.json eksik!")
         self.assertTrue(pmc_file.exists(), "pmc_mercenary_groups.json eksik!")
@@ -225,6 +230,8 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
         self.assertTrue(sanctions_file.exists(), "sanctions_and_embargoes_registry.json eksik!")
         self.assertTrue(minerals_file.exists(), "critical_raw_materials_supply_chain.json eksik!")
         self.assertTrue(cables_file.exists(), "subsea_cables_and_sigint_stations.json eksik!")
+        self.assertTrue(swf_file.exists(), "sovereign_wealth_funds_registry.json eksik!")
+        self.assertTrue(darkfleet_file.exists(), "shadow_fleet_maritime_registry.json eksik!")
 
     def test_strategic_datasets_structure(self):
         """Yeni stratejik veri setlerinin JSON içerik ve şema bütünlüğü test edilir."""
@@ -251,6 +258,19 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
             cables = json.load(f)
             self.assertIn("critical_cable_corridors", cables)
             self.assertIn("global_sigint_interception_stations", cables)
+
+        # 5. SWF
+        with open(self.datasets_dir / "sovereign_wealth_funds_registry.json", "r", encoding="utf-8") as f:
+            swfs = json.load(f)
+            self.assertIn("funds", swfs)
+            self.assertGreaterEqual(len(swfs["funds"]), 10)
+
+        # 6. Shadow Fleet
+        with open(self.datasets_dir / "shadow_fleet_maritime_registry.json", "r", encoding="utf-8") as f:
+            darkfleet = json.load(f)
+            self.assertIn("fleet_metrics", darkfleet)
+            self.assertIn("flags_of_convenience", darkfleet)
+            self.assertIn("sts_transfer_chokepoints", darkfleet)
             self.assertGreaterEqual(len(cables["critical_cable_corridors"]), 4)
 
 if __name__ == "__main__":

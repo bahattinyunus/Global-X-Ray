@@ -17,6 +17,10 @@ Kullanım:
   python scripts/xray_cli.py sanctions [ulke_kodu]
   python scripts/xray_cli.py minerals [maden_id]
   python scripts/xray_cli.py cables [bolge_id]
+  python scripts/xray_cli.py swf [fon_veya_ulke]
+  python scripts/xray_cli.py darkfleet
+  python scripts/xray_cli.py recon <ulke_adi>
+  python scripts/xray_cli.py research [konu]
   python scripts/xray_cli.py cases
   python scripts/xray_cli.py list [bolge]
   python scripts/xray_cli.py stats
@@ -45,6 +49,8 @@ ALLIANCES_PATH = BASE_DIR / "global_datasets" / "defense_alliances_and_treaties.
 SANCTIONS_PATH = BASE_DIR / "global_datasets" / "sanctions_and_embargoes_registry.json"
 MINERALS_PATH = BASE_DIR / "global_datasets" / "critical_raw_materials_supply_chain.json"
 CABLES_PATH = BASE_DIR / "global_datasets" / "subsea_cables_and_sigint_stations.json"
+SWF_PATH = BASE_DIR / "global_datasets" / "sovereign_wealth_funds_registry.json"
+DARKFLEET_PATH = BASE_DIR / "global_datasets" / "shadow_fleet_maritime_registry.json"
 DOSSIERS_DIR = BASE_DIR / "dossiers"
 RESEARCH_DIR = BASE_DIR / "research"
 
@@ -363,6 +369,53 @@ def show_research(query=None):
         print(f"  • {f.name:<55} ({size_kb:,.1f} KB) -> research/{f.name}")
     print("=" * 80)
 
+def show_swfs(query=None):
+    if not SWF_PATH.exists():
+        print("[-] Egemen varlık fonları veritabanı bulunamadı.")
+        return
+    with open(SWF_PATH, "r", encoding="utf-8") as f:
+        funds = json.load(f).get("funds", [])
+    if query:
+        q = query.lower()
+        funds = [fn for fn in funds if q in fn["name"].lower() or q in fn["country"].lower() or q in fn["id"].lower()]
+    print(f"💰 KÜRESEL EGEMEN VARLIK FONLARI (SWF) ({len(funds)} Fon):")
+    print("=" * 80)
+    for fn in funds:
+        print(f"[{fn['id']}] {fn['name']} ({fn['country']})")
+        print(f"  • Varlık Hacmi (AUM): ${fn['assets_under_management_usd_b']:,.1f} Milyar USD")
+        print(f"  • Fon Kaynağı:        {fn['funding_source']}")
+        print(f"  • Yönetim Modeli:     {fn['governance_model']}")
+        print(f"  • Stratejik Varlık:   {fn['strategic_holdings']}")
+        print(f"  • Jeopolitik Kaldıraç:{fn['geopolitical_leverage']}")
+        print("-" * 80)
+
+def show_darkfleet(query=None):
+    if not DARKFLEET_PATH.exists():
+        print("[-] Gölge filo veritabanı bulunamadı.")
+        return
+    with open(DARKFLEET_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    metrics = data.get("fleet_metrics", {})
+    flags = data.get("flags_of_convenience", [])
+    sts = data.get("sts_transfer_chokepoints", [])
+    print("🚢 KÜRESEL GÖLGE TANKER FİLOSU (DARK FLEET) & STS TRANSFERLERİ:")
+    print("=" * 80)
+    print(f"• Aktif Gölge Tanker Sayısı:  ~{metrics.get('estimated_active_vessels')} Gemi")
+    print(f"• Küresel Tanker Tonaj Payı:  %{metrics.get('share_of_global_tanker_tonnage_pct')}")
+    print(f"• Ortalama Gemi Yaşı:         {metrics.get('average_vessel_age_years')} Yıl")
+    print(f"• Yük Menşeleri:              {', '.join(metrics.get('primary_cargo_origins', []))}")
+    print(f"• Ana Rotalar:                {', '.join(metrics.get('primary_destinations', []))}")
+    print("-" * 80)
+    print("🚩 ÖNE ÇIKAN KOLAYLIK BAYRAKLARI (Flags of Convenience):")
+    for fl in flags:
+        print(f"  [{fl['flag_state']}] - {fl['registered_dark_vessels']} Gemi | {fl['risk_profile']}")
+    print("-" * 80)
+    print("⚓ DENİZ ÜSTÜ GEMİDEN GEMİYE (STS) AKTARIM KORİDORLARI:")
+    for s in sts:
+        print(f"  [{s['zone_name']}] - {s['location']}")
+        print(f"    * {s['operations']}")
+    print("=" * 80)
+
 def show_stats():
     registry = load_registry()
     total_gdp = sum(c.get("gdp_usd_b", 0) for c in registry)
@@ -444,6 +497,15 @@ def main():
     elif cmd in ["research", "arastirma", "tez"]:
         q = sys.argv[2] if len(sys.argv) > 2 else None
         show_research(q)
+    elif cmd in ["swf", "fon", "varlik-fonu"]:
+        q = sys.argv[2] if len(sys.argv) > 2 else None
+        show_swfs(q)
+    elif cmd in ["darkfleet", "tanker", "golge-filo"]:
+        q = sys.argv[2] if len(sys.argv) > 2 else None
+        show_darkfleet(q)
+    elif cmd in ["recon", "kesif", "dossier"] and len(sys.argv) > 2:
+        from deep_recon import run_deep_recon
+        run_deep_recon(" ".join(sys.argv[2:]))
     elif cmd in ["alliances", "ittifak", "pakt"]:
         q = sys.argv[2] if len(sys.argv) > 2 else None
         show_alliances(q)

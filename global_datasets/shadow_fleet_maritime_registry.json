@@ -1,0 +1,79 @@
+{
+  "title": "Küresel Gölge Tanker Filosu (Dark Fleet) ve Deniz Yaptırımları Baypas Kaydı",
+  "doctrine": "G7 ve AB ham petrol tavan fiyatı ($60/varil) ile deniz taşımacılığı sigorta yasakları; modern deniz ticaretinde tarihin en büyük gayriresmi filosunun doğmasına yol açmıştır. Küresel ham petrol tankerlerinin %10-15'ini oluşturan 800'den fazla 'hayalet tanker', uydu takip sistemlerini karartarak yaptırımlı petrolü dünya pazarlarına taşımaktadır.",
+  "fleet_metrics": {
+    "estimated_active_vessels": 850,
+    "share_of_global_tanker_tonnage_pct": 13.5,
+    "primary_cargo_origins": ["Russia (Primorsk, Ust-Luga, Novorossiysk, Kozmino)", "Iran (Kharg Island)", "Venezuela (Jose Terminal)"],
+    "primary_destinations": ["China (Shandong Teapot Refineries)", "India (Vadinar, Jamnagar, Paradip)", "Turkey", "UAE (Fujairah blending hubs)"],
+    "average_vessel_age_years": 18.5
+  },
+  "flags_of_convenience": [
+    {
+      "flag_state": "Gabon",
+      "code": "GAB",
+      "registered_dark_vessels": 140,
+      "risk_profile": "Çok Yüksek; Batı yaptırımlarından kaçan eski Sovyet ve Yunan tankerlerinin toplu tescil merkezi; teftiş ve denetim sıfır seviyesinde."
+    },
+    {
+      "flag_state": "Cameroon",
+      "code": "CMR",
+      "registered_dark_vessels": 65,
+      "risk_profile": "Aşırı Yüksek; Paris MoU kara listesinde en alt sırada; sigortasız ve teknik kusurlu tankerlerin sığınağı."
+    },
+    {
+      "flag_state": "Palau",
+      "code": "PLW",
+      "registered_dark_vessels": 90,
+      "risk_profile": "Yüksek; Pasifik ada devleti sicili; İran ve Rus petrol sevkiyatlarında transponder karartan VLCC'ler."
+    },
+    {
+      "flag_state": "Cook Islands",
+      "code": "COK",
+      "registered_dark_vessels": 110,
+      "risk_profile": "Yüksek; deniz kazalarında sorumluluk kabul etmeyen bayrak yapısı."
+    },
+    {
+      "flag_state": "Panama & Liberia (Historical Flags)",
+      "code": "PAN_LBR",
+      "registered_dark_vessels": 180,
+      "risk_profile": "Orta-Yüksek; ABD Hazine Bakanlığı (OFAC) baskısı sonucu bayrak iptalleri artsa da paravan şirketler üzerinden kullanılmaya devam etmektedir."
+    }
+  ],
+  "sts_transfer_chokepoints": [
+    {
+      "zone_name": "Lakonya Körfezi (Laconian Gulf)",
+      "location": "Yunanistan Karasuları Dışı / Mora Yarımadası Açıkları",
+      "operations": "Rusya'nın Baltık limanlarından gelen Aframax/Suezmax tankerleri, yüklerini uluslararası sularda dev VLCC süper tankerlerine aktarır (STS); petrol menşei kamufle edilir."
+    },
+    {
+      "zone_name": "Ceuta & Alboran Denizi",
+      "location": "Fas Açıkları / Cebelitarık Girişi",
+      "operations": "Kuzey limanlarından gelen buz sınıfı tankerler, kış aylarında Cebelitarık boğazı girişinde yüklerini bekleyen gölge tankerlere devreder."
+    },
+    {
+      "zone_name": "Fujairah Açıkları & Hürmüz Dışı",
+      "location": "Birleşik Arap Emirlikleri / Umman Denizi",
+      "operations": "İran ve Rus ham petrolünün kimyasal olarak harmanlanarak 'Irak', 'Malezya' veya 'BAE harmanı' adıyla yeniden sertifikalandırıldığı küresel merkez."
+    },
+    {
+      "zone_name": "Pulau Linggi & Malakka Boğazı",
+      "location": "Malezya Açıkları",
+      "operations": "Çin'e giden İran petrolünün 'Malezya menşeli' olarak beyan edildiği devasa deniz üstü transfer bölgesi; Malezya'nın Çin'e petrol ihracatı kendi toplam üretiminin iki katına çıkmıştır."
+    }
+  ],
+  "tactics_and_deception": [
+    {
+      "technique": "AIS Karartma ve Sahte GPS Yayını (Spoofing)",
+      "description": "Tankerlerin otomatik tanımlama sistemlerini günlerce kapatması veya gemi Akdeniz'de iken sahte sinyallerle kendisini Atlantik ortasında gibi göstermesi."
+    },
+    {
+      "technique": "Bayrak ve İsim Atlama (Flag Hopping)",
+      "description": "Bir tankerin birkaç ay içinde Panama'dan Gabon'a, ardından Palau'ya geçerek şirket ve IMO sicil kayıtlarının izini sürmeyi imkansızlaştırması."
+    },
+    {
+      "technique": "Merdivenaltı Sigortacılık (P&I Club Evasion)",
+      "description": "Uluslararası P&I Kulüpleri Grubu'ndan dışlanan tankerlerin Rus şirketi Ingosstrakh veya denetimsiz Dubai/Kamerun paravan sigorta şirketlerinden sahte poliçeler alması; olası çevre felaketinde sıfır tazminat garantisi."
+    }
+  ]
+}

@@ -45,6 +45,12 @@ with open(BASE_DIR / "global_datasets" / "critical_raw_materials_supply_chain.js
 with open(BASE_DIR / "global_datasets" / "subsea_cables_and_sigint_stations.json", encoding="utf-8") as f:
     cables_data = json.load(f)
 
+with open(BASE_DIR / "global_datasets" / "sovereign_wealth_funds_registry.json", encoding="utf-8") as f:
+    swf_data = json.load(f)
+
+with open(BASE_DIR / "global_datasets" / "shadow_fleet_maritime_registry.json", encoding="utf-8") as f:
+    shadow_fleet_data = json.load(f)
+
 # Türkçe isme göre alfabetik sırala
 countries_sorted = sorted(countries, key=lambda x: x["name"])
 
@@ -125,6 +131,24 @@ for sg in cables_data["global_sigint_interception_stations"]:
     sigint_rows.append(f"| **{sg['station_name']}** | {sg['country']} | {sg['operator']} | {sg['location']} |")
 sigint_table_md = "\n".join(sigint_rows)
 
+# Egemen Varlık Fonları (SWF) Tablosu
+swf_rows = []
+for sw in swf_data["funds"]:
+    swf_rows.append(f"| **{sw['name']}** (`{sw['id']}`) | {sw['country']} | ${sw['assets_under_management_usd_b']:,.1f}B | {sw['funding_source'][:45]}... | {sw['geopolitical_leverage'][:65]}... |")
+swf_table_md = "\n".join(swf_rows)
+
+# Gölge Filo Bayrak Tablosu
+darkfleet_flag_rows = []
+for fl in shadow_fleet_data["flags_of_convenience"]:
+    darkfleet_flag_rows.append(f"| **{fl['flag_state']}** (`{fl['code']}`) | {fl['registered_dark_vessels']} Gemi | {fl['risk_profile'][:80]}... |")
+darkfleet_flags_md = "\n".join(darkfleet_flag_rows)
+
+# Gölge Filo STS Tablosu
+darkfleet_sts_rows = []
+for st in shadow_fleet_data["sts_transfer_chokepoints"]:
+    darkfleet_sts_rows.append(f"| **{st['zone_name']}** | {st['location']} | {st['operations']} |")
+darkfleet_sts_md = "\n".join(darkfleet_sts_rows)
+
 master_readme_content = f"""# 🌍 KÜRESEL RÖNTGEN (GLOBAL X-RAY)
 ### *Açık Kaynak İstihbarat (OSINT), Derin Devlet Ağları, Oligarşik Sermaye & Kleptokrasi Haritalandırma Atlası*
 
@@ -139,8 +163,10 @@ master_readme_content = f"""# 🌍 KÜRESEL RÖNTGEN (GLOBAL X-RAY)
   <img src="https://img.shields.io/badge/Architecture-4--Layer%20Deep%20State-black?style=for-the-badge" alt="4-Layer">
   <img src="https://img.shields.io/badge/Defense%20Alliances-8%20Global%20Pacts-navy?style=for-the-badge" alt="Alliances">
   <img src="https://img.shields.io/badge/Sanctions%20Regimes-Tracked%20%26%20Mapped-darkred?style=for-the-badge" alt="Sanctions">
-  <img src="https://img.shields.io/badge/Case%20Studies-7%20Forensic%20Investigations-crimson?style=for-the-badge" alt="Case Studies">
+  <img src="https://img.shields.io/badge/Case%20Studies-10%20Forensic%20Investigations-crimson?style=for-the-badge" alt="Case Studies">
   <img src="https://img.shields.io/badge/Research%20Treatises-12%20Comprehensive%20Dossiers-gold?style=for-the-badge" alt="Treatises">
+  <img src="https://img.shields.io/badge/Sovereign%20Wealth-$12+%20Trillion%20Mapped-darkgreen?style=for-the-badge" alt="SWF">
+  <img src="https://img.shields.io/badge/Shadow%20Fleet-850%20Dark%20Tankers-maroon?style=for-the-badge" alt="Shadow Fleet">
   <img src="https://img.shields.io/badge/Verification-Admiralty%20Code%20B2+-success?style=for-the-badge" alt="Verification">
   <img src="https://img.shields.io/badge/Global%20GDP%20Analyzed-$105.6%20Trillion-green?style=for-the-badge" alt="Global GDP">
   <img src="https://img.shields.io/badge/License-Open%20Intelligence%20(CC%20BY--SA%204.0)-purple?style=for-the-badge" alt="License">
@@ -162,16 +188,18 @@ master_readme_content = f"""# 🌍 KÜRESEL RÖNTGEN (GLOBAL X-RAY)
 10. [🛡️ Savunma Paktları, Askeri İttifaklar & Nükleer Şemsiye](#️-savunma-paktlari-askeri-ittifaklar--nükleer-şemsiye)
 11. [⚠️ Finansal Yaptırım Rejimleri & Bypass Koridorları](#️-finansal-yaptirim-rejimleri--bypass-koridorlari)
 12. [⛏️ Kritik Madenler & Küresel Rafinaj Tekelleri](#️-kritik-madenler--küresel-rafinaj-tekelleri)
-13. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
-14. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
-15. [⚔️ Özel Askeri Şirketler (PMC) & Paramiliter Şebekeler](#️-özel-askeri-şirketler-pmc--paramiliter-şebekeler)
-16. [🕵️ Küresel İstihbarat Teşkilatları & Güç Mimarisi](#️-küresel-istihbarat-teşkilatlari--güç-mimarisi)
-17. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
-18. [🗺️ 205 Ülkelik Küresel Atlas İndeksi (Ekonomik Modelleriyle)](#️-205-ülkelik-küresel-atlas-indeksi-ekonomik-modelleriyle)
-19. [🔬 Metodoloji ve OSINT Araştırma Kılavuzları (/methodology)](#-metodoloji-ve-osint-araştirma-kilavuzlari-methodology)
-20. [🛠️ CLI Terminal Aracı ile Kullanım (xray_cli.py)](#️-cli-terminal-araci-ile-kullanim-xray_clipy)
-21. [🧪 Bütünlük ve Veri Doğrulama Testleri](#-bütünlük-ve-veri-doğrulama-testleri)
-22. [⚖️ Etik, Hukuki Beyan ve Açık İstihbarat Lisansı](#️-etik-hukuki-beyan-ve-açik-istihbarat-lisansi)
+13. [💰 Küresel Egemen Varlık Fonları (SWF) & Devlet Sermayesi](#-küresel-egemen-varlik-fonlari-swf--devlet-sermayesi)
+14. [🚢 Küresel Gölge Tanker Filosu (Dark Fleet) & Yaptırım Kaçırma](#-küresel-gölge-tanker-filosu-dark-fleet--yaptirim-kaçirma)
+15. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
+16. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
+17. [⚔️ Özel Askeri Şirketler (PMC) & Paramiliter Şebekeler](#️-özel-askeri-şirketler-pmc--paramiliter-şebekeler)
+18. [🕵️ Küresel İstihbarat Teşkilatları & Güç Mimarisi](#️-küresel-istihbarat-teşkilatlari--güç-mimarisi)
+19. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
+20. [🗺️ 205 Ülkelik Küresel Atlas İndeksi (Ekonomik Modelleriyle)](#️-205-ülkelik-küresel-atlas-indeksi-ekonomik-modelleriyle)
+21. [🔬 Metodoloji ve OSINT Araştırma Kılavuzları (/methodology)](#-metodoloji-ve-osint-araştirma-kilavuzlari-methodology)
+22. [🛠️ CLI Terminal Aracı ile Kullanım (xray_cli.py)](#️-cli-terminal-araci-ile-kullanim-xray_clipy)
+23. [🧪 Bütünlük ve Veri Doğrulama Testleri](#-bütünlük-ve-veri-doğrulama-testleri)
+24. [⚖️ Etik, Hukuki Beyan ve Açık İstihbarat Lisansı](#️-etik-hukuki-beyan-ve-açik-istihbarat-lisansi)
 
 ---
 
@@ -383,6 +411,32 @@ Enerji dönüşümünün, yapay zeka çiplerinin ve savunma sanayisinin hammadde
 
 ---
 
+## 💰 KÜRESEL EGEMEN VARLIK FONLARI (SWF) & DEVLET SERMAYESİ
+
+Küresel petrodolar fazlaları, dış ticaret artıları ve stratejik kamu işletmelerinin konsolide edildiği $12+ Trilyonluk egemen sermaye havuzları (`global_datasets/sovereign_wealth_funds_registry.json`):
+
+| Fon Adı | Ülke | Yönetilen Varlık (AUM) | Finansman Kaynağı | Jeopolitik Kaldıraç |
+| :--- | :--- | :---: | :--- | :--- |
+{swf_table_md}
+
+---
+
+## 🚢 KÜRESEL GÖLGE TANKER FİLOSU (DARK FLEET) & YAPTIRIM KAÇIRMA
+
+G7 tavan fiyatını ve denizcilik sigorta yasaklarını aşarak Rusya, İran ve Venezuela petrolünü taşıyan ~850 hayalet tankerin mimarisi (`global_datasets/shadow_fleet_maritime_registry.json`):
+
+### 🚩 Öne Çıkan Kolaylık Bayrakları (Flags of Convenience)
+| Bayrak Devleti | Tescilli Gölge Gemi Sayısı | Risk Profili & Zaafiyet Analizi |
+| :--- | :---: | :--- |
+{darkfleet_flags_md}
+
+### ⚓ Deniz Üstü Gemiden Gemiye (STS) Petrol Aktarma Merkezleri
+| Aktarma Sahası (STS Zone) | Coğrafi Lokasyon | Operasyonel Taktik & Kamuflaj |
+| :--- | :--- | :--- |
+{darkfleet_sts_md}
+
+---
+
 ## 🗺️ BÖLGESEL MASTER JEOPOLİTİK GÜÇ DOSYALARI (/regions)
 
 Kıtalar bazında güç mimarisi, askeri ittifaklar ve derin çatışma hatları:
@@ -411,6 +465,9 @@ Tarihin en büyük kleptokratik, yolsuzluk, derin devlet ve siber istihbarat ope
 | 🗄️ [**CASE_STUDY_PANDORA_PAPERS_AND_OFFSHORE_SECRECY.md**](dossiers/CASE_STUDY_PANDORA_PAPERS_AND_OFFSHORE_SECRECY.md) | Pandora Belgeleri & ABD Vergi Cennetleri | 11.9 Milyon belgenin analizi; South Dakota trust yasaları, Ürdün Kralı, Tony Blair ve küresel liderlerin $32 Trilyonluk gizli servet mimarisi. |
 | 💥 [**CASE_STUDY_NORD_STREAM_SABOTAGE_AND_ENERGY_WARFARE.md**](dossiers/CASE_STUDY_NORD_STREAM_SABOTAGE_AND_ENERGY_WARFARE.md) | Kuzey Akım Boru Hattı Sabotajı | 26 Eylül 2022 Bornholm patlamaları; 2.3 Richter sismik analizi, saturasyon dalışı zorlukları, BALTOPS tatbikatı ve Almanya'nın sanayisizleşmesi. |
 | 🗡️ [**CASE_STUDY_OPERATION_GLADIO_AND_STAY_BEHIND_NETWORKS.md**](dossiers/CASE_STUDY_OPERATION_GLADIO_AND_STAY_BEHIND_NETWORKS.md) | Gladio & NATO Gizli Orduları | 1990 Andreotti itirafı; Gerginlik Stratejisi (Strategia della tensione), Bologna katliamı, P2 Mason Locası, Banco Ambrosiano ve Kontrgerilla. |
+| 🏦 [**CASE_STUDY_BCCI_THE_BANK_OF_CROOKS_AND_CLINICS.md**](dossiers/CASE_STUDY_BCCI_THE_BANK_OF_CROOKS_AND_CLINICS.md) | BCCI: İstihbarat & Suç Bankası | 78 ülkede faaliyet gösteren $20B'lık bankanın çöküşü; CIA Afganistan/Kontra örtülü fonları, Noriega kokain aklaması ve A.Q. Khan nükleer ağı. |
+| 💻 [**CASE_STUDY_STUXNET_OLYMPIC_GAMES_CYBER_SABOTAGE.md**](dossiers/CASE_STUDY_STUXNET_OLYMPIC_GAMES_CYBER_SABOTAGE.md) | Stuxnet: İlk Askeri Siber Silah | NSA ve Unit 8200'ün Natanz nükleer tesisine sabotajı; 4 sıfır-gün açığı, Siemens PLC manipülasyonu ve 1.000 gaz santrifüjünün rezonansla imhası. |
+| 🧠 [**CASE_STUDY_CAMBRIDGE_ANALYTICA_AND_PSYCHOGRAPHIC_WARFARE.md**](dossiers/CASE_STUDY_CAMBRIDGE_ANALYTICA_AND_PSYCHOGRAPHIC_WARFARE.md) | Cambridge Analytica & Psikografik Harp | SCL Group, 87 milyon Facebook profili izinsiz hasadı, OCEAN psikometrik puanlaması, Brexit ve 2016 ABD Seçimleri mikro hedefli karanlık reklamları. |
 
 ---
 
@@ -510,7 +567,16 @@ python scripts/xray_cli.py chokepoints
 # İstihbarat teşkilatlarını ara ve bütçelerini incele
 python scripts/xray_cli.py intel mossad
 
-# 7 derin adli vaka analizini listele
+# Egemen varlık fonlarını (SWF) listele veya filtrele
+python scripts/xray_cli.py swf norway
+
+# Küresel gölge tanker filosunu (Dark Fleet) ve STS aktarma bölgelerini incele
+python scripts/xray_cli.py darkfleet
+
+# Otomatik çok katmanlı derin keşif raporu üret ve dışa aktar
+python scripts/deep_recon.py turkey --export
+
+# 10 derin adli vaka analizini listele
 python scripts/xray_cli.py cases
 
 # 12 derin araştırma tezini ve doktrin dosyalarını listele

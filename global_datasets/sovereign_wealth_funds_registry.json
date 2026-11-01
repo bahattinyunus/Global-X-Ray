@@ -1,0 +1,116 @@
+{
+  "title": "Küresel Egemen Varlık Fonları (SWF) ve Jeopolitik Yatırım Araçları Kaydı",
+  "doctrine": "Egemen Varlık Fonları (SWF); petrodolar ve dış ticaret fazlalarının batı finansal sistemine geri dönüştürülmesinde, stratejik teknoloji şirketlerinin satın alınmasında ve otokratik rejimlerin iç siyasi kontrolü finanse etmesinde en büyük küresel sermaye silahıdır. $12+ Trilyonluk bu havuz, sessiz ekonomik diplomasinin omurgasıdır.",
+  "funds": [
+    {
+      "id": "GPFG_NOR",
+      "name": "Norveç Hükümeti Emeklilik Fonu Global (Oljefondet)",
+      "country": "Norway",
+      "code": "NOR",
+      "assets_under_management_usd_b": 1650.0,
+      "funding_source": "Kuzey Denizi petrol ve doğal gaz üretim gelirleri ve vergi fazlası",
+      "governance_model": "Norges Bank Investment Management (NBIM) / Şeffaf parlamento denetimi ve katı ESG etik filtreleri",
+      "strategic_holdings": "Dünyadaki halka açık tüm şirketlerin ortalama %1.5 hissesi; Apple, Microsoft, Alphabet, Amazon ve küresel gayrimenkul portföyü",
+      "geopolitical_leverage": "Küresel kurumsal yönetim standartlarını belirleme gücü, insan hakları ve iklim gerekçesiyle şirketleri kara listeye alma yaptırımı"
+    },
+    {
+      "id": "CIC_CHN",
+      "name": "Çin Yatırım Şirketi (China Investment Corporation - CIC)",
+      "country": "China",
+      "code": "CHN",
+      "assets_under_management_usd_b": 1350.0,
+      "funding_source": "Çin Halk Bankası (PBOC) devasa döviz rezervi fazlaları",
+      "governance_model": "Çin Komünist Partisi (ÇKP) Devlet Konseyi doğrudan denetimi",
+      "strategic_holdings": "Central Huijin Investment (Çin'in 4 büyük devlet bankasının kontrol hissesi), küresel limanlar (COSCO işbirlikleri), tarım ve madencilik tröstleri",
+      "geopolitical_leverage": "Kuşak ve Yol Girişimi (BRI) altyapı finansmanı ve Batı'nın stratejik yarı iletken/enerji tedarik zincirlerine örtülü hisse yatırımları"
+    },
+    {
+      "id": "ADIA_UAE",
+      "name": "Abu Dabi Yatırım Otoritesi (ADIA)",
+      "country": "United Arab Emirates",
+      "code": "ARE",
+      "assets_under_management_usd_b": 1000.0,
+      "funding_source": "Abu Dabi Emirliği ham petrol ihracat fazlaları (ADNOC)",
+      "governance_model": "El Nahyan Hanedanı mutlak yönetimi / Sıfır kamu şeffaflığı",
+      "strategic_holdings": "Küresel özel sermaye fonları (Private Equity), Wall Street devleri (Citigroup tarihsel kurtarma hissesi), Londra Heathrow Havalimanı, yapay zeka girişimleri",
+      "geopolitical_leverage": "Körfez hanedan servetinin Batı hukuk sistemine entegrasyonu ve Washington/Londra lobi gücünün finansmanı"
+    },
+    {
+      "id": "PIF_SAU",
+      "name": "Suudi Arabistan Kamu Yatırım Fonu (Public Investment Fund - PIF)",
+      "country": "Saudi Arabia",
+      "code": "SAU",
+      "assets_under_management_usd_b": 930.0,
+      "funding_source": "Saudi Aramco temettüleri ve devlet tahvil ihraçları",
+      "governance_model": "Veliaht Prens Muhammed bin Selman (MBS) doğrudan başkanlığı",
+      "strategic_holdings": "NEOM fütüristik mega şehri, Lucid Motors, LIV Golf ligi, Newcastle United, Nintendo, Uber, SoftBank Vision Fund ortaklığı",
+      "geopolitical_leverage": "Vizyon 2030 dönüşümünün motoru, küresel 'Sportswashing' (spor yoluyla meşruiyet kazanma) diplomasisi ve Amerikan teknoloji devlerine nüfuz"
+    },
+    {
+      "id": "KIA_KWT",
+      "name": "Kuveyt Yatırım Otoritesi (Kuwait Investment Authority - KIA)",
+      "country": "Kuwait",
+      "code": "KWT",
+      "assets_under_management_usd_b": 900.0,
+      "funding_source": "Gelecek Nesiller Fonu (FGF) petrol gelirleri kesintisi (1953'te kurulan dünyanın en eski SWF'si)",
+      "governance_model": "El Sabah Hanedanı ve Maliye Bakanlığı ortak komitesi",
+      "strategic_holdings": "Mercedes-Benz Group (en büyük bireysel hissedarlardan biri), City of London gayrimenkul tröstleri, küresel altyapı fonları",
+      "geopolitical_leverage": "Kuveyt'in Irak işgali sonrası sürgündeki hükümetini finanse eden ve ülkenin jeopolitik bağımsızlığını garantiye alan finansal kalkan"
+    },
+    {
+      "id": "GIC_SGP",
+      "name": "GIC Private Limited (Singapur Hükümet Yatırım Şirketi)",
+      "country": "Singapore",
+      "code": "SGP",
+      "assets_under_management_usd_b": 800.0,
+      "funding_source": "Singapur Merkez Bankası (MAS) resmi döviz rezervleri",
+      "governance_model": "Singapur Başbakanı başkanlığındaki özel şirket yapısı",
+      "strategic_holdings": "Küresel gayrimenkul, lojistik depoları, fintech devleri ve gelişmekte olan piyasa tahvilleri",
+      "geopolitical_leverage": "Güneydoğu Asya'nın finansal egemenliğini ve Singapur Doları'nın istikrarını koruyan derin rezerv mekanizması"
+    },
+    {
+      "id": "QIA_QAT",
+      "name": "Katar Yatırım Otoritesi (Qatar Investment Authority - QIA)",
+      "country": "Qatar",
+      "code": "QAT",
+      "assets_under_management_usd_b": 510.0,
+      "funding_source": "Kuzey Sahası (North Field) LNG sıvılaştırılmış doğal gaz ihracat gelirleri",
+      "governance_model": "El Sani Hanedanı doğrudan yönetimi",
+      "strategic_holdings": "Volkswagen Group, Glencore emtia devi, Harrods Londra, Canary Wharf, Empire State Building ortaklığı, Paris Saint-Germain (PSG)",
+      "geopolitical_leverage": "Küçük körfez emirligini küresel aktöre dönüştüren yumuşak güç; İngiltere ve Fransa ile derin güvenlik ve istihbarat taahhütleri"
+    },
+    {
+      "id": "TEMASEK_SGP",
+      "name": "Temasek Holdings",
+      "country": "Singapore",
+      "code": "SGP",
+      "assets_under_management_usd_b": 290.0,
+      "funding_source": "Singapur devletine ait kamu iktisadi teşebbüslerinin hisseleri",
+      "governance_model": "Özel yatırım holdingi / Ticari odaklı bağımsız yönetim kurulu",
+      "strategic_holdings": "Singapore Airlines, DBS Bank, Singtel, Standard Chartered hisseleri, biyoteknoloji ve yarı iletken fonları",
+      "geopolitical_leverage": "Güneydoğu Asya'nın yüksek teknoloji ve havacılık merkezi olarak konumlandırılması ve endüstriyel devlet kapitalizmi modeli"
+    },
+    {
+      "id": "NWF_RUS",
+      "name": "Rusya Ulusal Refah Fonu (National Wealth Fund - NWF)",
+      "country": "Russia",
+      "code": "RUS",
+      "assets_under_management_usd_b": 150.0,
+      "funding_source": "Urals petrolü taban fiyatı üzerindeki bütçe kuralı petrol/gaz gelirleri",
+      "governance_model": "Rusya Federasyonu Maliye Bakanlığı",
+      "strategic_holdings": "Sberbank kontrol hissesi (%50+1), Aeroflot, Rusya Demiryolları (RZD), Yuan ve fiziki altın rezervleri",
+      "geopolitical_leverage": "Yaptırımlar ve savaş bütçesi açıklarını kapatan acil durum likidite rezervi; batı yaptırımları sonrası dolar ve eurodan tamamen temizlenmiştir"
+    },
+    {
+      "id": "TWF_TUR",
+      "name": "Türkiye Varlık Fonu (Turkey Wealth Fund - TWF)",
+      "country": "Turkey",
+      "code": "TUR",
+      "assets_under_management_usd_b": 50.0,
+      "funding_source": "Stratejik kamu şirketlerinin (BOTAŞ, TPAO, Ziraat Bankası, THY, Türk Telekom) hisse devirleri",
+      "governance_model": "Cumhurbaşkanlığı doğrudan başkanlığı",
+      "strategic_holdings": "Ziraat Bankası, Halkbank, Vakıfbank, Türk Telekom (%61.68), Turkcell (%26.2), Türk Hava Yolları, Borsa İstanbul (%80.6)",
+      "geopolitical_leverage": "Kamu bankalarının sermayelendirilmesi, savunma ve telekomünikasyon sektörünün konsolidasyonu, stratejik dış finansman temini"
+    }
+  ]
+}

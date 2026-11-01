@@ -55,7 +55,7 @@ flowchart LR
 
 ### 3.2 The Admiralty Source Reliability Matrix (STANAG 2022)
 
-All evidence integrated into Global X-Ray must meet a minimum rating of **B2**:
+All evidence integrated into Medeniyet Atlası must meet a minimum rating of **B2**:
 
 | Source Evaluation | Information Credibility |
 | :--- | :--- |

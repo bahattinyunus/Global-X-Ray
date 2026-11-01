@@ -10,7 +10,7 @@
 
 ## 1. Admiralty Kod Doğrulama Matrisi (NATO STANAG 2022)
 
-Global X-Ray projesindeki her istihbarat iddiası aşağıdaki 6x6'lık değerlendirme matrisine göre derecelendirilir:
+Medeniyet Atlası projesindeki her istihbarat iddiası aşağıdaki 6x6'lık değerlendirme matrisine göre derecelendirilir:
 
 | Kaynak Güvenilirliği (Source Reliability) | Bilgi Doğruluğu (Information Credibility) |
 | :--- | :--- |
@@ -22,7 +22,7 @@ Global X-Ray projesindeki her istihbarat iddiası aşağıdaki 6x6'lık değerle
 | **F - Güvenilirlik Yargılanamaz:** Kaynağın geçmişine veya güvenilirliğine dair hiçbir veri yoktur. | **6 - Doğruluk Yargılanamaz:** Bilginin doğruluğunu ölçecek hiçbir veri yoktur. |
 
 > [!IMPORTANT]
-> **Global X-Ray Standart Eşiği:** Repoda 4. Katman (Gölge Güç ve Kleptokrasi) altında yer alan tüm bulgular **en az B2** (Genellikle Güvenilir Kaynak + Muhtemelen Doğru Bilgi) veya **A1** standardında olmak zorundadır.
+> **Medeniyet Atlası Standart Eşiği:** Repoda 4. Katman (Gölge Güç ve Kleptokrasi) altında yer alan tüm bulgular **en az B2** (Genellikle Güvenilir Kaynak + Muhtemelen Doğru Bilgi) veya **A1** standardında olmak zorundadır.
 
 ---
 

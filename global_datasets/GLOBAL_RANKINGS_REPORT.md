@@ -1,4 +1,4 @@
-# 📊 Küresel Sıralamalar ve Kırılganlık Raporu (Global X-Ray Rankings)
+# 📊 Küresel Sıralamalar ve Kırılganlık Raporu (Medeniyet Atlası Sıralamaları)
 
 > "In God we trust; all others must bring data."  
 > — **W. Edwards Deming**
@@ -7,7 +7,7 @@
 
 ## 1. Yönetici Özeti
 
-Bu rapor, Küresel Röntgen veri tabanındaki **205 egemen ve jeopolitik varlığın** makroekonomik büyüklük, kayıt dışı gölge ekonomi oranı ve Birleşik Egemen Kırılganlık İndeksi (CSFI) üzerinden yapılan çapraz analizlerini içerir.
+Bu rapor, Medeniyet Atlası veri tabanındaki **205 egemen ve jeopolitik varlığın** makroekonomik büyüklük, kayıt dışı gölge ekonomi oranı ve Birleşik Egemen Kırılganlık İndeksi (CSFI) üzerinden yapılan çapraz analizlerini içerir.
 
 ---
 

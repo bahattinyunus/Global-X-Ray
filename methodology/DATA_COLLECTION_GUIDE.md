@@ -10,9 +10,9 @@
 
 ## 1. Giriş ve Operasyonel Doktrin
 
-Bu kılavuz, **Küresel Röntgen (Global X-Ray)** projesinin 205 egemen ve jeopolitik varlık üzerindeki açık kaynak istihbaratı (OSINT) toplama ve doğrulama süreçlerini yöneten temel saha yönergesidir.
+Bu kılavuz, **Medeniyet Atlası (Civilization Atlas)** projesinin 205 egemen ve jeopolitik varlık üzerindeki açık kaynak istihbaratı (OSINT) toplama ve doğrulama süreçlerini yöneten temel saha yönergesidir.
 
-Geleneksel siyaset bilimi devletleri resmi anayasal kurumları üzerinden tanımlarken, Global X-Ray devletleri **maddi kaynakların, silahlı kuvvetlerin, istihbarat servislerinin ve kayıt dışı sermayenin çatışma alanı** olarak modeller.
+Geleneksel siyaset bilimi devletleri resmi anayasal kurumları üzerinden tanımlarken, Medeniyet Atlası devletleri **maddi kaynakların, silahlı kuvvetlerin, istihbarat servislerinin ve kayıt dışı sermayenin çatışma alanı** olarak modeller.
 
 ---
 

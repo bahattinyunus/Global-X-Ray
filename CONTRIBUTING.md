@@ -1,39 +1,47 @@
-# 🤝 Katkıda Bulunma Rehberi (Contributing to Küresel Röntgen)
+# 🤝 Katkıda Bulunma Rehberi (Contributing to Medeniyet Atlası)
 
-Küresel Röntgen projesine katkıda bulunmak istediğiniz için teşekkür ederiz! Dünya genelinde şeffaflık, hesap verebilirlik ve bağımsız istihbarat analizini güçlendirmek için her katkı değerlidir.
+**Medeniyet Atlası** projesine katkıda bulunmak istediğiniz için teşekkür ederiz! Dünya genelinde kültürleri derinlemesine tanımak, medeniyet kodlarını keşfetmek, çevrilemeyen ruh kavramlarını derlemek ve şeffaf/bağımsız bir güç analizi sunmak için her katkı değerlidir.
 
 ---
 
-## 🚀 Başlarken
+## 🚀 Katkı Alanları
 
-1. Repoyu fork'layın:
+Medeniyet Atlası'na dört ana eksende katkı sunabilirsiniz:
+1. **Kültür, Sanat & Yaşam Felsefesi (Katman 1):** Ülkelerin gündelik yaşam ritüelleri, dilsel ruh kavramları, gastronomi felsefeleri, mimari mirasları ve görgü kuralları (`01_culture_demographics/`).
+2. **Resmi Devlet & Anayasal Düzen (Katman 2):** Anayasa maddeleri, kuvvetler ayrılığı yapısı ve seçim mevzuatı (`02_official_state/`).
+3. **Resmi Makroekonomi & Ticaret (Katman 3):** GSYİH, ihracat-ithalat kalemleri, kamu borcu ve döviz rezervleri (`03_official_economy/`).
+4. **Gölge Güç, Kleptokrasi & OSINT (Katman 4):** Oligarşik sermaye konsorsiyumları, medya tekelleri ve gölge ekonomi dinamikleri (`04_shadow_power_osint/`).
+
+---
+
+## 🛠️ Başlarken
+
+1. Depoyu fork'layın ve klonlayın:
    ```bash
-   git clone https://github.com/arch-yunus/Global-X-Ray.git
-   cd Global-X-Ray
+   git clone https://github.com/bahattinyunus/medeniyet-atlasi.git
+   cd medeniyet-atlasi
    ```
-2. Yeni bir dal (branch) açın:
+2. Yeni bir çalışma dalı (branch) oluşturun:
    ```bash
    git checkout -b ulke/ulke-adi
    ```
-3. İlgili ülkenin `regions/<bolge>/<ulke_adi>` klasöründe güncellemeleri yapın veya şablonu kullanarak eksik bir ülkeyi ekleyin.
-4. `methodology/OSINT_VERIFICATION.md` kurallarına uygun olarak kaynak linklerini iliştirin.
-5. Değişikliklerinizi commit edin ve Pull Request açın:
+3. İlgili ülkenin veya kültür dosyasının dizininde düzenlemelerinizi yapın.
+4. Katman 4 veya istihbarat verisi ekliyorsanız, [`methodology/OSINT_VERIFICATION.md`](methodology/OSINT_VERIFICATION.md) gereğince **en az B2** (Genellikle Güvenilir / Muhtemelen Doğru) standardında kaynak bağlantısı sağlayın.
+5. Otomatik bütünlük testlerini çalıştırın:
    ```bash
-   git commit -m "feat(russia): 04_shadow_power oligark ağı ve yaptırım verileri güncellendi"
+   python tests/test_integrity.py
+   ```
+6. Değişikliklerinizi commit edin ve Pull Request açın:
+   ```bash
+   git commit -m "feat(japonya): 01_culture Wabi-sabi ve zanaat felsefesi genişletildi"
    git push origin ulke/ulke-adi
    ```
 
 ---
 
-## 📌 PR (Pull Request) Standartları
+## 📌 PR (Pull Request) İlkeleri
 
-- **Açıklayıcı Başlık:** Hangi ülke ve hangi katmanın güncellendiğini belirtin (`feat(turkey): medya sahipliği matrisi eklendi`).
-- **Kaynak Gösterimi:** Katman 4 güncellemelerinde mutlaka rapor veya belge bağlantısı ekleyin.
-- **Biçimlendirme Uyumu:** Markdown başlıklarını, JSON anahtar isimlerini ve CSV sütun düzenini bozmayın.
-
----
-
-## ⚖️ Davranış Kuralları
-
-- Tarafsız, analitik ve kanıta dayalı bir üslup kullanın.
-- Herhangi bir siyasi parti veya devleti övmek veya yermek yerine somut olguları, ihale verilerini ve kurumsal ilişkileri listeleyin.
+- **Açıklayıcı Başlık:** Hangi ülke, kültür veya veri setinin güncellendiğini açıkça belirtin.
+- **Kaynak Teyidi:** Adli veya makroekonomik güncellemelerde resmi rapor veya uluslararası denetim bağlantısı ekleyin.
+- **Biçimlendirme Uyumu:** Markdown başlık yapısını, JSON şemalarını ve CSV formatını bozmayın.
+- **Üslup & Tarafsızlık:** Tarafsız, ansiklopedik, kültürel zenginliğe hürmetkar ve kanıta dayalı bir dil kullanın.

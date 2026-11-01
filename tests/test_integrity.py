@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 tests/test_integrity.py
-Küresel Röntgen Veri Bütünlüğü ve Standart Uygunluk Testleri
+Medeniyet Atlası Veri Bütünlüğü ve Standart Uygunluk Testleri
 """
 
 import unittest
@@ -11,7 +11,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-class TestGlobalXRayIntegrity(unittest.TestCase):
+class TestMedeniyetAtlasiIntegrity(unittest.TestCase):
     def setUp(self):
         self.regions_dir = BASE_DIR / "regions"
         self.datasets_dir = BASE_DIR / "global_datasets"
@@ -347,6 +347,57 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
             fpath = culture_dir / fname
             self.assertTrue(fpath.exists(), f"Eksik kültür dosyası: {fname}")
             self.assertGreater(fpath.stat().st_size, 1500, f"{fname} içeriği yetersiz veya boş olamaz!")
+
+    def test_subdirectories_readme_indexes(self):
+        """Tüm ana alt dizinlerde kapsamlı README.md indeks dosyalarının varlığı test edilir."""
+        target_dirs = [
+            "culture",
+            "geopolitics_and_intelligence",
+            "methodology",
+            "research",
+            "dossiers",
+            "regions",
+            "economies",
+            "global_datasets",
+            "scripts"
+        ]
+        for d in target_dirs:
+            readme_path = BASE_DIR / d / "README.md"
+            self.assertTrue(readme_path.exists(), f"{d}/README.md indeks dosyası bulunamadı!")
+            self.assertGreater(readme_path.stat().st_size, 300, f"{d}/README.md içeriği yetersiz veya boş!")
+
+    def test_artwork_images_integrity(self):
+        """assets/images/ altındaki 13 kritik görselin varlığı ve boyutu test edilir."""
+        images_dir = BASE_DIR / "assets" / "images"
+        self.assertTrue(images_dir.exists(), "assets/images dizini bulunamadı!")
+        expected_images = [
+            "hero_banner.jpg",
+            "4_layer_power_architecture.jpg",
+            "world_civilizations_cultural_realms.jpg",
+            "untranslatable_soul_concepts_wisdom.jpg",
+            "global_gastronomy_table_rituals.jpg",
+            "global_folklore_mythology_epics.jpg",
+            "world_sacred_architecture_monuments.jpg",
+            "intercultural_etiquette_and_greeting_rituals.jpg",
+            "subsea_cables_and_cyber_sigint_nexus.jpg",
+            "nuclear_triad_strategic_deterrence.jpg",
+            "geopolitical_chokepoints.jpg",
+            "offshore_kleptocracy_network.jpg",
+            "cognitive_warfare_surveillance.jpg"
+        ]
+        for img in expected_images:
+            img_path = images_dir / img
+            self.assertTrue(img_path.exists(), f"Eksik görsel: assets/images/{img}")
+            self.assertGreater(img_path.stat().st_size, 50000, f"Görsel boyutu çok küçük: {img}")
+
+    def test_case_studies_and_research_counts(self):
+        """dossiers/ ve research/ altındaki dosyaların asgari sayıları doğrulanır."""
+        dossiers_dir = BASE_DIR / "dossiers"
+        research_dir = BASE_DIR / "research"
+        cases = list(dossiers_dir.glob("CASE_STUDY_*.md"))
+        theses = [f for f in research_dir.glob("*.md") if f.name != "README.md"]
+        self.assertGreaterEqual(len(cases), 12, "En az 12 adli vaka analizi bulunmalıdır!")
+        self.assertGreaterEqual(len(theses), 12, "En az 12 araştırma tezi bulunmalıdır!")
 
 if __name__ == "__main__":
     unittest.main()

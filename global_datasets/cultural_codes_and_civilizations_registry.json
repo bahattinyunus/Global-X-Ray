@@ -1416,6 +1416,466 @@
         "Henry Lawson",
         "Albert Namatjira"
       ]
+    },
+    {
+      "country": "Kazakistan",
+      "code": "KAZ",
+      "capital": "Astana",
+      "civilization_crossroads": "Büyük Avrasya Bozkırı + Göçebe Türk Töresi + İslam Tasavvufu (Hoca Ahmed Yesevi) + İpek Yolu Kervan Hatları.",
+      "core_cultural_ethos": "Bozkır hürriyeti ve sonsuz gökyüzü (Tengri) şuuru, 'Konakjaylik' (misafiri Tanrı elçisi bilme cömertliği), 'Asar' (köylünün ortak imece dayanışması), at ile kurulan kutsal kardeşlik bağı ve atalara hürmet.",
+      "communication_style": "Yüksek Bağlamlı ve Saygılı. Sözlü hitapta ak sakallı büyüklere mutlak saygı, sabır ve dinginlik; doğrudan kabalık yerine bilgece meseller ve atasözleri tercih edilir.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Konakjaylik (Қонақжайлық)",
+          "meaning": "Yabancı bir misafiri hiçbir karşılık beklemeden evinde ağırlayıp en kıymetli yemeği sunan bozkır misafirperverlik andı."
+        },
+        {
+          "word": "Asar (Асар)",
+          "meaning": "Bir ailenin evini inşa etmek veya tarlasını sürmek için tüm köy halkının hiçbir ücret almadan yardıma koştuğu imece ruhu."
+        },
+        {
+          "word": "Bata (Бата)",
+          "meaning": "Sofradan veya yoldan önce aksakallı bir büyüğün iki elini açarak verdiği kutsal dua ve hayır temennisi."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Yurt (kuzey çadırı) geleneği, nevruz kutlamaları, çay sofrasında kuru meyve ve baursak ikramı; at yarışları (Kökbörü) ve ozanların atışması (Aytıs).",
+      "gastronomic_philosophy": "Göçebe bozkır mutfağı. Beşbarmak (haşlanmış at/koyun eti ve taze hamur), Baursak (kızarmış hamur lokması), Kımız (kısrak sütü) ve Şubat (deve sütü). Sofra ailenin ve obanın birlik mührüdür.",
+      "social_taboos_and_etiquette": "Misafire çayı tam doldurmak 'hemen kalk git' anlamına gelir; çay bardağı yarım doldurularak sık sık tazelenir (hürmet göstergesi). Ekmeği yere koymak veya ekmeğe basmak büyük günahtır; at kafatasına saygısızlık edilmez.",
+      "literary_and_artistic_archetypes": "Dombra çalgısı ve Aytıs geleneği; Abay Kunanbayulı'nın felsefi Kara Sözleri; Korkut Ata ve Alpamıs destanları."
+    },
+    {
+      "country": "Özbekistan",
+      "code": "UZB",
+      "capital": "Taşkent",
+      "civilization_crossroads": "İpek Yolu Vaha Medeniyeti + Timur Rönesansı + İslam Mimarisi ve Bilimi (Uluğ Bey, İbn Sina, Biruni) + Fars-Türk Şiir Sentezi.",
+      "core_cultural_ethos": "Mahalle dayanışması, 'Mehr-Oqibat' (merhamet, sadakat ve karşılıklı vefa duygusu), kadim ticaret dürüstlüğü ve çayhane meclislerinde pişirilen hayat hikmetleri.",
+      "communication_style": "Çok Yüksek Bağlamlı ve Zarafet Odaklı. Büyüklere sağ el göğse konularak hafifçe eğilerek selam verilir; hitapta 'Siz' ve hürmet unvanları (Aka, Opa) esastır.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Mehr-Oqibat (Меҳр-оқибат)",
+          "meaning": "İnsanlar arasında menfaatsiz sevgi, akrabalık vefası ve zor günde birbirine kol kanat germe ahlakı."
+        },
+        {
+          "word": "Hashar (Ҳашар)",
+          "meaning": "Mahalledeki cami, su kanalı veya komşu evinin tamiri için tüm mahallelinin şarkılarla katıldığı gönüllü imece."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Çayhanelerde saatler süren dost meclisleri, sabah erken saatlerde mahalle süpürme adabı, tandır ekmeği kokusu ve düğünlerde kazanlarla pişirilen sabah aşı.",
+      "gastronomic_philosophy": "İpek Yolu lezzetlerinin zirvesi: Özbek Pilavı (Osh / Palov - UNESCO Mirası). Sarı havuç, kuzu eti, nohut ve baharatlarla devasa döküm kazanlarda odun ateşinde pişirilir. Tandır Somsa'sı ve yeşil çay (Kok-Choy).",
+      "social_taboos_and_etiquette": "Tandır ekmeğini (Non) asla bıçakla kesilmez, elle bölünür; ekmek asla masaya ters konmaz. Çayhanede ilk fincan çay bardağa dökülüp tekrar demliğe geri boşaltılır (loy etme) ve misafire hürmetle sunulur.",
+      "literary_and_artistic_archetypes": "Ali Şîr Nevaî'nin Çağatayca divanları; Semerkant Registan Meydanı çinileri; Şaşmakam klasik saray müziği."
+    },
+    {
+      "country": "Moğolistan",
+      "code": "MNG",
+      "capital": "Ulanbatur",
+      "civilization_crossroads": "Kuzey Asya Bozkırı + Şamanik Gök Tengri İnancı + Tibet Budizmi + Göçebe Çobanlık Döngüsü.",
+      "core_cultural_ethos": "Sonsuz mavi gökyüzüne saygı, tabiatla tam simbiyoz, kaderci metanet, göçebenin mutlak kapı açıklığı (kapısı kilitlenmeyen Ger çadırları).",
+      "communication_style": "Az Söz, Derin Anlam. Bozkır insanı gereksiz lakırdıdan kaçınır; doğanın sesini dinlemek konuşmaktan evladır. Söz verildiğinde kanun hükmündedir.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Nutag (Нутаг)",
+          "meaning": "Yalnızca doğulan toprak değil; ata ruhlarının, çocukluk dağlarının ve bozkır rüzgarının insanın ruhunda bıraktığı silinmez vatan mayası."
+        },
+        {
+          "word": "Höömei (Хөөмей)",
+          "meaning": "Tek bir nefeste doğanın rüzgarını, şelalesini ve hayvanlarını taklit eden iki sesli mistik boğaz şarkıcılığı."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Yılda dört kez mera değiştirme göçü; Naadam festivalinde üç yiğitlik sporu (güreş, okçuluk, at yarışı); çadıra gelen her yabancıya tuzlu sütlü çay (Suutei Tsai) sunma.",
+      "gastronomic_philosophy": "Kışın dondurucu soğuğuna direnen 'Beyaz ve Gri Yiyecekler' felsefesi: Et (Buuz - buharda mantı, Huushuur) ve süt ürünleri (Aaruul - kurutulmuş peynir, Airag - mayalanmış kısrak sütü).",
+      "social_taboos_and_etiquette": "Ger çadırının kapı eşiğine asla basılmaz (eşik ailenin onurudur, basmak boyun kesmek sayılır); çadırın merkezindeki iki direğin arasından geçilmez; ateşe su dökülmez veya çöp atılmaz.",
+      "literary_and_artistic_archetypes": "Morin Khuur (At başlı keman) ezgileri; Moğolların Gizli Tarihi kroniği; Gök gürültüsü ve rüzgar şaman efsaneleri."
+    },
+    {
+      "country": "Danimarka",
+      "code": "DNK",
+      "capital": "Kopenhag",
+      "civilization_crossroads": "İskandinav Viking Mirası + Protestan Eşitlikçilik + Baltık Deniz Ticareti + Modern Nordik Refah Modeli.",
+      "core_cultural_ethos": "'Hygge' (samimi, sıcak ve iddiasız dinginlik), 'Janteloven' (kendini kimseden üstün görmeme ahlakı), toplumsal kurumlara azami güven ve bisiklet odaklı insani şehir yaşamı.",
+      "communication_style": "Düşük Bağlamlı, Doğrudan ve İddiasız. Nezaket yapmacık süslerde değil, dürüstlükte aranır. Hiyerarşi minimumdur; genel müdürle stajyer aynı masada ismiyle konuşur.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Hygge",
+          "meaning": "Mum ışığında, sıcak çoraplarla, sevdiklerinle paylaşılan iddiasız, telaşsız ve huzurlu anların ruh hali."
+        },
+        {
+          "word": "Arbejdsglæde",
+          "meaning": "Yaptığı işten, çalıştığı ortamdan ve mesai arkadaşlarından duyulan içsel mutluluk ve tatmin."
+        },
+        {
+          "word": "Janteloven",
+          "meaning": "«Kendinin kimseden daha özel veya üstün olduğunu düşünme» ilkesine dayanan İskandinav tevazu normu."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Yağmur çamur dinlemeden bisiklete binme, kışın evleri mumlarla aydınlatma, cuma öğleden sonra mesai sonrası rahatlama ritüelleri (Fredagsbar).",
+      "gastronomic_philosophy": "Yeni Nordik Mutfağı ve geleneksel sadelik. Smørrebrød (çavdar ekmeği üstü ringa balığı, somon veya karides açık sandviçi), Danimarka tereyağlı kurabiyeleri ve köftesi (Frikadeller).",
+      "social_taboos_and_etiquette": "Zenginlikle veya statüyle böbürlenmek en büyük görgüsüzlüktür; başkalarının huzurunu yüksek sesle bozmak ayıptır; randevulara dakikası dakikasına uyulur.",
+      "literary_and_artistic_archetypes": "Hans Christian Andersen masalları; Søren Kierkegaard varoluşçu felsefesi; minimalist Danimarka mobilya tasarımı."
+    },
+    {
+      "country": "Finlandiya",
+      "code": "FIN",
+      "capital": "Helsinki",
+      "civilization_crossroads": "Fin-Ugor Kadim Orman Kültürü + Kuzey Karpatlar + İsveç ve Rus Tarihsel Etkileşimi + Arktik Doğa Dayanıklılığı.",
+      "core_cultural_ethos": "'Sisu' (tüm umutlar tükendiğinde ortaya çıkan sarsılmaz irade ve cesaret), doğanın sessizliğine duyulan kutsal saygı, sauna arınma felsefesi ve sözün namusu.",
+      "communication_style": "Son Derece Düşük Bağlamlı, Sessizliğe Saygılı. Fin kültüründe sessizlik bir gerginlik değil, saygı ve düşünme alanıdır; gevezelik ve yapmacık iltifatlar güvensizlik yaratır.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Sisu",
+          "meaning": "İmkansız şartlar karşısında pes etmeyen, fiziksel ve ruhsal sınırların ötesine geçen çelik gibi içsel irade gücü."
+        },
+        {
+          "word": "Talkoot",
+          "meaning": "Komşunun çatısını onarmak veya köy yolunu temizlemek için karşılıksız toplanıp sonra birlikte sauna ve yemekle kutlanan imece."
+        },
+        {
+          "word": "Kalsarikännit",
+          "meaning": "Dışarı çıkma niyeti olmadan, evde rahat kıyafetlerle yalnız veya eşle kafa dinleme hali."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Haftalık kutsal Sauna ritüeli (ardından göle veya kara atlama); yazın göl kenarındaki kulübelerde (Mökki) doğayla baş başa kalma; ormandan böğürtlen ve mantar toplama.",
+      "gastronomic_philosophy": "Orman ve göl bereketi: Karjalanpiirakka (Karelya pirinçli çavdar böreği), somon çorbası (Lohikeitto), geyik eti ve yaban mersini sosu.",
+      "social_taboos_and_etiquette": "Saunaya mayo ile girmek veya saunada ses çıkarmak ayıptır (sauna mabet sayılır); başkasının sözünü kesmek büyük terbiyesizliktir; kişisel alana (en az 1.5 metre) yaklaşılmaz.",
+      "literary_and_artistic_archetypes": "Kalevala destanı; Jean Sibelius senfonileri; Tove Jansson'un sevimli Mumi vadisi."
+    },
+    {
+      "country": "Macaristan",
+      "code": "HUN",
+      "capital": "Budapeşte",
+      "civilization_crossroads": "Ural-Altay Bozkır Göçmenliği (Magyar Boyları) + Hristiyan Orta Avrupa + Osmanlı ve Habsburg İmparatorluk Katmanları.",
+      "core_cultural_ethos": "Gururlu milli bilinç, hafif hüzünlü ve nostaljik ruh hali, bilim ve matematikte dahi arayışlar, ateşli müzik ve dans tutkusu.",
+      "communication_style": "Doğrudan, Entelektüel ve İronik. Macarlar olaylara zekice mizah ve kara mizahla yaklaşmayı sever; dost meclislerinde derin tarih ve felsefe tartışmaları normdur.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Betyár",
+          "meaning": "Bozkırda adaletsizliğe başkaldıran, halkın koruyucusu olan şövalye ruhlu romantik Macar eşkıyası."
+        },
+        {
+          "word": "Vigadó",
+          "meaning": "Dertleri ve tasaları geride bırakıp müzik, şarap ve dostlarla neşeyle coşulan şenlik meclisi."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Tarihi Roma ve Osmanlı termal kaplıcalarında satranç oynama geleneği; kahvehanelerde edebiyat sohbetleri; pusta (bozkır) at gösterileri.",
+      "gastronomic_philosophy": "Kırmızı toz biberin (Paprika) büyüsü: Gulaş (Gulyásleves - sığır etli çorba), Halászlé (balıkçı çorbası), Lángos (sarımsaklı kızarmış hamur) ve Tokaji asil tatlı şarabı.",
+      "social_taboos_and_etiquette": "Bira kadehlerini tokuşturmak geleneksel olarak yapılmaz (1848 devriminde Avusturyalı generallerin kutlamasına tepki olarak doğan 150 yıllık yasa mirası); evlere ayakkabıyla girilmez.",
+      "literary_and_artistic_archetypes": "Béla Bartók ve Franz Liszt melodileri; Csárdás halk dansı; Sándor Márai ve Imre Kertész edebiyatı."
+    },
+    {
+      "country": "Çekya",
+      "code": "CZE",
+      "capital": "Prag",
+      "civilization_crossroads": "Kutsal Roma Cermen İmparatorluğu + Bohemya Slav Ruhu + Katolik Barok Estetik + Habsburg Hümanizmi.",
+      "core_cultural_ethos": "'Pohoda' (telaşsız, sakin ve huzurlu hayat ritmi), ince ironi ve bürokrasiyle alay etme yeteneği (Aslan Asker Şvayk ruhu), bira kültürü ve zanaatkar Bohemya camcılığı.",
+      "communication_style": "Ölçülü, Mütevazı ve İronik. Çekler büyük iddialardan ve gösterişten hoşlanmaz; sakin ve felsefi bir alaycılıkla hayatın zorluklarını göğüslerler.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Pohoda",
+          "meaning": "Stres, hırs ve aceleden arınmış; bir dost meclisinde veya doğada hissedilen tatlı dingin huzur ve keyif hali."
+        },
+        {
+          "word": "Lítost",
+          "meaning": "Milan Kundera'nın tarif ettiği; insanın kendi sefaletini ve çaresizliğini aniden fark etmesiyle doğan keder ve öfke fırtınası."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Hafta sonları köy kulübelerine (Chata) kaçma, ormanda mantar toplama tutkusu; tarihi meyhanelerde (Hospoda) taze çekilmiş Pilsner birası eşliğinde muhabbet.",
+      "gastronomic_philosophy": "Doyurucu Bohemya mutfağı: Svíčková na smetaně (kremalı sebze soslu dana eti ve ekmek köftesi - Knedlíky), kavrulmuş ördek ve gulaş.",
+      "social_taboos_and_etiquette": "Birahanede başkalarının masasına otururken 'Buraya oturabilir miyim?' diye sormamak kabalıktır; bira bardağının altına karton altlık koymadan masaya konmaz.",
+      "literary_and_artistic_archetypes": "Franz Kafka'nın varoluşsal labirentleri; Jaroslav Hašek'in Şvayk'ı; Antonín Dvořák ve Bedřich Smetana'nın senfonileri."
+    },
+    {
+      "country": "Belçika",
+      "code": "BEL",
+      "capital": "Brüksel",
+      "civilization_crossroads": "Cermen (Flaman) ile Latin (Valon) Dünyasının Kesişimi + Burgonya Zarafeti + Avrupa Birliği Kozmopolitizmi.",
+      "core_cultural_ethos": "'Convivialité' (sofra dostluğu ve yaşama zevki), sürrealist bakış açısı (Magritte ruhu), zanaat mükemmeliyeti ve uzlaşma kültürü (Belçika Kompromisi).",
+      "communication_style": "Kibar, Uzlaşmacı ve Çift Dilli. Çatışmalardan kaçınma ve orta yolu bulma ustalığı gelişmiştir; kültürel farklılıklara karşı esnektir.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Convivialité",
+          "meaning": "Masadaki lezzetlerin, dost sohbetinin ve paylaşılan neşenin etrafında kurulan sıcak ve zarif birliktelik."
+        },
+        {
+          "word": "Gezelligheid",
+          "meaning": "(Flaman bölgesinde) Sıcak, samimi ve güvenli dost meclisi hali."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Pazar günleri fırından taze kruvasan ve waffle alma ritüeli; her bira türünün kendi özel kadehinde servis edilmesi; çizgi roman (Bande Dessinée) festivalleri.",
+      "gastronomic_philosophy": "Fransız kalitesi ile Cermen porsiyonlarının birleşimi: Moules-Frites (midye ve çift kızartılmış patates), Stoofvlees (bira soslu dana yahni), el yapımı çikolata pralinleri ve manastır Trappist biraları.",
+      "social_taboos_and_etiquette": "Birayı yanlış kadehte servis etmek o biranın ruhuna saygısızlık sayılır; Flaman ve Valon dil hassasiyetlerine dikkat edilmelidir; yemekte acele edilmez.",
+      "literary_and_artistic_archetypes": "René Magritte sürrealizmi; Hergé'nin Tenten'i (Tintin); Jan van Eyck ve Flaman Rönesans ressamları."
+    },
+    {
+      "country": "Kanada",
+      "code": "CAN",
+      "capital": "Ottawa",
+      "civilization_crossroads": "Yerli İlk Uluslar (First Nations / Inuit) + İngiliz ve Fransız Çift Kurucu Miras + Arktik Doğa + Çok Kültürlü Mozaik.",
+      "core_cultural_ethos": "Kültürel mozaik (herkesin kendi kimliğini koruyarak bir arada yaşaması), tabiata derin saygı, kolektif nezaket ('Sorry' refleksi) ve barış gücü kimliği.",
+      "communication_style": "Yüksek Düzeyde Kibar, Kapsayıcı ve Dolaylı. Karşıt fikirler dile getirilirken bile kırmamaya özen gösterilir; özür dilemek bir zayıflık değil, sosyal uyum aracıdır.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Kigun (Inuktitut)",
+          "meaning": "Kuzeyin sonsuz karlarında hayatta kalmayı sağlayan kadim doğa bilgisi ve sabır."
+        },
+        {
+          "word": "Mosaic",
+          "meaning": "Eriyen pota (Melting Pot) yerine, her kültürün kendi rengini koruduğu Kanada çok kültürlülük felsefesi."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Buz hokeyi tutkusu, ilkbaharda akçaağaç şurubu kulübelerine (Sugar Shack) gitme şenliği, vahşi doğada kano ve kamp kültürü.",
+      "gastronomic_philosophy": "Doğal ve yerel harman: Poutine (patates kızartması, peynir taneleri ve sıcak sos), akçaağaç şurubu, Pasifik somonu ve Tourtière böreği.",
+      "social_taboos_and_etiquette": "Kuyruk kurallarına uymamak veya kabalık etmek toplumca ayıplanır; yerli halkların kutsal mirasına ve sembollerine saygısızlık kabul edilemez.",
+      "literary_and_artistic_archetypes": "Group of Seven manzara ressamları; Margaret Atwood ve Leonard Cohen edebiyatı; Inuit taş totemleri (Inuksuk)."
+    },
+    {
+      "country": "Küba",
+      "code": "CUB",
+      "capital": "Havana",
+      "civilization_crossroads": "İspanyol Endülüs Kolonyal Mirası + Afro-Karayip Yoruba İnançları + Sosyalist Devrim Tarihi + Tropikal Karayip Ruhu.",
+      "core_cultural_ethos": "'Resolver' (yokluk ve ambargo şartlarında zekice çare üretme kabiliyeti), 'Ajiaco' (farklı ırkların tek bir lezzetli güveçte kaynaşması), müzikle iyileşen hayat ve sokak dayanışması.",
+      "communication_style": "Sıcak, Dışa Dönük, Yüksek Sesli ve Müzikal. Kübalılar sokakta, balkondan balkona konuşur; jestler, dans ve kahkahalar günlük iletişimin doğal parçasıdır.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Resolver",
+          "meaning": "İmkansız görünen yokluk ve bürokrasi şartlarında yaratıcı zekayla bir çözüm, parça veya çıkış yolu bulma sanatı."
+        },
+        {
+          "word": "Guarachar",
+          "meaning": "Tüm zorluklara ve yoksulluğa inat hayatı bir parti gibi neşeyle, dansla ve şarkıyla kutlama hali."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Malecon sahil kordonunda gün batımında toplanıp gitar çalma, kapı önünde komşularla domino oynama, Santeria davul ritüelleri ve klasik Amerikan araçlarını tamir etme.",
+      "gastronomic_philosophy": "Criollo mutfağı: Ropa Vieja (didilmiş dana eti yahni), Moros y Cristianos (siyah fasulye ve pirinç), kızarmış muz (Tostones) ve Küba kahvesi (Cafe Cubano).",
+      "social_taboos_and_etiquette": "Soğuk ve mesafeli durmak kibir sayılır; ikram edilen kahveyi geri çevirmek kırıcıdır; sokakta müzik çalarken hareketsiz durmak bile garip karşılanır.",
+      "literary_and_artistic_archetypes": "Buena Vista Social Club ve Son Cubano müziği; José Martí şiirleri; Wifredo Lam resimleri."
+    },
+    {
+      "country": "Bolivya",
+      "code": "BOL",
+      "capital": "La Paz / Sucre",
+      "civilization_crossroads": "And Dağları Aymara ve Keçua Medeniyetleri + İnka Mirası + İspanyol Katolik Kolonyalizmi.",
+      "core_cultural_ethos": "'Pachamama'ya (Toprak Ana) duyulan kutsal hürmet, 'Sumak Kawsay' (doğayla uyum içinde İyi Yaşam felsefesi), cemaat meclisleri ve yerli kimlik onuru.",
+      "communication_style": "Yüksek Bağlamlı, Mütevazı ve Ağırbaşlı. Yerli And insanı gürültüden hoşlanmaz; göz teması ve sessiz tefekkür sözlerden daha etkilidir.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Sumak Kawsay (Buen Vivir)",
+          "meaning": "Sınırsız tüketim ve büyüme yerine; doğayla, toplumla ve kendi iç dünyanla tam bir denge içinde yaşama felsefesi."
+        },
+        {
+          "word": "Challa",
+          "meaning": "Bir şey yemeden veya içmeden önce Toprak Ana Pachamama'ya şükran için yere bir miktar içki veya yiyecek dökme kutsal ritüeli."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Geleneksel Cholita kadınlarının renkli fırfırlı etekleri ve melon şapkaları; Oruro Karnavalı'nda şeytan dansı (Diablada); koka yaprağı çiğneme seremonileri.",
+      "gastronomic_philosophy": "Yüksek rakım bereket mutfağı: Salteñas (sulu kıymalı fırın böreği), kinoa çorbaları, yüzlerce çeşit And patatesi ve mısır içeceği (Chicha).",
+      "social_taboos_and_etiquette": "Yere Challa yapmadan içkiye başlamak Pachamama'ya saygısızlık sayılır; yerli kadınların fotoğraflarını izinsiz çekmek ruhlarını çalmak gibi algılanabilir.",
+      "literary_and_artistic_archetypes": "Zampoña ve Quena flüt ezgileri; Tiahuanaco Güneş Kapısı; Tiwanaku medeniyet sembolleri."
+    },
+    {
+      "country": "Uruguay",
+      "code": "URY",
+      "capital": "Montevideo",
+      "civilization_crossroads": "Rio de la Plata Havzası + İtalyan ve İspanyol Göçmenliği + Gaucho Bozkır Süvariliği + Seküler Aydınlanma.",
+      "core_cultural_ethos": "'Tranquilidad' (içsel huzur, acelecilikten nefret etme), Mate çayı etrafında kurulan eşitlikçi dostluk çemberi, gösterişsizlik ve entelektüel sadelik.",
+      "communication_style": "Sıcak, Rahat ve Saygılı. Arjantinlilere kıyasla daha yumuşak, alçakgönüllü ve dinlemeye açık bir üslup hakimdir.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Tranquilidad",
+          "meaning": "Hiçbir hırsın, krizin veya acelenin bozamayacağı dingin sükunet ve anın tadını çıkarma hali."
+        },
+        {
+          "word": "Ronda de Mate",
+          "meaning": "Aynı pipet (bombilla) ve kaptan sırayla içilen, herkesi eşit kılan kutsal Mate çemberi."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Koltuk altında termos ve elde Mate bardağıyla sokakta yürüme ritüeli; hafta sonları nehir kenarında Asado ızgarası yakma; Candombe davul geçitleri.",
+      "gastronomic_philosophy": "Ateş ve et kültürü: Odun ateşinde saatlerce pişen Asado, Chivito (zengin biftek sandviçi), Dulce de Leche ve yerel Tannat şarabı.",
+      "social_taboos_and_etiquette": "Mate ikram edildiğinde 'Teşekkür ederim' (Gracias) demek 'Artık istemiyorum, yeter' anlamına gelir; pipeti karıştırmak veya bardağı hızlıca geri vermek saygısızlıktır.",
+      "literary_and_artistic_archetypes": "Eduardo Galeano'nun Latin Amerika'nın Kesik Damarları eseri; Mario Benedetti şiirleri; Candombe ritimleri."
+    },
+    {
+      "country": "Etiyopya",
+      "code": "ETH",
+      "capital": "Addis Ababa",
+      "civilization_crossroads": "Kızıldeniz & Afrika Boynuzu + 3000 Yıllık Kesintisiz Egemenlik (Seba Melikesi & Süleyman Soyu) + Kadim Ortodoks Hristiyanlık & İslam (İlk Hicret).",
+      "core_cultural_ethos": "Sömürgeleştirilememiş olmanın verdiği derin milli gurur, 'Bunna' (törensel kahve seremonisi) ile inşa edilen cemaat bağı ve 'Gursha' (lokmayı eliyle dostuna yedirme) cömertliği.",
+      "communication_style": "Yüksek Bağlamlı, Ağırbaşlı ve Şiirsel. Ses tonu yumuşaktır; doğrudan tartışmalardan kaçınılır ve saygı ifadeleri kelimelerin başında yer alır.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Gursha (ጉርሻ)",
+          "meaning": "Sofrada en lezzetli lokmayı kendi elinle yanındaki dostunun ağzına vererek sevgiyi ve kardeşliği mühürleme ritüeli."
+        },
+        {
+          "word": "Bunna Tetu",
+          "meaning": "Kahve çekirdeklerinin taze kavrulmasından tütsü yakılmasına kadar 2 saat süren törensel kahve sohbeti."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Geleneksel beyaz pamuklu kıyafetler (Habesha Kemis); Timkat ve Meskel dini bayramlarında sokak ayinleri; kilisede tütsü kokusu ve davul ritimleri.",
+      "gastronomic_philosophy": "Ortak tabak kültürü: Teff unundan yapılan ekşi mayalı dev süngerimsi ekmek İncera (Injera) üzerine dizilen baharatlı güveçler (Doro Wat, Misir Wat). Herkes aynı tepsiden sağ elle yer.",
+      "social_taboos_and_etiquette": "Yemekte sol el asla kullanılmaz; Gursha ikramını reddetmek derin bir hakarettir; din adamlarına ve yaşlılara eğilerek hürmet gösterilir.",
+      "literary_and_artistic_archetypes": "Lalibela monolitik kaya kiliseleri; Ge'ez kutsal yazı dili ve Kebra Nagast destanı; Etiyopya Cazı (Mulatu Astatke)."
+    },
+    {
+      "country": "Gana",
+      "code": "GHA",
+      "capital": "Akra",
+      "civilization_crossroads": "Ashanti Krallığı Altın Mirası + Batı Afrika Kıyı Ticareti + Bağımsız Afrika Öncülüğü (Kwame Nkrumah).",
+      "core_cultural_ethos": "'Sankofa' (geçmişin bilgeliğini geleceğe taşıma felsefesi), 'Akwaaba' (misafiri kucaklayan sıcak karşılama) ve toplumsal ahengi gözeten kabile büyükleri konseyi.",
+      "communication_style": "Dolaylı, Nezaket Dolu ve Güleryüzlü. Karşısındakini mahcup edecek sözlerden özenle kaçınılır; selamlaşma uzun hal hatır sormalarla başlar.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Sankofa",
+          "meaning": "«Geriye dönüp unuttuğun bilgeliği almak ayıp değildir.» Başı geriye bakan kuş sembolüyle temsil edilen tarih şuuru."
+        },
+        {
+          "word": "Akwaaba",
+          "meaning": "Yalnızca 'Hoş geldiniz' değil; 'Kapımız, soframız ve kalbimiz sana ardına kadar açıktır' anlamındaki kutsal kabul."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Kente dokuma kumaşlarının renkleriyle hikaye anlatma geleneği; pazar günleri kilise şıklığı; cenazelerin hayatı kutlayan renkli danslara dönüştürülmesi.",
+      "gastronomic_philosophy": "Baharatlı ve zengin Karayip/Afrika kökleri: Jollof Pilavı (Gana usulü tütsülü domatesli pilav), Fufu (dövülmüş manyok ve muz hamuru) ve yer fıstığı çorbası.",
+      "social_taboos_and_etiquette": "Birine işaret etmek veya bir şey uzatmak için sol el kullanılmaz; yaşlıların yanında bacak bacak üstüne atılmaz; selam vermeden bir soru sormak kabalıktır.",
+      "literary_and_artistic_archetypes": "Adinkra görsel bilgelik sembolleri; Highlife müziği; Ashanti altın asaları ve kraliyet tahtları."
+    },
+    {
+      "country": "Senegal",
+      "code": "SEN",
+      "capital": "Dakar",
+      "civilization_crossroads": "Sahel İslam Tasavvufu (Müridilik Kardeşliği) + Wolof Krallıkları + Fransız Kolonyal Entelektüalizmi + Atlantik Kıyı Kültürü.",
+      "core_cultural_ethos": "'Teranga' (dünyanın en yüksek misafirperverlik andı), 'Lafayette' ruhu, Müridi tasavvuf ahlakı (çalışmak ibadettir) ve barışçıl çoğulculuk.",
+      "communication_style": "Zarif, Şiirsel ve Saygılı. Wolof dilinde selamlaşma dakikalarca aile, sağlık ve esenlik sorularıyla devam eder; doğrudan konuya girmek görgüsüzlük sayılır.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Teranga",
+          "meaning": "Senegal'in ulusal ruhu: Tanımadığın bir yabancıya dahi ailenden biri gibi sofra kurma, koruma ve sevgi gösterme cömertliği."
+        },
+        {
+          "word": "Kersa",
+          "meaning": "Başkalarının yanında mahcubiyet duyma, tevazu ve kendine hakim olma erdemi."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Touba kutsal kentine hac ziyareti; akşamüstleri sokak köşelerinde demlenen üç kademeli nane çayı (Attaya) ritüeli; geleneksel Senegal güreşi (Laamb).",
+      "gastronomic_philosophy": "UNESCO Tescilli Thiéboudienne (Ceebu Jën - kırık pirinç, taze balık, manyok ve sebzelerle pişirilen ulusal ziyafet yemeği); Yassa Poulet (soğan ve limon marineli tavuk).",
+      "social_taboos_and_etiquette": "Yolda yürürken tek başına yemek yemek ayıplanır (yiyecek paylaşılmalıdır); sol elle yemek yenmez veya selam verilmez; büyüklere ismiyle hitap edilmez.",
+      "literary_and_artistic_archetypes": "Léopold Sédar Senghor ve Négritude şiir hareketi; Ousmane Sembène sineması; Kora virtüözleri ve Mbalax ritimleri."
+    },
+    {
+      "country": "Lübnan",
+      "code": "LBN",
+      "capital": "Beyrut",
+      "civilization_crossroads": "Fenike Deniz Ticareti + Roma/Bizans Mirası + Arap/Osmanlı İpek Yolu + Fransız Mandası Kozmopolitizmi.",
+      "core_cultural_ethos": "Levanten zarafet, ne olursa olsun hayata tutunma ve küllerinden doğma yeteneği (Anka Kuşu ruhu), sofra estetiği ve müzikle vecde ulaşma ('Tarab').",
+      "communication_style": "Çok Dilli, Diplomatik, İltifat Dolu ve Sıcak. Bir cümlede Arapça, Fransızca ve İngilizce doğal olarak harmanlanır («Bonjour, kifak, ça va?»).",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Tarab (طرب)",
+          "meaning": "Müziğin (özellikle Feyruz ve Ümmü Gülsüm) dinleyicinin ruhunu esir alıp zamanı unutturduğu estetik esriklik ve cezbe hali."
+        },
+        {
+          "word": "Ahlan wa Sahlan",
+          "meaning": "«Ailemize geldiniz, ayak bastığınız yer ova gibi rahat olsun» anlamına gelen köklü Arap karşılama andı."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Saatler süren mezze ve arak sofraları; dağ köylerinde yaz tatilleri; düğünlerde omuz omuza çekilen coşkulu Dabke halk dansı.",
+      "gastronomic_philosophy": "Akdeniz'in en rafine sofrası: Humus, tabbule, kibbeh (içli köfte), fattuş salatası, zeytinyağlılar ve anasonlu Arak içeceği.",
+      "social_taboos_and_etiquette": "Misafire ikram edilen yemeğin ilk teklifte hemen hepsi bitirilmez (ev sahibi daha fazla ikram etsin diye tabakta az bir miktar bırakılır); dini ve mezhepsel konularda uluorta tartışılmaz.",
+      "literary_and_artistic_archetypes": "Halil Cibran'ın Ermiş (The Prophet) eseri; Feyruz'un sabah sesleri; sedir ağacı sembolizmi."
+    },
+    {
+      "country": "İsrail",
+      "code": "ISR",
+      "capital": "Kudüs (İdari: Tel Aviv)",
+      "civilization_crossroads": "Kadim İbrani Kutsal Metinleri + Avrupa ve Doğu Aşkenaz/Sefarad/Mizrahi Diasporası + Akdeniz Modernizmi.",
+      "core_cultural_ethos": "'Sabra' (dışı kaktüs gibi dikenli ve sert, içi tatlı ve yumuşak ulusal karakter), 'Hutzpah' (hiyerarşi tanımayan dobra atılganlık), sorgulama ve münazara tutkusu.",
+      "communication_style": "Aşırı Düşük Bağlamlı, Doğrudan ve Dobra (Dugri). Lafı dolandırmak zaman kaybı sayılır; ses tonu yüksek, eleştiriler sert fakat kin gütmeyen tarzdadır.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Sabra (צבר)",
+          "meaning": "Yerli doğumlu İsraillileri simgeleyen; dışarıdan sert ve uzlaşmaz, içeriden sıcak, sadık ve cömert insan karakteri."
+        },
+        {
+          "word": "Hutzpah (חוצפה)",
+          "meaning": "Geleneksel kuralları ve otoriteyi sorgulayan, cesur, küstahça fakat yenilik doğuran atılganlık."
+        },
+        {
+          "word": "Tikun Olam (תיקון עולם)",
+          "meaning": "«Dünyayı onarmak ve daha adil kılmak» ilkesine dayanan kadim Yahudi sosyal adalet ve sorumluluk ideali."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Cuma akşamı gün batımıyla başlayan kutsal Şabat (Shabbat) aile yemeği; Şabat mumu yakma; Akdeniz kumsallarında Matkot oyunu; teknoloji startup kültürü.",
+      "gastronomic_philosophy": "Orta Doğu ve Akdeniz füzyonu: Şakşuka, humus, falafel, sabich sandviçi, Challah örgü ekmeği ve tahinli tatlılar (Helva). Koşer kurallarına uygunluk.",
+      "social_taboos_and_etiquette": "Şabat saatlerinde dindar mahallelerde araba kullanmak veya telefonla konuşmak tabudur; Koşer kurallarına göre süt ile et aynı öğünde bir arada tüketilmez.",
+      "literary_and_artistic_archetypes": "Amos Oz ve David Grossman edebiyatı; Klezmer ezgileri; Bauhaus tarzı Tel Aviv beyaz mimarisi."
+    },
+    {
+      "country": "Malezya",
+      "code": "MYS",
+      "capital": "Kuala Lumpur",
+      "civilization_crossroads": "Malay Takımadaları + Çinli Ticaret Toplulukları + Hint Tamil Göçmenleri + İngiliz Kolonyal İdari Mirası.",
+      "core_cultural_ethos": "'Muhibbah' (farklı ırk, din ve kültürlerin barış içinde ahengi), 'Kampong' köy dayanışması ruhu ve yemek etrafında birleşen çoğulcu yaşam sevinci.",
+      "communication_style": "Yüksek Bağlamlı, Nazik ve İmalı. Yüz kaybetmeme (saving face) esastır; 'Evet' demek bazen sadece 'Seni dinliyorum' anlamına gelir.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Muhibbah",
+          "meaning": "Malay, Çinli ve Hintlilerin karşılıklı saygı, dostluk ve bayramları birlikte kutlama ahlakı."
+        },
+        {
+          "word": "Gotong-Royong",
+          "meaning": "Mahalle veya köyün iyiliği için herkesin karşılıksız el birliğiyle katıldığı toplumsal çalışma."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Açık Kapı (Open House) geleneği: Bayramlarda herkesin evini tüm komşulara ve yabancılara açması; 24 saat açık Mamak sokak lokantalarında buluşma.",
+      "gastronomic_philosophy": "Üç büyük medeniyetin tencerede buluşması: Nasi Lemak (hindistancevizi sütlü pilav, sambal ve kurutulmuş hamsi), Rendang eti, Roti Canai ve köpüklü sütlü çay Teh Tarik.",
+      "social_taboos_and_etiquette": "Çocukların veya büyüklerin başına asla dokunulmaz (baş ruhun barındığı kutsal yerdir); bir şeyi işaret ederken işaret parmağı yerine başparmak kullanılır; camilere ve evlere ayakkabısız girilir.",
+      "literary_and_artistic_archetypes": "Wau Bulan geleneksel uçurtmaları; Wayang Kulit gölge oyunu; P. Ramlee nostaljik sineması."
+    },
+    {
+      "country": "Filipinler",
+      "code": "PHL",
+      "capital": "Manila",
+      "civilization_crossroads": "Avustronezya Adalı Kökleri + 300 Yıllık İspanyol Katolikliği + 50 Yıllık Amerikan Modernizmi.",
+      "core_cultural_ethos": "'Bayanihan' (toplumun birbirinin evini omuzlayıp taşıması fedakarlığı), 'Pakikisama' (yoldaşlık uyumu ve çatışmadan kaçınma), aileye mutlak bağlılık ve güler yüzlü metanet.",
+      "communication_style": "Çok Yüksek Bağlamlı ve Nezaket Dolu. Büyüklere hitap ederken her cümlenin sonuna saygı ifadesi olan 'Po' veya 'Opo' eklenir; doğrudan reddetmek kırıcı sayılır.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Bayanihan",
+          "meaning": "Geleneksel bambu evi (Bahay Kubo) kütüklerle sırtlayıp başka bir köye el birliğiyle taşıyan komşuların kutsal dayanışma ruhu."
+        },
+        {
+          "word": "Gigil",
+          "meaning": "Sevimli bir bebek veya yavru hayvan görüldüğünde içten gelen o karşı konulamaz mıncıklama ve sarılma arzusu."
+        },
+        {
+          "word": "Pakikisama",
+          "meaning": "Grup ahengini bozmamak, başkalarının hatırını gözetmek ve toplulukla uyumlu hareket etme erdemi."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Mano Po ritüeli (büyüklerin elini alıp kendi alnına koyarak hayır duası isteme); karaoke (Videoke) tutkusu; mahalle festivali (Fiesta) şenlikleri.",
+      "gastronomic_philosophy": "Tuzlu, ekşi ve tatlının dengesi: Adobo (sirke ve soya soslu tavuk/domuz), Sinigang (ekşi demirhindi çorbası), Lechon (fırında nar gibi kızarmış bütün domuz) ve Halo-Halo tatlısı. Muz yaprağı üzerinde elle yenen 'Kamayan' şöleni.",
+      "social_taboos_and_etiquette": "Birini işaret parmağıyla çağırmak köpek çağırmak sayıldığı için büyük hakarettir (el ayası aşağıya bakacak şekilde el sallanır); tabaktaki son lokmayı almak çekingenlikten ötürü ertelenir.",
+      "literary_and_artistic_archetypes": "José Rizal'in Noli Me Tangere eseri; rengarenk Jeepney halk otobüsleri; Arnis geleneksel dövüş sanatı."
+    },
+    {
+      "country": "Gürcistan",
+      "code": "GEO",
+      "capital": "Tiflis",
+      "civilization_crossroads": "Kafkas Dağları + Antik Kolhis ve İberya Krallıkları + Doğu Ortodoks Hristiyanlığı + İpek Yolu ve Fars/Osmanlı Etkileşimi.",
+      "core_cultural_ethos": "8000 yıllık kadim bağcılık hafızası, 'Kartlis Deda' ruhu (dosta şarap kasesi, düşmana kılıç), destansı misafirperverlik ve sofra bilgeliği.",
+      "communication_style": "Coşkulu, Sıcak ve Şiirsel. Gürcüler sofrada konuşmayı bir sanat olarak icra eder; kadeh kaldırmalar derin felsefi hikayelerle bezenir.",
+      "untranslatable_soul_concepts": [
+        {
+          "word": "Tamada (თამადა)",
+          "meaning": "Geleneksel Gürcü sofrası Supra'yı yöneten, hayat, ölüm, barış ve dostluk üzerine bilgece kadeh kaldıran sofra başkanı."
+        },
+        {
+          "word": "Shemomechama (შემომეჭამა)",
+          "meaning": "«Farkında olmadan hepsini yiyiverdim.» Yemek o kadar lezzetliydi ki doymama rağmen kendimi durduramadım itirafı."
+        }
+      ],
+      "social_rituals_and_lifestyle": "Geleneksel Supra ziyafeti; çok sesli polifonik koro şarkıları (Chakrulo - UNESCO Mirası); Tiflis kükürt banyoları ve halk dansları.",
+      "gastronomic_philosophy": "Kafkasya'nın lezzet zirvesi: Haçapuri (Khachapuri - peynirli ve yumurtalı fırın pidesi), Hıngal (Khinkali - sulu etli dev mantı), cevizli patlıcan (Badrijani Nigvzit) ve Qvevri toprak küplerinde mayalanan kehribar şarapları.",
+      "social_taboos_and_etiquette": "Tamada kadeh kaldırmadan (Sadgegrodzelo) içki yudumlamak saygısızlıktır; Hıngal mantısı asla çatalla yenmez, elle sapından tutulup suyu höpürdetilerek içilir; misafirin hesabı ödemesine asla izin verilmez.",
+      "literary_and_artistic_archetypes": "Şota Rustaveli'nin Kaplan Postlu Şövalye destanı; Pirosmani'nin naif tabloları; UNESCO tescilli Gürcü polifoni koroları."
     }
   ]
 }

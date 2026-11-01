@@ -126,6 +126,51 @@ Dünya dillerinde yalnızca bir kelimeyle ifade edilen ancak arkasında bin yıl
 | **Mateship** | Avustralya (`AUS`) | Zorlu çöl şartlarında, savaşta veya gündelik hayatta bir arkadaşına koşulsuz sadakat, eşitlik ve güven duyma andı. |
 | **Fair Go** | Avustralya (`AUS`) | Sosyal sınıfı, kökeni ne olursa olsun her insana eşit şans ve adil muamele gösterilmesi gerektiği inancı. |
 | **Dreamtime (Jukurrpa)** | Avustralya (`AUS`) | Aborjin kozmolojisinde dünyanın, nehirlerin ve canlıların atalar ruhu tarafından şarkılarla yaratıldığı ezeli ve ebedi zaman boyutu. |
+| **Konakjaylik (Қонақжайлық)** | Kazakistan (`KAZ`) | Yabancı bir misafiri hiçbir karşılık beklemeden evinde ağırlayıp en kıymetli yemeği sunan bozkır misafirperverlik andı. |
+| **Asar (Асар)** | Kazakistan (`KAZ`) | Bir ailenin evini inşa etmek veya tarlasını sürmek için tüm köy halkının hiçbir ücret almadan yardıma koştuğu imece ruhu. |
+| **Bata (Бата)** | Kazakistan (`KAZ`) | Sofradan veya yoldan önce aksakallı bir büyüğün iki elini açarak verdiği kutsal dua ve hayır temennisi. |
+| **Mehr-Oqibat (Меҳр-оқибат)** | Özbekistan (`UZB`) | İnsanlar arasında menfaatsiz sevgi, akrabalık vefası ve zor günde birbirine kol kanat germe ahlakı. |
+| **Hashar (Ҳашар)** | Özbekistan (`UZB`) | Mahalledeki cami, su kanalı veya komşu evinin tamiri için tüm mahallelinin şarkılarla katıldığı gönüllü imece. |
+| **Nutag (Нутаг)** | Moğolistan (`MNG`) | Yalnızca doğulan toprak değil; ata ruhlarının, çocukluk dağlarının ve bozkır rüzgarının insanın ruhunda bıraktığı silinmez vatan mayası. |
+| **Höömei (Хөөмей)** | Moğolistan (`MNG`) | Tek bir nefeste doğanın rüzgarını, şelalesini ve hayvanlarını taklit eden iki sesli mistik boğaz şarkıcılığı. |
+| **Hygge** | Danimarka (`DNK`) | Mum ışığında, sıcak çoraplarla, sevdiklerinle paylaşılan iddiasız, telaşsız ve huzurlu anların ruh hali. |
+| **Arbejdsglæde** | Danimarka (`DNK`) | Yaptığı işten, çalıştığı ortamdan ve mesai arkadaşlarından duyulan içsel mutluluk ve tatmin. |
+| **Janteloven** | Danimarka (`DNK`) | «Kendinin kimseden daha özel veya üstün olduğunu düşünme» ilkesine dayanan İskandinav tevazu normu. |
+| **Sisu** | Finlandiya (`FIN`) | İmkansız şartlar karşısında pes etmeyen, fiziksel ve ruhsal sınırların ötesine geçen çelik gibi içsel irade gücü. |
+| **Talkoot** | Finlandiya (`FIN`) | Komşunun çatısını onarmak veya köy yolunu temizlemek için karşılıksız toplanıp sonra birlikte sauna ve yemekle kutlanan imece. |
+| **Kalsarikännit** | Finlandiya (`FIN`) | Dışarı çıkma niyeti olmadan, evde rahat kıyafetlerle yalnız veya eşle kafa dinleme hali. |
+| **Betyár** | Macaristan (`HUN`) | Bozkırda adaletsizliğe başkaldıran, halkın koruyucusu olan şövalye ruhlu romantik Macar eşkıyası. |
+| **Vigadó** | Macaristan (`HUN`) | Dertleri ve tasaları geride bırakıp müzik, şarap ve dostlarla neşeyle coşulan şenlik meclisi. |
+| **Pohoda** | Çekya (`CZE`) | Stres, hırs ve aceleden arınmış; bir dost meclisinde veya doğada hissedilen tatlı dingin huzur ve keyif hali. |
+| **Lítost** | Çekya (`CZE`) | Milan Kundera'nın tarif ettiği; insanın kendi sefaletini ve çaresizliğini aniden fark etmesiyle doğan keder ve öfke fırtınası. |
+| **Convivialité** | Belçika (`BEL`) | Masadaki lezzetlerin, dost sohbetinin ve paylaşılan neşenin etrafında kurulan sıcak ve zarif birliktelik. |
+| **Gezelligheid** | Belçika (`BEL`) | (Flaman bölgesinde) Sıcak, samimi ve güvenli dost meclisi hali. |
+| **Kigun (Inuktitut)** | Kanada (`CAN`) | Kuzeyin sonsuz karlarında hayatta kalmayı sağlayan kadim doğa bilgisi ve sabır. |
+| **Mosaic** | Kanada (`CAN`) | Eriyen pota (Melting Pot) yerine, her kültürün kendi rengini koruduğu Kanada çok kültürlülük felsefesi. |
+| **Resolver** | Küba (`CUB`) | İmkansız görünen yokluk ve bürokrasi şartlarında yaratıcı zekayla bir çözüm, parça veya çıkış yolu bulma sanatı. |
+| **Guarachar** | Küba (`CUB`) | Tüm zorluklara ve yoksulluğa inat hayatı bir parti gibi neşeyle, dansla ve şarkıyla kutlama hali. |
+| **Sumak Kawsay (Buen Vivir)** | Bolivya (`BOL`) | Sınırsız tüketim ve büyüme yerine; doğayla, toplumla ve kendi iç dünyanla tam bir denge içinde yaşama felsefesi. |
+| **Challa** | Bolivya (`BOL`) | Bir şey yemeden veya içmeden önce Toprak Ana Pachamama'ya şükran için yere bir miktar içki veya yiyecek dökme kutsal ritüeli. |
+| **Tranquilidad** | Uruguay (`URY`) | Hiçbir hırsın, krizin veya acelenin bozamayacağı dingin sükunet ve anın tadını çıkarma hali. |
+| **Ronda de Mate** | Uruguay (`URY`) | Aynı pipet (bombilla) ve kaptan sırayla içilen, herkesi eşit kılan kutsal Mate çemberi. |
+| **Gursha (ጉርሻ)** | Etiyopya (`ETH`) | Sofrada en lezzetli lokmayı kendi elinle yanındaki dostunun ağzına vererek sevgiyi ve kardeşliği mühürleme ritüeli. |
+| **Bunna Tetu** | Etiyopya (`ETH`) | Kahve çekirdeklerinin taze kavrulmasından tütsü yakılmasına kadar 2 saat süren törensel kahve sohbeti. |
+| **Sankofa** | Gana (`GHA`) | «Geriye dönüp unuttuğun bilgeliği almak ayıp değildir.» Başı geriye bakan kuş sembolüyle temsil edilen tarih şuuru. |
+| **Akwaaba** | Gana (`GHA`) | Yalnızca 'Hoş geldiniz' değil; 'Kapımız, soframız ve kalbimiz sana ardına kadar açıktır' anlamındaki kutsal kabul. |
+| **Teranga** | Senegal (`SEN`) | Senegal'in ulusal ruhu: Tanımadığın bir yabancıya dahi ailenden biri gibi sofra kurma, koruma ve sevgi gösterme cömertliği. |
+| **Kersa** | Senegal (`SEN`) | Başkalarının yanında mahcubiyet duyma, tevazu ve kendine hakim olma erdemi. |
+| **Tarab (طرب)** | Lübnan (`LBN`) | Müziğin (özellikle Feyruz ve Ümmü Gülsüm) dinleyicinin ruhunu esir alıp zamanı unutturduğu estetik esriklik ve cezbe hali. |
+| **Ahlan wa Sahlan** | Lübnan (`LBN`) | «Ailemize geldiniz, ayak bastığınız yer ova gibi rahat olsun» anlamına gelen köklü Arap karşılama andı. |
+| **Sabra (צבר)** | İsrail (`ISR`) | Yerli doğumlu İsraillileri simgeleyen; dışarıdan sert ve uzlaşmaz, içeriden sıcak, sadık ve cömert insan karakteri. |
+| **Hutzpah (חוצפה)** | İsrail (`ISR`) | Geleneksel kuralları ve otoriteyi sorgulayan, cesur, küstahça fakat yenilik doğuran atılganlık. |
+| **Tikun Olam (תיקון עולם)** | İsrail (`ISR`) | «Dünyayı onarmak ve daha adil kılmak» ilkesine dayanan kadim Yahudi sosyal adalet ve sorumluluk ideali. |
+| **Muhibbah** | Malezya (`MYS`) | Malay, Çinli ve Hintlilerin karşılıklı saygı, dostluk ve bayramları birlikte kutlama ahlakı. |
+| **Gotong-Royong** | Malezya (`MYS`) | Mahalle veya köyün iyiliği için herkesin karşılıksız el birliğiyle katıldığı toplumsal çalışma. |
+| **Bayanihan** | Filipinler (`PHL`) | Geleneksel bambu evi (Bahay Kubo) kütüklerle sırtlayıp başka bir köye el birliğiyle taşıyan komşuların kutsal dayanışma ruhu. |
+| **Gigil** | Filipinler (`PHL`) | Sevimli bir bebek veya yavru hayvan görüldüğünde içten gelen o karşı konulamaz mıncıklama ve sarılma arzusu. |
+| **Pakikisama** | Filipinler (`PHL`) | Grup ahengini bozmamak, başkalarının hatırını gözetmek ve toplulukla uyumlu hareket etme erdemi. |
+| **Tamada (თამადა)** | Gürcistan (`GEO`) | Geleneksel Gürcü sofrası Supra'yı yöneten, hayat, ölüm, barış ve dostluk üzerine bilgece kadeh kaldıran sofra başkanı. |
+| **Shemomechama (შემომეჭამა)** | Gürcistan (`GEO`) | «Farkında olmadan hepsini yiyiverdim.» Yemek o kadar lezzetliydi ki doymama rağmen kendimi durduramadım itirafı. |
 
 ---
 

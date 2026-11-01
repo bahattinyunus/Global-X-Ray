@@ -318,12 +318,14 @@ master_readme_content = f"""# 🏛️ MEDENİYET ATLASI
 1. [🏛️ Giriş ve Medeniyet Atlası Manifestosu](#️-giriş-ve-medeniyet-atlasi-manifestosu)
 2. [🎭 Dünya Medeniyetleri ve Kültürel Kodlar Rehberi (Cultural DNA)](#-dünya-medeniyetleri-ve-kültürel-kodlar-rehberi-cultural-dna)
    - [🌐 9 Büyük Küresel Medeniyet Havzası](#-9-büyük-küresel-medeniyet-havzasi)
-   - [🧬 40 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı](#-40-örnek-medeniyet-çapasi-ulusal-karakterler-ve-yaşam-adabi)
+   - [🧬 60 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı](#-40-örnek-medeniyet-çapasi-ulusal-karakterler-ve-yaşam-adabi)
    - [📖 Çevrilemeyen Ruh Kavramları Galerisi](#-çevrilemeyen-ruh-kavramlari-galerisi)
    - [🍲 Dünya Gastronomi Felsefeleri & Sofra Ritüelleri](#-dünya-gastronomi-felsefeleri--sofra-ritüelleri)
    - [🧭 Küresel Nezaket Kuralları, İletişim Kodları ve Sosyal Tabular](#-küresel-nezaket-kurallari-iletişim-kodlari-ve-sosyal-tabular)
    - [📜 Dünya Mitolojileri, Kurucu Destanlar ve Sözlü Edebiyat](#-dünya-mitolojileri-kurucu-destanlar-ve-sözlü-edebiyat)
    - [🏛️ Dünya Kutsal Mimarisi, Şehir Felsefesi ve Kutsal Mekanlar](#-dünya-kutsal-mimarisi-şehir-felsefesi-ve-kutsal-mekanlar)
+   - [🎵 Dünya Müzik Mirası ve Geleneksel Çalgılar](#-dünya-müzik-mirasi-ve-geleneksel-çalgilar)
+   - [🎆 Dünya Festivalleri ve Kutsal Ritüeller](#-dünya-festivalleri-ve-kutsal-ritüeller)
    - [📚 Medeniyet & Kültür Kütüphanesi Arşivi (/culture)](#-medeniyet--kültür-kütüphanesi-arşivi-culture)
 3. [🗺️ 205 ÜLKELİK KÜRESEL ATLAS: TÜM DÜNYA ULUSLARI VE ALT İÇERİK REHBERİ](#️-205-ülkelik-küresel-atlas-tüm-dünya-uluslari-ve-alt-i̇çerik-rehberi)
    - [📍 Bölgesel Fihrist ve Hızlı Atlama](#-bölgesel-fihrist-ve-hizli-atlama)
@@ -379,7 +381,7 @@ Bu nedenle bu ansiklopedi; **kültürü ve insanı merkeze koyan ana gövdesini*
 
 ---
 
-### 🧬 40 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı
+### 🧬 60 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı
 > 💡 *Her ülkenin kendi klasöründe (`01_culture_demographics/society_history.md`) tüm kültürel kodları, ritüelleri ve tabuları detaylıca işlenmiştir.*
 
 | Ülke | Ulusal Karakter & Temel Ethos | Çevrilemeyen Ruh Kavramları | İletişim Tarzı | Gastronomi & Sofra Felsefesi |
@@ -449,6 +451,20 @@ Taş ve ahşapla yazılmış mimari miras; İslam'ın gök kubbe ve iç avlu mah
 
 ---
 
+### 🎵 DÜNYA MÜZİK MİRASI VE GELENEKSEL ÇALGILAR
+> 🎻 *Enstrümanların kökeni, tını felsefesi ve manevi anlamı için: [`culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md`](culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md)*
+
+Müzik, sözün bittiği yerde başlayan evrensel ruhtur. Ney'in hasret inlemesinden Zen keşişlerinin Shakuhachi nefesine, Afrika Griot'larının Kora tellerinden İskoç gaydasına ve Aborjin Didgeridoo'sunun 40.000 yıllık Düşzamanı uğultusuna kadar medeniyetlerin ses hafızası.
+
+---
+
+### 🎆 DÜNYA FESTİVALLERİ VE KUTSAL RİTÜELLER
+> 🎭 *Takvim döngüleri ve kolektif arınma şenlikleri için: [`culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md`](culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md)*
+
+Festivaller, zamanın sıradan akışını durdurup insanı kutsal başlangıç anına götüren bayramlardır. Baharın müjdecisi *Nevruz*dan ışığın zaferi *Diwali*ye; kiraz çiçeklerinin faniliğini kutlayan *Hanami*den atalarla mezarlıkta vuslat kuran Meksika *Día de los Muertos*una kadar insanlığın müşterek sevinç atlası.
+
+---
+
 ### 📚 MEDENİYET & KÜLTÜR KÜTÜPHANESİ ARŞİVİ (/culture)
 
 Kültürel zenginliğin derinlemesine tahlil edildiği özel araştırma dosyalarımız:
@@ -459,6 +475,8 @@ Kültürel zenginliğin derinlemesine tahlil edildiği özel araştırma dosyala
 * 🧭 [`culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md`](culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md): Vücut dili, jestler, hediyeleşme adabı, sessizlik kültürü ve ölümcül sosyal tabular.
 * 📜 [`culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md`](culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md): 14 büyük kurucu destan, halk masalları, mitolojik arketipler ve sözlü gelenekler.
 * 🏛️ [`culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md`](culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md): İslam kubbesinden Gotik ışığa, Doğu Asya pagodalarından Afrika çamur mabetlerine mimari ve şehir felsefesi.
+* 🎵 [`culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md`](culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md): Neyden koraya, sitardan didgeridoo'ya 12 kadim çalgı ve ses mirası.
+* 🎆 [`culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md`](culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md): Nevruz, Diwali, Hanami, Ölüler Günü ve Songkran dahil 12 kutsal festival ve arınma ritüeli.
 * 📚 [`culture/README.md`](culture/README.md): Kültür araştırmaları merkezi indeksi ve kaynakçası.
 
 ---
@@ -727,6 +745,12 @@ python scripts/xray_cli.py epics
 
 # Dünya mimari ekolleri ve kutsal mekan felsefesini sorgula veya listele
 python scripts/xray_cli.py architecture
+
+# Dünya geleneksel çalgılarını ve ses mirasını sorgula veya listele
+python scripts/xray_cli.py music
+
+# Dünya festivalleri ve kutsal ritüellerini sorgula veya listele
+python scripts/xray_cli.py festivals
 
 # Ekonomik güç bloğuna göre ülkeleri filtrele ve analiz et
 python scripts/xray_cli.py economy 01_ileri_sanayi_g7

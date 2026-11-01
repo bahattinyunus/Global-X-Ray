@@ -1,35 +1,50 @@
-# 🧬 Toplum, Tarih ve Kültürel Fay Hatları: Küba
+# 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: Küba (CUB)
 
-> *"Bir ulusun karakterini anlamak istiyorsanız halk türkülerine kulak verin; ancak o ulusun asıl sahibini bulmak istiyorsanız, ihale ve imtiyaz dağılımına bakın."*
-
----
-
-## 1. Ulusal Tarih, Kuruluş Mitleri ve Kolektif Travmalar
-Küba modern tarihinde sömürge mirası, askeri müdahaleler ve gelir dağılımı eşitsizliği ana gerilim hatlarıdır.
-
-Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Bu tarihsel miras, halk nezdinde devlet otoritesine yönelik algıyı belirleyen en temel psikolojik etkendir. Özellikle geçmişteki sınır revizyonları, iç savaşlar ve siyasi tasfiyeler, günümüzün siyasal rekabetinde birer meşruiyet ve mobilizasyon aracı olarak kullanılmaktadır.
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
-## 2. Etnik, Dini ve Sosyal Kompozisyon
-- **Toplam Nüfus:** Yaklaşık 11,194,449
-- **Resmi ve Konuşulan Diller:** İspanyolca
-- **Kültürel Kırılma Eksenleri:** Yerli hakları, toprak mülkiyeti kavgaları ve metropol-kırsal kutuplaşması.
-- **Bölgesel Ayrışmalar:** Başkent Havana ile periferik vilayetler arasındaki kaynak dağılımı gerilimleri.
+## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
-Toplum homojen bir yapı sergilememekte; etnik ve mezhepsel azınlıkların karar alma mekanizmalarına erişimi tarihsel olarak kısıtlı kalmaktadır. Taşra ile metropol kentler arasındaki sermaye ve eğitim eşitsizliği, siyasette popülist kutuplaşmanın zeminini beslemektedir.
+* **Medeniyet Sentezi:** İspanyol Endülüs Kolonyal Mirası + Afro-Karayip Yoruba İnançları + Sosyalist Devrim Tarihi + Tropikal Karayip Ruhu.
+* **Kolektif Ethos & Ulusal Karakter:** 'Resolver' (yokluk ve ambargo şartlarında zekice çare üretme kabiliyeti), 'Ajiaco' (farklı ırkların tek bir lezzetli güveçte kaynaşması), müzikle iyileşen hayat ve sokak dayanışması.
+* **İletişim Tarzı (High / Low Context):** Sıcak, Dışa Dönük, Yüksek Sesli ve Müzikal. Kübalılar sokakta, balkondan balkona konuşur; jestler, dans ve kahkahalar günlük iletişimin doğal parçasıdır.
 
 ---
 
-## 3. Demografik Baskılar, Genç Kuşak ve Beyin Göçü
-Genç nüfusun toplam nüfus içindeki payı yüksek olmakla birlikte, istihdam yaratma kapasitesinin zayıflığı "Gençlik Patlaması" (Youth Bulge) riskini tetiklemektedir. Nitelikli iş gücü, doktorlar, mühendisler ve araştırmacılar; ekonomik güvencesizlik, liyakatsizlik ve siyasi baskılar nedeniyle küresel merkezlere göç etmektedir. Bu durum, ülkenin beşeri sermaye havuzunu uzun vadede tüketmektedir.
+## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
+
+* **Resolver:** İmkansız görünen yokluk ve bürokrasi şartlarında yaratıcı zekayla bir çözüm, parça veya çıkış yolu bulma sanatı.
+  > **
+* **Guarachar:** Tüm zorluklara ve yoksulluğa inat hayatı bir parti gibi neşeyle, dansla ve şarkıyla kutlama hali.
+  > **
 
 ---
 
-## 4. Toplumsal Kutuplaşma Dinamikleri ve Kültür Savaşları
-Geleneksel imtiyazlı elitler ile sonradan zenginleşen yeni rejim elitleri arasındaki mücadele, kamuoyunda "kültür savaşları" kisvesi altında sunulmaktadır. Siyasal iktidarlar, ekonomik kriz ve enflasyon baskısını örtbas etmek adına dini, etnik ve milli hassasiyetleri körükleyerek toplumsal muhalefeti bölmektedir.
+## 3. Gündelik Hayat, Sosyal Ritüeller ve Yaşam Sanatı
+
+Malecon sahil kordonunda gün batımında toplanıp gitar çalma, kapı önünde komşularla domino oynama, Santeria davul ritüelleri ve klasik Amerikan araçlarını tamir etme.
 
 ---
 
-## 5. Sivil Toplumun Durumu ve Sosyal Sermaye
-Bağımsız sendikalar, insan hakları dernekleri ve çevre inisiyatifleri; fon kısıtlamaları, keyfi denetimler ve terör suçlamalarıyla etkisizleştirilmiştir. Sosyal sermaye ve yurttaşlar arası güven endeksi düşük seyretmekte, yurttaşlar sorunlarını kurumsal yollar yerine hemşehri, tarikat ve patronaj ağları üzerinden çözmeye zorlanmaktadır.
+## 4. Gastronomi Felsefesi ve Sofra Kültürü
+
+* **Mutfak Felsefesi:** Criollo mutfağı: Ropa Vieja (didilmiş dana eti yahni), Moros y Cristianos (siyah fasulye ve pirinç), kızarmış muz (Tostones) ve Küba kahvesi (Cafe Cubano).
+
+---
+
+## 5. Görgü Kuralları ve Sosyal Tabular (Do's & Don'ts)
+
+Soğuk ve mesafeli durmak kibir sayılır; ikram edilen kahveyi geri çevirmek kırıcıdır; sokakta müzik çalarken hareketsiz durmak bile garip karşılanır.
+
+---
+
+## 6. Edebiyat, Sanat ve Entelektüel Miras
+
+Buena Vista Social Club ve Son Cubano müziği; José Martí şiirleri; Wifredo Lam resimleri.
+
+---
+
+## 7. Tarihsel Kırılma Noktaları, Demografi ve Sosyal Dönüşüm
+
+Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Taşra ile metropol kentler arasındaki eşitsizlikler, küresel göç dalgaları ve kuşaklar arası zihniyet dönüşümleri, ülkenin kültürel fay hatlarını sürekli yeniden üretmektedir.

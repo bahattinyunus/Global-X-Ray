@@ -14,6 +14,8 @@ Bu dizin, dünya uluslarının **kültürel kodlarını, çevrilemeyen ruh kavra
 | 🏛️ [**CIVILIZATION_REALMS_AND_PHILOSOPHIES.md**](CIVILIZATION_REALMS_AND_PHILOSOPHIES.md) | 9 Büyük Medeniyet Havzası | Anadolu-Akdeniz, Doğu Asya, Cermen-İskandinav, Anglo-Sakson, Slav-Avrasya, Latin Amerika, Orta Doğu, Güney Asya ve Afrika medeniyet felsefeleri. |
 | 📜 [**GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md**](GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md) | Mitolojiler & Kurucu Destanlar | Gılgamış, Dede Korkut, Manas, Şehnâme, Mahabharata, Ramayana, İlyada & Odysseia, Kalevala, Nibelungenlied, Popol Vuh, Sundiata ve Dreamtime dahil 14 kurucu epos. |
 | 🏛️ [**WORLD_ARCHITECTURE_AND_SACRED_SPACES.md**](WORLD_ARCHITECTURE_AND_SACRED_SPACES.md) | Mimari & Şehir Felsefesi | İslam kubbe ve külliyeleri, Doğu Asya ahşap pagodaları (Douqong), Gotik ışık teolojisi (Lux Nova), Sahra Altı çamur mabetleri ve antik agora/piazza kamusal alan felsefeleri. |
+| 🎵 [**GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md**](GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md) | Müzik Mirası & Geleneksel Çalgılar | Ney ve bağlamadan Koto ve Shakuhachi'ye, Afrika korasından Kelt gaydasına, And pan flütünden Aborjin didgeridoo'suna medeniyetlerin ses haritası. |
+| 🎆 [**WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md**](WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md) | Festivaller & Kutsal Ritüeller | Nevruz, Diwali, Hanami, Ölüler Günü (Día de los Muertos), İntiraymi, Ramazan & Kurban, Çin Bahar Festivali, Midsommar, Songkran ve Venedik Karnavalı. |
 
 ---
 

@@ -10,6 +10,8 @@ Kullanım:
   python scripts/xray_cli.py compare-culture <ulke_1> <ulke_2>
   python scripts/xray_cli.py epics [arama]
   python scripts/xray_cli.py architecture [arama]
+  python scripts/xray_cli.py music [arama] (dünya geleneksel çalgıları & ses mirası)
+  python scripts/xray_cli.py festivals [arama] (dünya festivalleri & kutsal ritüeller)
   python scripts/xray_cli.py compare <ulke_1> <ulke_2>
   python scripts/xray_cli.py search <terim>
   python scripts/xray_cli.py top-shadow [sayi]
@@ -663,6 +665,98 @@ def show_architecture(query=None):
         print("-" * 85)
     print(f"\n[!] Detaylı şehir meydanları ve mekan felsefesi için bkz: culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md")
 
+def show_music(query=None):
+    music_file = BASE_DIR / "culture" / "GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md"
+    if not music_file.exists():
+        print("[-] Müzik mirası külliyatı bulunamadı.")
+        return
+    with open(music_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    print("=" * 85)
+    print("🎵 DÜNYA MÜZİK MİRASI VE GELENEKSEL ÇALGILAR KÜLLİYATI")
+    print("=" * 85)
+
+    table_rows = []
+    in_table = False
+    for line in lines:
+        line_s = line.strip()
+        if line_s.startswith("| Geleneksel Çalgı"):
+            in_table = True
+            continue
+        if in_table and line_s.startswith("| :---"):
+            continue
+        if in_table and line_s.startswith("|"):
+            parts = [p.strip() for p in line_s.split("|")[1:-1]]
+            if len(parts) >= 5:
+                table_rows.append({
+                    "instrument": parts[0].replace("**", ""),
+                    "geo": parts[1],
+                    "materials": parts[2],
+                    "spirit": parts[3].replace("**", ""),
+                    "meaning": parts[4]
+                })
+        elif in_table and not line_s.startswith("|"):
+            in_table = False
+
+    if query:
+        q = query.lower()
+        table_rows = [r for r in table_rows if q in r["instrument"].lower() or q in r["geo"].lower() or q in r["spirit"].lower() or q in r["meaning"].lower()]
+
+    for r in table_rows:
+        print(f"\n🎻 {r['instrument']} ({r['geo']})")
+        print(f"  • Aile & Malzeme:    {r['materials']}")
+        print(f"  • Manevi Karakter:   {r['spirit']}")
+        print(f"  • Kültürel Anlamı:   {r['meaning']}")
+        print("-" * 85)
+    print(f"\n[!] Detaylı ses felsefesi için bkz: culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md")
+
+def show_festivals(query=None):
+    fest_file = BASE_DIR / "culture" / "WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md"
+    if not fest_file.exists():
+        print("[-] Festivaller külliyatı bulunamadı.")
+        return
+    with open(fest_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    print("=" * 85)
+    print("🎆 DÜNYA FESTİVALLERİ VE KUTSAL RİTÜELLER KÜLLİYATI")
+    print("=" * 85)
+
+    table_rows = []
+    in_table = False
+    for line in lines:
+        line_s = line.strip()
+        if line_s.startswith("| Festival / Bayram"):
+            in_table = True
+            continue
+        if in_table and line_s.startswith("| :---"):
+            continue
+        if in_table and line_s.startswith("|"):
+            parts = [p.strip() for p in line_s.split("|")[1:-1]]
+            if len(parts) >= 5:
+                table_rows.append({
+                    "name": parts[0].replace("**", ""),
+                    "geo": parts[1],
+                    "time": parts[2],
+                    "philosophy": parts[3].replace("**", ""),
+                    "ritual": parts[4]
+                })
+        elif in_table and not line_s.startswith("|"):
+            in_table = False
+
+    if query:
+        q = query.lower()
+        table_rows = [r for r in table_rows if q in r["name"].lower() or q in r["geo"].lower() or q in r["philosophy"].lower() or q in r["ritual"].lower()]
+
+    for r in table_rows:
+        print(f"\n🎭 {r['name']} ({r['geo']})")
+        print(f"  • Zaman & Süre:      {r['time']}")
+        print(f"  • Temel Felsefe:     {r['philosophy']}")
+        print(f"  • Kutsal Ritüeller:  {r['ritual']}")
+        print("-" * 85)
+    print(f"\n[!] Detaylı takvim döngüleri için bkz: culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md")
+
 def compare_culture(q1: str, q2: str):
     if not CULTURE_PATH.exists():
         print("[-] Kültürel kodlar veritabanı bulunamadı.")
@@ -786,6 +880,12 @@ def dispatch_command(args):
     elif cmd in ["architecture", "mimari", "mimar"]:
         q = " ".join(args[1:]) if len(args) > 1 else None
         show_architecture(q)
+    elif cmd in ["music", "muzik", "calgi", "enstruman"]:
+        q = " ".join(args[1:]) if len(args) > 1 else None
+        show_music(q)
+    elif cmd in ["festivals", "festivaller", "bayramlar", "rituel"]:
+        q = " ".join(args[1:]) if len(args) > 1 else None
+        show_festivals(q)
     elif cmd in ["compare", "karsilas", "vs"] and len(args) > 2:
         compare_countries(args[1], args[2])
     elif cmd in ["search", "ara", "s"] and len(args) > 1:

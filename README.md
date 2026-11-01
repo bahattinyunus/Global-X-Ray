@@ -26,12 +26,14 @@
 1. [🏛️ Giriş ve Medeniyet Atlası Manifestosu](#️-giriş-ve-medeniyet-atlasi-manifestosu)
 2. [🎭 Dünya Medeniyetleri ve Kültürel Kodlar Rehberi (Cultural DNA)](#-dünya-medeniyetleri-ve-kültürel-kodlar-rehberi-cultural-dna)
    - [🌐 9 Büyük Küresel Medeniyet Havzası](#-9-büyük-küresel-medeniyet-havzasi)
-   - [🧬 40 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı](#-40-örnek-medeniyet-çapasi-ulusal-karakterler-ve-yaşam-adabi)
+   - [🧬 60 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı](#-40-örnek-medeniyet-çapasi-ulusal-karakterler-ve-yaşam-adabi)
    - [📖 Çevrilemeyen Ruh Kavramları Galerisi](#-çevrilemeyen-ruh-kavramlari-galerisi)
    - [🍲 Dünya Gastronomi Felsefeleri & Sofra Ritüelleri](#-dünya-gastronomi-felsefeleri--sofra-ritüelleri)
    - [🧭 Küresel Nezaket Kuralları, İletişim Kodları ve Sosyal Tabular](#-küresel-nezaket-kurallari-iletişim-kodlari-ve-sosyal-tabular)
    - [📜 Dünya Mitolojileri, Kurucu Destanlar ve Sözlü Edebiyat](#-dünya-mitolojileri-kurucu-destanlar-ve-sözlü-edebiyat)
    - [🏛️ Dünya Kutsal Mimarisi, Şehir Felsefesi ve Kutsal Mekanlar](#-dünya-kutsal-mimarisi-şehir-felsefesi-ve-kutsal-mekanlar)
+   - [🎵 Dünya Müzik Mirası ve Geleneksel Çalgılar](#-dünya-müzik-mirasi-ve-geleneksel-çalgilar)
+   - [🎆 Dünya Festivalleri ve Kutsal Ritüeller](#-dünya-festivalleri-ve-kutsal-ritüeller)
    - [📚 Medeniyet & Kültür Kütüphanesi Arşivi (/culture)](#-medeniyet--kültür-kütüphanesi-arşivi-culture)
 3. [🗺️ 205 ÜLKELİK KÜRESEL ATLAS: TÜM DÜNYA ULUSLARI VE ALT İÇERİK REHBERİ](#️-205-ülkelik-küresel-atlas-tüm-dünya-uluslari-ve-alt-i̇çerik-rehberi)
    - [📍 Bölgesel Fihrist ve Hızlı Atlama](#-bölgesel-fihrist-ve-hizli-atlama)
@@ -95,7 +97,7 @@ Bu nedenle bu ansiklopedi; **kültürü ve insanı merkeze koyan ana gövdesini*
 
 ---
 
-### 🧬 40 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı
+### 🧬 60 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı
 > 💡 *Her ülkenin kendi klasöründe (`01_culture_demographics/society_history.md`) tüm kültürel kodları, ritüelleri ve tabuları detaylıca işlenmiştir.*
 
 | Ülke | Ulusal Karakter & Temel Ethos | Çevrilemeyen Ruh Kavramları | İletişim Tarzı | Gastronomi & Sofra Felsefesi |
@@ -140,6 +142,26 @@ Bu nedenle bu ansiklopedi; **kültürü ve insanı merkeze koyan ana gövdesini*
 | **Nijerya** (`NGA`) | Dur durak bilmeyen girişimci enerji (Hustle ruhu), saygı ve hiyerarşi, gösterişli ... | • **Owambe** (*Göz alıcı ipek kumaşlar (Aso Ebi), canlı müzik, sonsuz yemek ve havaya para saçma geleneğiyle yapılan devasa Nijerya partisi.*)<br/>• **Wahala** (*Büyük karmaşa, dert, kaos veya bela; ancak Nijeryalıların espriyle ve tevekkülle karşılayıp altından kalktığı durum.*) | Yüksek Bağlamlı, beden dili ve mimiklerle zenginleştirilm... | Uğruna Gana ile tatlı rekabet yürütülen baharatlı Jollof Rice, dövülmüş ... |
 | **Kenya** (`KEN`) | Birlikte yükü kaldırma felsefesi (Harambee), vahşi doğa ve toprakla uyum, cemaat k... | • **Harambee** (*«Hep birlikte asılalım, el birliğiyle kaldıralım»; bir çocuğun okul masrafı veya bir felaket için tüm köyün para ve emek toplaması.*)<br/>• **Pole Pole** (*«Yavaş yavaş, acele etmeden»; hayatın telaşla değil, sindire sindire ve doğanın ritmine saygı duyarak yaşanması gerektiği inancı.*) | Yüksek Bağlamlı ve son derece saygılı. Svahili dilinde se... | Mısır unundan yapılan katı lapa (Ugali), ıspanak benzeri yeşillik Sukuma... |
 | **Avustralya** (`AUS`) | Sarsılmaz arkadaşlık ve yoldaşlık andı (Mateship), herkese eşit fırsat hakkı (Fair... | • **Mateship** (*Zorlu çöl şartlarında, savaşta veya gündelik hayatta bir arkadaşına koşulsuz sadakat, eşitlik ve güven duyma andı.*)<br/>• **Fair Go** (*Sosyal sınıfı, kökeni ne olursa olsun her insana eşit şans ve adil muamele gösterilmesi gerektiği inancı.*) | Düşük Bağlamlı, gayriresmi ve kelimeleri kısaltmaya dayal... | Kömürde kanguru veya kuzu eti, mayalı tuzlu ekmek sürmesi Vegemite, Avus... |
+| **Kazakistan** (`KAZ`) | Bozkır hürriyeti ve sonsuz gökyüzü (Tengri) şuuru, 'Konakjaylik' (misafiri Tanrı e... | • **Konakjaylik (Қонақжайлық)** (*Yabancı bir misafiri hiçbir karşılık beklemeden evinde ağırlayıp en kıymetli yemeği sunan bozkır misafirperverlik andı.*)<br/>• **Asar (Асар)** (*Bir ailenin evini inşa etmek veya tarlasını sürmek için tüm köy halkının hiçbir ücret almadan yardıma koştuğu imece ruhu.*) | Yüksek Bağlamlı ve Saygılı. Sözlü hitapta ak sakallı büyü... | Göçebe bozkır mutfağı. Beşbarmak (haşlanmış at/koyun eti ve taze hamur),... |
+| **Özbekistan** (`UZB`) | Mahalle dayanışması, 'Mehr-Oqibat' (merhamet, sadakat ve karşılıklı vefa duygusu),... | • **Mehr-Oqibat (Меҳр-оқибат)** (*İnsanlar arasında menfaatsiz sevgi, akrabalık vefası ve zor günde birbirine kol kanat germe ahlakı.*)<br/>• **Hashar (Ҳашар)** (*Mahalledeki cami, su kanalı veya komşu evinin tamiri için tüm mahallelinin şarkılarla katıldığı gönüllü imece.*) | Çok Yüksek Bağlamlı ve Zarafet Odaklı. Büyüklere sağ el g... | İpek Yolu lezzetlerinin zirvesi: Özbek Pilavı (Osh / Palov - UNESCO Mira... |
+| **Moğolistan** (`MNG`) | Sonsuz mavi gökyüzüne saygı, tabiatla tam simbiyoz, kaderci metanet, göçebenin mut... | • **Nutag (Нутаг)** (*Yalnızca doğulan toprak değil; ata ruhlarının, çocukluk dağlarının ve bozkır rüzgarının insanın ruhunda bıraktığı silinmez vatan mayası.*)<br/>• **Höömei (Хөөмей)** (*Tek bir nefeste doğanın rüzgarını, şelalesini ve hayvanlarını taklit eden iki sesli mistik boğaz şarkıcılığı.*) | Az Söz, Derin Anlam. Bozkır insanı gereksiz lakırdıdan ka... | Kışın dondurucu soğuğuna direnen 'Beyaz ve Gri Yiyecekler' felsefesi: Et... |
+| **Danimarka** (`DNK`) | 'Hygge' (samimi, sıcak ve iddiasız dinginlik), 'Janteloven' (kendini kimseden üstü... | • **Hygge** (*Mum ışığında, sıcak çoraplarla, sevdiklerinle paylaşılan iddiasız, telaşsız ve huzurlu anların ruh hali.*)<br/>• **Arbejdsglæde** (*Yaptığı işten, çalıştığı ortamdan ve mesai arkadaşlarından duyulan içsel mutluluk ve tatmin.*) | Düşük Bağlamlı, Doğrudan ve İddiasız. Nezaket yapmacık sü... | Yeni Nordik Mutfağı ve geleneksel sadelik. Smørrebrød (çavdar ekmeği üst... |
+| **Finlandiya** (`FIN`) | 'Sisu' (tüm umutlar tükendiğinde ortaya çıkan sarsılmaz irade ve cesaret), doğanın... | • **Sisu** (*İmkansız şartlar karşısında pes etmeyen, fiziksel ve ruhsal sınırların ötesine geçen çelik gibi içsel irade gücü.*)<br/>• **Talkoot** (*Komşunun çatısını onarmak veya köy yolunu temizlemek için karşılıksız toplanıp sonra birlikte sauna ve yemekle kutlanan imece.*) | Son Derece Düşük Bağlamlı, Sessizliğe Saygılı. Fin kültür... | Orman ve göl bereketi: Karjalanpiirakka (Karelya pirinçli çavdar böreği)... |
+| **Macaristan** (`HUN`) | Gururlu milli bilinç, hafif hüzünlü ve nostaljik ruh hali, bilim ve matematikte da... | • **Betyár** (*Bozkırda adaletsizliğe başkaldıran, halkın koruyucusu olan şövalye ruhlu romantik Macar eşkıyası.*)<br/>• **Vigadó** (*Dertleri ve tasaları geride bırakıp müzik, şarap ve dostlarla neşeyle coşulan şenlik meclisi.*) | Doğrudan, Entelektüel ve İronik. Macarlar olaylara zekice... | Kırmızı toz biberin (Paprika) büyüsü: Gulaş (Gulyásleves - sığır etli ço... |
+| **Çekya** (`CZE`) | 'Pohoda' (telaşsız, sakin ve huzurlu hayat ritmi), ince ironi ve bürokrasiyle alay... | • **Pohoda** (*Stres, hırs ve aceleden arınmış; bir dost meclisinde veya doğada hissedilen tatlı dingin huzur ve keyif hali.*)<br/>• **Lítost** (*Milan Kundera'nın tarif ettiği; insanın kendi sefaletini ve çaresizliğini aniden fark etmesiyle doğan keder ve öfke fırtınası.*) | Ölçülü, Mütevazı ve İronik. Çekler büyük iddialardan ve g... | Doyurucu Bohemya mutfağı: Svíčková na smetaně (kremalı sebze soslu dana ... |
+| **Belçika** (`BEL`) | 'Convivialité' (sofra dostluğu ve yaşama zevki), sürrealist bakış açısı (Magritte ... | • **Convivialité** (*Masadaki lezzetlerin, dost sohbetinin ve paylaşılan neşenin etrafında kurulan sıcak ve zarif birliktelik.*)<br/>• **Gezelligheid** (*(Flaman bölgesinde) Sıcak, samimi ve güvenli dost meclisi hali.*) | Kibar, Uzlaşmacı ve Çift Dilli. Çatışmalardan kaçınma ve ... | Fransız kalitesi ile Cermen porsiyonlarının birleşimi: Moules-Frites (mi... |
+| **Kanada** (`CAN`) | Kültürel mozaik (herkesin kendi kimliğini koruyarak bir arada yaşaması), tabiata d... | • **Kigun (Inuktitut)** (*Kuzeyin sonsuz karlarında hayatta kalmayı sağlayan kadim doğa bilgisi ve sabır.*)<br/>• **Mosaic** (*Eriyen pota (Melting Pot) yerine, her kültürün kendi rengini koruduğu Kanada çok kültürlülük felsefesi.*) | Yüksek Düzeyde Kibar, Kapsayıcı ve Dolaylı. Karşıt fikirl... | Doğal ve yerel harman: Poutine (patates kızartması, peynir taneleri ve s... |
+| **Küba** (`CUB`) | 'Resolver' (yokluk ve ambargo şartlarında zekice çare üretme kabiliyeti), 'Ajiaco'... | • **Resolver** (*İmkansız görünen yokluk ve bürokrasi şartlarında yaratıcı zekayla bir çözüm, parça veya çıkış yolu bulma sanatı.*)<br/>• **Guarachar** (*Tüm zorluklara ve yoksulluğa inat hayatı bir parti gibi neşeyle, dansla ve şarkıyla kutlama hali.*) | Sıcak, Dışa Dönük, Yüksek Sesli ve Müzikal. Kübalılar sok... | Criollo mutfağı: Ropa Vieja (didilmiş dana eti yahni), Moros y Cristiano... |
+| **Bolivya** (`BOL`) | 'Pachamama'ya (Toprak Ana) duyulan kutsal hürmet, 'Sumak Kawsay' (doğayla uyum içi... | • **Sumak Kawsay (Buen Vivir)** (*Sınırsız tüketim ve büyüme yerine; doğayla, toplumla ve kendi iç dünyanla tam bir denge içinde yaşama felsefesi.*)<br/>• **Challa** (*Bir şey yemeden veya içmeden önce Toprak Ana Pachamama'ya şükran için yere bir miktar içki veya yiyecek dökme kutsal ritüeli.*) | Yüksek Bağlamlı, Mütevazı ve Ağırbaşlı. Yerli And insanı ... | Yüksek rakım bereket mutfağı: Salteñas (sulu kıymalı fırın böreği), kino... |
+| **Uruguay** (`URY`) | 'Tranquilidad' (içsel huzur, acelecilikten nefret etme), Mate çayı etrafında kurul... | • **Tranquilidad** (*Hiçbir hırsın, krizin veya acelenin bozamayacağı dingin sükunet ve anın tadını çıkarma hali.*)<br/>• **Ronda de Mate** (*Aynı pipet (bombilla) ve kaptan sırayla içilen, herkesi eşit kılan kutsal Mate çemberi.*) | Sıcak, Rahat ve Saygılı. Arjantinlilere kıyasla daha yumu... | Ateş ve et kültürü: Odun ateşinde saatlerce pişen Asado, Chivito (zengin... |
+| **Etiyopya** (`ETH`) | Sömürgeleştirilememiş olmanın verdiği derin milli gurur, 'Bunna' (törensel kahve s... | • **Gursha (ጉርሻ)** (*Sofrada en lezzetli lokmayı kendi elinle yanındaki dostunun ağzına vererek sevgiyi ve kardeşliği mühürleme ritüeli.*)<br/>• **Bunna Tetu** (*Kahve çekirdeklerinin taze kavrulmasından tütsü yakılmasına kadar 2 saat süren törensel kahve sohbeti.*) | Yüksek Bağlamlı, Ağırbaşlı ve Şiirsel. Ses tonu yumuşaktı... | Ortak tabak kültürü: Teff unundan yapılan ekşi mayalı dev süngerimsi ekm... |
+| **Gana** (`GHA`) | 'Sankofa' (geçmişin bilgeliğini geleceğe taşıma felsefesi), 'Akwaaba' (misafiri ku... | • **Sankofa** (*«Geriye dönüp unuttuğun bilgeliği almak ayıp değildir.» Başı geriye bakan kuş sembolüyle temsil edilen tarih şuuru.*)<br/>• **Akwaaba** (*Yalnızca 'Hoş geldiniz' değil; 'Kapımız, soframız ve kalbimiz sana ardına kadar açıktır' anlamındaki kutsal kabul.*) | Dolaylı, Nezaket Dolu ve Güleryüzlü. Karşısındakini mahcu... | Baharatlı ve zengin Karayip/Afrika kökleri: Jollof Pilavı (Gana usulü tü... |
+| **Senegal** (`SEN`) | 'Teranga' (dünyanın en yüksek misafirperverlik andı), 'Lafayette' ruhu, Müridi tas... | • **Teranga** (*Senegal'in ulusal ruhu: Tanımadığın bir yabancıya dahi ailenden biri gibi sofra kurma, koruma ve sevgi gösterme cömertliği.*)<br/>• **Kersa** (*Başkalarının yanında mahcubiyet duyma, tevazu ve kendine hakim olma erdemi.*) | Zarif, Şiirsel ve Saygılı. Wolof dilinde selamlaşma dakik... | UNESCO Tescilli Thiéboudienne (Ceebu Jën - kırık pirinç, taze balık, man... |
+| **Lübnan** (`LBN`) | Levanten zarafet, ne olursa olsun hayata tutunma ve küllerinden doğma yeteneği (An... | • **Tarab (طرب)** (*Müziğin (özellikle Feyruz ve Ümmü Gülsüm) dinleyicinin ruhunu esir alıp zamanı unutturduğu estetik esriklik ve cezbe hali.*)<br/>• **Ahlan wa Sahlan** (*«Ailemize geldiniz, ayak bastığınız yer ova gibi rahat olsun» anlamına gelen köklü Arap karşılama andı.*) | Çok Dilli, Diplomatik, İltifat Dolu ve Sıcak. Bir cümlede... | Akdeniz'in en rafine sofrası: Humus, tabbule, kibbeh (içli köfte), fattu... |
+| **İsrail** (`ISR`) | 'Sabra' (dışı kaktüs gibi dikenli ve sert, içi tatlı ve yumuşak ulusal karakter), ... | • **Sabra (צבר)** (*Yerli doğumlu İsraillileri simgeleyen; dışarıdan sert ve uzlaşmaz, içeriden sıcak, sadık ve cömert insan karakteri.*)<br/>• **Hutzpah (חוצפה)** (*Geleneksel kuralları ve otoriteyi sorgulayan, cesur, küstahça fakat yenilik doğuran atılganlık.*) | Aşırı Düşük Bağlamlı, Doğrudan ve Dobra (Dugri). Lafı dol... | Orta Doğu ve Akdeniz füzyonu: Şakşuka, humus, falafel, sabich sandviçi, ... |
+| **Malezya** (`MYS`) | 'Muhibbah' (farklı ırk, din ve kültürlerin barış içinde ahengi), 'Kampong' köy day... | • **Muhibbah** (*Malay, Çinli ve Hintlilerin karşılıklı saygı, dostluk ve bayramları birlikte kutlama ahlakı.*)<br/>• **Gotong-Royong** (*Mahalle veya köyün iyiliği için herkesin karşılıksız el birliğiyle katıldığı toplumsal çalışma.*) | Yüksek Bağlamlı, Nazik ve İmalı. Yüz kaybetmeme (saving f... | Üç büyük medeniyetin tencerede buluşması: Nasi Lemak (hindistancevizi sü... |
+| **Filipinler** (`PHL`) | 'Bayanihan' (toplumun birbirinin evini omuzlayıp taşıması fedakarlığı), 'Pakikisam... | • **Bayanihan** (*Geleneksel bambu evi (Bahay Kubo) kütüklerle sırtlayıp başka bir köye el birliğiyle taşıyan komşuların kutsal dayanışma ruhu.*)<br/>• **Gigil** (*Sevimli bir bebek veya yavru hayvan görüldüğünde içten gelen o karşı konulamaz mıncıklama ve sarılma arzusu.*) | Çok Yüksek Bağlamlı ve Nezaket Dolu. Büyüklere hitap eder... | Tuzlu, ekşi ve tatlının dengesi: Adobo (sirke ve soya soslu tavuk/domuz)... |
+| **Gürcistan** (`GEO`) | 8000 yıllık kadim bağcılık hafızası, 'Kartlis Deda' ruhu (dosta şarap kasesi, düşm... | • **Tamada (თამადა)** (*Geleneksel Gürcü sofrası Supra'yı yöneten, hayat, ölüm, barış ve dostluk üzerine bilgece kadeh kaldıran sofra başkanı.*)<br/>• **Shemomechama (შემომეჭამა)** (*«Farkında olmadan hepsini yiyiverdim.» Yemek o kadar lezzetliydi ki doymama rağmen kendimi durduramadım itirafı.*) | Coşkulu, Sıcak ve Şiirsel. Gürcüler sofrada konuşmayı bir... | Kafkasya'nın lezzet zirvesi: Haçapuri (Khachapuri - peynirli ve yumurtal... |
 
 ---
 
@@ -252,6 +274,20 @@ Taş ve ahşapla yazılmış mimari miras; İslam'ın gök kubbe ve iç avlu mah
 
 ---
 
+### 🎵 DÜNYA MÜZİK MİRASI VE GELENEKSEL ÇALGILAR
+> 🎻 *Enstrümanların kökeni, tını felsefesi ve manevi anlamı için: [`culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md`](culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md)*
+
+Müzik, sözün bittiği yerde başlayan evrensel ruhtur. Ney'in hasret inlemesinden Zen keşişlerinin Shakuhachi nefesine, Afrika Griot'larının Kora tellerinden İskoç gaydasına ve Aborjin Didgeridoo'sunun 40.000 yıllık Düşzamanı uğultusuna kadar medeniyetlerin ses hafızası.
+
+---
+
+### 🎆 DÜNYA FESTİVALLERİ VE KUTSAL RİTÜELLER
+> 🎭 *Takvim döngüleri ve kolektif arınma şenlikleri için: [`culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md`](culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md)*
+
+Festivaller, zamanın sıradan akışını durdurup insanı kutsal başlangıç anına götüren bayramlardır. Baharın müjdecisi *Nevruz*dan ışığın zaferi *Diwali*ye; kiraz çiçeklerinin faniliğini kutlayan *Hanami*den atalarla mezarlıkta vuslat kuran Meksika *Día de los Muertos*una kadar insanlığın müşterek sevinç atlası.
+
+---
+
 ### 📚 MEDENİYET & KÜLTÜR KÜTÜPHANESİ ARŞİVİ (/culture)
 
 Kültürel zenginliğin derinlemesine tahlil edildiği özel araştırma dosyalarımız:
@@ -262,6 +298,8 @@ Kültürel zenginliğin derinlemesine tahlil edildiği özel araştırma dosyala
 * 🧭 [`culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md`](culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md): Vücut dili, jestler, hediyeleşme adabı, sessizlik kültürü ve ölümcül sosyal tabular.
 * 📜 [`culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md`](culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md): 14 büyük kurucu destan, halk masalları, mitolojik arketipler ve sözlü gelenekler.
 * 🏛️ [`culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md`](culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md): İslam kubbesinden Gotik ışığa, Doğu Asya pagodalarından Afrika çamur mabetlerine mimari ve şehir felsefesi.
+* 🎵 [`culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md`](culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md): Neyden koraya, sitardan didgeridoo'ya 12 kadim çalgı ve ses mirası.
+* 🎆 [`culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md`](culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md): Nevruz, Diwali, Hanami, Ölüler Günü ve Songkran dahil 12 kutsal festival ve arınma ritüeli.
 * 📚 [`culture/README.md`](culture/README.md): Kültür araştırmaları merkezi indeksi ve kaynakçası.
 
 ---
@@ -761,6 +799,12 @@ python scripts/xray_cli.py epics
 
 # Dünya mimari ekolleri ve kutsal mekan felsefesini sorgula veya listele
 python scripts/xray_cli.py architecture
+
+# Dünya geleneksel çalgılarını ve ses mirasını sorgula veya listele
+python scripts/xray_cli.py music
+
+# Dünya festivalleri ve kutsal ritüellerini sorgula veya listele
+python scripts/xray_cli.py festivals
 
 # Ekonomik güç bloğuna göre ülkeleri filtrele ve analiz et
 python scripts/xray_cli.py economy 01_ileri_sanayi_g7

@@ -55,6 +55,26 @@ Yemek; yalnızca biyolojik bir karın doyurma eylemi değil, bir toplumun doğay
 | **Nijerya** (`NGA`) | Uğruna Gana ile tatlı rekabet yürütülen baharatlı Jollof Rice, dövülmüş manyok püresi (Pounded Yam) ve Egusi çorbası. |
 | **Kenya** (`KEN`) | Mısır unundan yapılan katı lapa (Ugali), ıspanak benzeri yeşillik Sukuma Wiki ve kömür ateşinde pişen kuzu/keçi eti Nyama Choma. |
 | **Avustralya** (`AUS`) | Kömürde kanguru veya kuzu eti, mayalı tuzlu ekmek sürmesi Vegemite, Avustralya turtası (Meat Pie) ve Pavlova tatlısı. |
+| **Kazakistan** (`KAZ`) | Göçebe bozkır mutfağı. Beşbarmak (haşlanmış at/koyun eti ve taze hamur), Baursak (kızarmış hamur lokması), Kımız (kısrak sütü) ve Şubat (deve sütü). Sofra ailenin ve obanın birlik mührüdür. |
+| **Özbekistan** (`UZB`) | İpek Yolu lezzetlerinin zirvesi: Özbek Pilavı (Osh / Palov - UNESCO Mirası). Sarı havuç, kuzu eti, nohut ve baharatlarla devasa döküm kazanlarda odun ateşinde pişirilir. Tandır Somsa'sı ve yeşil çay (Kok-Choy). |
+| **Moğolistan** (`MNG`) | Kışın dondurucu soğuğuna direnen 'Beyaz ve Gri Yiyecekler' felsefesi: Et (Buuz - buharda mantı, Huushuur) ve süt ürünleri (Aaruul - kurutulmuş peynir, Airag - mayalanmış kısrak sütü). |
+| **Danimarka** (`DNK`) | Yeni Nordik Mutfağı ve geleneksel sadelik. Smørrebrød (çavdar ekmeği üstü ringa balığı, somon veya karides açık sandviçi), Danimarka tereyağlı kurabiyeleri ve köftesi (Frikadeller). |
+| **Finlandiya** (`FIN`) | Orman ve göl bereketi: Karjalanpiirakka (Karelya pirinçli çavdar böreği), somon çorbası (Lohikeitto), geyik eti ve yaban mersini sosu. |
+| **Macaristan** (`HUN`) | Kırmızı toz biberin (Paprika) büyüsü: Gulaş (Gulyásleves - sığır etli çorba), Halászlé (balıkçı çorbası), Lángos (sarımsaklı kızarmış hamur) ve Tokaji asil tatlı şarabı. |
+| **Çekya** (`CZE`) | Doyurucu Bohemya mutfağı: Svíčková na smetaně (kremalı sebze soslu dana eti ve ekmek köftesi - Knedlíky), kavrulmuş ördek ve gulaş. |
+| **Belçika** (`BEL`) | Fransız kalitesi ile Cermen porsiyonlarının birleşimi: Moules-Frites (midye ve çift kızartılmış patates), Stoofvlees (bira soslu dana yahni), el yapımı çikolata pralinleri ve manastır Trappist biraları. |
+| **Kanada** (`CAN`) | Doğal ve yerel harman: Poutine (patates kızartması, peynir taneleri ve sıcak sos), akçaağaç şurubu, Pasifik somonu ve Tourtière böreği. |
+| **Küba** (`CUB`) | Criollo mutfağı: Ropa Vieja (didilmiş dana eti yahni), Moros y Cristianos (siyah fasulye ve pirinç), kızarmış muz (Tostones) ve Küba kahvesi (Cafe Cubano). |
+| **Bolivya** (`BOL`) | Yüksek rakım bereket mutfağı: Salteñas (sulu kıymalı fırın böreği), kinoa çorbaları, yüzlerce çeşit And patatesi ve mısır içeceği (Chicha). |
+| **Uruguay** (`URY`) | Ateş ve et kültürü: Odun ateşinde saatlerce pişen Asado, Chivito (zengin biftek sandviçi), Dulce de Leche ve yerel Tannat şarabı. |
+| **Etiyopya** (`ETH`) | Ortak tabak kültürü: Teff unundan yapılan ekşi mayalı dev süngerimsi ekmek İncera (Injera) üzerine dizilen baharatlı güveçler (Doro Wat, Misir Wat). Herkes aynı tepsiden sağ elle yer. |
+| **Gana** (`GHA`) | Baharatlı ve zengin Karayip/Afrika kökleri: Jollof Pilavı (Gana usulü tütsülü domatesli pilav), Fufu (dövülmüş manyok ve muz hamuru) ve yer fıstığı çorbası. |
+| **Senegal** (`SEN`) | UNESCO Tescilli Thiéboudienne (Ceebu Jën - kırık pirinç, taze balık, manyok ve sebzelerle pişirilen ulusal ziyafet yemeği); Yassa Poulet (soğan ve limon marineli tavuk). |
+| **Lübnan** (`LBN`) | Akdeniz'in en rafine sofrası: Humus, tabbule, kibbeh (içli köfte), fattuş salatası, zeytinyağlılar ve anasonlu Arak içeceği. |
+| **İsrail** (`ISR`) | Orta Doğu ve Akdeniz füzyonu: Şakşuka, humus, falafel, sabich sandviçi, Challah örgü ekmeği ve tahinli tatlılar (Helva). Koşer kurallarına uygunluk. |
+| **Malezya** (`MYS`) | Üç büyük medeniyetin tencerede buluşması: Nasi Lemak (hindistancevizi sütlü pilav, sambal ve kurutulmuş hamsi), Rendang eti, Roti Canai ve köpüklü sütlü çay Teh Tarik. |
+| **Filipinler** (`PHL`) | Tuzlu, ekşi ve tatlının dengesi: Adobo (sirke ve soya soslu tavuk/domuz), Sinigang (ekşi demirhindi çorbası), Lechon (fırında nar gibi kızarmış bütün domuz) ve Halo-Halo tatlısı. Muz yaprağı üzerinde elle yenen 'Kamayan' şöleni. |
+| **Gürcistan** (`GEO`) | Kafkasya'nın lezzet zirvesi: Haçapuri (Khachapuri - peynirli ve yumurtalı fırın pidesi), Hıngal (Khinkali - sulu etli dev mantı), cevizli patlıcan (Badrijani Nigvzit) ve Qvevri toprak küplerinde mayalanan kehribar şarapları. |
 
 ---
 

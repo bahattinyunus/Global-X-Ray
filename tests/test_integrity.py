@@ -303,7 +303,7 @@ class TestMedeniyetAtlasiIntegrity(unittest.TestCase):
             self.assertIn("civilization_realms", culture)
             self.assertIn("countries_cultural_dna", culture)
             self.assertEqual(len(culture["civilization_realms"]), 9)
-            self.assertGreaterEqual(len(culture["countries_cultural_dna"]), 40)
+            self.assertGreaterEqual(len(culture["countries_cultural_dna"]), 60)
 
     def test_geopolitics_and_intelligence_dossiers(self):
         """geopolitics_and_intelligence/ altındaki 11 stratejik dosya ve README doğrulanır."""
@@ -341,7 +341,9 @@ class TestMedeniyetAtlasiIntegrity(unittest.TestCase):
             "GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md",
             "WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md",
             "GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md",
-            "WORLD_ARCHITECTURE_AND_SACRED_SPACES.md"
+            "WORLD_ARCHITECTURE_AND_SACRED_SPACES.md",
+            "GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md",
+            "WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md"
         ]
         for fname in expected_files:
             fpath = culture_dir / fname

@@ -1,0 +1,199 @@
+{
+  "title": "Küresel Nükleer Cephanelikler, Stratejik Triad ve Caydırıcılık Sistemleri Kaydı",
+  "doctrine": "Nükleer silahlar ve stratejik nükleer triad (Kıtalararası Balistik Füzeler, Nükleer Tahrikli Balistik Füze Denizaltıları ve Stratejik Bombardıman Uçakları); egemen devletlerin nihai güvenlik garantisi ve karşılıklı garantili imha (MAD - Mutually Assured Destruction) dengesinin temelidir.",
+  "strategic_overview": {
+    "global_total_warheads": 12121,
+    "deployed_operational_warheads": 3904,
+    "nuclear_armed_states_count": 9,
+    "nuclear_sharing_states_count": 5
+  },
+  "nuclear_powers": [
+    {
+      "country": "Russia",
+      "code": "RUS",
+      "total_inventory": 5580,
+      "deployed_strategic_warheads": 1710,
+      "reserve_stockpile": 2670,
+      "awaiting_dismantlement": 1200,
+      "first_test_year": 1949,
+      "triad_components": {
+        "land_icbm": "RS-24 Yars (Silo & Mobil), RS-28 Sarmat (Ağır Sıvı Yakıtlı ICBM / 10-15 MIRV), RT-2PM2 Topol-M",
+        "sea_ssbn": "Borei-A (Proje 955A) Sınıfı Nükleer Denizaltılar (R-30 Bulava SLBM füzeleri / her biri 6 MIRV başlık)",
+        "air_bomber": "Tu-160M 'Beyaz Kuğu' ve Tu-95MS 'Ayı' Stratejik Bombardıman Uçakları (Kh-102 nükleer seyir füzeleri)"
+      },
+      "hypersonic_and_asymmetric": [
+        "Avangard Hipersonik Süzülme Aracı (HGV - Mach 20+ hız, manevra kabiliyeti)",
+        "Poseidon (Status-6) Otonom Nükleer Torpido (2 Megatonluk başlık, kıyıları radyoaktif tsunamilerle yok etme doktrini)",
+        "Kh-47M2 Kinzhal Havadan Fırlatılan Balistik Füze (ALBM)"
+      ],
+      "early_warning_and_dead_hand": "Perimeter ('Ölü El' / Dead Hand) - Moskova komuta merkezi yok edilse dahi otomatik nükleer misilleme fırlatma sistemi; Voronezh sınıfı erken uyarı radarları.",
+      "nuclear_doctrine": "Varoluşsal devlet tehdidi, konvansiyonel saldırıda dahi devletin bekası tehlikeye girdiğinde ilk nükleer kullanım hakkı (De-escalation strike / Tırmandırmayı Önleme Saldırısı)."
+    },
+    {
+      "country": "United States",
+      "code": "USA",
+      "total_inventory": 5044,
+      "deployed_strategic_warheads": 1770,
+      "reserve_stockpile": 1938,
+      "awaiting_dismantlement": 1336,
+      "first_test_year": 1945,
+      "triad_components": {
+        "land_icbm": "LGM-30G Minuteman III (Silo konuşlu / W78 ve W87 savaş başlıkları) -> Sentinel (GBSD) geçiş programı",
+        "sea_ssbn": "Ohio Sınıfı Nükleer Denizaltılar (14 aktif SSBN / Trident II D5 SLBM füzeleri) -> Columbia Sınıfı programı",
+        "air_bomber": "B-2 Spirit Hayalet Uçakları, B-52H Stratofortress -> B-21 Raider Yeni Nesil Stealth Bombardıman Uçağı (B61-12 bombaları ve AGM-86 ALCM)"
+      },
+      "hypersonic_and_asymmetric": [
+        "Dark Eagle (LRHW) Uzun Menzilli Hipersonik Silah programı",
+        "W76-2 Düşük Verimli (Low-Yield / 5-7 Kiloton) denizaltı taktik nükleer başlıkları"
+      ],
+      "early_warning_and_dead_hand": "BMEWS (Balistik Füze Erken Uyarı Sistemi), PAVE PAWS ve SBIRS (Uzay Tabanlı Kızılötesi Sistem) uyduları; NC3 (Nükleer Komuta, Kontrol ve Haberleşme) mimarisi.",
+      "nuclear_doctrine": "Hesaplanmış belirsizlik (Calculated ambiguity); nükleer ve kritik stratejik nükleer-dışı saldırılara (siber, biyolojik) karşı misilleme hakkı; müttefiklere genişletilmiş nükleer şemsiye garantisi."
+    },
+    {
+      "country": "China",
+      "code": "CHN",
+      "total_inventory": 500,
+      "deployed_strategic_warheads": 240,
+      "reserve_stockpile": 260,
+      "awaiting_dismantlement": 0,
+      "first_test_year": 1964,
+      "triad_components": {
+        "land_icbm": "DF-41 (Ağır Mobil ve Silo Konuşlu / 10 MIRV), DF-31AG mobil, DF-5B/C ağır sıvı yakıtlı ICBM",
+        "sea_ssbn": "Tip 094 (Jin Sınıfı) ve yeni Tip 096 Nükleer Denizaltılar (JL-2 ve JL-3 SLBM füzeleri)",
+        "air_bomber": "H-6N Stratejik Bombardıman Uçakları (Havada yakıt ikmalli ve ALBM fırlatma kabiliyetli) -> H-20 Stealth Bombardıman Uçağı"
+      },
+      "hypersonic_and_asymmetric": [
+        "DF-17 Hipersonik Süzülme Sistemi (HGV)",
+        "FOBS (Kesirli Yörüngesel Bombardıman Sistemi) uzaydan atmosferik süzülme testleri",
+        "Yumen, Hami ve Ordos çöllerinde inşa edilen 300+ yeni ICBM füze silosu tarlası"
+      ],
+      "early_warning_and_dead_hand": "Erken Uyarı (Launch-on-Warning) doktrinine geçiş; devasa faz dizili erken uyarı radar ağları.",
+      "nuclear_doctrine": "Tarihsel 'İlk Kullanan Olmama' (No First Use - NFU) ilkesi; ancak 2030'a kadar 1.000+ başlığa ulaşarak ABD ile stratejik nükleer eşitlik kurma hedefi."
+    },
+    {
+      "country": "France",
+      "code": "FRA",
+      "total_inventory": 290,
+      "deployed_strategic_warheads": 280,
+      "reserve_stockpile": 10,
+      "awaiting_dismantlement": 0,
+      "first_test_year": 1960,
+      "triad_components": {
+        "land_icbm": "Karasal silolar 1996'da lağvedildi (Diad yapısı)",
+        "sea_ssbn": "Le Triomphant Sınıfı 4 adet Nükleer Balistik Füze Denizaltısı (M51.2 ve M51.3 SLBM füzeleri / TNO başlıkları)",
+        "air_bomber": "Rafale B (Stratejik Hava Kuvvetleri - FAS) ve Rafale M (Deniz Havacılığı) uçakları (ASMP-A süpersonik nükleer seyir füzeleri)"
+      },
+      "hypersonic_and_asymmetric": [
+        "ASN4G Hipersonik Nükleer Seyir Füzesi programı"
+      ],
+      "early_warning_and_dead_hand": "Bağımsız Fransız nükleer komuta zinciri; NATO nükleer planlama grubundan (NPG) muaf egemen karar yetkisi.",
+      "nuclear_doctrine": "Ulusal hayati çıkarların tehdidi durumunda 'Son Uyarı' (Ultime Avertissement) olarak tekil taktik nükleer vuruş ve ardından topyekun stratejik misilleme."
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GBR",
+      "total_inventory": 225,
+      "deployed_strategic_warheads": 120,
+      "reserve_stockpile": 105,
+      "awaiting_dismantlement": 0,
+      "first_test_year": 1952,
+      "triad_components": {
+        "land_icbm": "Yok",
+        "sea_ssbn": "Vanguard Sınıfı 4 adet SSBN denizaltı (Trident II D5 SLBM füzeleri) -> Dreadnought Sınıfı geçiş programı",
+        "air_bomber": "Yok (Yalnızca deniz tabanlı caydırıcılık - CASD: Sürekli Denizde Caydırıcılık)"
+      },
+      "hypersonic_and_asymmetric": [
+        "Astraea / Trident Mark 4A başlık modernizasyon programı"
+      ],
+      "early_warning_and_dead_hand": "Faslane Deniz Üssü (Kuzey İskoçya); Başbakan'ın el yazısıyla yazdığı ve denizaltı kasalarında saklanan 'Son Çare Mektupları' (Letters of Last Resort).",
+      "nuclear_doctrine": "NATO kolektif savunmasına tahsisli ancak nihai kullanım kararı tamamen Birleşik Krallık Başbakanı'nın egemen inisiyatifinde olan caydırıcılık."
+    },
+    {
+      "country": "Pakistan",
+      "code": "PAK",
+      "total_inventory": 170,
+      "deployed_strategic_warheads": 0,
+      "reserve_stockpile": 170,
+      "awaiting_dismantlement": 0,
+      "first_test_year": 1998,
+      "triad_components": {
+        "land_icbm": "Shaheen-III (2.750 km menzil), Shaheen-II, Ghauri ve Nasr (Hatf-IX) taktik nükleer topçu roketleri",
+        "sea_ssbn": "Babur-3 denizden fırlatılan nükleer seyir füzesi (Agosta 90B denizaltıları)",
+        "air_bomber": "Mirage III/V ve JF-17 Thunder uçakları (Ra'ad nükleer seyir füzesi entegrasyonu)"
+      },
+      "hypersonic_and_asymmetric": [
+        "Nasr (Hatf-IX) Düşük Verimli Taktik Savaş Başlıkları (Hindistan'ın Cold Start doktrinine karşı muharebe sahası nükleer kullanımı)"
+      ],
+      "early_warning_and_dead_hand": "Ulusal Komuta Otoritesi (NCA) / Stratejik Planlar Bölümü (SPD); barış zamanında başlıkların füze gövdelerinden ayrı depolanması doktrini.",
+      "nuclear_doctrine": "Hindistan konvansiyonel üstünlüğüne karşı asimetrik ilk kullanım hakkı (First Use); kırmızı çizgiler: toprak kaybı, ordunun imhası, ekonomik boğulma."
+    },
+    {
+      "country": "India",
+      "code": "IND",
+      "total_inventory": 172,
+      "deployed_strategic_warheads": 0,
+      "reserve_stockpile": 172,
+      "awaiting_dismantlement": 0,
+      "first_test_year": 1974,
+      "triad_components": {
+        "land_icbm": "Agni-V (5.000+ km menzil / MIRV kabiliyetli 'Mission Divyastra'), Agni-IV ve Prithvi serisi",
+        "sea_ssbn": "INS Arihant ve INS Arighat Nükleer Denizaltıları (K-15 Sagarika ve K-4 SLBM füzeleri)",
+        "air_bomber": "Dassault Rafale, Mirage 2000 ve Su-30MKI uçakları (Yerçekimi bombaları ve nükleer seyir füzeleri)"
+      },
+      "hypersonic_and_asymmetric": [
+        "Agni-V MIRV (Çoklu Bağımsız Hedeflenebilir Yeniden Giriş Aracı) mimarisi"
+      ],
+      "early_warning_and_dead_hand": "Stratejik Kuvvetler Komutanlığı (SFC); Başbakan başkanlığındaki Nükleer Komuta Otoritesi (NCA).",
+      "nuclear_doctrine": "İlk Kullanan Olmama (No First Use - NFU); ancak nükleer, kimyasal veya biyolojik saldırıya uğranması halinde kabul edilemez hasar verecek topyekun misilleme."
+    },
+    {
+      "country": "Israel",
+      "code": "ISR",
+      "total_inventory": 90,
+      "deployed_strategic_warheads": 0,
+      "reserve_stockpile": 90,
+      "awaiting_dismantlement": 0,
+      "first_test_year": 1966,
+      "triad_components": {
+        "land_icbm": "Jericho III (5.000 km menzil / Sdot Micha füze üssü)",
+        "sea_ssbn": "Dolphin-II Sınıfı Dizel-Elektrik Denizaltılar (Popeye Turbo nükleer seyir füzeleri / Hayfa üssü)",
+        "air_bomber": "F-15I Ra'am ve F-35I Adir uçakları (Nükleer serbest düşüş bombaları)"
+      },
+      "hypersonic_and_asymmetric": [
+        "Samson Doktrini (Samson Option): İsrail devletinin askeri çöküşü durumunda tüm bölgeyi nükleer yangına sürükleme tehdidi"
+      ],
+      "early_warning_and_dead_hand": "Dimona Nükleer Araştırma Merkezi (Şimon Peres Negev Nükleer Araştırma Merkezi); resmi nükleer belirsizlik (Amimut) politikası.",
+      "nuclear_doctrine": "Resmi olarak nükleer silaha sahip olduğunu ne teyit ne de tekzip eden nükleer tekel koruma doktrini (Begin Doktrini: Ortadoğu'da başka hiçbir gücün nükleer silah edinmesine izin vermeme)."
+    },
+    {
+      "country": "North Korea",
+      "code": "PRK",
+      "total_inventory": 50,
+      "deployed_strategic_warheads": 0,
+      "reserve_stockpile": 50,
+      "awaiting_dismantlement": 0,
+      "first_test_year": 2006,
+      "triad_components": {
+        "land_icbm": "Hwasong-18 (Katı Yakıtlı Mobil ICBM), Hwasong-17 (Sıvı Yakıtlı 'Canavar Füze'), Hwasong-15",
+        "sea_ssbn": "Hero Kim Kun Ok Taktik Nükleer Saldırı Denizaltısı (modifiye Romeo sınıfı / SLBM fırlatma tüpleri)",
+        "air_bomber": "Sınırlı (Taktik nükleer seyir füzeleri - Hwasal-1/2)"
+      },
+      "hypersonic_and_asymmetric": [
+        "Haeil Nükleer Sualtı İHA'sı (Radyoaktif tsunami torpidosu)",
+        "Hwasong-16B Hipersonik Süzülme Füzesi"
+      ],
+      "early_warning_and_dead_hand": "Kim Jong-un mutlak şahsi fırlatma yetkisi; liderliğe yönelik 'Kelle Avlama' (Decapitation) operasyonu tespit edilirse otomatik nükleer misilleme yasası (2022).",
+      "nuclear_doctrine": "Anayasaya girmiş geri döndürülemez nükleer güç statüsü; rejim bekası ve ABD askeri müdahalesini caydırma amaçlı önleyici nükleer vuruş hakkı."
+    }
+  ],
+  "nato_nuclear_sharing": {
+    "doctrine": "NATO Nükleer Paylaşım Anlaşması uyarınca, nükleer silaha sahip olmayan 5 NATO müttefiki ülkenin hava üslerinde ABD Hava Kuvvetleri kontrolünde B61 serisi yerçekimi nükleer bombaları depolanmaktadır. Savaş durumunda bu bombalar müttefik ülke pilotları tarafından atılmak üzere yetkilendirilebilir.",
+    "bases": [
+      { "base_name": "İncirlik Hava Üssü", "country": "Turkey", "estimated_bombs": 20, "weapon_type": "B61-3/4" },
+      { "base_name": "Büchel Hava Üssü", "country": "Germany", "estimated_bombs": 20, "weapon_type": "B61-12 (Tornado / F-35A)" },
+      { "base_name": "Aviano & Ghedi Hava Üsleri", "country": "Italy", "estimated_bombs": 35, "weapon_type": "B61-12 (Tornado / F-35A)" },
+      { "base_name": "Kleine Brogel Hava Üssü", "country": "Belgium", "estimated_bombs": 15, "weapon_type": "B61-12 (F-16 / F-35A)" },
+      { "base_name": "Volkel Hava Üssü", "country": "Netherlands", "estimated_bombs": 15, "weapon_type": "B61-12 (F-35A)" }
+    ]
+  }
+}

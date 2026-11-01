@@ -207,7 +207,9 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
             "CASE_STUDY_OPERATION_GLADIO_AND_STAY_BEHIND_NETWORKS.md",
             "CASE_STUDY_BCCI_THE_BANK_OF_CROOKS_AND_CLINICS.md",
             "CASE_STUDY_STUXNET_OLYMPIC_GAMES_CYBER_SABOTAGE.md",
-            "CASE_STUDY_CAMBRIDGE_ANALYTICA_AND_PSYCHOGRAPHIC_WARFARE.md"
+            "CASE_STUDY_CAMBRIDGE_ANALYTICA_AND_PSYCHOGRAPHIC_WARFARE.md",
+            "CASE_STUDY_PROMIS_SOFTWARE_AND_INSLAW_AFFAIR.md",
+            "CASE_STUDY_OPERATION_CYBERSCOOP_AND_PROJECT_RAVEN.md"
         ]
         for case in expected_cases:
             case_path = dossiers_dir / case
@@ -223,6 +225,8 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
         cables_file = self.datasets_dir / "subsea_cables_and_sigint_stations.json"
         swf_file = self.datasets_dir / "sovereign_wealth_funds_registry.json"
         darkfleet_file = self.datasets_dir / "shadow_fleet_maritime_registry.json"
+        nuclear_file = self.datasets_dir / "nuclear_arsenals_and_triad_registry.json"
+        armstrade_file = self.datasets_dir / "global_arms_trade_and_contractors.json"
 
         self.assertTrue(choke_file.exists(), "chokepoints_registry.json eksik!")
         self.assertTrue(pmc_file.exists(), "pmc_mercenary_groups.json eksik!")
@@ -232,6 +236,8 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
         self.assertTrue(cables_file.exists(), "subsea_cables_and_sigint_stations.json eksik!")
         self.assertTrue(swf_file.exists(), "sovereign_wealth_funds_registry.json eksik!")
         self.assertTrue(darkfleet_file.exists(), "shadow_fleet_maritime_registry.json eksik!")
+        self.assertTrue(nuclear_file.exists(), "nuclear_arsenals_and_triad_registry.json eksik!")
+        self.assertTrue(armstrade_file.exists(), "global_arms_trade_and_contractors.json eksik!")
 
     def test_strategic_datasets_structure(self):
         """Yeni stratejik veri setlerinin JSON içerik ve şema bütünlüğü test edilir."""
@@ -272,6 +278,22 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
             self.assertIn("flags_of_convenience", darkfleet)
             self.assertIn("sts_transfer_chokepoints", darkfleet)
             self.assertGreaterEqual(len(cables["critical_cable_corridors"]), 4)
+
+        # 7. Nuclear Arsenals & Triad
+        with open(self.datasets_dir / "nuclear_arsenals_and_triad_registry.json", "r", encoding="utf-8") as f:
+            nuclear = json.load(f)
+            self.assertIn("strategic_overview", nuclear)
+            self.assertIn("nuclear_powers", nuclear)
+            self.assertEqual(len(nuclear["nuclear_powers"]), 9)
+            self.assertIn("nato_nuclear_sharing", nuclear)
+
+        # 8. Global Arms Trade & Contractors
+        with open(self.datasets_dir / "global_arms_trade_and_contractors.json", "r", encoding="utf-8") as f:
+            armstrade = json.load(f)
+            self.assertIn("market_overview", armstrade)
+            self.assertIn("top_prime_contractors", armstrade)
+            self.assertGreaterEqual(len(armstrade["top_prime_contractors"]), 12)
+            self.assertIn("top_exporters_vs_importers", armstrade)
 
 if __name__ == "__main__":
     unittest.main()

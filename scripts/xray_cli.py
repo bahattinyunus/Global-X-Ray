@@ -19,6 +19,8 @@ Kullanım:
   python scripts/xray_cli.py cables [bolge_id]
   python scripts/xray_cli.py swf [fon_veya_ulke]
   python scripts/xray_cli.py darkfleet
+  python scripts/xray_cli.py nuclear [ulke_veya_kod]
+  python scripts/xray_cli.py armstrade [sirket_veya_ulke]
   python scripts/xray_cli.py recon <ulke_adi>
   python scripts/xray_cli.py research [konu]
   python scripts/xray_cli.py cases
@@ -51,6 +53,8 @@ MINERALS_PATH = BASE_DIR / "global_datasets" / "critical_raw_materials_supply_ch
 CABLES_PATH = BASE_DIR / "global_datasets" / "subsea_cables_and_sigint_stations.json"
 SWF_PATH = BASE_DIR / "global_datasets" / "sovereign_wealth_funds_registry.json"
 DARKFLEET_PATH = BASE_DIR / "global_datasets" / "shadow_fleet_maritime_registry.json"
+NUCLEAR_PATH = BASE_DIR / "global_datasets" / "nuclear_arsenals_and_triad_registry.json"
+ARMSTRADE_PATH = BASE_DIR / "global_datasets" / "global_arms_trade_and_contractors.json"
 DOSSIERS_DIR = BASE_DIR / "dossiers"
 RESEARCH_DIR = BASE_DIR / "research"
 
@@ -416,6 +420,66 @@ def show_darkfleet(query=None):
         print(f"    * {s['operations']}")
     print("=" * 80)
 
+def show_nuclear(query=None):
+    if not NUCLEAR_PATH.exists():
+        print("[-] Nükleer cephanelik veritabanı bulunamadı.")
+        return
+    with open(NUCLEAR_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    powers = data.get("nuclear_powers", [])
+    overview = data.get("strategic_overview", {})
+    
+    if query:
+        q = query.lower()
+        powers = [p for p in powers if q in p["country"].lower() or q in p["code"].lower() or q in p.get("nuclear_doctrine", "").lower()]
+        
+    print("☢️ KÜRESEL NÜKLEER CEPHANELİKLER & STRATEJİK TRİAD REGİSTRİ:")
+    print("=" * 85)
+    print(f"• Küresel Toplam Savaş Başlığı:       ~{overview.get('global_total_warheads', 0):,}")
+    print(f"• Konuşlu ve Operasyonel Başlık:      ~{overview.get('deployed_operational_warheads', 0):,}")
+    print(f"• Nükleer Silaha Sahip Güç Sayısı:    {overview.get('nuclear_armed_states_count', 9)}")
+    print("=" * 85)
+    for p in powers:
+        print(f"\n🚀 [{p['code']}] {p['country'].upper()} (İlk Test: {p.get('first_test_year')})")
+        print(f"  • Toplam Envanter:        {p['total_inventory']:,} Başlık (Konuşlu: {p.get('deployed_strategic_warheads', 'N/A')})")
+        triad = p.get("triad_components", {})
+        if triad:
+            print(f"  • Kara (ICBM):            {triad.get('land_icbm', 'Mevcut değil')}")
+            print(f"  • Deniz (SSBN):           {triad.get('sea_ssbn', 'Mevcut değil')}")
+            print(f"  • Hava (Bombardıman):     {triad.get('air_bomber', 'Mevcut değil')}")
+        if p.get("hypersonic_and_asymmetric"):
+            print(f"  • Asimetrik/Hipersonik:   {'; '.join(p['hypersonic_and_asymmetric'][:2])}")
+        if p.get("early_warning_and_dead_hand"):
+            print(f"  • Erken Uyarı / Ölü El:   {p['early_warning_and_dead_hand']}")
+        print(f"  • Doktrin:                {p.get('nuclear_doctrine')}")
+        print("-" * 85)
+
+def show_armstrade(query=None):
+    if not ARMSTRADE_PATH.exists():
+        print("[-] Silah ticareti ve savunma sanayii veritabanı bulunamadı.")
+        return
+    with open(ARMSTRADE_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    contractors = data.get("top_prime_contractors", [])
+    m_overview = data.get("market_overview", {})
+    
+    if query:
+        q = query.lower()
+        contractors = [c for c in contractors if q in c["company"].lower() or q in c["country"].lower() or q in c.get("flagship_systems", "").lower()]
+        
+    print("⚔️ KÜRESEL SİLAH TİCARETİ & SAVUNMA SANAYİİ TRÖSTLERİ:")
+    print("=" * 85)
+    print(f"• Küresel Yıllık Askeri Harcama:    ${m_overview.get('global_defense_expenditure_usd_b', 0):,.1f} Milyar")
+    print(f"• İlk 100 Savunma Şirketi Cirosu:   ${m_overview.get('top_100_defense_revenue_usd_b', 0):,.1f} Milyar")
+    print(f"• İhracat Pazar Payları:            ABD %{m_overview.get('us_market_share_of_exports_pct')} | Fransa %{m_overview.get('france_market_share_of_exports_pct')} | Rusya %{m_overview.get('russia_market_share_of_exports_pct')}")
+    print("=" * 85)
+    for c in contractors:
+        print(f"\n🏢 #{c['rank']} {c['company']} ({c['country']})")
+        print(f"  • Savunma Hasılatı:  ${c['defense_revenue_usd_b']} Milyar USD")
+        print(f"  • Amiral Sistemler:  {c['flagship_systems']}")
+        print(f"  • Stratejik Tekel:   {c['strategic_monopoly']}")
+        print("-" * 85)
+
 def show_stats():
     registry = load_registry()
     total_gdp = sum(c.get("gdp_usd_b", 0) for c in registry)
@@ -503,6 +567,12 @@ def main():
     elif cmd in ["darkfleet", "tanker", "golge-filo"]:
         q = sys.argv[2] if len(sys.argv) > 2 else None
         show_darkfleet(q)
+    elif cmd in ["nuclear", "nukleer"]:
+        q = sys.argv[2] if len(sys.argv) > 2 else None
+        show_nuclear(q)
+    elif cmd in ["armstrade", "silah", "savunma"]:
+        q = sys.argv[2] if len(sys.argv) > 2 else None
+        show_armstrade(q)
     elif cmd in ["recon", "kesif", "dossier"] and len(sys.argv) > 2:
         from deep_recon import run_deep_recon
         run_deep_recon(" ".join(sys.argv[2:]))

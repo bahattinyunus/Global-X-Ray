@@ -12,7 +12,9 @@
   <img src="https://img.shields.io/badge/Architecture-4--Layer%20Deep%20State-black?style=for-the-badge" alt="4-Layer">
   <img src="https://img.shields.io/badge/Defense%20Alliances-8%20Global%20Pacts-navy?style=for-the-badge" alt="Alliances">
   <img src="https://img.shields.io/badge/Sanctions%20Regimes-Tracked%20%26%20Mapped-darkred?style=for-the-badge" alt="Sanctions">
-  <img src="https://img.shields.io/badge/Case%20Studies-10%20Forensic%20Investigations-crimson?style=for-the-badge" alt="Case Studies">
+  <img src="https://img.shields.io/badge/Case%20Studies-12%20Forensic%20Investigations-crimson?style=for-the-badge" alt="Case Studies">
+  <img src="https://img.shields.io/badge/Nuclear%20Triad-12%2C121%20Warheads%20Mapped-darkred?style=for-the-badge" alt="Nuclear Triad">
+  <img src="https://img.shields.io/badge/Arms%20Trade-$2.4T%20MIC%20Oligopoly-firebrick?style=for-the-badge" alt="Arms Trade">
   <img src="https://img.shields.io/badge/Research%20Treatises-12%20Comprehensive%20Dossiers-gold?style=for-the-badge" alt="Treatises">
   <img src="https://img.shields.io/badge/Sovereign%20Wealth-$12+%20Trillion%20Mapped-darkgreen?style=for-the-badge" alt="SWF">
   <img src="https://img.shields.io/badge/Shadow%20Fleet-850%20Dark%20Tankers-maroon?style=for-the-badge" alt="Shadow Fleet">
@@ -39,16 +41,18 @@
 12. [⛏️ Kritik Madenler & Küresel Rafinaj Tekelleri](#️-kritik-madenler--küresel-rafinaj-tekelleri)
 13. [💰 Küresel Egemen Varlık Fonları (SWF) & Devlet Sermayesi](#-küresel-egemen-varlik-fonlari-swf--devlet-sermayesi)
 14. [🚢 Küresel Gölge Tanker Filosu (Dark Fleet) & Yaptırım Kaçırma](#-küresel-gölge-tanker-filosu-dark-fleet--yaptirim-kaçirma)
-15. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
-16. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
-17. [⚔️ Özel Askeri Şirketler (PMC) & Paramiliter Şebekeler](#️-özel-askeri-şirketler-pmc--paramiliter-şebekeler)
-18. [🕵️ Küresel İstihbarat Teşkilatları & Güç Mimarisi](#️-küresel-istihbarat-teşkilatlari--güç-mimarisi)
-19. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
-20. [🗺️ 205 Ülkelik Küresel Atlas İndeksi (Ekonomik Modelleriyle)](#️-205-ülkelik-küresel-atlas-indeksi-ekonomik-modelleriyle)
-21. [🔬 Metodoloji ve OSINT Araştırma Kılavuzları (/methodology)](#-metodoloji-ve-osint-araştirma-kilavuzlari-methodology)
-22. [🛠️ CLI Terminal Aracı ile Kullanım (xray_cli.py)](#️-cli-terminal-araci-ile-kullanim-xray_clipy)
-23. [🧪 Bütünlük ve Veri Doğrulama Testleri](#-bütünlük-ve-veri-doğrulama-testleri)
-24. [⚖️ Etik, Hukuki Beyan ve Açık İstihbarat Lisansı](#️-etik-hukuki-beyan-ve-açik-istihbarat-lisansi)
+15. [☢️ Küresel Nükleer Cephanelikler & Stratejik Nükleer Triad](#️-küresel-nükleer-cephanelikler--stratejik-nükleer-triad)
+16. [⚔️ Küresel Silah Ticareti & Savunma Sanayii Tröstleri (MIC)](#️-küresel-silah-ticareti--savunma-sanayii-tröstleri-mic)
+17. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
+18. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
+19. [⚔️ Özel Askeri Şirketler (PMC) & Paramiliter Şebekeler](#️-özel-askeri-şirketler-pmc--paramiliter-şebekeler)
+20. [🕵️ Küresel İstihbarat Teşkilatları & Güç Mimarisi](#️-küresel-istihbarat-teşkilatlari--güç-mimarisi)
+21. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
+22. [🗺️ 205 Ülkelik Küresel Atlas İndeksi (Ekonomik Modelleriyle)](#️-205-ülkelik-küresel-atlas-indeksi-ekonomik-modelleriyle)
+23. [🔬 Metodoloji ve OSINT Araştırma Kılavuzları (/methodology)](#-metodoloji-ve-osint-araştirma-kilavuzlari-methodology)
+24. [🛠️ CLI Terminal Aracı ile Kullanım (xray_cli.py)](#️-cli-terminal-araci-ile-kullanim-xray_clipy)
+25. [🧪 Bütünlük ve Veri Doğrulama Testleri](#-bütünlük-ve-veri-doğrulama-testleri)
+26. [⚖️ Etik, Hukuki Beyan ve Açık İstihbarat Lisansı](#️-etik-hukuki-beyan-ve-açik-istihbarat-lisansi)
 
 ---
 
@@ -331,6 +335,45 @@ G7 tavan fiyatını ve denizcilik sigorta yasaklarını aşarak Rusya, İran ve 
 
 ---
 
+## ☢️ KÜRESEL NÜKLEER CEPHANELİKLER & STRATEJİK NÜKLEER TRİAD
+
+Nükleer silahlar ve stratejik nükleer triad (ICBM, SSBN, Stratejik Bombardıman); egemen devletlerin nihai güvenlik garantisi ve karşılıklı garantili imha (MAD) dengesinin temelidir (`global_datasets/nuclear_arsenals_and_triad_registry.json`):
+
+| Nükleer Güç | Toplam Cephanelik | Konuşlu Stratejik Başlık | Triad Yeteneği | İlk Test Yılı | Nükleer Doktrin & Angajman Şartı |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| **Russia** (`RUS`) | 5,580 | 1710 | `Tam Triad (Kara-Deniz-Hava)` | 1949 | Varoluşsal devlet tehdidi, konvansiyonel saldırıda dahi devletin bekası teh... |
+| **United States** (`USA`) | 5,044 | 1770 | `Tam Triad (Kara-Deniz-Hava)` | 1945 | Hesaplanmış belirsizlik (Calculated ambiguity); nükleer ve kritik stratejik... |
+| **China** (`CHN`) | 500 | 240 | `Tam Triad (Kara-Deniz-Hava)` | 1964 | Tarihsel 'İlk Kullanan Olmama' (No First Use - NFU) ilkesi; ancak 2030'a ka... |
+| **France** (`FRA`) | 290 | 280 | `Tam Triad (Kara-Deniz-Hava)` | 1960 | Ulusal hayati çıkarların tehdidi durumunda 'Son Uyarı' (Ultime Avertissemen... |
+| **United Kingdom** (`GBR`) | 225 | 120 | `Tam Triad (Kara-Deniz-Hava)` | 1952 | NATO kolektif savunmasına tahsisli ancak nihai kullanım kararı tamamen Birl... |
+| **Pakistan** (`PAK`) | 170 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 1998 | Hindistan konvansiyonel üstünlüğüne karşı asimetrik ilk kullanım hakkı (Fir... |
+| **India** (`IND`) | 172 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 1974 | İlk Kullanan Olmama (No First Use - NFU); ancak nükleer, kimyasal veya biyo... |
+| **Israel** (`ISR`) | 90 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 1966 | Resmi olarak nükleer silaha sahip olduğunu ne teyit ne de tekzip eden nükle... |
+| **North Korea** (`PRK`) | 50 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 2006 | Anayasaya girmiş geri döndürülemez nükleer güç statüsü; rejim bekası ve ABD... |
+
+---
+
+## ⚔️ KÜRESEL SİLAH TİCARETİ & SAVUNMA SANAYİİ TRÖSTLERİ (MIC)
+
+Askeri-Endüstriyel Kompleks (MIC); küresel savunma bütçelerini, vekil savaşlarını ve jeopolitik nüfuzu yönlendiren devasa bir oligopol yapısıdır (`global_datasets/global_arms_trade_and_contractors.json`):
+
+| Savunma Yüklenicisi | Menşei | Savunma Cirosu | Amiral Platformlar & Füzeler | Stratejik Tekel & Küresel Pazar Hakimiyeti |
+| :--- | :--- | :---: | :--- | :--- |
+| **#1 Lockheed Martin** | United States | $63.5B | F-35 Lightning II Müşterek Taarruz Uçağı, F-16 Block 70, PAC-3 Pa... | Dünyanın en büyük 5. Nesil savaş uçağı tekeli; NATO ve mütte... |
+| **#2 RTX Corporation (Raytheon)** | United States | $40.5B | Patriot Hava Savunma Sistemi, Tomahawk Seyir Füzesi, AMRAAM AIM-1... | Küresel hassas güdümlü mühimmat, hava savunma radarları ve A... |
+| **#3 Northrop Grumman** | United States | $35.2B | B-21 Raider Yeni Nesil Stealth Bombardıman Uçağı, B-2 Spirit, Sen... | ABD stratejik nükleer triadının ana hava ve kara yüklenicisi... |
+| **#4 Aviation Industry Corporation of China (AVIC)** | China | $34.0B | J-20 'Mighty Dragon' 5. Nesil Stealth Avcı Uçağı, J-16, J-35 uçak... | Çin Halk Kurtuluş Ordusu Hava Kuvvetleri'nin (PLAAF) yegane ... |
+| **#5 Boeing Defense, Space & Security** | United States | $32.5B | F-15EX Eagle II, F/A-18 Super Hornet, AH-64 Apache Taarruz Heliko... | Deniz havacılığı, taarruz helikopterleri ve stratejik havada... |
+| **#6 General Dynamics** | United States | $31.0B | Virginia ve Columbia Sınıfı Nükleer Denizaltılar (Electric Boat),... | ABD Donanması nükleer denizaltı inşası ve kara kuvvetleri ağ... |
+| **#7 BAE Systems** | United Kingdom | $28.0B | Eurofighter Typhoon (konsorsiyum), Astute Sınıfı Nükleer Saldırı ... | Avrupa ve İngiliz Milletler Topluluğu'nun en büyük savunma d... |
+| **#8 China North Industries Group (NORINCO)** | China | $22.0B | Tip 99A Ana Muharebe Tankı, çok namlulu roketatar sistemleri, top... | Küresel kara harp sistemleri ve topçu mühimmatı üretim hacmi... |
+| **#9 Rostec (Kalaşnikof, UAC, Almaz-Antey, Uralvagonzavod)** | Russia | $18.5B | Su-57 Felon, Su-35S, T-90M Proryv Tankı, S-400 Triumf ve S-500 Ha... | Rus devlet savunma sanayi holdingi; yaptırımlara rağmen Küre... |
+| **#10 Rheinmetall** | Germany | $8.0B | Leopard 2A7/A8 Tank Topu & Mühimmatı, KF51 Panther Tankı, Boxer Z... | Ukrayna savaşı sonrası Avrupa'nın en hızlı büyüyen ağır mühi... |
+| **#11 Baykar Teknoloji & ASELSAN** | Turkey | $5.2B | Bayraktar TB2, Bayraktar TB3, Akıncı TİHA, Kızılelma İnsansız Sav... | Dünyanın en büyük silahlı insansız hava aracı (SİHA) ihracat... |
+| **#12 Hanwha Aerospace** | South Korea | $5.0B | K9 Thunder Kundağı Motorlu Obüs, K239 Chunmoo ÇNRA, Redback Zırhl... | Hızlı teslimat ve rekabetçi fiyatla NATO Doğu Kanadı'nın (Po... |
+
+---
+
 ## 🗺️ BÖLGESEL MASTER JEOPOLİTİK GÜÇ DOSYALARI (/regions)
 
 Kıtalar bazında güç mimarisi, askeri ittifaklar ve derin çatışma hatları:
@@ -362,6 +405,8 @@ Tarihin en büyük kleptokratik, yolsuzluk, derin devlet ve siber istihbarat ope
 | 🏦 [**CASE_STUDY_BCCI_THE_BANK_OF_CROOKS_AND_CLINICS.md**](dossiers/CASE_STUDY_BCCI_THE_BANK_OF_CROOKS_AND_CLINICS.md) | BCCI: İstihbarat & Suç Bankası | 78 ülkede faaliyet gösteren $20B'lık bankanın çöküşü; CIA Afganistan/Kontra örtülü fonları, Noriega kokain aklaması ve A.Q. Khan nükleer ağı. |
 | 💻 [**CASE_STUDY_STUXNET_OLYMPIC_GAMES_CYBER_SABOTAGE.md**](dossiers/CASE_STUDY_STUXNET_OLYMPIC_GAMES_CYBER_SABOTAGE.md) | Stuxnet: İlk Askeri Siber Silah | NSA ve Unit 8200'ün Natanz nükleer tesisine sabotajı; 4 sıfır-gün açığı, Siemens PLC manipülasyonu ve 1.000 gaz santrifüjünün rezonansla imhası. |
 | 🧠 [**CASE_STUDY_CAMBRIDGE_ANALYTICA_AND_PSYCHOGRAPHIC_WARFARE.md**](dossiers/CASE_STUDY_CAMBRIDGE_ANALYTICA_AND_PSYCHOGRAPHIC_WARFARE.md) | Cambridge Analytica & Psikografik Harp | SCL Group, 87 milyon Facebook profili izinsiz hasadı, OCEAN psikometrik puanlaması, Brexit ve 2016 ABD Seçimleri mikro hedefli karanlık reklamları. |
+| 🐙 [**CASE_STUDY_PROMIS_SOFTWARE_AND_INSLAW_AFFAIR.md**](dossiers/CASE_STUDY_PROMIS_SOFTWARE_AND_INSLAW_AFFAIR.md) | PROMIS Yazılımı & Inslaw Skandalı ("The Octopus") | Inslaw yazılımının Adalet Bakanlığı tarafından gasp edilmesi; Michael Riconosciuto, Robert Maxwell & Mossad üzerinden 80+ ülkeye arka kapılı casus yazılım satışı; Danny Casolaro cinayeti. |
+| 🦅 [**CASE_STUDY_OPERATION_CYBERSCOOP_AND_PROJECT_RAVEN.md**](dossiers/CASE_STUDY_OPERATION_CYBERSCOOP_AND_PROJECT_RAVEN.md) | Proje Raven (Project Raven) & DarkMatter | Eski NSA siber savaşçılarının BAE petro-monarşisine transferi; "Karma" sıfır-tık iPhone casusluk platformu, Katar Emiri, Türk bürokratlar ve Amerikalı gazetecilerin yasa dışı dinlenmesi. |
 
 ---
 
@@ -683,10 +728,16 @@ python scripts/xray_cli.py swf norway
 # Küresel gölge tanker filosunu (Dark Fleet) ve STS aktarma bölgelerini incele
 python scripts/xray_cli.py darkfleet
 
+# Nükleer cephanelikler, stratejik triad ve caydırıcılık sistemlerini sorgula
+python scripts/xray_cli.py nuclear rus
+
+# Silah ticareti pazarını ve savunma sanayii devlerini sorgula
+python scripts/xray_cli.py armstrade lockheed
+
 # Otomatik çok katmanlı derin keşif raporu üret ve dışa aktar
 python scripts/deep_recon.py turkey --export
 
-# 10 derin adli vaka analizini listele
+# 12 derin adli vaka analizini listele
 python scripts/xray_cli.py cases
 
 # 12 derin araştırma tezini ve doktrin dosyalarını listele

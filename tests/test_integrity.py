@@ -305,5 +305,46 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
             self.assertEqual(len(culture["civilization_realms"]), 9)
             self.assertGreaterEqual(len(culture["countries_cultural_dna"]), 20)
 
+    def test_geopolitics_and_intelligence_dossiers(self):
+        """geopolitics_and_intelligence/ altındaki 11 stratejik dosya ve README doğrulanır."""
+        geo_dir = BASE_DIR / "geopolitics_and_intelligence"
+        self.assertTrue(geo_dir.exists(), "geopolitics_and_intelligence/ dizini bulunamadı!")
+
+        expected_files = [
+            "README.md",
+            "NUCLEAR_TRIAD_AND_STRATEGIC_ARSENALS.md",
+            "GLOBAL_ARMS_TRADE_AND_MIC_OLIGOPOLY.md",
+            "DEFENSE_ALLIANCES_AND_SECURITY_PACTS.md",
+            "SANCTIONS_REGIMES_AND_BYPASS_CORRIDORS.md",
+            "CRITICAL_RAW_MATERIALS_AND_REFINING_MONOPOLIES.md",
+            "SUBSEA_CABLES_AND_GLOBAL_SIGINT_STATIONS.md",
+            "SOVEREIGN_WEALTH_FUNDS_AND_STATE_CAPITALISM.md",
+            "SHADOW_FLEET_MARITIME_AND_STS_HUBS.md",
+            "MARITIME_CHOKEPOINTS_AND_TRANSIT_VULNERABILITIES.md",
+            "PMC_MERCENARY_GROUPS_AND_PROXY_WARFARE.md",
+            "GLOBAL_INTELLIGENCE_AGENCIES_AND_BLACK_BUDGETS.md"
+        ]
+        for fname in expected_files:
+            fpath = geo_dir / fname
+            self.assertTrue(fpath.exists(), f"Eksik jeopolitik/istihbarat dosyası: {fname}")
+            self.assertGreater(fpath.stat().st_size, 1500, f"{fname} içeriği yetersiz veya boş olamaz!")
+
+    def test_culture_dossiers(self):
+        """culture/ altındaki medeniyet ve kültürel kodlar kütüphanesi dosyaları doğrulanır."""
+        culture_dir = BASE_DIR / "culture"
+        self.assertTrue(culture_dir.exists(), "culture/ dizini bulunamadı!")
+
+        expected_files = [
+            "README.md",
+            "CIVILIZATION_REALMS_AND_PHILOSOPHIES.md",
+            "UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md",
+            "GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md",
+            "WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md"
+        ]
+        for fname in expected_files:
+            fpath = culture_dir / fname
+            self.assertTrue(fpath.exists(), f"Eksik kültür dosyası: {fname}")
+            self.assertGreater(fpath.stat().st_size, 1500, f"{fname} içeriği yetersiz veya boş olamaz!")
+
 if __name__ == "__main__":
     unittest.main()

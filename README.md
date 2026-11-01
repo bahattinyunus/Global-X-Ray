@@ -1,5 +1,5 @@
 # 🏛️ MEDENİYET ATLASI
-### *Dünya Uluslarının Kültürel Kodları, Yaşam Felsefesi, Medeniyet Havzaları ve Gerçek İktidar Anatomisi Ansiklopedisi*
+### *Dünya Uluslarının Kültürel Kodları, Yaşam Felsefeleri, Medeniyet Havzaları ve Gerçek Güç Anatomisi Ansiklopedisi*
 
 <p align="center">
   <img src="assets/images/hero_banner.jpg" alt="Medeniyet Atlası Hero Banner" width="100%">
@@ -8,53 +8,49 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Ansiklopedi-K%C3%BClt%C3%BCrel%20Kodlar%20%26%20Medeniyet-darkgreen?style=for-the-badge&logo=bookstack" alt="Encyclopedia">
   <img src="https://img.shields.io/badge/Kapsam-205%20%C3%9Clke%20%26%20B%C3%B6lge-blue?style=for-the-badge&logo=globe" alt="Coverage">
-  <img src="https://img.shields.io/badge/Medeniyet%20Havzas%C4%B1-9%20K%C3%BCresel%20Kutup-teal?style=for-the-badge" alt="Civilization">
+  <img src="https://img.shields.io/badge/Medeniyet%20Havzas%C4%B1-9%20B%C3%BCy%C3%BCk%20Havza-teal?style=for-the-badge" alt="Civilization">
+  <img src="https://img.shields.io/badge/%C3%87evrilemeyen%20Kavramlar-50+%20Ruh%20Kavram%C4%B1-purple?style=for-the-badge" alt="Concepts">
+  <img src="https://img.shields.io/badge/Gastronomi-D%C3%BCnya%20Sofra%20Felsefeleri-orange?style=for-the-badge" alt="Gastronomy">
   <img src="https://img.shields.io/badge/Ekonomik%20Arketip-8%20Makro%20G%C3%BC%C3%A7%20Blo%C4%9Fu-blueviolet?style=for-the-badge" alt="Economic Archetypes">
-  <img src="https://img.shields.io/badge/G%C3%BC%C3%A7%20Anatomisi-4%20Katmanl%C4%B1%20Derin%20Devlet-black?style=for-the-badge" alt="4-Layer">
+  <img src="https://img.shields.io/badge/G%C3%BC%C3%A7%20Anatomisi-4%20Katmanl%C4%B1%20Mimarisi-black?style=for-the-badge" alt="4-Layer">
+  <img src="https://img.shields.io/badge/%C4%B0stihbarat%20Dosyalar%C4%B1-11%20Stratejik%20Rapor-darkred?style=for-the-badge" alt="Intelligence">
   <img src="https://img.shields.io/badge/Vaka%20Analizleri-12%20Adli%20Soru%C5%9Fturma-crimson?style=for-the-badge" alt="Case Studies">
-  <img src="https://img.shields.io/badge/N%C3%BCkleer%20Triad-12%2C121%20Ba%C5%9Fl%C4%B1k%20Kayd%C4%B1-darkred?style=for-the-badge" alt="Nuclear Triad">
-  <img src="https://img.shields.io/badge/Silah%20Ticareti-$2.4T%20Savunma%20Oligopol%C3%BC-firebrick?style=for-the-badge" alt="Arms Trade">
-  <img src="https://img.shields.io/badge/Egemen%20Varl%C4%B1k-$12+%20Trilyon%20SWF-forestgreen?style=for-the-badge" alt="SWF">
-  <img src="https://img.shields.io/badge/G%C3%B6lge%20Filo-850%20Dark%20Tanker-maroon?style=for-the-badge" alt="Shadow Fleet">
   <img src="https://img.shields.io/badge/Do%C4%9Frulama-Admiralty%20Kodu%20B2+-success?style=for-the-badge" alt="Verification">
-  <img src="https://img.shields.io/badge/Lisans-A%C3%A7%C4%B1k%20K%C3%BClt%C3%BCr%20(CC%20BY--SA%204.0)-purple?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Lisans-A%C3%A7%C4%B1k%20K%C3%BClt%C3%BCr%20(CC%20BY--SA%204.0)-lightgrey?style=for-the-badge" alt="License">
 </p>
 
 ---
 
 ## 📑 İÇİNDEKİLER TABLOSU
 
-1. [🏛️ Giriş ve Ana Misyon: Dünya Uluslarını ve Kültürel Kodlarını Tanımak](#️-giriş-ve-ana-misyon-dünya-uluslarini-ve-kültürel-kodlarini-tanimak)
+1. [🏛️ Giriş ve Medeniyet Atlası Manifestosu](#️-giriş-ve-medeniyet-atlasi-manifestosu)
 2. [🎭 Dünya Medeniyetleri ve Kültürel Kodlar Rehberi (Cultural DNA)](#-dünya-medeniyetleri-ve-kültürel-kodlar-rehberi-cultural-dna)
-3. [🌐 Küresel Röntgen Doktrini: Gerçekçi Güç ve Derin Devlet Anatomisi](#-küresel-röntgen-doktrini-gerçekçi-güç-ve-derin-devlet-anatomisi)
-4. [📊 Ekonomik Modellere Göre 8 Küresel Güç Bloğu (/01_... - /08_...)](#-ekonomik-modellere-göre-8-küresel-güç-bloğu-01----08_)
-5. [🏛️ Metodoloji: 4 Katmanlı Ülke ve Güç Mimarisi](#️-metodoloji-4-katmanli-ülke-ve-güç-mimarisi)
-6. [🛡️ Doğrulama Standardı: NATO / Admiralty Kodu (B2+)](#️-doğrulama-standardi-nato--admiralty-kodu-b2)
-7. [💸 Kleptokrasi & Offshore Sermaye Kaçırma Döngüsü](#-kleptokrasi--offshore-sermaye-kaçirma-döngüsü)
-8. [🧠 Bilişsel Savaş & Siber İstihbarat Matrisi (5GW)](#-bilişsel-savaş--siber-istihbarat-matrisi-5gw)
-9. [🚢 Küresel Deniz Darboğazları & Jeopolitik Kilit Noktaları](#-küresel-deniz-darboğazlari--jeopolitik-kilit-noktalari)
-10. [🌐 Küresel Denizaltı Fiber Kablolar & SIGINT İstasyonları](#-küresel-denizalti-fiber-kablolar--sigint-istasyonlari)
-11. [🛡️ Savunma Paktları, Askeri İttifaklar & Nükleer Şemsiye](#️-savunma-paktlari-askeri-ittifaklar--nükleer-şemsiye)
-12. [⚠️ Finansal Yaptırım Rejimleri & Bypass Koridorları](#️-finansal-yaptirim-rejimleri--bypass-koridorlari)
-13. [⛏️ Kritik Madenler & Küresel Rafinaj Tekelleri](#️-kritik-madenler--küresel-rafinaj-tekelleri)
-14. [💰 Küresel Egemen Varlık Fonları (SWF) & Devlet Sermayesi](#-küresel-egemen-varlik-fonlari-swf--devlet-sermayesi)
-15. [🚢 Küresel Gölge Tanker Filosu (Dark Fleet) & Yaptırım Kaçırma](#-küresel-gölge-tanker-filosu-dark-fleet--yaptirim-kaçirma)
-16. [☢️ Küresel Nükleer Cephanelikler & Stratejik Nükleer Triad](#️-küresel-nükleer-cephanelikler--stratejik-nükleer-triad)
-17. [⚔️ Küresel Silah Ticareti & Savunma Sanayii Tröstleri (MIC)](#️-küresel-silah-ticareti--savunma-sanayii-tröstleri-mic)
-18. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
-19. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
-20. [⚔️ Özel Askeri Şirketler (PMC) & Paramiliter Şebekeler](#️-özel-askeri-şirketler-pmc--paramiliter-şebekeler)
-21. [🕵️ Küresel İstihbarat Teşkilatları & Güç Mimarisi](#️-küresel-istihbarat-teşkilatlari--güç-mimarisi)
-22. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
-23. [🗺️ 205 Ülkelik Küresel Atlas İndeksi (Ekonomik Modelleriyle)](#️-205-ülkelik-küresel-atlas-indeksi-ekonomik-modelleriyle)
-24. [🔬 Metodoloji ve OSINT Araştırma Kılavuzları (/methodology)](#-metodoloji-ve-osint-araştirma-kilavuzlari-methodology)
-25. [🛠️ CLI Terminal Aracı ile Kullanım (xray_cli.py)](#️-cli-terminal-araci-ile-kullanim-xray_clipy)
-26. [🧪 Bütünlük ve Veri Doğrulama Testleri](#-bütünlük-ve-veri-doğrulama-testleri)
-27. [⚖️ Etik, Hukuki Beyan ve Açık İstihbarat Lisansı](#️-etik-hukuki-beyan-ve-açik-istihbarat-lisansi)
+   - [🌐 9 Büyük Küresel Medeniyet Havzası](#-9-büyük-küresel-medeniyet-havzasi)
+   - [🧬 20 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı](#-20-örnek-medeniyet-çapasi-ulusal-karakterler-ve-yaşam-adabi)
+   - [📖 Çevrilemeyen Ruh Kavramları Galerisi](#-çevrilemeyen-ruh-kavramlari-galerisi)
+   - [🍲 Dünya Gastronomi Felsefeleri & Sofra Ritüelleri](#-dünya-gastronomi-felsefeleri--sofra-ritüelleri)
+   - [🧭 Küresel Nezaket Kuralları, İletişim Kodları ve Sosyal Tabular](#-küresel-nezaket-kurallari-iletişim-kodlari-ve-sosyal-tabular)
+   - [📚 Medeniyet & Kültür Kütüphanesi Arşivi (/culture)](#-medeniyet--kültür-kütüphanesi-arşivi-culture)
+3. [📊 Ekonomik Modellere Göre 8 Küresel Güç Bloğu (/01_... - /08_...)](#-ekonomik-modellere-göre-8-küresel-güç-bloğu-01----08_)
+4. [🏛️ Metodoloji: 4 Katmanlı Ülke ve Güç Mimarisi](#️-metodoloji-4-katmanli-ülke-ve-güç-mimarisi)
+5. [🛡️ Doğrulama Standardı: NATO / Admiralty Kodu (B2+)](#️-doğrulama-standardi-nato--admiralty-kodu-b2)
+6. [🌐 Gerçekçi Güç, Savunma ve İstihbarat Doktrini (/geopolitics_and_intelligence)](#-gerçekçi-güç-savunma-ve-istihbarat-doktrini-geopolitics_and_intelligence)
+   - [🛰️ Küresel İstihbarat ve Stratejik Dosyalar Matrisi (11 Özel Rapor)](#️-küresel-istihbarat-ve-stratejik-dosyalar-matrisi-11-özel-rapor)
+   - [💸 Kleptokrasi & Offshore Sermaye Kaçırma Döngüsü](#-kleptokrasi--offshore-sermaye-kaçirma-döngüsü)
+   - [🧠 Bilişsel Savaş & Siber İstihbarat Matrisi (5GW)](#-bilişsel-savaş--siber-istihbarat-matrisi-5gw)
+   - [🚢 Küresel Deniz Darboğazları & Jeopolitik Kilit Noktaları](#-küresel-deniz-darboğazlari--jeopolitik-kilit-noktalari)
+7. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
+8. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
+9. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
+10. [🗺️ 205 Ülkelik Küresel Atlas İndeksi (Ekonomik ve Kültürel Modelleriyle)](#️-205-ülkelik-küresel-atlas-indeksi-ekonomik-ve-kültürel-modelleriyle)
+11. [🔬 Metodoloji ve OSINT Araştırma Kılavuzları (/methodology)](#-metodoloji-ve-osint-araştirma-kilavuzlari-methodology)
+12. [🛠️ CLI Terminal Aracı ile Kullanım (xray_cli.py)](#️-cli-terminal-araci-ile-kullanim-xray_clipy)
+13. [🧪 Bütünlük ve Veri Doğrulama Testleri](#-bütünlük-ve-veri-doğrulama-testleri)
+14. [⚖️ Etik, Hukuki Beyan ve Açık Kültür Lisansı](#️-etik-hukuki-beyan-ve-açik-kültür-lisansi)
 
 ---
 
-## 🏛️ GİRİŞ VE ANA MİSYON: DÜNYA ULUSLARINI VE KÜLTÜREL KODLARINI TANIMAK
+## 🏛️ GİRİŞ VE MEDENİYET ATLASI MANİFESTOSU
 
 > *"Bir ulusu gerçekten tanımak; onun yalnızca sınırlarını, başkentini ve bayrağını bilmek değildir. Bir ulusu tanımak; bin yıllık kolektif hafızasını, sevinçlerini ve yaslarını, sofrasındaki ekmeği bölüşme adabını, başka hiçbir dile tam çevrilemeyen ruh kavramlarını (Gönül, Ikigai, Gemütlichkeit, Saudade, Ubuntu), selamlaşma inceliklerini ve dünyaya bakış felsefesini öğrenmektir."*
 
@@ -62,94 +58,146 @@ Bu projenin **birincil ve en temel varoluş gayesi**; dünya üzerindeki 205 ege
 
 Dünya ulusları birbirine düşman soyut bayraklardan ibaret değildir; her biri binlerce yıllık coğrafi sınavlardan, göçlerden ve felsefi arayışlardan süzülmüş eşsiz birer kültürel hazinedir. Bu atlas, okuyucusuna bir Japon'un *Wabi-sabi* estetiğindeki dinginliği, bir Türk'ün *Gönül* ve *İmece* dilindeki derin cömertliği, bir Alman'ın *Gemütlichkeit* huzurunu, bir Slav'ın *Toska* melankolisini ve bir Afrikalının *Ubuntu* ("Biz olduğumuz için benim") dayanışmasını anlama kapısını aralar.
 
-### ⚖️ Gerçekçilik Dengesi: Neden Derin Devlet ve Güç Katmanı da Var?
+### ⚖️ Gerçekçilik Dengesi: Neden Derin Güç ve İstihbarat Katmanı da Var?
 Bir ülkeyi yalnızca masalsı turizm broşürleriyle anlatmak, o ülkenin halkına ve tarihsel gerçeğine haksızlık etmektir. Bir ulusun gündelik hayatı ve kültürel dokusu ne kadar zengin olursa olsun; o toplum aynı zamanda **derin devlet mekanizmaları, askeri ittifaklar, oligarşik sermaye konsorsiyumları, enerji darboğazları ve istihbarat savaşları** gerçeğiyle kuşatılmıştır.
 
-Bu nedenle bu ansiklopedi; **kültürü ve insanı merkeze koyan ana gövdesini**, adli bilişim ve OSINT disipliniyle hazırlanmış **derin güç anatomisi** ile dengeler. Böylece okuyucu hem bir ülkenin ruhunu tanır hem de o ülkenin üzerinde dönen küresel satrancı tüm çıplaklığıyla kavrar.
+Bu nedenle bu ansiklopedi; **kültürü ve insanı merkeze koyan ana gövdesini**, adli bilişim ve OSINT disipliniyle hazırlanmış **derin güç anatomisi** ile dengeler. Tüm detaylı istihbari ve askeri veri setleri [`geopolitics_and_intelligence/`](geopolitics_and_intelligence/README.md) dizininde bağımsız araştırma dosyalarında toplanmış; ana omurgada ise bu dinamiklerin kültürel ve insani izdüşümleri öne çıkarılmıştır.
 
 ---
 
 ## 🎭 DÜNYA MEDENİYETLERİ VE KÜLTÜREL KODLAR REHBERİ (CULTURAL DNA)
 
-İnsanlık tarihi, belirli coğrafi ve manevi havzalarda şekillenen büyük medeniyetlerin etkileşimidir (`global_datasets/cultural_codes_and_civilizations_registry.json`):
+İnsanlık tarihi, belirli coğrafi ve manevi havzalarda şekillenen büyük medeniyetlerin etkileşimidir. Bu bölümde dünya toplumlarının temel kültürel kodları, yaşam felsefeleri ve müşterek değerleri incelenmektedir:
 
 ### 🌐 9 Büyük Küresel Medeniyet Havzası
-| Medeniyet Havzası | Temel Felsefe & Toplumsal Ethos | Temsilci Ülkeler |
-| :--- | :--- | :--- |
-| **Anadolu & Akdeniz Havzası (Kavşak Medeniyetleri)** | Kolektif misafirperverlik, kader birliği, 'Gönül' ve 'İmece' kültürü, yüksek bağlamlı iletişim, duygusal dışavurum ve derin tarihsel katmanlaşma. | `Turkey, Greece, Cyprus` |
-| **Doğu Asya & Konfüçyüsçü-Budist Havza** | Sosyal uyum (Wa/He), hiyerarşiye ve büyüklere hürmet, 'Yüz Kaybetmeme' (Mianzi/Menboku) hassasiyeti, dolaylı anlatım, disiplinli sabır ve uzun vadeli planlama. | `Japan, China, South Korea, Taiwan, Singapore` |
-| **Cermen & İskandinav Mutabakatı** | Kuralcılık, dakiklik (Pünktlichkeit), kamusal eşitlikçilik (Janteloven), doğayla iç içelik, düşük bağlamlı doğrudan iletişim ve rasyonel şeffaflık. | `Germany, Sweden, Norway, Denmark, Finland, Switzerland, Austria, Netherlands` |
-| **Anglo-Sakson Bireyciliği & Pragmatizm** | Bireysel özgürlük, girişimcilik, 'Fırsatlar Ülkesi' ethosu, pragmatik problem çözme, nezaket mesafesi (Privacy) ve liyakat odaklılık. | `United States, United Kingdom, Canada, Australia, New Zealand` |
-| **Slav & Avrasya Derinliği** | Kolektif 'Geniş Ruh' (Shirokaya Dusha), melankoli ve dayanıklılık (Stoykost), metafizik derinlik, zorluklar karşısında adanmışlık ve güçlü devlet algısı. | `Russia, Ukraine, Poland, Serbia, Bulgaria, Belarus` |
-| **Latin Amerika & Büyülü Gerçekçilik** | Aile odaklılık (Familismo), sıcak temas ve dans, 'Sobremesa' (yemek sonrası koyu sohbet), kutlama coşkusu ve kaderci neşe. | `Brazil, Mexico, Argentina, Colombia, Chile, Peru` |
-| **Orta Doğu & Fars İncelik Havzası** | Cömertlik ve ikram (Kerem), onur ve itibar (Şeref), nezaket inceliği (Ta'arof), sözlü edebiyat ve şiir tutkusu, kutsal mekan hürmeti. | `Iran, Egypt, Saudi Arabia, Morocco, Jordan, Iraq` |
-| **Güney Asya & Dharmik Çoğulculuk** | Dharma (Ödev ve Doğruluk), Karma (Sebep-Sonuç döngüsü), 'Jugaad' (yaratıcı doğaçlama), renkli bayramlar ve derin ruhani hoşgörü. | `India, Pakistan, Bangladesh, Sri Lanka, Nepal` |
-| **Sahra Altı Afrika & Ubuntu Kültürü** | 'Ben, biz olduğumuz için benim' (Ubuntu); kabile ve topluluk dayanışması, ritmik müzik, sözlü tarih anlatıcılığı (Griot) ve yaşlılara mutlak saygı. | `South Africa, Nigeria, Kenya, Ghana, Ethiopia, Senegal` |
+> 📖 *Genişletilmiş medeniyet havzaları felsefesi ve tarihi için: [`culture/CIVILIZATION_REALMS_AND_PHILOSOPHIES.md`](culture/CIVILIZATION_REALMS_AND_PHILOSOPHIES.md)*
 
-### 🧬 Örnek Medeniyet Çapaları: Ulusal Karakterler ve Yaşam Adabı
+| Medeniyet Havzası | Temel Felsefe & Toplumsal Ethos | Temsilci Ülkeler | Müşterek Erdemler & Değerler |
+| :--- | :--- | :--- | :--- |
+| **Anadolu & Akdeniz Havzası (Kavşak Medeniyetleri)** | Kolektif misafirperverlik, kader birliği, 'Gönül' ve 'İmece' kültürü, yüksek bağlamlı iletişim, duygusal dışavurum ve derin tarihsel katmanlaşma. | `Turkey, Greece, Cyprus` | `` |
+| **Doğu Asya & Konfüçyüsçü-Budist Havza** | Sosyal uyum (Wa/He), hiyerarşiye ve büyüklere hürmet, 'Yüz Kaybetmeme' (Mianzi/Menboku) hassasiyeti, dolaylı anlatım, disiplinli sabır ve uzun vadeli planlama. | `Japan, China, South Korea, Taiwan, Singapore` | `` |
+| **Cermen & İskandinav Mutabakatı** | Kuralcılık, dakiklik (Pünktlichkeit), kamusal eşitlikçilik (Janteloven), doğayla iç içelik, düşük bağlamlı doğrudan iletişim ve rasyonel şeffaflık. | `Germany, Sweden, Norway, Denmark, Finland, Switzerland, Austria, Netherlands` | `` |
+| **Anglo-Sakson Bireyciliği & Pragmatizm** | Bireysel özgürlük, girişimcilik, 'Fırsatlar Ülkesi' ethosu, pragmatik problem çözme, nezaket mesafesi (Privacy) ve liyakat odaklılık. | `United States, United Kingdom, Canada, Australia, New Zealand` | `` |
+| **Slav & Avrasya Derinliği** | Kolektif 'Geniş Ruh' (Shirokaya Dusha), melankoli ve dayanıklılık (Stoykost), metafizik derinlik, zorluklar karşısında adanmışlık ve güçlü devlet algısı. | `Russia, Ukraine, Poland, Serbia, Bulgaria, Belarus` | `` |
+| **Latin Amerika & Büyülü Gerçekçilik** | Aile odaklılık (Familismo), sıcak temas ve dans, 'Sobremesa' (yemek sonrası koyu sohbet), kutlama coşkusu ve kaderci neşe. | `Brazil, Mexico, Argentina, Colombia, Chile, Peru` | `` |
+| **Orta Doğu & Fars İncelik Havzası** | Cömertlik ve ikram (Kerem), onur ve itibar (Şeref), nezaket inceliği (Ta'arof), sözlü edebiyat ve şiir tutkusu, kutsal mekan hürmeti. | `Iran, Egypt, Saudi Arabia, Morocco, Jordan, Iraq` | `` |
+| **Güney Asya & Dharmik Çoğulculuk** | Dharma (Ödev ve Doğruluk), Karma (Sebep-Sonuç döngüsü), 'Jugaad' (yaratıcı doğaçlama), renkli bayramlar ve derin ruhani hoşgörü. | `India, Pakistan, Bangladesh, Sri Lanka, Nepal` | `` |
+| **Sahra Altı Afrika & Ubuntu Kültürü** | 'Ben, biz olduğumuz için benim' (Ubuntu); kabile ve topluluk dayanışması, ritmik müzik, sözlü tarih anlatıcılığı (Griot) ve yaşlılara mutlak saygı. | `South Africa, Nigeria, Kenya, Ghana, Ethiopia, Senegal` | `` |
+
+---
+
+### 🧬 20 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı
+> 💡 *Her ülkenin kendi klasöründe (`01_culture_demographics/society_history.md`) tüm kültürel kodları, ritüelleri ve tabuları detaylıca işlenmiştir.*
+
 | Ülke | Ulusal Karakter & Temel Ethos | Çevrilemeyen Ruh Kavramları | İletişim Tarzı | Gastronomi & Sofra Felsefesi |
 | :--- | :--- | :--- | :--- | :--- |
-| **Türkiye** (`TUR`) | Misafirperverlik (Tanrı Misafiri inancı), 'Gönül' dili, hiyerarşi... | **Gönül**, **Hüzün**, **İmece** | Yüksek Bağlamlı (High Context). Doğ | Bereket sofrası. Ekmek nimettir ve kutsaldır; sofra bir karın doy... |
-| **Japonya** (`JPN`) | Toplumsal ahenk (Wa), başkalarına rahatsızlık vermeme (Meiwaku), ... | **Mono no aware**, **Ikigai**, **Kintsugi** | Aşırı Yüksek Bağlamlı. 'Honne' (ger | Doğal lezzeti değiştirmeden sunma sanatı (Washoku / UNESCO Mirası... |
-| **Almanya** (`DEU`) | Düzen ve planlama (Ordnung), güvenilirlik (Zuverlässigkeit), doğr... | **Gemütlichkeit**, **Fernweh**, **Schadenfreude** | Düşük Bağlamlı (Low Context). Düşün | Doyurucu, besleyici ve yerel. 3.000'den fazla ekmek çeşidi (Kültü... |
-| **İtalya** (`ITA`) | 'La Dolce Vita' (Tatlı Hayat), 'Bella Figura' (her ortamda esteti... | **Dolce far niente**, **Bella figura**, **Aperitivo** | Çok Yüksek Bağlamlı ve Zengin Beden | Kutsal gelenek. Her bölgenin, hatta her kasabanın kendine has mak... |
-| **Amerika Birleşik Devletleri** (`USA`) | Bireysel başarı (Self-made man), sınırsız fırsat inancı (Amerikan... | **Underdog**, **Serendipity**, **Grit** | Düşük Bağlamlı, Doğrudan ve Rahat ( | Hızlı, bol porsiyonlu ve füzyon. Dünyanın her mutfağından esinlen... |
-| **Birleşik Krallık** (`GBR`) | İğneleyici nükte (Dry Humour / Understatement), duygusal ölçülülü... | **Understatement**, **Banter**, **Cheerio** | Yüksek Düzeyde İroni ve Dolaylılık. | Geleneksel konfor yemekleri. Fish & Chips, Shepherd's Pie, scone ... |
-| **Fransa** (`FRA`) | 'L'art de vivre' (Yaşama Sanatı), entelektüel münazara ve eleştir... | **Joie de vivre**, **Flâneur**, **Terroir** | Zarif, Münazaracı ve Entelektüel. F | UNESCO Somut Olmayan Mirası listesindeki Fransız Gastronomi Yemeğ... |
-| **Çin** (`CHN`) | Kolektif uyum, toplumsal hiyerarşi, 'Guanxi' (kişisel güvene daya... | **Guanxi**, **Mianzi**, **Yuanfen** | Aşırı Dolaylı ve Nezaket Odaklı. As | Yemek hem şifa hem felsefedir (Tıbbi Beslenme - Yin ve Yang denge... |
-| **Rusya** (`RUS`) | Geniş ruh (Shirokaya Dusha), acıya ve soğuğa karşı doğaüstü dayan... | **Toska**, **Dusha**, **Avos** | Yüzeyde Soğuk ve Ciddi, İçeride Tut | Kış şartlarına meydan okuyan doyurucu lezzetler. Borş çorbası, Pe... |
-| **Hindistan** (`IND`) | Dharma (kozmik ahlaki nizam), Ahimsa (şiddetsizlik), derin hoşgör... | **Jugaad**, **Namaste**, **Chai-Pani** | Yüksek Bağlamlı ve Toleranslı. Başı | Baharatların simyası ve Ayurveda dengesi. Her baharatın bir sağlı... |
-| **Güney Kore** (`KOR`) | Aşırı çalışkanlık ve hız (Ppalli-ppalli kültürü), büyüklere ve hi... | **Jeong**, **Han**, **Nunchi** | Çok Yüksek Bağlamlı ve Hiyerarşik.  | Fermantasyon ve şifa. Her öğünde sofrada yer alan Kimchi (UNESCO ... |
-| **İspanya** (`ESP`) | Günü yaşama arzusu, sosyal sokak hayatı, 'Sobremesa' (yemek sonra... | **Sobremesa**, **Duende**, **Madrugar** | Sıcak, Doğrudan ve Yüksek Sesli. Ko | Tazelik ve paylaşım. Büyük tavada pişirilip ortaya konan Paella, ... |
-| **Brezilya** (`BRA`) | Coşku ve yaşama sevinci (Alegria), bedensel özgürlük, sıcak sarıl... | **Saudade**, **Jeitinho**, **Cafuné** | Son Derece Sıcak, Temas Odaklı ve S | Topraktan ve ateşten gelen bereket. Siyah fasulye ve tütsülenmiş ... |
-| **İran** (`IRN`) | Aşırı nezaket ve zarafet (Ta'arof), şiire ve edebi dile duyulan k... | **Ta'arof**, **Del-tangi**, **Rend** | Yüksek Düzeyde Metaforik, Şiirsel v | Safran, nar ekşisi ve ceviz ahengi. Tencerenin dibinde çıtırlaşan... |
-| **Mısır** (`EGY`) | Nil Nehri'nin getirdiği sonsuz sabır ve bereket inancı, mizah ve ... | **Gad'ana**, **Eish**, **Ma'alesh** | Canlı, Esprili ve Tiyatral. Mısırlı | Halkın doyurucu konfor yemekleri. Pirinç, makarna, mercimek, nohu... |
-| **Güney Afrika** (`ZAF`) | Ubuntu ('Ben, biz olduğumuz için benim'), affedicilik ve uzlaşma ... | **Ubuntu**, **Simunye**, **Lekker** | Sıcak, Rahat ve 11 Resmi Dilin Zeng | Kültürlerin füzyonu. Biltong (kurutulmuş baharatlı et), Bobotie (... |
-| **Meksika** (`MEX`) | Ölümle barışık olma ve onu hayatın kardeşi sayma, aileye mutlak b... | **Apapachar**, **Sobremesa**, **Madre** | Dolaylı, Nezaket Yüklü ve Küçültme  | UNESCO İnsanlık Mirası Meksika Mutfağı. Mısır (Maiz) kutsal varol... |
-| **İsveç** (`SWE`) | Denge ve itidal (Lagom), eşitlikçilik ve kimsenin kendini kimsede... | **Lagom**, **Fika**, **Allemansrätten** | Düşük Bağlamlı, Aşırı Sakin, Ölçülü | Kuzey doğasının sade lezzetleri. Yaban mersini reçeliyle sunulan ... |
-| **Yunanistan** (`GRC`) | Şeref, haysiyet ve dostuna karşı görev bilinci (Philotimo), yaşam... | **Philotimo**, **Meraki**, **Kefi** | Yüksek Bağlamlı, Hararetli, Samimi  | Güneşin ve zeytinin bereketi. Sızma zeytinyağı, Feta peyniri, Yun... |
-| **Arjantin** (`ARG`) | Derin melankoli ve nostalji, dostluk kültü (Amistad), retorik ve ... | **Chamuyo**, **Bronca**, **Gaucho** | İtalyan Tarzı Teatral El Hareketler | Ateş ve etin mükemmel dansı. Pampa sığırlarının odun kömüründe pi... |
+| **Türkiye** (`TUR`) | Misafirperverlik (Tanrı Misafiri inancı), 'Gönül' dili, hiyerarşide Devlet Baba ve... | • **Gönül** (*Kalp ve ruhun ötesinde; sevgi, kırılganlık, bağışlama ve derin manevi arzuların taht kurduğu içsel mekan.*)<br/>• **Hüzün** (*Bireysel kederden ziyade, geçmiş büyük medeniyetin kaybından ve hayatın geçiciliğinden doğan asil, kolektif ve şairane melankoli.*) | Yüksek Bağlamlı (High Context). Doğrudan 'Hayır' demek ay... | Bereket sofrası. Ekmek nimettir ve kutsaldır; sofra bir karın doyurma ar... |
+| **Japonya** (`JPN`) | Toplumsal ahenk (Wa), başkalarına rahatsızlık vermeme (Meiwaku), mükemmeliyetçilik... | • **Mono no aware** (*Varlıkların ve mevsimlerin (özellikle kiraz çiçeklerinin / sakura) geçiciliğine duyulan derin, dokunaklı hüzün ve şefkat.*)<br/>• **Ikigai** (*Sabahları yataktan kalkmak için sebep; tutku, yetenek, dünya ihtiyacı ve mesleğin kesiştiği varoluş gayesi.*) | Aşırı Yüksek Bağlamlı. 'Honne' (gerçek kişisel duygu ve f... | Doğal lezzeti değiştirmeden sunma sanatı (Washoku / UNESCO Mirası). Malz... |
+| **Almanya** (`DEU`) | Düzen ve planlama (Ordnung), güvenilirlik (Zuverlässigkeit), doğrudanlık (Direkthe... | • **Gemütlichkeit** (*Sıcak bir mekanda, dostlarla birlikte, telaştan uzak hissedilen dingin, samimi ve huzurlu aidiyet duygusu.*)<br/>• **Fernweh** (*Evde otururken bilinmeyen uzak diyarlara, yabancı coğrafyalara duyulan özlem ve seyahat arzusu (sıla hasretinin tersi).*) | Düşük Bağlamlı (Low Context). Düşünceler dolandırmadan, n... | Doyurucu, besleyici ve yerel. 3.000'den fazla ekmek çeşidi (Kültür Miras... |
+| **İtalya** (`ITA`) | 'La Dolce Vita' (Tatlı Hayat), 'Bella Figura' (her ortamda estetik, şık ve kusursu... | • **Dolce far niente** (*Hiçbir şey yapmamanın, anın tadını telaşsızca çıkarmanın getirdiği tatlı tembellik zevki.*)<br/>• **Bella figura** (*Yalnızca güzel giyinmek değil; davranışlarda, konuşmada ve tavırda zarafeti, asaleti ve görgüyü koruma sanatı.*) | Çok Yüksek Bağlamlı ve Zengin Beden Dili. Konuşurken elle... | Kutsal gelenek. Her bölgenin, hatta her kasabanın kendine has makarna ke... |
+| **Amerika Birleşik Devletleri** (`USA`) | Bireysel başarı (Self-made man), sınırsız fırsat inancı (Amerikan Rüyası), optimiz... | • **Underdog** (*Mücadelede şansı en az görülen, herkesin kaybedeceğini düşündüğü ancak azmiyle imkansızı başarıp herkesi kendine hayran bırakan taraf.*)<br/>• **Serendipity** (*Kişinin aslında aramadığı, tamamen tesadüf eseri karşısına çıkan ve hayatını değiştiren güzel keşif veya şans.*) | Düşük Bağlamlı, Doğrudan ve Rahat (Informal). Yabancılarl... | Hızlı, bol porsiyonlu ve füzyon. Dünyanın her mutfağından esinlenen, din... |
+| **Birleşik Krallık** (`GBR`) | İğneleyici nükte (Dry Humour / Understatement), duygusal ölçülülük ve metanet (Sti... | • **Understatement** (*Dehşet verici veya harika bir durumu aşırı mütevazı ve önemsizmiş gibi ifade etme sanatı (örn. fırtına koparken 'Hava biraz serin gibi' demek).*)<br/>• **Banter** (*Dostlar arasında karşılıklı yapılan, incitici olmayan, son derece zeki, esprili ve iğneleyici atışma sohbeti.*) | Yüksek Düzeyde İroni ve Dolaylılık. Asla doğrudan kaba ve... | Geleneksel konfor yemekleri. Fish & Chips, Shepherd's Pie, scone ve reçe... |
+| **Fransa** (`FRA`) | 'L'art de vivre' (Yaşama Sanatı), entelektüel münazara ve eleştirel sorgulama tutk... | • **Joie de vivre** (*Hayatın sunduğu en küçük zevklerden (bir parça peynir, güzel bir gün batımı, dost sohbeti) duyulan coşkulu yaşama sevinci.*)<br/>• **Flâneur** (*Şehir sokaklarında hiçbir hedef ve telaş olmadan, yalnızca çevreyi gözlemlemek ve atmosferi içine çekmek için aylakça dolaşan entelektüel gezgin.*) | Zarif, Münazaracı ve Entelektüel. Fikir ayrılıkları ve ha... | UNESCO Somut Olmayan Mirası listesindeki Fransız Gastronomi Yemeği. Yeme... |
+| **Çin** (`CHN`) | Kolektif uyum, toplumsal hiyerarşi, 'Guanxi' (kişisel güvene dayalı derin ilişki a... | • **Guanxi** (*Resmi sözleşmelerin ötesinde; karşılıklı yükümlülük, sadakat ve lütuf alışverişine dayanan ömür boyu süren kişisel bağlantı ağı.*)<br/>• **Mianzi** (*Toplum içindeki itibar, haysiyet ve sosyal prestij; bir insanın 'yüzünü kaybetmesi' en büyük felakettir.*) | Aşırı Dolaylı ve Nezaket Odaklı. Asla muhatabı mahcup ede... | Yemek hem şifa hem felsefedir (Tıbbi Beslenme - Yin ve Yang dengesi). Se... |
+| **Rusya** (`RUS`) | Geniş ruh (Shirokaya Dusha), acıya ve soğuğa karşı doğaüstü dayanıklılık (Stoykost... | • **Toska** (*Hiçbir belirgin sebebi olmayan, insanın göğsünü sıkıştıran, sonsuz bozkırlara ve ruhun derinliklerine bakan büyük manevi sızı ve metafizik hasret.*)<br/>• **Dusha** (*Bireyin vicdanını, dürüstlüğünü ve duygusal derinliğini barındıran kutsal 'Rus Ruhu'.*) | Yüzeyde Soğuk ve Ciddi, İçeride Tutkulu ve Fedakar. Sokak... | Kış şartlarına meydan okuyan doyurucu lezzetler. Borş çorbası, Pelmeni m... |
+| **Hindistan** (`IND`) | Dharma (kozmik ahlaki nizam), Ahimsa (şiddetsizlik), derin hoşgörü, aile dayanışma... | • **Jugaad** (*Kıt kaynaklarla, hiçbir kurala takılmadan, anında yaratıcı ve pratik doğaçlama çözümler üretme dehası.*)<br/>• **Namaste** (*'İçimdeki ilahi kıvılcım, senin içindeki ilahi kıvılcımı selamlar ve ona saygıyla eğilir.'*) | Yüksek Bağlamlı ve Toleranslı. Başın iki yana sallanması ... | Baharatların simyası ve Ayurveda dengesi. Her baharatın bir sağlık ve ru... |
+| **Güney Kore** (`KOR`) | Aşırı çalışkanlık ve hız (Ppalli-ppalli kültürü), büyüklere ve hiyerarşiye mutlak ... | • **Jeong** (*Zamanla birlikte yaşanan anlardan, iyiliklerden ve hatta çatışmalardan doğan, koparılması imkansız duygusal şefkat ve aidiyet bağı.*)<br/>• **Han** (*Kore halkının yüzyıllar boyu süren işgaller, bölünmeler ve trajedilerden süzülen; yenilgiye değil, yaratıcı bir azme ve sanata dönüşen kolektif hüzün tortusu.*) | Çok Yüksek Bağlamlı ve Hiyerarşik. Karşındakinin yaşı bir... | Fermantasyon ve şifa. Her öğünde sofrada yer alan Kimchi (UNESCO Mirası)... |
+| **İspanya** (`ESP`) | Günü yaşama arzusu, sosyal sokak hayatı, 'Sobremesa' (yemek sonrası koyu sohbet), ... | • **Sobremesa** (*Yemek bittikten sonra saatlerce masadan kalkmadan, kahve veya içecek eşliğinde dostlarla yapılan derin, lezzetli ve kahkahalı sohbet dönemi.*)<br/>• **Duende** (*Flamenko dansında veya şarkısında sanatçının bedenine giren, izleyicinin tüylerini diken diken eden ilahi, karanlık ve büyüleyici esrime gücü.*) | Sıcak, Doğrudan ve Yüksek Sesli. Konuşurken söz kesmek bi... | Tazelik ve paylaşım. Büyük tavada pişirilip ortaya konan Paella, Jamón I... |
+| **Brezilya** (`BRA`) | Coşku ve yaşama sevinci (Alegria), bedensel özgürlük, sıcak sarılmalar, esnek prob... | • **Saudade** (*Kaybedilen bir sevgiye, mekana, çocukluğa veya geçmişe duyulan; içinde hem tatlı bir sevgi hem de derin bir sızı barındıran nostaljik özlem.*)<br/>• **Jeitinho** (*Bürokrasinin ve katı kuralların tıkandığı anlarda güler yüz, sempati ve yaratıcılıkla gayriresmi kestirme bir çıkış yolu bulma zekası.*) | Son Derece Sıcak, Temas Odaklı ve Samimi. Konuşurken omuz... | Topraktan ve ateşten gelen bereket. Siyah fasulye ve tütsülenmiş etlerle... |
+| **İran** (`IRN`) | Aşırı nezaket ve zarafet (Ta'arof), şiire ve edebi dile duyulan kutsal aşk, bahçe ... | • **Ta'arof** (*Kişinin kendi arzusunu bastırıp karşısındakine mutlak öncelik ve hürmet sunduğu, tekliflerin defalarca reddedilip ısrarla yinelendiği son derece karmaşık kültürel nezaket dansı.*)<br/>• **Del-tangi** (*Gönlün daralması, kalbin bir kafese sıkışmış gibi sevdiklerini ve manevi vatanı özlemesi hali.*) | Yüksek Düzeyde Metaforik, Şiirsel ve Dolaylı. Düşünceler ... | Safran, nar ekşisi ve ceviz ahengi. Tencerenin dibinde çıtırlaşan altın ... |
+| **Mısır** (`EGY`) | Nil Nehri'nin getirdiği sonsuz sabır ve bereket inancı, mizah ve nükteye sığınma (... | • **Gad'ana** (*Zor durumdaki bir komşunun veya yabancının yardımına hiçbir menfaat beklemeden koşan, mert, cesur ve güvenilir sokak delikanlılığı ahlakı.*)<br/>• **Eish** (*Mısır Arapçasında hem 'Ekmek' hem de 'Hayat/Yaşamak' anlamına gelen, ekmeğin varoluşla bir tutulduğu kutsal kelime.*) | Canlı, Esprili ve Tiyatral. Mısırlılar en büyük kriz anla... | Halkın doyurucu konfor yemekleri. Pirinç, makarna, mercimek, nohut ve ka... |
+| **Güney Afrika** (`ZAF`) | Ubuntu ('Ben, biz olduğumuz için benim'), affedicilik ve uzlaşma iradesi, kabile d... | • **Ubuntu** (*İnsanlığın birbirine bağlı olduğu inancı: 'Bir insan ancak başka insanlar aracılığıyla gerçek bir insandır.'*)<br/>• **Simunye** (*'Biz biriz'; farklı dillerden, ırklardan ve kökenlerden gelen insanların ortak bir kaderde kardeşleşmesi ideali.*) | Sıcak, Rahat ve 11 Resmi Dilin Zenginliğiyle Harmanlanmış... | Kültürlerin füzyonu. Biltong (kurutulmuş baharatlı et), Bobotie (baharat... |
+| **Meksika** (`MEX`) | Ölümle barışık olma ve onu hayatın kardeşi sayma, aileye mutlak bağlılık (Familism... | • **Apapachar** (*Nahuatl dilinden gelen ve 'Ruhu kucaklamak, bedenin ötesinde bir insanın kalbini şefkatle okşamak' anlamına gelen en derin sevgi sözcüğü.*)<br/>• **Sobremesa** (*Zengin yemek sonrası masada kalarak aileyle ve dostlarla saatlerce süren tatlı dedikodu ve sohbet zamanı.*) | Dolaylı, Nezaket Yüklü ve Küçültme Ekleriyle (Diminutivos... | UNESCO İnsanlık Mirası Meksika Mutfağı. Mısır (Maiz) kutsal varoluş unsu... |
+| **İsveç** (`SWE`) | Denge ve itidal (Lagom), eşitlikçilik ve kimsenin kendini kimseden üstün görmemesi... | • **Lagom** (*Ne çok fazla, ne çok az; tam kararında, yeterli, dengeli ve ölçülü olma erdemi.*)<br/>• **Fika** (*Günde en az bir-iki kez işi bırakıp kahve ve taze fırından çıkmış tarçınlı çörek (Kanelbulle) eşliğinde dostlarla yapılan dinlendirici sosyal mola.*) | Düşük Bağlamlı, Aşırı Sakin, Ölçülü ve Mütevazı. Övünmek ... | Kuzey doğasının sade lezzetleri. Yaban mersini reçeliyle sunulan İsveç k... |
+| **Yunanistan** (`GRC`) | Şeref, haysiyet ve dostuna karşı görev bilinci (Philotimo), yaşama aşkı ve coşku (... | • **Philotimo** (*Kelime anlamıyla 'onur sevgisi'; kişinin ailesine, dostlarına ve topluma karşı hiçbir karşılık beklemeden hissettiği derin fedakarlık, asalet ve şeref duygusu.*)<br/>• **Meraki** (*Bir yemeği pişirirken, bir resmi yaparken veya bir işi icra ederken içine ruhunu, sevgini ve benliğini katma tutkusu.*) | Yüksek Bağlamlı, Hararetli, Samimi ve Jestlerle Dolu. Pol... | Güneşin ve zeytinin bereketi. Sızma zeytinyağı, Feta peyniri, Yunan sala... |
+| **Arjantin** (`ARG`) | Derin melankoli ve nostalji, dostluk kültü (Amistad), retorik ve ikna sanatı (Cham... | • **Chamuyo** (*Bir insanı etkilemek, ikna etmek veya büyülemek için kullanılan son derece tatlı, edebi, esprili ve akıcı laf cambazlığı.*)<br/>• **Bronca** (*Haksızlığa, yolsuzluğa veya hayal kırıklığına karşı insanın içini kavuran, isyana dönüşen yoğun öfke ve hırs patlaması.*) | İtalyan Tarzı Teatral El Hareketleri, Yüksek Özgüven ve F... | Ateş ve etin mükemmel dansı. Pampa sığırlarının odun kömüründe piştiği A... |
 
 ---
 
-## 🌐 KÜRESEL RÖNTGEN DOKTRİNİ: GERÇEKÇİ GÜÇ VE DERİN DEVLET ANATOMİSİ
+### 📖 ÇEVRİLEMEYEN RUH KAVRAMLARI GALERİSİ
+> 📚 *50'den fazla küresel kavramın kökenbilimsel ve sosyolojik tahlili için: [`culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md`](culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md)*
 
-> *"Görünen hükümetin arkasında, halka karşı hiçbir bağlılığı olmayan ve hiçbir sorumluluk kabul etmeyen görünmez bir hükümet taht kurmuştur. Bu görünmez hükümeti yok etmek, yozlaşmış iş dünyası ile yozlaşmış siyaset arasındaki kirli ittifakı bozmak, günümüzün ilk görevidir."*  
-> — **Theodore Roosevelt** (ABD 26. Başkanı, 1912 İlerleme Partisi Platformu)
+Bir dilin sözlüğünde tek kelimeyle yer alıp başka hiçbir dünya diline doğrudan tercüme edilemeyen kavramlar, o milletin bin yıllık kolektif şuurunun ve yaşam tecrübesinin en saf kristalleridir:
 
-> *"Ticaret ve imalat dünyasında öyle bazı adamlar var ki, bir şeyden korkuyorlar. Biliyorlar ki bir yerlerde öyle organize, öyle sinsi, öyle uyanık, öyle kilitli ve öyle yaygın bir güç var ki, onu kınarken fısıltıyla bile konuşmamak en iyisi."*  
-> — **Woodrow Wilson** (ABD 28. Başkanı, *The New Freedom*, 1913)
+* **Gönül** (🇹🇷 Türk (Anadolu)): Akıl ile kalbin, sevgi ile merhametin birleştiği; fiziki kalbin ötesindeki manevi, kırılgan ve sınırsız insan cevheri.  
+  > *«Gönül Çalab'ın tahtı, Çalap gönüle baktı / İki cihan bedbahtı, kim gönül yıkar ise» — Yunus Emre*
 
-> *"Kitlelerin organize alışkanlıklarının ve kanaatlerinin bilinçli ve akıllıca manipülasyonu, demokratik bir toplumun önemli bir unsurudur. Toplumun bu görülmeyen mekanizmasını manipüle edenler, ülkemizin gerçek yönetici gücü olan görünmez bir hükümet teşkil ederler."*  
-> — **Edward L. Bernays** (*Propaganda*, 1928)
+* **Ikigai (生きがい)** (🇯🇵 Japon (Okinawa)): Sabah yataktan uyanma sebebi; tutku, misyon, meslek ve yeteneğin kesiştiği varoluşsal yaşam gayesi.  
+  > *«Küçük şeylerde derin anlam bulmak, acele etmeden akışta kalmak.»*
 
-> *"Washington'daki gerçek yöneticiler görünmezdir ve güçlerini perde arkasından kullanırlar."*  
-> — **Felix Frankfurter** (ABD Yüksek Mahkeme Yargıcı, 1952)
+* **Wabi-Sabi (侘寂)** (🇯🇵 Japon): Kusurlu, eksik, geçici ve mütevazı olanın içindeki dingin güzelliği ve hüznü kabul etme estetiği.  
+  > *«Kırılan çanağın altınla onarılması (Kintsugi); yara izleri kusur değil, tarihin şeref madalyasıdır.»*
 
-> *"Egemen, olağanüstü hale karar verendir. Hukuk düzeni, anayasanın askıya alındığı gri alanda doğar ve korunur."*  
-> — **Carl Schmitt** (*Siyasi İlahiyat*, 1922)
+* **Gemütlichkeit** (🇩🇪 Alman & Avusturya): Sıcak, huzurlu, telaşsız, dostlarla paylaşılan ve mekanla kurulan güven dolu dingin aidiyet hali.  
+  > *«Zamanın durduğu, samimi bir sofra ve güvende hissedilen bir dost meclisi.»*
 
-> *"Derin siyaset, resmi siyasal sistemin kurallarını çiğneyen, ulusal güvenlik devleti bürokrasisi, organize suç örgütleri ve uluslararası finans konsorsiyumlarının gizli ittifakından doğan örtülü iktidardır."*  
-> — **Prof. Peter Dale Scott** (*The Road to 9/11: Wealth, Empire, and the Future of America*)
+* **Saudade** (🇵🇹 Portekiz & Brezilya): Bir daha asla geri dönmeyecek olan bir insana, mekana veya hatıraya duyulan tatlı-acı derin melankoli.  
+  > *«Fado müziğinin can damarı: Sevilenin yokluğunun bizzat varlık haline gelmesi.»*
 
-> *"İktidar seçkinleri; dev şirketlerin, askeri kliklerin ve federal yürütmenin zirvesindeki yöneticilerden oluşur. Bunlar sıradan insanların hayatını doğrudan belirleyen kararları kapalı kapılar ardında alır."*  
-> — **C. Wright Mills** (*The Power Elite*, 1956)
+* **Ubuntu** (🇿🇦 Sahra Altı Afrika (Bantu)): «Biz olduğumuz için ben varım»; bireyin varlığını toplumun refahı ve ortak merhametiyle tanımlayan hümanizma.  
+  > *«Bir insanın insanlığı diğer insanların insanlığına bağlıdır.» — Desmond Tutu*
 
-> *"Eğer savaşlar yalanlarla başlatılabiliyorsa, barış gerçeklerle inşa edilebilir."*  
-> — **Julian Assange** (WikiLeaks Kurucusu, 2011)
+* **Toska (Тоска)** (🇷🇺 Rus & Doğu Slav): Herhangi bir somut sebebi olmayan, ruhun derinliklerinden gelen varoluşsal hüzün ve sonsuz manevi açlık.  
+  > *«Nabokov'un ifadesiyle: 'Hiçbir dile tek kelimeyle çevrilemeyen, ruhun sebepsiz sızısı.'»*
+
+* **Hygge** (🇩🇰 Danimarka & İskandinav): Mum ışığında, dostlarla, kasmadan, gösterişsiz ve sıcacık bir atmosferde anın huzurunu yakalama sanatı.  
+  > *«Kuzey soğuğuna inat, evin sıcaklığında samimiyet ve sükunet.»*
+
+* **Meraki (Μεράκι)** (🇬🇷 Yunan & Akdeniz): Bir işi, yemeği veya sanatı icra ederken içine ruhunu, tutkusunu ve sevgisini bütünüyle katmak.  
+  > *«Sıradan bir zeytinyağlı tabağına dahi aşkını üflemek.»*
+
+* **Guanxi (关系)** (🇨🇳 Çin): Sözleşmelerin ötesinde; karşılıklı ahlaki yükümlülük, güven, vefa ve derin ilişkiler ağı.  
+  > *«Hukuktan önce gelen bin yıllık ahlaki güven dokusu.»*
+
+* **Sisu** (🇫🇮 Fin): Tüm umutlar tükendiğinde, imkansız şartlar altında dahi pes etmeden sessizce direnme ve dayanma gücü.  
+  > *«Fin kışının dondurucu karanlığında bile geri adım atmayan irade.»*
+
+* **Tarab (طرب)** (🇪🇬 Arap & Yakın Doğu): Müziğin ve şiirin etkisiyle kendinden geçme, duygu fırtınasıyla ruhani vecd ve mest olma hali.  
+  > *«Ümmü Gülsüm'ün sesinde kitlelerin gözyaşlarıyla buluştuğu kolektif esrime.»*
 
 ---
 
-## 🌐 KÜRESEL RÖNTGEN MANİFESTOSU VE DOKTRİNİ
+### 🍲 DÜNYA GASTRONOMİ FELSEFELERİ & SOFRA RİTÜELLERİ
+> 🍷 *Dünya mutfaklarının ritüelistik ve felsefi anatomisi için: [`culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md`](culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md)*
 
-Geleneksel ansiklopediler, diplomatik bültenler ve ana akım medya; devletleri resmi anayasaları, meclis tutanakları, seçim bültenleri ve kamuya açıklanan makroekonomik göstergeleri üzerinden resmeder. Ancak tarihsel gerçeklik şudur: **Egemen devletlerin kaderini belirleyen gerçek güç odakları; resmi kabinelerden ziyade örtülü istihbarat paktlarında, hanedan varlık tröstlerinde, askeri-endüstriyel tedarik zincirlerinde ve offshore bankacılık ağlarında kümelenmiştir.**
+Yemek, biyolojik bir ihtiyaçtan öte, bir medeniyetin doğayla kurduğu barışın, inanç sisteminin ve insani yakınlığının en somut ayinidir:
 
-**Küresel Röntgen (Global X-Ray)**; devletlerin anayasal maskelerini kaldırarak gerçek güç anatomilerini ortaya koyan, **205 egemen ve jeopolitik entiteyi** 4 derin katmanda adli bilişim ve OSINT disipliniyle haritalandıran **dünyanın en kapsamlı açık kaynak istihbarat atlasıdır**.
+| Mutfak Kültürü | Temel Felsefe | Kutsal Sofra Ritüeli & Adabı | Ekmek / Karbonhidrat Kodu |
+| :--- | :--- | :--- | :--- |
+| 🇹🇷 **Türk & Anadolu** | Bereket, misafirperverlik ve Tanrı misafiri hakkı; nimete şükür. | Sofradan misafir doymadan kalkılmaz; ekmek yere düşerse öpülüp alına konur; çay ikramı sohbetin mührüdür. | Somun, Pide, Lavaş: Yeryüzünün bereketi |
+| 🇯🇵 **Japon (Washoku)** | *Shun* (mevsimsellik), doğaya saygı, *Itadakimasu* (hayatını feda eden canlılara şükran). | Yemekten önce eller birleştirilip eğilinir; çubuklar asla dik batırılmaz (*Tsukitate-bashi* cenaze adetidir); çorba höpürdetilerek içilir (aşçıya saygı). | Gohan (Pirinç): Her tanesi bir emek |
+| 🇫🇷 **Fransız (Haute & Terroir)** | *Art de Vivre* (Yaşama sanatı), *Terroir* (toprağın kimliği), gastronomi bir entelektüel eylemdir. | Yemek bir performans ve törendir; şarap ile yemek eşleşmesi zorunludur; sofra en az 2-3 saat sürer; ekmek tabağın soluna konur. | Baguette: Fransız cumhuriyet mirası |
+| 🇮🇹 **İtalyan (Cucina Povera)** | Malzemenin saflığı, sadelik, aile birliği ve mevsiminde taze ürün. | Saat 11:00'den sonra Asla Cappuccino içilmez; makarnanın üzerine asla ketçap sıkılmaz; balıklı makarnaya peynir serpilmez; sofra kutsal aile meclisidir. | Ciabatta, Focaccia: Aile ocağının sıcaklığı |
+| 🇨🇳 **Çin (Yin-Yang & Uyum)** | Yiyecek ilaçtır (*Shi Liao*); tatların dengesi (tatlı, ekşi, acı, tuzlu, umami); ortak paylaşılan döner masa. | Balığın başı masadaki en kıdemli veya onur konuğuna çevrilir; kase göğse yakın tutularak çubukla yenir; tabak tamamen temizlenmez (aşçı yetersiz doyurdu sanmasın diye). | Fan (Pirinç) & Mantou (Buharda Ekmek) |
+| 🇮🇳 **Hint (Ayurvedik Denge)** | *Sattvik*, *Rajasik*, *Tamasik* enerji dengesi; yemek prana (yaşam gücü) taşır. | Yemek sağ el ile yenir (sol el temiz kabul edilmez); tabaktaki tüm lezzetler parmak uçlarıyla hissedilerek vücuda alınır (*Thali* geleneği). | Roti, Naan, Chapati: Ateşin kutsal bereketi |
+| 🇲🇽 **Meksika (Mısır & Ata Ruhu)** | Mısır insanın özüdür (Maya Popol Vuh efsanesi); yemek atalarla kurulan canlı köprüdür. | Ölüler Günü'nde (*Día de los Muertos*) mezarlar ziyafet sofrasına çevrilir; yemek paylaşılmadan yenmez; sokak taquería'sı eşitlik alanıdır. | Tortilla: Bin yıllık kutsal mısır döngüsü |
 
-### 🔍 Doktrinin 3 Temel İlkesi:
-1. **İllüzyonun Yıkımı (Constitutional Decoupling):** Resmi anayasa ile fiili iktidar mekanizması arasındaki uçurumu belgelemek; yürütmenin arkasındaki derin klikleri somut kanıtlarla görünür kılmak.
-2. **Finansal İz Sürme (Follow the Forensic Ledger):** Kleptokratik sermaye kaçışını, paravan kabuk şirketleri (shell companies), vergi cennetlerini ve kayıt dışı para transferlerini şeffaflaştırmak.
-3. **Bilişsel Bağımsızlık (Cognitive Sovereignty):** Devletlerin ve küresel tröstlerin kitleleri yönlendirmek için kurduğu algoritmik ve medyatik sansür mimarisini deşifre etmek.
+---
+
+### 🧭 KÜRESEL NEZAKET KURALLARI, İLETİŞİM KODLARI VE SOSYAL TABULAR
+> 🤝 *Kültürlerarası iletişim ve protokol rehberi için: [`culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md`](culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md)*
+
+Farklı kültürlerde saygı ve hakaret kavramları taban tabana zıt şekillerde tezahür edebilir. Dünyayı doğru anlamak, bu görünmez kültürel sınırları bilmeyi gerektirir:
+
+| Kültürel Parametre | Yüksek Bağlamlı Kültürler (High-Context)<br/>*(Japonya, Çin, Türkiye, Arap Dünyası, Latin Amerika)* | Düşük Bağlamlı Kültürler (Low-Context)<br/>*(Almanya, İsviçre, ABD, İskandinavya, Hollanda)* |
+| :--- | :--- | :--- |
+| **İletişim Üslubu** | İmalı, zarif, satır araları yüklü, söylenmeyenler söylenenlerden daha mühimdir (*Haragei*). | Net, dolaysız, şeffaf, kelimeler lafzi anlamıyla anlaşılır; imaya yer yoktur. |
+| **Hayır Deme Sanatı** | Doğrudan «Hayır» demek kabalık sayılır; «Düşünelim», «Bir bakalım», sessizlik veya tebessüm tercih edilir. | Doğrudan ve tereddütsüz «Nein» veya «No» denir; profesyonellik ve dürüstlük sayılır. |
+| **Zaman Algısı (P-Time vs M-Time)** | Polikronik: İlişkiler ve insani muhabbet saatten önemlidir; esnek zaman anlayışı vardır. | Monokronik: Dakiklik kutsaldır; 5 dakika geç kalmak bile derin bir saygısızlık kabul edilir. |
+| **Sosyal Mesafe (Proxemics)** | Yakın temas, sarılma, öpüşme ve samimi fiziksel temas normdur; mesafe sıcaklığı gösterir. | Geniş kişisel alan (1.5m); fiziksel temas profesyonel veya kamusal alanda hoş karşılanmaz. |
+| **Kartvizit / Selamlaşma** | Kartvizit iki elle saygıyla tutulur ve incelenir (*Meishi*); selamlaşma statüye göre derinleşir. | Hızlıca cebe atılabilir; sıkı ve kuru bir el sıkışma kafidir. |
+
+---
+
+### 📚 MEDENİYET & KÜLTÜR KÜTÜPHANESİ ARŞİVİ (/culture)
+
+Kültürel zenginliğin derinlemesine tahlil edildiği özel araştırma dosyalarımız:
+
+* 🏛️ [`culture/CIVILIZATION_REALMS_AND_PHILOSOPHIES.md`](culture/CIVILIZATION_REALMS_AND_PHILOSOPHIES.md): 9 büyük küresel havzanın tarihi, antropolojik gelişimi ve dünya görüşü.
+* 📖 [`culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md`](culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md): 50+ küresel çevrilemeyen kavramın kökeni, anlamı ve günlük hayattaki yansıması.
+* 🍲 [`culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md`](culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md): Sofra adabı, kutsal ekmek kültleri, çay/kahve seremonileri ve paylaşma ahlakı.
+* 🧭 [`culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md`](culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md): Vücut dili, jestler, hediyeleşme adabı, sessizlik kültürü ve ölümcül sosyal tabular.
+* 📚 [`culture/README.md`](culture/README.md): Kültür araştırmaları merkezi indeksi ve kaynakçası.
 
 ---
 
@@ -172,7 +220,7 @@ Klasik kıta ve coğrafi bölge tasnifleri, modern küresel sermaye birikim dina
 
 ---
 
-## 🏛️ METODOLOJİ: 4 KATMANLI DERİN DEVLET MİMARİSİ
+## 🏛️ METODOLOJİ: 4 KATMANLI ÜLKE VE GÜÇ MİMARİSİ
 
 <p align="center">
   <img src="assets/images/4_layer_power_architecture.jpg" alt="Medeniyet Atlası 4 Katmanlı Ülke ve Güç Mimarisi" width="90%">
@@ -181,15 +229,15 @@ Klasik kıta ve coğrafi bölge tasnifleri, modern küresel sermaye birikim dina
 Repodaki istisnasız her ülke klasörü, birbirine bağlı ve disiplinlerarası **4 derin katmandan** meydana gelir:
 
 ### 🧩 Katmanların Analitik Ayrımı:
-* **01. Medeniyet Kimliği, Kültür & Demografi (`01_culture_demographics/`):** Toplumun kültürel DNA'sı, çevrilemeyen kavramları, gelenekleri, tarihsel travmaları ve demografik kırılganlıklar (`society_history.md`, `demographics.csv`).
+* **01. Medeniyet Kimliği, Kültür & Demografi (`01_culture_demographics/`):** Toplumun kültürel DNA'sı, çevrilemeyen ruh kavramları, yaşam ritüelleri, mutfak felsefesi, tabuları ve demografik yapısı (`society_history.md`, `demographics.csv`).
 * **02. Resmi Devlet Mekanizması & Anayasa (`02_official_state/`):** Görünen yürütme, parlamenter veya başkanlık yapısı, anayasal kuvvetler ayrılığı illüzyonu, yargı teşkilatı ve resmi silahlı kuvvetler doktrini (`constitution_gov.md`).
 * **03. Resmi Makroekonomi & Dış Ticaret (`03_official_economy/`):** Nominal ve SAGP GSYİH, cari denge, döviz rezervleri, dış borç stoku, bütçe açığı ve en büyük dış ticaret ortakları (`macroeconomics.json`).
-* **04. Gölge Güç, Kleptokrasi & OSINT (`04_shadow_power_osint/`):** Gerçek güç odakları, askeri-istihbarat cuntaları, oligark konsorsiyumları, hanedan tröstleri, offshore sermaye kaçış kanalları, basın sansür filtreleri ve algoritmik kontrol mekanizmaları (`real_power_dynamics.md`, `oligarch_network.csv`, `media_censorship_matrix.md`).
+* **04. Gölge Güç, Kleptokrasi & OSINT (`04_shadow_power_osint/`):** Gerçek güç odakları, askeri-istihbarat klikleri, oligark konsorsiyumları, hanedan tröstleri, offshore sermaye kaçış kanalları, basın sansür filtreleri ve algoritmik kontrol mekanizmaları (`real_power_dynamics.md`, `oligarch_network.csv`, `media_censorship_matrix.md`).
 
 ```mermaid
 flowchart TD
     subgraph Katmanlar["Medeniyet Atlası 4 Katmanlı Ülke ve Güç Anatomisi"]
-        L1["01. Kültür, Etnik Denge & Demografi<br/>(Tarihsel travmalar, mezhepsel fay hatları, kabile dinamikleri)"]
+        L1["01. Kültür, Medeniyet Kimliği & Demografi<br/>(Kültürel DNA, yaşam felsefesi, sofra adabı, çevrilemeyen kavramlar)"]
         L2["02. Resmi Devlet Mekanizması & Anayasa<br/>(Görünen yürütme, parlamento, kanunlar, ordu bürokrasisi)"]
         L3["03. Resmi Makroekonomi & Dış Ticaret<br/>(GSYİH, ihracat-ithalat, döviz rezervleri, kamu borcu)"]
         L4["04. Gölge Güç, Kleptokrasi & OSINT<br/>(Askeri klikler, oligark ağları, offshore tröstler, medya tekelleri)"]
@@ -197,7 +245,7 @@ flowchart TD
     L1 --> L2
     L2 --> L3
     L3 --> L4
-    L4 -.->|"Perde Arkasından Yönetir ve Yönlendirir"| L2
+    L4 -.->|"Perde Arkasından Yürütmeyi Yönlendirir"| L2
     L4 -.->|"Kamu Bütçesini ve İhaleleri Gasp Eder"| L3
 ```
 
@@ -205,9 +253,9 @@ flowchart TD
 
 ## 🛡️ DOĞRULAMA STANDARDI: NATO / ADMİRALTY KODU (B2+)
 
-Global X-Ray bünyesinde yer alan tüm istihbarat ve araştırma verileri, uluslararası askeri ve istihbarat doktrinlerinde kabul gören **Admiralty Kod (Stanag 2097)** metodolojisine göre çapraz kontrolden geçirilir. Projenin kabul eşiği **B2 (Genellikle Güvenilir / Muhtemelen Doğru)** düzeyidir:
+Medeniyet Atlası bünyesinde yer alan tüm istihbarat ve araştırma verileri, uluslararası askeri ve istihbarat doktrinlerinde kabul gören **Admiralty Kod (Stanag 2097)** metodolojisine göre çapraz kontrolden geçirilir. Projenin kabul eşiği **B2 (Genellikle Güvenilir / Muhtemelen Doğru)** düzeyidir:
 
-| Kaynak Güvenilirliği (Harf) | Bilgi Doğruluğu (Rakam) | Global X-Ray Kabul Eşiği |
+| Kaynak Güvenilirliği (Harf) | Bilgi Doğruluğu (Rakam) | Medeniyet Atlası Kabul Eşiği |
 | :--- | :--- | :---: |
 | **A - Tamamen Güvenilir:** Şüpheye yer bırakmayan resmi tutanaklar, adli iddianameler, sızdırılmış orijinal belgeler. | **1 - Teyit Edilmiş:** Bağımsız birden fazla doğrulanabilir kaynak ve çapraz log kayıtları ile kanıtlanmış. | ✅ **A1** (Mutlak Delil) |
 | **B - Genellikle Güvenilir:** Uluslararası denetim raporları (FATF, ICIJ, OCCRP), akademik araştırmalar, saygın araştırma merkezleri. | **2 - Muhtemelen Doğru:** En az iki bağımsız açık kaynak ve lojistik/finansal veriyle teyit edilmiş. | ✅ **B2** (Minimum Standart) |
@@ -216,217 +264,78 @@ Global X-Ray bünyesinde yer alan tüm istihbarat ve araştırma verileri, ulusl
 
 ---
 
-## 💸 KLEPTOKRASİ & OFFSHORE SERMAYE KAÇIRMA DÖNGÜSÜ
+## 🌐 GERÇEKÇİ GÜÇ, SAVUNMA VE İSTİHBARAT DOKTRİNİ (/geopolitics_and_intelligence)
+
+> *"Görünen hükümetin arkasında, halka karşı hiçbir bağlılığı olmayan ve hiçbir sorumluluk kabul etmeyen görünmez bir hükümet taht kurmuştur."*  
+> — **Theodore Roosevelt** (ABD 26. Başkanı, 1912)
+
+> *"Ticaret ve imalat dünyasında öyle bazı adamlar var ki, bir şeyden korkuyorlar. Biliyorlar ki bir yerlerde öyle organize, öyle sinsi, öyle uyanık, öyle kilitli ve öyle yaygın bir güç var ki, onu kınarken fısıltıyla bile konuşmamak en iyisi."*  
+> — **Woodrow Wilson** (ABD 28. Başkanı, 1913)
+
+> *"Washington'daki gerçek yöneticiler görünmezdir ve güçlerini perde arkasından kullanırlar."*  
+> — **Felix Frankfurter** (ABD Yüksek Mahkeme Yargıcı, 1952)
+
+> *"Derin siyaset, resmi siyasal sistemin kurallarını çiğneyen, ulusal güvenlik devleti bürokrasisi, organize suç örgütleri ve uluslararası finans konsorsiyumlarının gizli ittifakından doğan örtülü iktidardır."*  
+> — **Prof. Peter Dale Scott** (*The Road to 9/11*)
+
+Ulusların kaderini belirleyen gerçek güç odakları; resmi kabinelerden ziyade örtülü istihbarat paktlarında, hanedan varlık tröstlerinde, askeri-endüstriyel tedarik zincirlerinde, nükleer caydırıcılık doktrinlerinde ve denizaltı fiber hatlarında düğümlenmektedir.
+
+Bu devasa veri külliyatı, projenin okunabilirliğini ve kültürel odağını korumak amacıyla [`geopolitics_and_intelligence/`](geopolitics_and_intelligence/README.md) dizini altındaki **11 derin araştırma dosyasına** paylaştırılmıştır:
+
+### 🛰️ KÜRESEL İSTİHBARAT VE STRATEJİK DOSYALAR MATRİSİ (11 ÖZEL RAPOR)
+
+| Stratejik Güç Alanı | Kapsam & Öne Çıkan Göstergeler | Özel Araştırma Raporu |
+| :--- | :--- | :--- |
+| ☢️ **Nükleer Cephanelikler & Triad** | 12,121 Nükleer Başlık, 9 Nükleer Güç, Kıtalararası Balistik Füzeler (ICBM), SSBN ve Stratejik Bombardıman Mimarisi | [`geopolitics_and_intelligence/NUCLEAR_TRIAD_AND_STRATEGIC_ARSENALS.md`](geopolitics_and_intelligence/NUCLEAR_TRIAD_AND_STRATEGIC_ARSENALS.md) |
+| ⚔️ **Küresel Silah Ticareti & MIC Oligopolü** | $2.4+ Trilyonluk Askeri Harcama, Lockheed, Raytheon, BAE Systems, Rostec; Demir Üçgen ve Döner Kapı Mekanizması | [`geopolitics_and_intelligence/GLOBAL_ARMS_TRADE_AND_MIC_OLIGOPOLY.md`](geopolitics_and_intelligence/GLOBAL_ARMS_TRADE_AND_MIC_OLIGOPOLY.md) |
+| 🛡️ **Savunma Paktları & Askeri İttifaklar** | NATO (Madde 5), CSTO (Madde 4), AUKUS, Quad, Rio Paktı, ANZUS; Müşterek Savunma Harcamaları ve Nükleer Şemsiye | [`geopolitics_and_intelligence/DEFENSE_ALLIANCES_AND_SECURITY_PACTS.md`](geopolitics_and_intelligence/DEFENSE_ALLIANCES_AND_SECURITY_PACTS.md) |
+| ⚠️ **Finansal Yaptırımlar & Bypass Koridorları** | Dondurulan $300B+ Rus Rezervi, OFAC Yaptırımları, İran/Venezuela/Kuzey Kore Ambargoları ve SPFS/CIPS/Takas Hatları | [`geopolitics_and_intelligence/SANCTIONS_REGIMES_AND_BYPASS_CORRIDORS.md`](geopolitics_and_intelligence/SANCTIONS_REGIMES_AND_BYPASS_CORRIDORS.md) |
+| ⛏️ **Kritik Madenler & Rafinaj Tekelleri** | Kobalt, Lityum, Nadir Toprak Elementleri (REE), Nikel, Galyum; Çin'in %70-90 Rafinaj Monopolü ve İhracat Kısıtlamaları | [`geopolitics_and_intelligence/CRITICAL_RAW_MATERIALS_AND_REFINING_MONOPOLIES.md`](geopolitics_and_intelligence/CRITICAL_RAW_MATERIALS_AND_REFINING_MONOPOLIES.md) |
+| 🌐 **Denizaltı Kabloları & SIGINT İstasyonları** | Dünya İnternetinin %99'u, 10 Kritik Boğaz Koridoru; FVEY Dinleme Merkezleri (Bude, Diego Garcia, Menwith Hill) | [`geopolitics_and_intelligence/SUBSEA_CABLES_AND_GLOBAL_SIGINT_STATIONS.md`](geopolitics_and_intelligence/SUBSEA_CABLES_AND_GLOBAL_SIGINT_STATIONS.md) |
+| 💰 **Egemen Varlık Fonları (SWF) & Devlet Sermayesi** | $12+ Trilyonluk Egemen Sermaye; Norveç NBIM, Çin CIC, BAE ADIA, Suudi PIF; Finansal Kaldıraç ve Ulusal Güvenlik Yatırımları | [`geopolitics_and_intelligence/SOVEREIGN_WEALTH_FUNDS_AND_STATE_CAPITALISM.md`](geopolitics_and_intelligence/SOVEREIGN_WEALTH_FUNDS_AND_STATE_CAPITALISM.md) |
+| 🚢 **Küresel Gölge Tanker Filosu (Dark Fleet)** | ~850 Hayalet Petrol Tankeri; Gabon, Cook Adaları, Liberya Bayrakları; STS Denizde Aktarma Sahaları ve Sahte AIS Manipülasyonu | [`geopolitics_and_intelligence/SHADOW_FLEET_MARITIME_AND_STS_HUBS.md`](geopolitics_and_intelligence/SHADOW_FLEET_MARITIME_AND_STS_HUBS.md) |
+| ⚓ **Deniz Darboğazları & Jeopolitik Kilit Noktaları** | Hürmüz (21M v/g), Malakka (17M v/g), Babülmendep, Süveyş, Türk Boğazları, Panama; Küresel Ticaretin 8 Kırılgan Noktası | [`geopolitics_and_intelligence/MARITIME_CHOKEPOINTS_AND_TRANSIT_VULNERABILITIES.md`](geopolitics_and_intelligence/MARITIME_CHOKEPOINTS_AND_TRANSIT_VULNERABILITIES.md) |
+| ⚔️ **Özel Askeri Şirketler (PMC) & Paramiliter Güçler** | Wagner / Afrika Kolordusu, Constellis (Blackwater), Sadat, Executive Outcomes; Gri Bölge Harp Doktrini ve İnkar Edilebilirlik | [`geopolitics_and_intelligence/PMC_MERCENARY_GROUPS_AND_PROXY_WARFARE.md`](geopolitics_and_intelligence/PMC_MERCENARY_GROUPS_AND_PROXY_WARFARE.md) |
+| 🕵️ **Küresel İstihbarat Teşkilatları & Kara Bütçeler** | CIA, MI6, MİT, Mossad, SVR, MSS, BND, RAW; HUMINT/SIGINT Teşkilat Mimarisi, Kara Bütçeler ve Gizli Operasyon Yetkileri | [`geopolitics_and_intelligence/GLOBAL_INTELLIGENCE_AGENCIES_AND_BLACK_BUDGETS.md`](geopolitics_and_intelligence/GLOBAL_INTELLIGENCE_AGENCIES_AND_BLACK_BUDGETS.md) |
+
+> 📁 *Tüm istihbari dosyaların detaylı indeks ve kaynakçası için: [`geopolitics_and_intelligence/README.md`](geopolitics_and_intelligence/README.md)*
+
+---
+
+### 💸 KLEPTOKRASİ & OFFSHORE SERMAYE KAÇIRMA DÖNGÜSÜ
 
 <p align="center">
   <img src="assets/images/offshore_kleptocracy_network.jpg" alt="Global Offshore Kleptocracy and Capital Flight" width="90%">
 </p>
 
-Küresel kleptokrasi; az gelişmiş ve gelişmekte olan ülkelerdeki kamu kaynaklarının, maden ve enerji imtiyazlarının siyasi elitler ve oligarklar tarafından gasp edilerek batı finans merkezlerine aktarılması döngüsüdür:
+Küresel kleptokrasi; kamu kaynaklarının ve maden imtiyazlarının siyasi elitler ve oligarklar tarafından gasp edilerek BVI, Delaware, İsviçre ve Lüksemburg üzerinden Batı finans merkezlerine (Londra, New York, Dubai) aktarılması döngüsüdür:
 
-1. **Yerleştirme (Placement):** Kamu ihalelerinden alınan rüşvetler, gümrük kaçakçılığı ve enerji imtiyaz komisyonları paravan yerel şirketler üzerinden sisteme sokulur.
-2. **Katmanlama (Layering):** British Virgin Islands (BVI), Cayman Adaları, Panama, Seyşeller ve Delaware'de kurulan iç içe geçmiş kabuk şirketler (shell companies) ve isimsiz trust fonları üzerinden para onlarca ülkeye transfer edilir (Ticaret Temelli Para Aklama - TBML, Sahte Faturalandırma, Mirror Trading).
-3. **Bütünleştirme (Integration):** Aklanmış ve kaynağı gizlenmiş sermaye; Londra, New York, Cenevre ve Dubai'de lüks gayrimenkullere, mega yatlara, futbol kulüplerine ve batı borsalarındaki tahvillere dönüştürülerek meşrulaştırılır.
-
-```mermaid
-sequenceDiagram
-    autonumber
-    actor Kleptokrat as Otokrat / Siyasi Klik
-    participant Varlık as Kamu İhalesi & Doğal Kaynak Gaspı
-    participant Paravan as BVI / Delaware / Panama Kabuk Şirket
-    participant Banka as İsviçre / Londra / Dubai Bankası
-    participant RealEstate as Londra / NY / Dubai Gayrimenkulü & SWF
-
-    Kleptokrat->>Varlık: Kamu bütçesinden komisyon & Kaynak gaspı
-    Varlık->>Paravan: Sahte danışmanlık faturası & Transfer fiyatlandırması
-    Paravan->>Banka: Katmanlama (Layering) & İsimsiz Trust hesabı
-    Banka->>RealEstate: Entegrasyon: Lüks gayrimenkul, özel jet, batı hissesi
-    Note over Kleptokrat,RealEstate: Sermaye tamamen aklanır ve batı hukuk güvencesine kavuşur.
-```
+1. **Yerleştirme (Placement):** İhale komisyonları ve kaynak rantı paravan yerel şirketlere aktarılır.
+2. **Katmanlama (Layering):** Shell şirketler, trust fonları ve sahte ticaret faturalarıyla (TBML) para onlarca ülkeye dağıtılarak izi kaybettirilir.
+3. **Bütünleştirme (Integration):** Sermaye Batı borsalarındaki tahvillere, lüks gayrimenkullere ve özel jetlere dönüştürülerek meşrulaştırılır.
 
 ---
 
-## 🧠 BİLİŞSEL SAVAŞ & SİBER İSTİHBARAT MATRİSİ (5GW)
+### 🧠 BİLİŞSEL SAVAŞ & SİBER İSTİHBARAT MATRİSİ (5GW)
 
 <p align="center">
   <img src="assets/images/cognitive_warfare_surveillance.jpg" alt="Cognitive Warfare and Cyber Surveillance Matrix" width="90%">
 </p>
 
-5. Nesil Harp (5GW), fiziksel sınırlardan ziyade insan zihnini, algoritmik akışları ve küresel dijital haberleşme altyapısını hedef alır:
-
-* **Denizaltı Fiber Kabloları Dinleme İstasyonları:** Dünya internet trafiğinin %99'u okyanus tabanındaki fiber kablolardan akar. FVEY (Beş Göz Paktı) üyesi ülkeler (ABD, İngiltere, Kanada, Avustralya, Yeni Zelanda); Bude, Cornwall, Diego Garcia ve Hawaii dinleme istasyonları vasıtasıyla küresel veri trafiğini filtreler.
-* **Sıfır-Tıklama Casus Yazılımlar (Zero-Click Spyware):** NSO Group (Pegasus) ve Intellexa (Predator) gibi askeri siber istihbarat araçları; hedefin hiçbir bağlantıya tıklamasına gerek kalmadan iOS/Android cihazlara sızarak kamera, mikrofon, şifreli mesajlar ve konum verilerini gerçek zamanlı dışarı aktarır.
-* **Algoritmik Kitle Manipülasyonu:** Sosyal medya algoritmalarının duygusal polarizasyon motorları ve bot çiftlikleri, seçim sonuçlarını ve toplumsal infialleri manipüle etmek için organize psikolojik harekât (PSYOP) silahı olarak kullanılır.
+5. Nesil Harp (5GW), insan zihnini, algoritmik akışları ve küresel dijital haberleşme altyapısını hedef alır:
+* **Denizaltı Kablo Dinleme:** Dünya internet trafiğinin %99'u denizaltı fiber optik hatlarından akar; FVEY paktı küresel trafiği stratejik iniş istasyonlarında filtreler.
+* **Sıfır-Tıklama Casus Yazılımlar (Zero-Click):** Pegasus ve Predator gibi askeri araçlar kullanıcı hiçbir linke tıklamadan cihazın mikrofon, kamera ve şifreli yazışmalarını gerçek zamanlı çeker.
+* **Algoritmik Kitle Manipülasyonu:** Sosyal medya bot orduları ve psikometrik hedeflemeler kitlelerin duygusal tepkilerini polarize etmek için kullanılır.
 
 ---
 
-## 🚢 KÜRESEL DENİZ DARBOĞAZLARI & JEOPOLİTİK KİLİT NOKTALARI
+### 🚢 KÜRESEL DENİZ DARBOĞAZLARI & JEOPOLİTİK KİLİT NOKTALARI
 
 <p align="center">
   <img src="assets/images/geopolitical_chokepoints.jpg" alt="Geopolitical Chokepoints and Strategic Corridors" width="90%">
 </p>
 
-Dünya ticaretinin ve deniz yoluyla taşınan petrolün %60'ından fazlası daracık birkaç su yolundan geçmek zorundadır (`global_datasets/chokepoints_registry.json`):
-
-| Boğaz / Kanal | Tip | Kıyıdaş Devletler | Günlük Petrol Transiti | Jeopolitik Risk Seviyesi |
-| :--- | :--- | :--- | :--- | :--- |
-| **Hürmüz Boğazı** (Strait of Hormuz) | Doğal Deniz Boğazı | İran, Umman | 21,000,000 v/g (%21.0) | Aşırı Yüksek (Critical) |
-| **Malakka Boğazı** (Strait of Malacca) | Doğal Deniz Boğazı | Endonezya, Malezya, Singapur | 16,000,000 v/g (%16.0) | Yüksek (High) |
-| **Süveyş Kanalı** (Suez Canal) | Yapay Su Yolu | Mısır | 5,500,000 v/g (%9.0) | Yüksek (High) |
-| **Babülmendep Boğazı** (Bab el-Mandeb Strait) | Doğal Deniz Boğazı | Yemen, Cibuti, Eritre | 4,800,000 v/g (%8.0) | Kritik Savaş Alanı (Hostile) |
-| **Panama Kanalı** (Panama Canal) | Yapay Su Yolu (Kademeli Havuz Sistemi) | Panama | 1,000,000 v/g (%3.0) | Orta / Ekolojik Risk (Moderate) |
-| **İstanbul ve Çanakkale Boğazları** (Turkish Straits (Bosporus & Dardanelles)) | Doğal Deniz Boğazları (Montrö Rejimi) | Türkiye | 3,000,000 v/g (%3.5) | Stratejik & Hukuki Kilit (Strategic) |
-
----
-
-## 🌐 KÜRESEL DENİZALTI FİBER KABLOLAR & SIGINT İSTASYONLARI
-
-Dünya internet trafiğinin ve SWIFT bankacılık mesajlarının aktığı denizaltı omurgaları ve dinleme merkezleri (`global_datasets/subsea_cables_and_sigint_stations.json`):
-
-### 🌊 Kritik Denizaltı Kablo Koridorları
-| Koridor Adı | Bağlantı Alanı | Örnek Hatlar | Zaafiyet & Sabotaj Riski | Risk |
-| :--- | :--- | :--- | :--- | :---: |
-| **Mısır Kara Köprüsü & Kızıldeniz Koridoru** | Avrupa - Ortadoğu - Güney Asya - Uzak Doğu | AAE-1, SEA-ME-WE 3, 4, 5, Europe India Gateway (EIG) | Tek Noktadan Arıza Riski (Single Point of Failure): Mısır Telekom teke... | `Kritik / Azami` |
-| **Kuzey Atlantik Koridoru (Bude / Cornwall - New York / Virginia)** | Kuzey Amerika - Batı Avrupa | Apollo, Grace Hopper, Amitié | Soğuk Savaş dönemi 'Operation Ivy Bells' benzeri gizli su altı dinleme... | `Yüksek` |
-| **Malakka Boğazı & Singapur Dijital Hub'ı** | Güneydoğu Asya - Doğu Asya - Hint Okyanusu | Asia-America Gateway (AAG), APCN-2, SeaMeWe-5 | Dünyanın en yoğun gemi trafiği; sığ sularda atılan gemi demirlerinin k... | `Yüksek` |
-| **Luzon Boğazı (Tayvan - Filipinler)** | Tayvan - Hong Kong - Filipinler - ABD | Trans-Pacific Express (TPE), EAC-C2C, SJC | Yüksek sismik aktivite (depremler ve denizaltı heyelanları) ve Çin Hal... | `Kritik / Çatışma Alanı` |
-
-### 📡 Küresel Sinyal İstihbaratı (SIGINT) Dinleme Merkezleri
-| İstasyon Adı | Ev Sahibi Ülke | İşleten Teşkilat / İttifak | Lokasyon |
-| :--- | :--- | :--- | :--- |
-| **GCHQ Bude (Cleave Camp)** | United Kingdom | Government Communications Headquarters (GCHQ) / NSA Ortaklığı | Cornwall, İngiltere |
-| **Pine Gap (Joint Defence Facility Pine Gap)** | Australia | Avustralya ASD / ABD CIA & NSA | Alice Springs, Avustralya |
-| **RAF Menwith Hill** | United Kingdom | ABD Ulusal Güvenlik Ajansı (NSA) / RAF | Harrogate, Kuzey Yorkshire, İngiltere |
-| **NSA Fort Meade (National Cryptologic Center)** | United States | National Security Agency (NSA) / US Cyber Command | Maryland, ABD |
-| **Diego Garcia Naval Support Facility** | British Indian Ocean Territory (BIOT) | ABD Donanması / Birleşik Krallık Savunma Bakanlığı | Chagos Takımadaları, Hint Okyanusu |
-
----
-
-## 🛡️ SAVUNMA PAKTLARI, ASKERİ İTTİFAKLAR & NÜKLEER ŞEMSİYE
-
-Küresel güvenlik mimarisini belirleyen çok taraflı ve ikili savunma paktları (`global_datasets/defense_alliances_and_treaties.json`):
-
-| Pakt Kodu | İttifak Tam Adı | Kuruluş | Kapsam | Temel Tetikleyici Karşılıklı Yardım Maddesi | Askeri Bütçe |
-| :--- | :--- | :---: | :---: | :--- | :---: |
-| **NATO** | Kuzey Atlantik Antlaşması Örgütü (NATO) | `1949` | 32 Üye | Madde 5 (Bir üyeye yapılan silahlı saldırı, tüm üyelere yapılmış sayılır) | $1,340B |
-| **AUKUS** | AUKUS Üçlü Güvenlik Paktı | `2021` | 3 Üye | Pillar 1 (Avustralya'ya nükleer tahrikli denizaltı transferi) & Pillar 2 (Kuantum, hipersonik ve yapay zeka ortak geliştirme) | $995B |
-| **CSTO** | Kolektif Güvenlik Antlaşması Örgütü (KGAÖ / CSTO) | `1992` | 6 Üye | Madde 4 (Üye bir devlete karşı saldırganlık, antlaşmanın tüm taraflarına karşı saldırı olarak kabul edilir) | $115B |
-| **QUAD** | Dörtlü Güvenlik Diyaloğu (QUAD) | `2007` | 4 Üye | Deniz alanı farkındalığı (IPMDA), tedarik zinciri güvenliği, açık ve serbest Hint-Pasifik doktrini | $1,050B |
-| **SCO** | Şanghay İşbirliği Örgütü (ŞİÖ / SCO) | `2001` | 10 Üye | RATS (Bölgesel Terörle Mücadele Yapısı) - Ayrılıkçılık, aşırıcılık ve terörizme karşı ortak istihbarat ve güvenlik işbirliği | $420B |
-| **FIVE_EYES** | Beş Göz İstihbarat Paktı (FVEY) | `1946` | 5 Üye | Otomatik küresel SIGINT ve HUMINT paylaşımı; üyelerin birbirine karşı casusluk yapmama taahhüdü | $980B |
-| **US_BILATERAL_PACIFIC** | ABD-Japonya / ABD-Güney Kore Karşılıklı Güvenlik Paktları | `1951` | 3 Üye | Japonya Madde 5 ve ROK Madde 3: Topraklara yapılan saldırılara karşı ABD'nin doğrudan askeri müdahale zorunluluğu | $960B |
-| **TIAR_RIO** | Amerikalararası Karşılıklı Yardım Antlaşması (Rio Paktı) | `1947` | 18 Üye | Madde 3 (Bir Amerikan devletine yapılacak saldırı, tüm Amerikan devletlerine yapılmış kabul edilir) | $890B |
-
----
-
-## ⚠️ FİNANSAL YAPTIRIM REJİMLERİ & BYPASS KORİDORLARI
-
-Küresel rezerv para (USD) bağımlılığının silah olarak kullanılması ve hedef ülkelerin karşı tedbirleri (`global_datasets/sanctions_and_embargoes_registry.json`):
-
-| Hedef Ülke | Yaptırım Rejiminin Kapsamı | Uygulayan Güçler | Dondurulan Rezerv | Birincil Bypass & Kaçınma Koridoru |
-| :--- | :--- | :--- | :---: | :--- |
-| **Russia** (`RUS`) | Kapsamlı Finansal, Enerji ve İleri Teknoloji Ambargosu (2014-2026) | USA (OFAC), EU, GBR, JPN, CAN, AUS, CHE | $300.0B | Gölge Tanker Filosu (Shadow Fleet): Bayraksız veya Liberya/Kamerun/Gabon bayraklı 600+ tankerle gizli taşıma |
-| **Iran** (`IRN`) | Kapsamlı Nükleer ve İkincil Finansal Ambargo (1979-2026) | USA (OFAC), EU, UN (tarihsel kararlar) | $100.0B | Çaydanlık Rafinerileri (Teapot Refineries): Çin'in Shandong eyaletindeki bağımsız rafinerilere Malezya/Umman menşei gösterilerek yapılan petrol sevkiyatı |
-| **North Korea** (`PRK`) | Tam Kapsamlı BM Güvenlik Konseyi ve ABD Ambargosu | UN_SC (Kararlar 1718, 2270, 2397), USA, EU, JPN, KOR | $5.0B | Sarı Deniz ve Doğu Çin Denizi'nde STS (Ship-to-Ship) petrol transferleri |
-| **Venezuela** (`VEN`) | Kamu Finansmanı ve Petrol Şirketi (PDVSA) Ambargosu | USA (OFAC), EU, CAN | $24.0B | Aracı tüccarlar (Alex Saab şebekesi) üzerinden gıda karşılığı ham petrol takası |
-| **Syria** (`SYR`) | Sezar Suriye Sivil Koruma Yasası (Caesar Act) & Kapsamlı Abluka | USA (Caesar Act 2020), EU | $10.0B | Kaptagon (Fenethyllin) Narko-Ekonomisi: Rejim generalleri (4. Zırhlı Tümen - Mahir Esad) kontrolünde üretilen ve Körfez'e kaçırılan yıllık $5-10B hacimli sentetik uyuşturucu trafiği |
-
----
-
-## ⛏️ KRİTİK MADENLER & KÜRESEL RAFİNAJ TEKELLERİ
-
-Enerji dönüşümünün, yapay zeka çiplerinin ve savunma sanayisinin hammadde boğazları (`global_datasets/critical_raw_materials_supply_chain.json`):
-
-| Maden / Element | Stratejik Kullanım Kategorisi | En Büyük Maden Üreticileri | Küresel Rafinaj Tekeli | Jeopolitik Risk |
-| :--- | :--- | :--- | :--- | :---: |
-| **Nadir Toprak Elementleri (Neodimyum, Disprozyum, Terbiyum)** (`REE`) | Kritik Yüksek Teknoloji & Savunma | China (%70.0), United States (%14.0) | **China (%89.0)** | 9.5/10 |
-| **Lityum (Beyaz Petrol)** (`LITHIUM`) | Batarya & Enerji Depolama | Australia (%47.0), Chile (%30.0) | **China (%65.0)** | 8.8/10 |
-| **Kobalt** (`COBALT`) | Enerji Yoğun Bataryalar & Süper Alaşımlar | DR Congo (%74.0), Indonesia (%5.0) | **China (%77.0)** | 9.2/10 |
-| **Galyum ve Germanyum** (`GALLIUM_GERMANIUM`) | Yarı İletken, Optoelektronik ve Radar | China (%98.0), Russia (%1.0) | **China (%98.0)** | 9.8/10 |
-| **Doğal ve Sentetik Grafit** (`GRAPHITE`) | Batarya Anotları & Nükleer Reaktörler | China (%77.0), Madagascar (%9.0) | **China (%92.0)** | 9.0/10 |
-| **Titanyum Sünger ve Havacılık Alaşımları** (`TITANIUM`) | Havacılık, Uzay ve Denizaltı Gövdeleri | China (%52.0), Japan (%18.0) | **Russia (VSMPO-AVISMA) & China (%65.0)** | 8.5/10 |
-| **Uranyum (Sarı Pasta - U3O8)** (`URANIUM`) | Nükleer Enerji & Nükleer Başlıklar | Kazakhstan (%43.0), Canada (%15.0) | **Russia (Rosatom - Tenex) (%44.0)** | 9.4/10 |
-
----
-
-## 💰 KÜRESEL EGEMEN VARLIK FONLARI (SWF) & DEVLET SERMAYESİ
-
-Küresel petrodolar fazlaları, dış ticaret artıları ve stratejik kamu işletmelerinin konsolide edildiği $12+ Trilyonluk egemen sermaye havuzları (`global_datasets/sovereign_wealth_funds_registry.json`):
-
-| Fon Adı | Ülke | Yönetilen Varlık (AUM) | Finansman Kaynağı | Jeopolitik Kaldıraç |
-| :--- | :--- | :---: | :--- | :--- |
-| **Norveç Hükümeti Emeklilik Fonu Global (Oljefondet)** (`GPFG_NOR`) | Norway | $1,650.0B | Kuzey Denizi petrol ve doğal gaz üretim gelir... | Küresel kurumsal yönetim standartlarını belirleme gücü, insan hak... |
-| **Çin Yatırım Şirketi (China Investment Corporation - CIC)** (`CIC_CHN`) | China | $1,350.0B | Çin Halk Bankası (PBOC) devasa döviz rezervi ... | Kuşak ve Yol Girişimi (BRI) altyapı finansmanı ve Batı'nın strate... |
-| **Abu Dabi Yatırım Otoritesi (ADIA)** (`ADIA_UAE`) | United Arab Emirates | $1,000.0B | Abu Dabi Emirliği ham petrol ihracat fazlalar... | Körfez hanedan servetinin Batı hukuk sistemine entegrasyonu ve Wa... |
-| **Suudi Arabistan Kamu Yatırım Fonu (Public Investment Fund - PIF)** (`PIF_SAU`) | Saudi Arabia | $930.0B | Saudi Aramco temettüleri ve devlet tahvil ihr... | Vizyon 2030 dönüşümünün motoru, küresel 'Sportswashing' (spor yol... |
-| **Kuveyt Yatırım Otoritesi (Kuwait Investment Authority - KIA)** (`KIA_KWT`) | Kuwait | $900.0B | Gelecek Nesiller Fonu (FGF) petrol gelirleri ... | Kuveyt'in Irak işgali sonrası sürgündeki hükümetini finanse eden ... |
-| **GIC Private Limited (Singapur Hükümet Yatırım Şirketi)** (`GIC_SGP`) | Singapore | $800.0B | Singapur Merkez Bankası (MAS) resmi döviz rez... | Güneydoğu Asya'nın finansal egemenliğini ve Singapur Doları'nın i... |
-| **Katar Yatırım Otoritesi (Qatar Investment Authority - QIA)** (`QIA_QAT`) | Qatar | $510.0B | Kuzey Sahası (North Field) LNG sıvılaştırılmı... | Küçük körfez emirligini küresel aktöre dönüştüren yumuşak güç; İn... |
-| **Temasek Holdings** (`TEMASEK_SGP`) | Singapore | $290.0B | Singapur devletine ait kamu iktisadi teşebbüs... | Güneydoğu Asya'nın yüksek teknoloji ve havacılık merkezi olarak k... |
-| **Rusya Ulusal Refah Fonu (National Wealth Fund - NWF)** (`NWF_RUS`) | Russia | $150.0B | Urals petrolü taban fiyatı üzerindeki bütçe k... | Yaptırımlar ve savaş bütçesi açıklarını kapatan acil durum likidi... |
-| **Türkiye Varlık Fonu (Turkey Wealth Fund - TWF)** (`TWF_TUR`) | Turkey | $50.0B | Stratejik kamu şirketlerinin (BOTAŞ, TPAO, Zi... | Kamu bankalarının sermayelendirilmesi, savunma ve telekomünikasyo... |
-
----
-
-## 🚢 KÜRESEL GÖLGE TANKER FİLOSU (DARK FLEET) & YAPTIRIM KAÇIRMA
-
-G7 tavan fiyatını ve denizcilik sigorta yasaklarını aşarak Rusya, İran ve Venezuela petrolünü taşıyan ~850 hayalet tankerin mimarisi (`global_datasets/shadow_fleet_maritime_registry.json`):
-
-### 🚩 Öne Çıkan Kolaylık Bayrakları (Flags of Convenience)
-| Bayrak Devleti | Tescilli Gölge Gemi Sayısı | Risk Profili & Zaafiyet Analizi |
-| :--- | :---: | :--- |
-| **Gabon** (`GAB`) | 140 Gemi | Çok Yüksek; Batı yaptırımlarından kaçan eski Sovyet ve Yunan tankerlerinin toplu... |
-| **Cameroon** (`CMR`) | 65 Gemi | Aşırı Yüksek; Paris MoU kara listesinde en alt sırada; sigortasız ve teknik kusu... |
-| **Palau** (`PLW`) | 90 Gemi | Yüksek; Pasifik ada devleti sicili; İran ve Rus petrol sevkiyatlarında transpond... |
-| **Cook Islands** (`COK`) | 110 Gemi | Yüksek; deniz kazalarında sorumluluk kabul etmeyen bayrak yapısı.... |
-| **Panama & Liberia (Historical Flags)** (`PAN_LBR`) | 180 Gemi | Orta-Yüksek; ABD Hazine Bakanlığı (OFAC) baskısı sonucu bayrak iptalleri artsa d... |
-
-### ⚓ Deniz Üstü Gemiden Gemiye (STS) Petrol Aktarma Merkezleri
-| Aktarma Sahası (STS Zone) | Coğrafi Lokasyon | Operasyonel Taktik & Kamuflaj |
-| :--- | :--- | :--- |
-| **Lakonya Körfezi (Laconian Gulf)** | Yunanistan Karasuları Dışı / Mora Yarımadası Açıkları | Rusya'nın Baltık limanlarından gelen Aframax/Suezmax tankerleri, yüklerini uluslararası sularda dev VLCC süper tankerlerine aktarır (STS); petrol menşei kamufle edilir. |
-| **Ceuta & Alboran Denizi** | Fas Açıkları / Cebelitarık Girişi | Kuzey limanlarından gelen buz sınıfı tankerler, kış aylarında Cebelitarık boğazı girişinde yüklerini bekleyen gölge tankerlere devreder. |
-| **Fujairah Açıkları & Hürmüz Dışı** | Birleşik Arap Emirlikleri / Umman Denizi | İran ve Rus ham petrolünün kimyasal olarak harmanlanarak 'Irak', 'Malezya' veya 'BAE harmanı' adıyla yeniden sertifikalandırıldığı küresel merkez. |
-| **Pulau Linggi & Malakka Boğazı** | Malezya Açıkları | Çin'e giden İran petrolünün 'Malezya menşeli' olarak beyan edildiği devasa deniz üstü transfer bölgesi; Malezya'nın Çin'e petrol ihracatı kendi toplam üretiminin iki katına çıkmıştır. |
-
----
-
-## ☢️ KÜRESEL NÜKLEER CEPHANELİKLER & STRATEJİK NÜKLEER TRİAD
-
-Nükleer silahlar ve stratejik nükleer triad (ICBM, SSBN, Stratejik Bombardıman); egemen devletlerin nihai güvenlik garantisi ve karşılıklı garantili imha (MAD) dengesinin temelidir (`global_datasets/nuclear_arsenals_and_triad_registry.json`):
-
-| Nükleer Güç | Toplam Cephanelik | Konuşlu Stratejik Başlık | Triad Yeteneği | İlk Test Yılı | Nükleer Doktrin & Angajman Şartı |
-| :--- | :---: | :---: | :---: | :---: | :--- |
-| **Russia** (`RUS`) | 5,580 | 1710 | `Tam Triad (Kara-Deniz-Hava)` | 1949 | Varoluşsal devlet tehdidi, konvansiyonel saldırıda dahi devletin bekası teh... |
-| **United States** (`USA`) | 5,044 | 1770 | `Tam Triad (Kara-Deniz-Hava)` | 1945 | Hesaplanmış belirsizlik (Calculated ambiguity); nükleer ve kritik stratejik... |
-| **China** (`CHN`) | 500 | 240 | `Tam Triad (Kara-Deniz-Hava)` | 1964 | Tarihsel 'İlk Kullanan Olmama' (No First Use - NFU) ilkesi; ancak 2030'a ka... |
-| **France** (`FRA`) | 290 | 280 | `Tam Triad (Kara-Deniz-Hava)` | 1960 | Ulusal hayati çıkarların tehdidi durumunda 'Son Uyarı' (Ultime Avertissemen... |
-| **United Kingdom** (`GBR`) | 225 | 120 | `Tam Triad (Kara-Deniz-Hava)` | 1952 | NATO kolektif savunmasına tahsisli ancak nihai kullanım kararı tamamen Birl... |
-| **Pakistan** (`PAK`) | 170 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 1998 | Hindistan konvansiyonel üstünlüğüne karşı asimetrik ilk kullanım hakkı (Fir... |
-| **India** (`IND`) | 172 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 1974 | İlk Kullanan Olmama (No First Use - NFU); ancak nükleer, kimyasal veya biyo... |
-| **Israel** (`ISR`) | 90 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 1966 | Resmi olarak nükleer silaha sahip olduğunu ne teyit ne de tekzip eden nükle... |
-| **North Korea** (`PRK`) | 50 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 2006 | Anayasaya girmiş geri döndürülemez nükleer güç statüsü; rejim bekası ve ABD... |
-
----
-
-## ⚔️ KÜRESEL SİLAH TİCARETİ & SAVUNMA SANAYİİ TRÖSTLERİ (MIC)
-
-Askeri-Endüstriyel Kompleks (MIC); küresel savunma bütçelerini, vekil savaşlarını ve jeopolitik nüfuzu yönlendiren devasa bir oligopol yapısıdır (`global_datasets/global_arms_trade_and_contractors.json`):
-
-| Savunma Yüklenicisi | Menşei | Savunma Cirosu | Amiral Platformlar & Füzeler | Stratejik Tekel & Küresel Pazar Hakimiyeti |
-| :--- | :--- | :---: | :--- | :--- |
-| **#1 Lockheed Martin** | United States | $63.5B | F-35 Lightning II Müşterek Taarruz Uçağı, F-16 Block 70, PAC-3 Pa... | Dünyanın en büyük 5. Nesil savaş uçağı tekeli; NATO ve mütte... |
-| **#2 RTX Corporation (Raytheon)** | United States | $40.5B | Patriot Hava Savunma Sistemi, Tomahawk Seyir Füzesi, AMRAAM AIM-1... | Küresel hassas güdümlü mühimmat, hava savunma radarları ve A... |
-| **#3 Northrop Grumman** | United States | $35.2B | B-21 Raider Yeni Nesil Stealth Bombardıman Uçağı, B-2 Spirit, Sen... | ABD stratejik nükleer triadının ana hava ve kara yüklenicisi... |
-| **#4 Aviation Industry Corporation of China (AVIC)** | China | $34.0B | J-20 'Mighty Dragon' 5. Nesil Stealth Avcı Uçağı, J-16, J-35 uçak... | Çin Halk Kurtuluş Ordusu Hava Kuvvetleri'nin (PLAAF) yegane ... |
-| **#5 Boeing Defense, Space & Security** | United States | $32.5B | F-15EX Eagle II, F/A-18 Super Hornet, AH-64 Apache Taarruz Heliko... | Deniz havacılığı, taarruz helikopterleri ve stratejik havada... |
-| **#6 General Dynamics** | United States | $31.0B | Virginia ve Columbia Sınıfı Nükleer Denizaltılar (Electric Boat),... | ABD Donanması nükleer denizaltı inşası ve kara kuvvetleri ağ... |
-| **#7 BAE Systems** | United Kingdom | $28.0B | Eurofighter Typhoon (konsorsiyum), Astute Sınıfı Nükleer Saldırı ... | Avrupa ve İngiliz Milletler Topluluğu'nun en büyük savunma d... |
-| **#8 China North Industries Group (NORINCO)** | China | $22.0B | Tip 99A Ana Muharebe Tankı, çok namlulu roketatar sistemleri, top... | Küresel kara harp sistemleri ve topçu mühimmatı üretim hacmi... |
-| **#9 Rostec (Kalaşnikof, UAC, Almaz-Antey, Uralvagonzavod)** | Russia | $18.5B | Su-57 Felon, Su-35S, T-90M Proryv Tankı, S-400 Triumf ve S-500 Ha... | Rus devlet savunma sanayi holdingi; yaptırımlara rağmen Küre... |
-| **#10 Rheinmetall** | Germany | $8.0B | Leopard 2A7/A8 Tank Topu & Mühimmatı, KF51 Panther Tankı, Boxer Z... | Ukrayna savaşı sonrası Avrupa'nın en hızlı büyüyen ağır mühi... |
-| **#11 Baykar Teknoloji & ASELSAN** | Turkey | $5.2B | Bayraktar TB2, Bayraktar TB3, Akıncı TİHA, Kızılelma İnsansız Sav... | Dünyanın en büyük silahlı insansız hava aracı (SİHA) ihracat... |
-| **#12 Hanwha Aerospace** | South Korea | $5.0B | K9 Thunder Kundağı Motorlu Obüs, K239 Chunmoo ÇNRA, Redback Zırhl... | Hızlı teslimat ve rekabetçi fiyatla NATO Doğu Kanadı'nın (Po... |
+Dünya ticaretinin ve deniz yoluyla taşınan petrolün %60'ından fazlası daracık birkaç su yolundan (Hürmüz, Malakka, Babülmendep, Süveyş, Türk Boğazları, Panama, Danimarka Boğazları) geçmek zorundadır. Bu kilit geçitlerin herhangi birinde yaşanacak bir kriz, dünya ekonomisinde anında enflasyonist şok ve tedarik felci yaratır.
 
 ---
 
@@ -466,38 +375,6 @@ Tarihin en büyük kleptokratik, yolsuzluk, derin devlet ve siber istihbarat ope
 
 ---
 
-## ⚔️ ÖZEL ASKERİ ŞİRKETLER (PMC) & PARAMİLİTER ŞEBEKELER
-
-Devletlerin resmi ordu sorumluluğunu üstlenmeden vekil savaşlarında, maden sahaları korumasında ve örtülü operasyonlarda kullandığı askeri yükleniciler (`global_datasets/pmc_mercenary_groups.json`):
-
-| Şirket / Şebeke | Menşei | Tahmini İnsan Gücü | Aktif Harekât Sahaları | Hukuki Statü |
-| :--- | :--- | :---: | :--- | :--- |
-| **Wagner Group / Afrika Kolordusu (Africa Corps)** | Rusya | 35,000 - 50,000 | Mali, Burkina Faso, Nijer, Orta Afrika Cumhuriyeti, Suriye, Libya | Savunma Bakanlığı (GRU) bağlı gayriresmi paramiliter güç |
-| **Constellis (Eski Blackwater / Academi)** | Amerika Birleşik Devletleri | 16,000+ | Irak, Afganistan, Körfez Ülkeleri, Afrika | Kayıtlı ABD Savunma ve Güvenlik Yüklenicisi |
-| **Frontier Services Group (FSG)** | Hong Kong / Çin (Kurucu: Erik Prince) | 3,000+ | Kuşak-Yol güzergahı, Demokratik Kongo Cumhuriyeti, Sudan, Pakistan | Hong Kong Borsası kotasyonlu lojistik ve güvenlik şirketi |
-| **SADAT Uluslararası Savunma Danışmanlık** | Türkiye | 1,000+ (Yedek eğitim havuzu) | Suriye, Libya, Kafkaslar | Özel Savunma ve Stratejik Danışmanlık Şirketi |
-
----
-
-## 🕵️ KÜRESEL İSTİHBARAT TEŞKİLATLARI & GÜÇ MİMARİSİ
-
-Dünya jeopolitiğine yön veren istihbarat teşkilatlarının teşkilat yapısı, tahmini bütçeleri ve operasyonel uzmanlıkları (`global_datasets/intelligence_agencies_registry.json`):
-
-| Ülke | Dış İstihbarat (HUMINT) | Sinyal İstihbaratı (SIGINT) | İç Güvenlik / Karşı İstihbarat | Tahmini Yıllık Bütçe | Operasyonel Sınıflandırma |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **United States** | Central Intelligence Agency (CIA) | National Security Agency (NSA) | Federal Bureau of Investigation (FBI) | `85,000,000,000 (Combined Black Budget)` | Global Tier 1 SIGINT/HUMINT/Covert Action |
-| **United Kingdom** | Secret Intelligence Service (SIS / MI6) | Government Communications Headquarters (GCHQ) | Security Service (MI5) | `4,200,000,000` | Global Tier 1 Five-Eyes Core |
-| **Russia** | Foreign Intelligence Service (SVR) | Federal Guard Service (FSO) / 16th Center FSB | Federal Security Service (FSB) | `12,000,000,000 (Opaque Security Allocation)` | Global Tier 1 Hybrid Warfare & HUMINT |
-| **China** | Ministry of State Security (MSS - Guoanbu) | PLA Strategic Support Force / Cyberspace Force | Ministry of Public Security (MPS - Gonganbu) | `15,000,000,000 (Extrapolated)` | Global Tier 1 Cyber Espionage & Economic Intelligence |
-| **Israel** | Institute for Intelligence and Special Operations (Mossad) | Unit 8200 (ISNU) | General Security Service (Shin Bet / Shabak) | `3,800,000,000` | Global Tier 1 Targeted Lethal Action & Cyber Capability |
-| **France** | General Directorate for External Security (DGSE) | DGSE Technical Directorate (Boulevard Mortier) | General Directorate for Internal Security (DGSI) | `3,200,000,000` | European Sovereign Autonomous Intelligence Tier |
-| **Germany** | Federal Intelligence Service (BND) | BND Department VI (Technical Intelligence / Bad Aibling) | Federal Office for the Protection of the Constitution (BfV) | `1,600,000,000` | Major European SIGINT & Technical Intelligence |
-| **Turkey** | National Intelligence Organization (MİT) | MİT Electronic and Technical Intelligence Directorate (GES Command integration) | MİT Domestic Intelligence Directorate / EGM Security Branch | `1,400,000,000 (Excluding autonomous operational assets)` | Dominant Regional Armed Drone & Paramilitary Intelligence Actor |
-| **Iran** | IRGC Quds Force Intelligence | Basij Cyber Command / IRGC Electronic Warfare Unit | Ministry of Intelligence and Security (VAJA / MOIS) | `2,800,000,000 (Combined Conventional & Revolutionary Guard allocations)` | Asymmetric Proxy Network & Regional Covert Power |
-| **Saudi Arabia** | General Intelligence Presidency (GIP - Al-Mukhabarat al-A'amah) | State Security Cyber Warfare Center | Presidency of State Security (Mabahith) | `3,000,000,000` | Resource-Backed Authoritarian Intelligence & Covert Slush Fund Hub |
-
----
-
 ## 📚 ANSİKLOPEDİK ARAŞTIRMA DOSYALARI & TEORİ KÜLLİYATI (/research)
 
 Projenin entelektüel ve metodolojik omurgasını oluşturan derin araştırma tezleri:
@@ -519,9 +396,9 @@ Projenin entelektüel ve metodolojik omurgasını oluşturan derin araştırma t
 
 ---
 
-## 🗺️ 205 ÜLKELİK KÜRESEL ATLAS İNDEKSİ (EKONOMİK MODELLERİYLE)
+## 🗺️ 205 ÜLKELİK KÜRESEL ATLAS İNDEKSİ (EKONOMİK VE KÜLTÜREL MODELLERİYLE)
 
-Aşağıdaki tabloda projedeki tüm bağımsız ülkeler listelenmiştir. Her bağlantı doğrudan kök dizindeki ilgili **ekonomik blok klasörü** altındaki detaylı istihbarat profiline yönlendirir:
+Aşağıdaki tabloda projedeki tüm bağımsız ülkeler listelenmiştir. Her bağlantı doğrudan kök dizindeki ilgili **ekonomik blok klasörü** altındaki detaylı profile yönlendirir:
 
 | Ülke | Ekonomik Model | ISO | Başkent | Rapor Bağlantısı | GSYİH (USD) | Kayıt Dışı (%) |
 | :--- | :--- | :---: | :--- | :--- | :---: | :---: |
@@ -735,7 +612,7 @@ Aşağıdaki tabloda projedeki tüm bağımsız ülkeler listelenmiştir. Her ba
 
 ## 🔬 METODOLOJİ VE OSINT ARAŞTIRMA KILAVUZLARI (/methodology)
 
-Araştırmacılar, gazeteciler ve analistler için hazırlanan teknik OSINT kılavuzları:
+Araştırmacılar, antropologlar, gazeteciler ve analistler için hazırlanan teknik kılavuzlar:
 
 * 🏢 [**CORP_REGISTRY_RECONNAISSANCE.md**](methodology/CORP_REGISTRY_RECONNAISSANCE.md): BVI, Delaware, İngiltere Companies House, Lüksemburg RCS ve İsviçre ticaret sicillerinde paravan şirket sahipliği ve UBO (Nihai Faydalanıcı Mülkiyet) tespiti.
 * 🌐 [**DATA_COLLECTION_GUIDE.md**](methodology/DATA_COLLECTION_GUIDE.md): Çok kaynaklı istihbarat toplama, uydu görüntüleri (Sentinel/Planet), gemi takip (AIS/MarineTraffic) ve uçuş radarı (ADS-B Exchange) entegrasyonu.
@@ -745,10 +622,10 @@ Araştırmacılar, gazeteciler ve analistler için hazırlanan teknik OSINT kıl
 
 ## 🛠️ CLI TERMİNAL ARACI İLE KULLANIM (xray_cli.py)
 
-Tüm repoyu komut satırından hızlıca sorgulamak ve çapraz istihbarat analizi yapmak için `scripts/xray_cli.py` geliştirilmiştir:
+Tüm repoyu komut satırından hızlıca sorgulamak, kültürel kodları incelemek ve istihbarat analizi yapmak için `scripts/xray_cli.py` geliştirilmiştir:
 
 ```bash
-# Bir ülkenin 4 katmanlı tam istihbarat ve kültür profilini terminalde görüntüle
+# Bir ülkenin 4 katmanlı tam kültür ve güç profilini terminalde görüntüle
 python scripts/xray_cli.py country turkey
 
 # Bir ülkenin kültürel kodlarını, çevrilemeyen kavramlarını ve yaşam tarzını incele
@@ -757,11 +634,11 @@ python scripts/xray_cli.py culture turkey
 # Küresel 9 büyük medeniyet havzasını listele
 python scripts/xray_cli.py culture
 
-# İki ülkeyi jeopolitik, askeri ve makroekonomik olarak karşılaştır
-python scripts/xray_cli.py compare turkey iran
+# İki ülkeyi jeopolitik, kültürel ve makroekonomik olarak karşılaştır
+python scripts/xray_cli.py compare turkey japan
 
 # Ekonomik güç bloğuna göre ülkeleri filtrele ve analiz et
-python scripts/xray_cli.py economy 02_petro_ve_enerji_devleri
+python scripts/xray_cli.py economy 01_ileri_sanayi_g7
 
 # Küresel savunma paktları ve askeri ittifakları incele
 python scripts/xray_cli.py alliances nato
@@ -804,22 +681,13 @@ python scripts/xray_cli.py cases
 
 # 12 derin araştırma tezini ve doktrin dosyalarını listele
 python scripts/xray_cli.py research
-
-# Belirli bir araştırma konusunu ara (örn. dedolarizasyon / biyolojik)
-python scripts/xray_cli.py research dollar
-
-# En yüksek kayıt dışı / gölge ekonomi oranına sahip ülkeleri sırala
-python scripts/xray_cli.py top-shadow 15
-
-# Küresel makroekonomik sistem istatistiklerini özetle
-python scripts/xray_cli.py stats
 ```
 
 ---
 
 ## 🧪 BÜTÜNLÜK VE VERİ DOĞRULAMA TESTLERİ
 
-Repodaki 205 ülkenin dosya yapısı, veri tutarlılığı, ekonomik gruplandırması ve JSON şemaları otomatik birim testleriyle korunur:
+Repodaki 205 ülkenin dosya yapısı, veri tutarlılığı, ekonomik gruplandırması, kültürel atlas kayıtları ve jeopolitik/istihbarat dosyaları otomatik birim testleriyle korunur:
 
 ```bash
 python tests/test_integrity.py
@@ -827,15 +695,15 @@ python tests/test_integrity.py
 
 ---
 
-## ⚖️ ETİK, HUKUKİ BEYAN VE AÇIK İSTİHBARAT LİSANSI
+## ⚖️ ETİK, HUKUKİ BEYAN VE AÇIK KÜLTÜR LİSANSI
 
-1. **Açık Kaynak İstihbarat (OSINT) Güvencesi:** Bu repodaki tüm veriler; kamuya açık resmi hükümet kayıtları, uluslararası denetim raporları (BM, Dünya Bankası, IMF, FATF), mahkeme iddianameleri ve bağımsız uluslararası araştırmacı gazetecilik konsorsiyumları (ICIJ, OCCRP) tarafından yayımlanmış belgelere dayanır.
-2. **Akademik & Araştırma Amacı:** Bu çalışma, egemen devletlerin iç ve dış politikalarını, sermaye kaçış kanallarını ve derin güç dinamiklerini anlamaya yönelik bağımsız bir akademik ve araştırmacı gazetecilik çalışmasıdır.
-3. **Telif & Lisans:** Bu veritabanı, küresel şeffaflık ve kamu yararı amacıyla **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** lisansı altında açık kaynak olarak sunulmuştur.
+1. **Açık Kaynak ve Kültürel Miras Güvencesi:** Bu repodaki tüm kültürel analizler, antropolojik tahliller ve istihbarat verileri; kamuya açık resmi hükümet kayıtları, uluslararası denetim raporları (BM, UNESCO, Dünya Bankası, IMF, FATF), mahkeme iddianameleri ve bağımsız uluslararası araştırmacı gazetecilik konsorsiyumları (ICIJ, OCCRP) tarafından yayımlanmış belgelere dayanır.
+2. **Akademik & Eğitsel Amaç:** Bu çalışma, dünya halklarını kültürel zenginlikleriyle tanıtmayı, ulusların derin felsefi kodlarını aktarmayı ve egemen devletlerin örtülü güç dinamiklerini anlamayı amaçlayan bağımsız bir açık ansiklopedidir.
+3. **Telif & Lisans:** Bu veritabanı, küresel barış, kültürlerarası anlayış ve şeffaflık amacıyla **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** lisansı altında açık kaynak olarak sunulmuştur.
 
 ---
 
 <p align="center">
   <b>MEDENİYET ATLASI (CIVILIZATION ATLAS)</b> &copy; 2026 &bull; <i>Dünya uluslarını ruhlarıyla tanımak, gerçeği tüm katmanlarıyla anlamak.</i><br/>
-  <i>"İnsan bilmediğinin düşmanıdır; tanıdıkça sever ve anlar."</i>
+  <i>«İnsan bilmediğinin düşmanıdır; tanıdıkça sever ve anlar.»</i>
 </p>

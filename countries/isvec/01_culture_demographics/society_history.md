@@ -1,22 +1,25 @@
 # 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: İsveç (SWE)
 
-> *"Bir ulusu tanımak istiyorsanız halk türkülerine kulak verin; sofrasındaki ekmeği bölüşme adabına bakın ve hiçbir yabancı dile tam çevrilemeyen kelimelerini dinleyin."*
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
 ## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
 * **Medeniyet Sentezi:** Viking Denizcilik Mirası + Protestan İş Ahlakı + Sosyal Demokrat Refah Devleti Modeli + Doğa Merkezli Ekolojik Bilinç.
-* **Kolektif Ethos & Ulusal Ruh:** Denge ve itidal (Lagom), eşitlikçilik ve kimsenin kendini kimseden üstün görmemesi kuralı (Janteloven), doğayla uyum ve kamusal dürüstlük.
-* **İletişim ve Anlatım Tarzı:** Düşük Bağlamlı, Aşırı Sakin, Ölçülü ve Mütevazı. Övünmek veya zenginliğini uluorta sergilemek 'Janteloven' kuralına göre büyük bir görgüsüzlüktür.
+* **Kolektif Ethos & Ulusal Karakter:** Denge ve itidal (Lagom), eşitlikçilik ve kimsenin kendini kimseden üstün görmemesi kuralı (Janteloven), doğayla uyum ve kamusal dürüstlük.
+* **İletişim Tarzı (High / Low Context):** Düşük Bağlamlı, Aşırı Sakin, Ölçülü ve Mütevazı. Övünmek veya zenginliğini uluorta sergilemek 'Janteloven' kuralına göre büyük bir görgüsüzlüktür.
 
 ---
 
 ## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
 
 * **Lagom:** Ne çok fazla, ne çok az; tam kararında, yeterli, dengeli ve ölçülü olma erdemi.
+  > **
 * **Fika:** Günde en az bir-iki kez işi bırakıp kahve ve taze fırından çıkmış tarçınlı çörek (Kanelbulle) eşliğinde dostlarla yapılan dinlendirici sosyal mola.
+  > **
 * **Allemansrätten:** Doğada serbestçe dolaşma, çadır kurma ve yabani çilek/mantar toplama anayasal hakkı; doğanın tüm insanlara ait olduğu inancı.
+  > **
 
 ---
 
@@ -28,7 +31,7 @@ Yılın en uzun gününde çiçekten taçlar takılıp direk etrafında dans edi
 
 ## 4. Gastronomi Felsefesi ve Sofra Kültürü
 
-Kuzey doğasının sade lezzetleri. Yaban mersini reçeliyle sunulan İsveç köftesi (Köttbullar), marine ringa balığı (Sill), somon gravlax, çavdar gevreği (Knäckebröd) ve mayalanmış tuzlu balık (Surströmming).
+* **Mutfak Felsefesi:** Kuzey doğasının sade lezzetleri. Yaban mersini reçeliyle sunulan İsveç köftesi (Köttbullar), marine ringa balığı (Sill), somon gravlax, çavdar gevreği (Knäckebröd) ve mayalanmış tuzlu balık (Surströmming).
 
 ---
 
@@ -38,7 +41,7 @@ Kişisel alana fiziksel olarak fazla yaklaşmak; sıraya kaynak yapmak; fika dav
 
 ---
 
-## 6. Edebiyat, Sanat ve Mimari Miras
+## 6. Edebiyat, Sanat ve Entelektüel Miras
 
 August Strindberg, Astrid Lindgren (Pippi Uzunçorap); Ingmar Bergman sineması; ABBA, Roxette; İskandinav minimalist mobilya ve mimarisi.
 

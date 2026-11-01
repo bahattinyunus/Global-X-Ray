@@ -1,22 +1,25 @@
 # 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: Mısır (EGY)
 
-> *"Bir ulusu tanımak istiyorsanız halk türkülerine kulak verin; sofrasındaki ekmeği bölüşme adabına bakın ve hiçbir yabancı dile tam çevrilemeyen kelimelerini dinleyin."*
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
 ## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
 * **Medeniyet Sentezi:** 7.000 Yıllık Antik Firavunlar Medeniyeti + Kıpti Hristiyan Mirası + İslam Halifeliği ve El-Ezher İlmi + Modern Arap Edebiyatı Merkezi.
-* **Kolektif Ethos & Ulusal Ruh:** Nil Nehri'nin getirdiği sonsuz sabır ve bereket inancı, mizah ve nükteye sığınma (Nokta kültürü), mertlik ve cömertlik (Gad'ana) ve geniş aile bağları.
-* **İletişim ve Anlatım Tarzı:** Canlı, Esprili ve Tiyatral. Mısırlılar en büyük kriz anlarında dahi fıkra anlatarak ve şakalaşarak rahatlamayı bir yaşam refleksi haline getirmiştir.
+* **Kolektif Ethos & Ulusal Karakter:** Nil Nehri'nin getirdiği sonsuz sabır ve bereket inancı, mizah ve nükteye sığınma (Nokta kültürü), mertlik ve cömertlik (Gad'ana) ve geniş aile bağları.
+* **İletişim Tarzı (High / Low Context):** Canlı, Esprili ve Tiyatral. Mısırlılar en büyük kriz anlarında dahi fıkra anlatarak ve şakalaşarak rahatlamayı bir yaşam refleksi haline getirmiştir.
 
 ---
 
 ## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
 
 * **Gad'ana:** Zor durumdaki bir komşunun veya yabancının yardımına hiçbir menfaat beklemeden koşan, mert, cesur ve güvenilir sokak delikanlılığı ahlakı.
+  > **
 * **Eish:** Mısır Arapçasında hem 'Ekmek' hem de 'Hayat/Yaşamak' anlamına gelen, ekmeğin varoluşla bir tutulduğu kutsal kelime.
+  > **
 * **Ma'alesh:** Boşver, canın sağ olsun, kader böyleymiş; tüm dertleri ve kazaları sabırla savuşturan kadim teselli sözü.
+  > **
 
 ---
 
@@ -28,7 +31,7 @@ Tarihi Han el-Halili çarşısındaki geleneksel kahvehanelerde (Ahwa) nane çay
 
 ## 4. Gastronomi Felsefesi ve Sofra Kültürü
 
-Halkın doyurucu konfor yemekleri. Pirinç, makarna, mercimek, nohut ve kavrulmuş soğanla hazırlanan ulusal lezzet Koshari, bakla ezmesi (Ful Medames) ve sarımsaklı yeşil ot çorbası (Mulukhiyah).
+* **Mutfak Felsefesi:** Halkın doyurucu konfor yemekleri. Pirinç, makarna, mercimek, nohut ve kavrulmuş soğanla hazırlanan ulusal lezzet Koshari, bakla ezmesi (Ful Medames) ve sarımsaklı yeşil ot çorbası (Mulukhiyah).
 
 ---
 
@@ -38,7 +41,7 @@ Yemeğin tuzuna bakmadan masada ekstra tuz istemek aşçıya hakaret sayılır; 
 
 ---
 
-## 6. Edebiyat, Sanat ve Mimari Miras
+## 6. Edebiyat, Sanat ve Entelektüel Miras
 
 Necib Mahfuz (Nobel Edebiyat Ödülü), Taha Hüseyin; Ümmü Gülsüm (Doğu'nun Yıldızı), Abdülhalim Hafız; Piramitler ve İslam Kahiresi mimarisi.
 

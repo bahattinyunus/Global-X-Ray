@@ -1,22 +1,25 @@
 # 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: Meksika (MEX)
 
-> *"Bir ulusu tanımak istiyorsanız halk türkülerine kulak verin; sofrasındaki ekmeği bölüşme adabına bakın ve hiçbir yabancı dile tam çevrilemeyen kelimelerini dinleyin."*
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
 ## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
 * **Medeniyet Sentezi:** Maya ve Aztek Medeniyetleri + İspanyol Katolik Barok Mirası + Zapatista Devrimci Köylü Ruhu + Canlı Çağdaş Sanat.
-* **Kolektif Ethos & Ulusal Ruh:** Ölümle barışık olma ve onu hayatın kardeşi sayma, aileye mutlak bağlılık (Familismo), renk cümbüşü, şarkılarla hüzün dağıtma ve kaderci neşe.
-* **İletişim ve Anlatım Tarzı:** Dolaylı, Nezaket Yüklü ve Küçültme Ekleriyle (Diminutivos) Dolu. 'Ahorita' (hemen şimdi) demek aslında 'belki sonra veya hiçbir zaman' anlamına gelebilir.
+* **Kolektif Ethos & Ulusal Karakter:** Ölümle barışık olma ve onu hayatın kardeşi sayma, aileye mutlak bağlılık (Familismo), renk cümbüşü, şarkılarla hüzün dağıtma ve kaderci neşe.
+* **İletişim Tarzı (High / Low Context):** Dolaylı, Nezaket Yüklü ve Küçültme Ekleriyle (Diminutivos) Dolu. 'Ahorita' (hemen şimdi) demek aslında 'belki sonra veya hiçbir zaman' anlamına gelebilir.
 
 ---
 
 ## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
 
 * **Apapachar:** Nahuatl dilinden gelen ve 'Ruhu kucaklamak, bedenin ötesinde bir insanın kalbini şefkatle okşamak' anlamına gelen en derin sevgi sözcüğü.
+  > **
 * **Sobremesa:** Zengin yemek sonrası masada kalarak aileyle ve dostlarla saatlerce süren tatlı dedikodu ve sohbet zamanı.
+  > **
 * **Madre:** Yalnızca biyolojik anne değil; kültürde kutsallığı, saygıyı ve tüm duygusal patlamaları temsil eden merkezi arketip.
+  > **
 
 ---
 
@@ -28,7 +31,7 @@ Día de los Muertos (Ölüler Günü) festivalinde mezarlıkları kadife çiçek
 
 ## 4. Gastronomi Felsefesi ve Sofra Kültürü
 
-UNESCO İnsanlık Mirası Meksika Mutfağı. Mısır (Maiz) kutsal varoluş unsurudur. Yüzlerce çeşit acı biber (Chili), kakao ve baharatlarla günlerce kaynatılan Mole sosu, Taco çeşitleri, Guacamole ve Tequila/Mezcal.
+* **Mutfak Felsefesi:** UNESCO İnsanlık Mirası Meksika Mutfağı. Mısır (Maiz) kutsal varoluş unsurudur. Yüzlerce çeşit acı biber (Chili), kakao ve baharatlarla günlerce kaynatılan Mole sosu, Taco çeşitleri, Guacamole ve Tequila/Mezcal.
 
 ---
 
@@ -38,7 +41,7 @@ Bir annenin veya ev sahibinin hazırladığı acı yemeği veya tekilayı elinin
 
 ---
 
-## 6. Edebiyat, Sanat ve Mimari Miras
+## 6. Edebiyat, Sanat ve Entelektüel Miras
 
 Octavio Paz, Juan Rulfo, Carlos Fuentes; Frida Kahlo, Diego Rivera duvar resimleri; Chichen Itza piramitleri ve Mariachi müziği.
 

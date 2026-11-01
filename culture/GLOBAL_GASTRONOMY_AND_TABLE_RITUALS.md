@@ -11,7 +11,7 @@ Yemek; yalnızca biyolojik bir karın doyurma eylemi değil, bir toplumun doğay
 
 ---
 
-## 🍽️ 20 Medeniyetin Sofra ve Mutfak Felsefesi
+## 🍽️ 40 Medeniyetin Sofra ve Mutfak Felsefesi
 
 | Ülke / Medeniyet | Gastronomi Felsefesi & Sofra Adabı |
 | :--- | :--- |
@@ -35,6 +35,26 @@ Yemek; yalnızca biyolojik bir karın doyurma eylemi değil, bir toplumun doğay
 | **İsveç** (`SWE`) | Kuzey doğasının sade lezzetleri. Yaban mersini reçeliyle sunulan İsveç köftesi (Köttbullar), marine ringa balığı (Sill), somon gravlax, çavdar gevreği (Knäckebröd) ve mayalanmış tuzlu balık (Surströmming). |
 | **Yunanistan** (`GRC`) | Güneşin ve zeytinin bereketi. Sızma zeytinyağı, Feta peyniri, Yunan salatası (Horiatiki), Musakka, Souvlaki ve denizden taze çıkmış ızgara ahtapot. |
 | **Arjantin** (`ARG`) | Ateş ve etin mükemmel dansı. Pampa sığırlarının odun kömüründe piştiği Asado, Chimichurri sosu, kıymalı Empanadas böreği, Dulce de Leche (süt reçeli) ve Malbec şarapları. |
+| **Norveç** (`NOR`) | Kuzey Denizi somonu, kurutulmuş morina balığı (Klippfisk), kahverengi keçi peyniri (Brunost) ve açık sandviçler (Smørbrød); doğallığın saflığı. |
+| **Portekiz** (`PRT`) | 365 farklı şekilde pişirilen tuzlu kurutulmuş morina balığı (Bacalhau), taze deniz mahsulleri, zeytinyağı ve Porto şarabı. |
+| **İrlanda** (`IRL`) | İrlanda yahnisi (Irish Stew), soda ekmeği, siyah bira (Guinness) ve patates mirası (Colcannon); tok tutan, samimi ve sade sofra. |
+| **İsviçre** (`CHE`) | Peynir fondü, Raclette, Rösti (patates mücveri) ve dünyanın en rafine çikolataları; Alp sütü saflığı. |
+| **Hollanda** (`NLD`) | Kuyruğundan tutulup çiğ yutulan ringa balığı (Haring), Gouda/Edam tekerlek peynirleri ve karamel şuruplu Stroopwafel. |
+| **Avusturya** (`AUT`) | İncecik dövülmüş tereyağlı Viyana Şnitseli (Wiener Schnitzel), Sachertorte çikolatalı pastası ve elmalı Strudel. |
+| **Polonya** (`POL`) | Mantı benzeri Pierogi, fermente çavdar çorbası (Żurek), lahana sarması (Gołąbki) ve Zubrówka bizon çimi votkası. |
+| **Ukrayna** (`UKR`) | Kırmızı pancarlı Borş çorbası (UNESCO Somut Olmayan Miras), sarımsaklı Pampushky ekmeği, Varenyky ve tuzlu domuz yağı (Salo). |
+| **Endonezya** (`IDN`) | Karamelize hindistan cevizi sütlü baharatlı sığır eti (Rendang), Nasi Goreng, Satay şişleri ve acı biber ezmesi (Sambal). |
+| **Vietnam** (`VNM`) | 24 saat kaynatılan kemik sulu taze otlu erişte çorbası (Phở), Fransız bagetinden türeyen Bánh Mì ve fermente balık sosu (Nước mắm). |
+| **Tayland** (`THA`) | Tatlı, ekşi, acı, tuzlu ve umaminin mükemmel dengesi; Tom Yum Goong çorbası, Pad Thai, yeşil köri ve mangolu yapışkan pirinç. |
+| **Pakistan** (`PAK`) | Közde pişen ağır baharatlı etler (Nihari, Biryani, Chapli Kebab), tandır naan ekmeği ve safranlı kakuleli sütlü çay (Doodh Patti). |
+| **Suudi Arabistan** (`SAU`) | Közde kuzu eti ve safranlı baharatlı basmati pirinciyle dev tepsilerde sunulan Kabsa, kuzu dolması ve Medine hurmaları. |
+| **Fas** (`MAR`) | Koni biçimli toprak kapta ağır ateşte pişen baharatlı erikli et Tagine'i, tatlı-tuzlu güvercin böreği Pastilla ve Cuma Kuskusu. |
+| **Kolombiya** (`COL`) | Fasulye, pilav, et, avokado ve muzdan oluşan doyurucu Bandeja Paisa, mısır ekmeği Arepa ve And kahvesi. |
+| **Şili** (`CHL`) | Fırında kıymalı üzümlü Empanada de Pino, mısır püreli Pastel de Choclo ve Pasifik deniz ürünleri (Centolla yengeci). |
+| **Peru** (`PER`) | Limon suyu ve aji biberiyle pişen taze balık (Ceviche), 4000 çeşit patates, Wok tavasında pişen Lomo Saltado ve Pisco Sour. |
+| **Nijerya** (`NGA`) | Uğruna Gana ile tatlı rekabet yürütülen baharatlı Jollof Rice, dövülmüş manyok püresi (Pounded Yam) ve Egusi çorbası. |
+| **Kenya** (`KEN`) | Mısır unundan yapılan katı lapa (Ugali), ıspanak benzeri yeşillik Sukuma Wiki ve kömür ateşinde pişen kuzu/keçi eti Nyama Choma. |
+| **Avustralya** (`AUS`) | Kömürde kanguru veya kuzu eti, mayalı tuzlu ekmek sürmesi Vegemite, Avustralya turtası (Meat Pie) ve Pavlova tatlısı. |
 
 ---
 

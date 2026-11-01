@@ -1,22 +1,25 @@
 # 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: Güney Afrika (ZAF)
 
-> *"Bir ulusu tanımak istiyorsanız halk türkülerine kulak verin; sofrasındaki ekmeği bölüşme adabına bakın ve hiçbir yabancı dile tam çevrilemeyen kelimelerini dinleyin."*
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
 ## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
 * **Medeniyet Sentezi:** Kadim San ve Khoi Halkları + Bantu Göçleri (Zulu, Xhosa) + Felemenk ve İngiliz Sömürge Dönemi + Apartheid Mücadelesi ve Gökkuşağı Ulusu.
-* **Kolektif Ethos & Ulusal Ruh:** Ubuntu ('Ben, biz olduğumuz için benim'), affedicilik ve uzlaşma iradesi, kabile dayanışması, doğayla iç içe yaşam ve sporla birleşen ulusal gurur.
-* **İletişim ve Anlatım Tarzı:** Sıcak, Rahat ve 11 Resmi Dilin Zenginliğiyle Harmanlanmış. İnsanlar karşılaştıklarında mutlaka hal hatır sorar, aceleci iş konuşmaları kaba bulunur.
+* **Kolektif Ethos & Ulusal Karakter:** Ubuntu ('Ben, biz olduğumuz için benim'), affedicilik ve uzlaşma iradesi, kabile dayanışması, doğayla iç içe yaşam ve sporla birleşen ulusal gurur.
+* **İletişim Tarzı (High / Low Context):** Sıcak, Rahat ve 11 Resmi Dilin Zenginliğiyle Harmanlanmış. İnsanlar karşılaştıklarında mutlaka hal hatır sorar, aceleci iş konuşmaları kaba bulunur.
 
 ---
 
 ## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
 
 * **Ubuntu:** İnsanlığın birbirine bağlı olduğu inancı: 'Bir insan ancak başka insanlar aracılığıyla gerçek bir insandır.'
+  > **
 * **Simunye:** 'Biz biriz'; farklı dillerden, ırklardan ve kökenlerden gelen insanların ortak bir kaderde kardeşleşmesi ideali.
+  > **
 * **Lekker:** Harika, lezzetli, neşeli, keyifli olan her durumu tanımlayan en popüler yerel ifade.
+  > **
 
 ---
 
@@ -28,7 +31,7 @@ Hafta sonları etlerin kömür ateşinde saatlerce pişirildiği ve herkesin bir
 
 ## 4. Gastronomi Felsefesi ve Sofra Kültürü
 
-Kültürlerin füzyonu. Biltong (kurutulmuş baharatlı et), Bobotie (baharatlı kıymalı güveç), Chakalaka acı sebze sosu, Boerewors sosisi ve Rooibos çayı.
+* **Mutfak Felsefesi:** Kültürlerin füzyonu. Biltong (kurutulmuş baharatlı et), Bobotie (baharatlı kıymalı güveç), Chakalaka acı sebze sosu, Boerewors sosisi ve Rooibos çayı.
 
 ---
 
@@ -38,7 +41,7 @@ Irkçı veya ayrımcı ima ve şakalar en ağır toplumsal tabudur; bir eve dave
 
 ---
 
-## 6. Edebiyat, Sanat ve Mimari Miras
+## 6. Edebiyat, Sanat ve Entelektüel Miras
 
 Nelson Mandela, Desmond Tutu, J.M. Coetzee, Nadine Gordimer; Miriam Makeba (Mama Africa), Hugh Masekela; Masa Dağı ve Kruger vahşi doğası.
 

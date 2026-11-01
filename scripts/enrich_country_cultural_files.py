@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 scripts/enrich_country_cultural_files.py
-Enriches countries' `01_culture_demographics/society_history.md` with the new
-Medeniyet Atlası standard: Cultural DNA, Untranslatable Concepts, Lifestyle & Rituals,
-Gastronomy Philosophy, Etiquette/Taboos, and Literary/Artistic Archetypes.
+Enriches all 40 countries' `01_culture_demographics/society_history.md` files
+across `countries/`, `regions/`, and economic blocks with full cultural DNA,
+untranslatable soul concepts, daily lifestyle rituals, gastronomy, and taboos.
 """
 
 import sys
@@ -27,28 +27,52 @@ with open(DATA_DIR / "cultural_codes_and_civilizations_registry.json", "r", enco
 with open(DATA_DIR / "countries_registry.json", "r", encoding="utf-8") as f:
     countries_registry = json.load(f)
 
-slug_map = {c["code"]: c["slug"] for c in countries_registry}
-region_path_map = {c["code"]: c["path"] for c in countries_registry}
+c_by_code = {c["code"]: c for c in countries_registry}
 
+updated_count = 0
 for c_dna in culture_data.get("countries_cultural_dna", []):
     code = c_dna.get("code")
-    slug = slug_map.get(code)
-    if not slug:
+    c_info = c_by_code.get(code)
+    if not c_info:
         continue
 
-    words_md = "\n".join([f"* **{w['word']}:** {w['meaning']}" for w in c_dna.get("untranslatable_soul_concepts", [])])
-    
+    slug = c_info["slug"]
+    region = c_info.get("region")
+    eco_id = c_info.get("economy_group_id")
+
+    # Format list fields cleanly
+    words_list = c_dna.get("untranslatable_soul_concepts", [])
+    words_md = "\n".join([f"* **{w['word']}:** {w['meaning']}\n  > *{w.get('cultural_significance', '')}*" for w in words_list])
+
+    rituals_list = c_dna.get("social_rituals_and_lifestyle", [])
+    if isinstance(rituals_list, list):
+        rituals_md = "\n".join([f"* {r}" for r in rituals_list])
+    else:
+        rituals_md = str(rituals_list)
+
+    taboos_list = c_dna.get("social_taboos_and_etiquette", [])
+    if isinstance(taboos_list, list):
+        taboos_md = "\n".join([f"* {t}" for t in taboos_list])
+    else:
+        taboos_md = str(taboos_list)
+
+    arts_list = c_dna.get("literary_and_artistic_archetypes", [])
+    if isinstance(arts_list, list):
+        arts_md = "\n".join([f"* **{a}**" for a in arts_list])
+    else:
+        arts_md = str(arts_list)
+
     content = f"""# 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: {c_dna['country']} ({c_dna['code']})
 
-> *"Bir ulusu tanımak istiyorsanız halk türkülerine kulak verin; sofrasındaki ekmeği bölüşme adabına bakın ve hiçbir yabancı dile tam çevrilemeyen kelimelerini dinleyin."*
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
 ## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
 * **Medeniyet Sentezi:** {c_dna.get('civilization_crossroads')}
-* **Kolektif Ethos & Ulusal Ruh:** {c_dna.get('core_cultural_ethos')}
-* **İletişim ve Anlatım Tarzı:** {c_dna.get('communication_style')}
+* **Kolektif Ethos & Ulusal Karakter:** {c_dna.get('core_cultural_ethos')}
+* **İletişim Tarzı (High / Low Context):** {c_dna.get('communication_style')}
 
 ---
 
@@ -60,25 +84,25 @@ for c_dna in culture_data.get("countries_cultural_dna", []):
 
 ## 3. Gündelik Hayat, Sosyal Ritüeller ve Yaşam Sanatı
 
-{c_dna.get('social_rituals_and_lifestyle')}
+{rituals_md}
 
 ---
 
 ## 4. Gastronomi Felsefesi ve Sofra Kültürü
 
-{c_dna.get('gastronomic_philosophy')}
+* **Mutfak Felsefesi:** {c_dna.get('gastronomic_philosophy')}
 
 ---
 
 ## 5. Görgü Kuralları ve Sosyal Tabular (Do's & Don'ts)
 
-{c_dna.get('social_taboos_and_etiquette')}
+{taboos_md}
 
 ---
 
-## 6. Edebiyat, Sanat ve Mimari Miras
+## 6. Edebiyat, Sanat ve Entelektüel Miras
 
-{c_dna.get('literary_and_artistic_archetypes')}
+{arts_md}
 
 ---
 
@@ -86,18 +110,23 @@ for c_dna in culture_data.get("countries_cultural_dna", []):
 
 Ülkenin modern kimliği; geçmiş imparatorluk, sömürge veya bağımsızlık mücadelelerinin yarattığı kurumsal miras üzerinde yükselmektedir. Taşra ile metropol kentler arasındaki eşitsizlikler, küresel göç dalgaları ve kuşaklar arası zihniyet dönüşümleri, ülkenin kültürel fay hatlarını sürekli yeniden üretmektedir.
 """
-    # Write to countries/<slug>/01_culture_demographics/society_history.md
-    c_target = COUNTRIES_DIR / slug / "01_culture_demographics" / "society_history.md"
-    if c_target.parent.exists():
-        with open(c_target, "w", encoding="utf-8") as f:
-            f.write(content)
+    # 1. countries/<slug>/01_culture_demographics/society_history.md
+    p1 = COUNTRIES_DIR / slug / "01_culture_demographics" / "society_history.md"
+    if p1.parent.exists():
+        p1.write_text(content, encoding="utf-8")
 
-    # Write to regions/...
-    reg_rel = region_path_map.get(code)
-    if reg_rel:
-        reg_target = BASE_DIR / reg_rel / "01_culture_demographics" / "society_history.md"
-        if reg_target.parent.exists():
-            with open(reg_target, "w", encoding="utf-8") as f:
-                f.write(content)
+    # 2. regions/<region>/<slug>/01_culture_demographics/society_history.md
+    if region:
+        p2 = REGIONS_DIR / region / slug / "01_culture_demographics" / "society_history.md"
+        if p2.parent.exists():
+            p2.write_text(content, encoding="utf-8")
 
-print("[SUCCESS] Enriched all 20 anchor countries' society_history.md with Medeniyet Atlası cultural standard!")
+    # 3. <eco_id>/<slug>/01_culture_demographics/society_history.md
+    if eco_id:
+        p3 = BASE_DIR / eco_id / slug / "01_culture_demographics" / "society_history.md"
+        if p3.parent.exists():
+            p3.write_text(content, encoding="utf-8")
+
+    updated_count += 1
+
+print(f"[SUCCESS] Successfully enriched all {updated_count} countries with deep Medeniyet Atlası cultural DNA across all directory locations!")

@@ -82,6 +82,50 @@ Dünya dillerinde yalnızca bir kelimeyle ifade edilen ancak arkasında bin yıl
 | **Chamuyo** | Arjantin (`ARG`) | Bir insanı etkilemek, ikna etmek veya büyülemek için kullanılan son derece tatlı, edebi, esprili ve akıcı laf cambazlığı. |
 | **Bronca** | Arjantin (`ARG`) | Haksızlığa, yolsuzluğa veya hayal kırıklığına karşı insanın içini kavuran, isyana dönüşen yoğun öfke ve hırs patlaması. |
 | **Gaucho** | Arjantin (`ARG`) | Yalnızca bozkır kovboyu değil; özgürlüğüne düşkün, cömert, mert ve at sırtında yaşayan efsanevi halk kahramanı figürü. |
+| **Friluftsliv** | Norveç (`NOR`) | Hava ne kadar dondurucu veya fırtınalı olursa olsun, doğanın bağrında özgürce açık havada yaşama ve ruhunu doğayla tazeleme felsefesi. |
+| **Janteloven** | Norveç (`NOR`) | «Kendini diğer insanlardan daha özel, daha akıllı veya üstün sanma» ilkesine dayanan gayriresmi toplumsal alçakgönüllülük yasası. |
+| **Koselig** | Norveç (`NOR`) | Sıcak bir içecek, mum ışığı, samimi bir dost ve soğuk kış gecesinde paylaşılan iç ısıtıcı sükunet hali. |
+| **Saudade** | Portekiz (`PRT`) | Bir daha asla geri dönmeyebilecek bir sevgiliye, mekana veya kaybedilmiş anılara duyulan derin, tatlı-acı varoluşsal melankoli. |
+| **Desassossego** | Portekiz (`PRT`) | Ruhun hiçbir dünyevi başarıyla tatmin olmayan, sürekli arayan, huzursuz ve metafizik içsel dalgalanma hali. |
+| **Craic** | İrlanda (`IRL`) | Yalnızca eğlence değil; zeka dolu espriler, canlı müzik, sıcak dedikodu ve dost meclisinde akan benzersiz muhabbet ortamı. |
+| **Meitheal** | İrlanda (`IRL`) | Bir komşunun veya köyün hasadını kaldırmak, evini yapmak için tüm köylünün hiçbir ücret beklemeden imeceye koşması. |
+| **Heimat** | İsviçre (`CHE`) | Yalnızca doğulan ev değil; kişinin dilsel, coğrafi ve manevi olarak kök saldığı, güven içinde hissettiği Alp yurdu. |
+| **Zauberberg Hali** | İsviçre (`CHE`) | Dağların zirvesindeki sanatoryum havasında, dünyanın gürültüsünden ve savaşlarından yalıtılmış steril tefekkür hali. |
+| **Gezelligheid** | Hollanda (`NLD`) | Sıcak, neşeli, telaşsız, dostlarla birlikte olmaktan kaynaklanan ve mekanın samimiyetiyle taçlanan ortak mutluluk atmosferi. |
+| **Poldermodel** | Hollanda (`NLD`) | Deniz taşmalarına karşı bentleri korumak için en uzlaşmaz düşmanların dahi masaya oturup ortak mutabakata varması geleneği. |
+| **Uitwaaien** | Hollanda (`NLD`) | Fırtınalı veya rüzgarlı bir günde sahile veya kırlara çıkıp rüzgarın zihni temizlemesine izin verme yürüyüşü. |
+| **Gemütlichkeit** | Avusturya (`AUT`) | Zamanın durduğu, garsonun acele ettirmediği, kadife koltuklarda sıcak bir kahve ve dost meclisinde paylaşılan dingin huzur. |
+| **Schmäh** | Avusturya (`AUT`) | Tatlı dilli, hafif melankolik, ölümle dahi dalga geçebilen ince Viyana kara mizahı ve nüktedanlığı. |
+| **Żal** | Polonya (`POL`) | Kaybedilen vatan topraklarına, şehitlere veya geçmişe duyulan; içinde hem öfke, hem asil bir keder hem de direniş barındıran derin hüzün. |
+| **Załatwić** | Polonya (`POL`) | Bürokratik engelleri, imkansızlıkları kişisel ilişkiler ve pratik zekayla gayriresmi yoldan ustalıkla çözüvermek. |
+| **Volya (Воля)** | Ukrayna (`UKR`) | Yalnızca özgürlük değil; kişinin kendi kaderini tayin etme hakkı, zincir vurulamaz irade ve bağımsızlık aşkı. |
+| **Hromada (Громада)** | Ukrayna (`UKR`) | Devletten bağımsız olarak yerel halkın kendi kaderini ve köyünü korumak için kurduğu organik cemaat birliği. |
+| **Gotong Royong** | Endonezya (`IDN`) | Bir köyün pirinç tarlasını hasat etmek, köprü yapmak veya felaketi atlatmak için tüm toplumun omuz omuza karşılıksız çalışması. |
+| **Musyawarah** | Endonezya (`IDN`) | Oylama yapıp azınlığı ezmek yerine, herkesin içine sinene kadar günlerce süren sabırlı uzlaşı arayışı. |
+| **Tình Nghĩa** | Vietnam (`VNM`) | Yalnızca sevgi değil; geçmişte yapılan bir iyiliğe, paylaşılan zorluklara duyulan ömür boyu süren ahlaki vefa borcu. |
+| **Nhẫn** | Vietnam (`VNM`) | Büyük bir gaye uğruna acılara, hakaretlere ve zorluklara sabırla katlanma, öfkeyi içine gömme iradesi. |
+| **Sanuk** | Tayland (`THA`) | Yapılan her işe, çalışmaya veya gündelik göreve oyunsu bir neşe ve keyif katma felsefesi. |
+| **Mai Pen Rai** | Tayland (`THA`) | «Önemli değil, dert etmeye değmez, akışına bırak»; kötü olaylar karşısında Budist tevekkül ve sükunet. |
+| **Kreng Jai** | Tayland (`THA`) | Kendi arzularından feragat ederek bir başkasını rahatsız etmeme, yük olmama veya utandırmama aşırı hassasiyeti. |
+| **Mehmaan-Nawazi** | Pakistan (`PAK`) | Tanrı misafiri kapıya geldiğinde evin en kıymetli yemeğini ve yatağını ona sunma, canını ortaya koyma hürmeti. |
+| **Ghayrat (غیرت)** | Pakistan (`PAK`) | Ailenin, inancın ve vatanın haysiyetini, namusunu ve mukaddesatını koruma konusundaki sarsılmaz hassasiyet. |
+| **Karam (كرم)** | Suudi Arabistan (`SAU`) | Karşılık beklemeden, misafirin önüne sürüsünün en iyi devesini/koyununu kesip sunan sınırsız çöl cömertliği. |
+| **Fazaa (فزعة)** | Suudi Arabistan (`SAU`) | Zor durumda kalan bir akraba veya yabancının imdadına hiçbir şey sormadan atılıp cansiperane yardım etme refleksi. |
+| **Baraka (بركة)** | Fas (`MAR`) | Yalnızca bereket değil; kutsal mekanlardan, evliyalardan ve helal kazançtan toprağa ve insana yayılan manevi nur ve esenlik. |
+| **Hşuma (حشومة)** | Fas (`MAR`) | Ailenin, komşuların veya toplumun önünde utanılacak, edebe aykırı bir şey yapmaktan duyulan derin ar ve edep bilinci. |
+| **Querendón** | Kolombiya (`COL`) | Doğuştan aşırı şefkatli, etrafındakilere sevgi ve sıcaklık saçan, herkesi kucaklayan cömert insan karakteri. |
+| **Berraco** | Kolombiya (`COL`) | En büyük felaketlerin, yoksulluğun ve şiddetin altından cesaretle, yılmadan ve gülümseyerek kalkan dirençli insan. |
+| **Añoranza** | Şili (`CHL`) | And Dağları'nın devasa gölgesinde ve Pasifik'in kıyısında hisseden insanın uzak diyarlara ve geçmişe duyduğu derin hüzünlü hasret. |
+| **Chilenidad** | Şili (`CHL`) | Şilili olmanın getirdiği ortak karakter; depremlerle yıkılıp her defasında küllerinden yeniden doğan milli direnç. |
+| **Ayni** | Peru (`PER`) | «Bugün bana, yarın sana»; karşılık beklemeden yapılan ama evrenin dengesi gereği mutlaka döneceğine inanılan kutsal karşılıklı yardımlaşma. |
+| **Pachamama** | Peru (`PER`) | Yalnızca doğa değil; bizzat yaşayan, besleyen, koruyan ve kendisine kurbanlar, şükranlar sunulan kutsal Toprak Ana tanrıçası. |
+| **Owambe** | Nijerya (`NGA`) | Göz alıcı ipek kumaşlar (Aso Ebi), canlı müzik, sonsuz yemek ve havaya para saçma geleneğiyle yapılan devasa Nijerya partisi. |
+| **Wahala** | Nijerya (`NGA`) | Büyük karmaşa, dert, kaos veya bela; ancak Nijeryalıların espriyle ve tevekkülle karşılayıp altından kalktığı durum. |
+| **Harambee** | Kenya (`KEN`) | «Hep birlikte asılalım, el birliğiyle kaldıralım»; bir çocuğun okul masrafı veya bir felaket için tüm köyün para ve emek toplaması. |
+| **Pole Pole** | Kenya (`KEN`) | «Yavaş yavaş, acele etmeden»; hayatın telaşla değil, sindire sindire ve doğanın ritmine saygı duyarak yaşanması gerektiği inancı. |
+| **Mateship** | Avustralya (`AUS`) | Zorlu çöl şartlarında, savaşta veya gündelik hayatta bir arkadaşına koşulsuz sadakat, eşitlik ve güven duyma andı. |
+| **Fair Go** | Avustralya (`AUS`) | Sosyal sınıfı, kökeni ne olursa olsun her insana eşit şans ve adil muamele gösterilmesi gerektiği inancı. |
+| **Dreamtime (Jukurrpa)** | Avustralya (`AUS`) | Aborjin kozmolojisinde dünyanın, nehirlerin ve canlıların atalar ruhu tarafından şarkılarla yaratıldığı ezeli ve ebedi zaman boyutu. |
 
 ---
 
@@ -107,3 +151,33 @@ Dünya dillerinde yalnızca bir kelimeyle ifade edilen ancak arkasında bin yıl
 
 ### 🇷🇺 7. Toska (Rusça)
 * Vladimir Nabokov'un ifadesiyle: "Hiçbir belirgin sebebi olmayan, insanın göğsünü sıkıştıran, sonsuz bozkırlara ve ruhun derinliklerine bakan büyük manevi sızı ve metafizik hasret."
+
+### 🇳🇴 8. Friluftsliv (Norveççe)
+* «Kötü hava yoktur, yetersiz kıyafet vardır.» Fırtına veya soğuk dinlemeden, insanın ruhunu doğanın bağrında özgürce tazeleyerek açık havada yaşama felsefesi.
+
+### 🇮🇪 9. Craic (İrlandaca / Keltçe)
+* Yalnızca eğlence değil; zeka dolu espriler, canlı gayda/keman melodileri ve dost meclisinde saatlerce akan o benzersiz sıcak muhabbet atmosferi.
+
+### 🇳🇱 10. Gezelligheid (Felemenkçe)
+* Sıcak, samimi, telaşsız ve mekanla kurulan güven dolu dingin aidiyet hali; bir buluşma 'gezellig' değilse eksik kalmış demektir.
+
+### 🇵🇪 11. Ayni (Quechua / İnka)
+* «Bugün bana, yarın sana.» Evrenin dengesi gereği yapılan hiçbir iyiliğin karşılıksız kalmayacağına inanılan kutsal karşılıklı yardımlaşma ve cemaat dayanışması.
+
+### 🇺🇦 12. Volya (Ukraynaca)
+* Yalnızca özgürlük değil; kişinin kendi kaderini tayin etme hakkı, zincir vurulamaz hürriyet iradesi ve boyun eğmez Kozak bağımsızlık aşkı.
+
+### 🇮🇩 13. Gotong Royong (Endonezyaca)
+* Bir köyün tarlasını hasat etmek veya afetten kurtulmak için tüm toplumun hiçbir ücret beklemeden omuz omuza imeceye koşması.
+
+### 🇹🇭 14. Sanuk (Tayca)
+* Hayatta yapılan her işe, çalışmaya ve göreve oyunsu bir neşe ve keyif katma sanatı; Taylandlıların güler yüzlü olmasının varoluşsal sırrı.
+
+### 🇸🇦 15. Karam (Arapça)
+* Karşılık beklemeden, yabancı bir misafirin önüne sürünün en iyi hayvanını kesip sunan sınırsız çöl cömertliği ve onur kodu.
+
+### 🇦🇺 16. Mateship (Avustralya İngilizcesi)
+* Zorlu çöl şartlarında veya savaşta bir yoldaşına koşulsuz sadakat, eşitlik ve güven duyma andı; Anzak ruhunun temel omurgası.
+
+### 🇰🇪 17. Harambee (Svahili / Kenya)
+* «Hep birlikte asılalım, el birliğiyle yükü kaldıralım.» Toplumda kimsenin geride kalmaması için tüm halkın ortak dayanışmaya çağrısı.

@@ -1,22 +1,25 @@
 # 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: Rusya (RUS)
 
-> *"Bir ulusu tanımak istiyorsanız halk türkülerine kulak verin; sofrasındaki ekmeği bölüşme adabına bakın ve hiçbir yabancı dile tam çevrilemeyen kelimelerini dinleyin."*
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
 ## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
 * **Medeniyet Sentezi:** Doğu Slav Mirası + Bizans Ortodoks Ruhaniyeti + Moğol/Altın Orda İdaresi İzi + Çarlık İmparatorluğu & Sovyet Dönemi Anıtsallığı.
-* **Kolektif Ethos & Ulusal Ruh:** Geniş ruh (Shirokaya Dusha), acıya ve soğuğa karşı doğaüstü dayanıklılık (Stoykost), derin melankoli, sahicilik (yapmacıklıktan nefret) ve samimi dostluk.
-* **İletişim ve Anlatım Tarzı:** Yüzeyde Soğuk ve Ciddi, İçeride Tutkulu ve Fedakar. Sokakta yabancılara sebepsizce gülümsemek 'samimiyetsizlik ve ahmaklık' olarak algılanır; ancak bir eve misafir olunduğunda ev sahibi son kuruşuna kadar her şeyini misafire ikram eder.
+* **Kolektif Ethos & Ulusal Karakter:** Geniş ruh (Shirokaya Dusha), acıya ve soğuğa karşı doğaüstü dayanıklılık (Stoykost), derin melankoli, sahicilik (yapmacıklıktan nefret) ve samimi dostluk.
+* **İletişim Tarzı (High / Low Context):** Yüzeyde Soğuk ve Ciddi, İçeride Tutkulu ve Fedakar. Sokakta yabancılara sebepsizce gülümsemek 'samimiyetsizlik ve ahmaklık' olarak algılanır; ancak bir eve misafir olunduğunda ev sahibi son kuruşuna kadar her şeyini misafire ikram eder.
 
 ---
 
 ## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
 
 * **Toska:** Hiçbir belirgin sebebi olmayan, insanın göğsünü sıkıştıran, sonsuz bozkırlara ve ruhun derinliklerine bakan büyük manevi sızı ve metafizik hasret.
+  > **
 * **Dusha:** Bireyin vicdanını, dürüstlüğünü ve duygusal derinliğini barındıran kutsal 'Rus Ruhu'.
+  > **
 * **Avos:** Hiçbir rasyonel hazırlık veya plan olmamasına rağmen, 'kaderin bir şekilde yardım edeceği ve işlerin yoluna gireceği' yönündeki kaderci kör inanç.
+  > **
 
 ---
 
@@ -28,7 +31,7 @@ Geleneksel buhar banyosu (Banya) ve huş ağacı dallarıyla masaj ritüeli; yaz
 
 ## 4. Gastronomi Felsefesi ve Sofra Kültürü
 
-Kış şartlarına meydan okuyan doyurucu lezzetler. Borş çorbası, Pelmeni mantısı, havyar, çavdar ekmeği, ringa balığı ve semaverde demlenen koyu çay.
+* **Mutfak Felsefesi:** Kış şartlarına meydan okuyan doyurucu lezzetler. Borş çorbası, Pelmeni mantısı, havyar, çavdar ekmeği, ringa balığı ve semaverde demlenen koyu çay.
 
 ---
 
@@ -38,7 +41,7 @@ Kapı eşiğinde el sıkışmak veya bir şey vermek (şeytanın eşikte bekledi
 
 ---
 
-## 6. Edebiyat, Sanat ve Mimari Miras
+## 6. Edebiyat, Sanat ve Entelektüel Miras
 
 Lev Tolstoy, Fyodor Dostoyevski, Aleksandr Puşkin, Anton Çehov; Çaykovski, Şostakoviç; Bolşoy Balesi ve Ermitaj Müzesi.
 

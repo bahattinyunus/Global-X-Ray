@@ -376,7 +376,7 @@ Bu nedenle bu ansiklopedi; **kültürü ve insanı merkeze koyan ana gövdesini*
 
 ---
 
-### 🧬 20 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı
+### 🧬 40 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı
 > 💡 *Her ülkenin kendi klasöründe (`01_culture_demographics/society_history.md`) tüm kültürel kodları, ritüelleri ve tabuları detaylıca işlenmiştir.*
 
 | Ülke | Ulusal Karakter & Temel Ethos | Çevrilemeyen Ruh Kavramları | İletişim Tarzı | Gastronomi & Sofra Felsefesi |
@@ -428,6 +428,8 @@ Kültürel zenginliğin derinlemesine tahlil edildiği özel araştırma dosyala
 * 📖 [`culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md`](culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md): 50+ küresel çevrilemeyen kavramın kökeni, anlamı ve günlük hayattaki yansıması.
 * 🍲 [`culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md`](culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md): Sofra adabı, kutsal ekmek kültleri, çay/kahve seremonileri ve paylaşma ahlakı.
 * 🧭 [`culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md`](culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md): Vücut dili, jestler, hediyeleşme adabı, sessizlik kültürü ve ölümcül sosyal tabular.
+* 📜 [`culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md`](culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md): 14 büyük kurucu destan, halk masalları, mitolojik arketipler ve sözlü gelenekler.
+* 🏛️ [`culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md`](culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md): İslam kubbesinden Gotik ışığa, Doğu Asya pagodalarından Afrika çamur mabetlerine mimari ve şehir felsefesi.
 * 📚 [`culture/README.md`](culture/README.md): Kültür araştırmaları merkezi indeksi ve kaynakçası.
 
 ---
@@ -676,6 +678,15 @@ python scripts/xray_cli.py culture
 
 # İki ülkeyi jeopolitik, kültürel ve makroekonomik olarak karşılaştır
 python scripts/xray_cli.py compare turkiye japonya
+
+# İki ülkeyi kültürel DNA, iletişim tarzı, sofra ve tabular açısından yan yana karşılaştır
+python scripts/xray_cli.py compare-culture turkiye japonya
+
+# Dünya kurucu destanları ve mitolojilerini sorgula veya listele
+python scripts/xray_cli.py epics
+
+# Dünya mimari ekolleri ve kutsal mekan felsefesini sorgula veya listele
+python scripts/xray_cli.py architecture
 
 # Ekonomik güç bloğuna göre ülkeleri filtrele ve analiz et
 python scripts/xray_cli.py economy 01_ileri_sanayi_g7

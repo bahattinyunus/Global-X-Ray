@@ -1,23 +1,27 @@
 # 🏛️ Medeniyet Kimliği, Kültürel Kodlar ve Toplumsal Doku: İtalya (ITA)
 
-> *"Bir ulusu tanımak istiyorsanız halk türkülerine kulak verin; sofrasındaki ekmeği bölüşme adabına bakın ve hiçbir yabancı dile tam çevrilemeyen kelimelerini dinleyin."*
+> *"Bir ulusu gerçekten tanımak istiyorsanız; halk türkülerine kulak verin, sofrasındaki ekmeği bölüşme adabına bakın ve başka hiçbir dünya diline tam çevrilemeyen ruh kavramlarını dinleyin."*
 
 ---
 
 ## 1. Medeniyet Kavşağı ve Ulusal Karakter (Kültürel DNA)
 
 * **Medeniyet Sentezi:** Antik Roma Hukuku & Mimarisi + Rönesans Hümanizmi + Katolik Kilisesi Merkezi + Akdeniz Yaşam Sanatı.
-* **Kolektif Ethos & Ulusal Ruh:** 'La Dolce Vita' (Tatlı Hayat), 'Bella Figura' (her ortamda estetik, şık ve kusursuz görünme gayreti), aile bağları ve yemek üzerinden sosyalleşme tutkusu.
-* **İletişim ve Anlatım Tarzı:** Çok Yüksek Bağlamlı ve Zengin Beden Dili. Konuşurken eller, kollar ve yüz mimikleri cümlenin gramerinden daha fazla anlam ifade eder; ses tonu canlı ve teatraldir.
+* **Kolektif Ethos & Ulusal Karakter:** 'La Dolce Vita' (Tatlı Hayat), 'Bella Figura' (her ortamda estetik, şık ve kusursuz görünme gayreti), aile bağları ve yemek üzerinden sosyalleşme tutkusu.
+* **İletişim Tarzı (High / Low Context):** Çok Yüksek Bağlamlı ve Zengin Beden Dili. Konuşurken eller, kollar ve yüz mimikleri cümlenin gramerinden daha fazla anlam ifade eder; ses tonu canlı ve teatraldir.
 
 ---
 
 ## 2. Dilde Kristalleşen Çevrilemeyen Ruh Kavramları (Untranslatable Words)
 
 * **Dolce far niente:** Hiçbir şey yapmamanın, anın tadını telaşsızca çıkarmanın getirdiği tatlı tembellik zevki.
+  > **
 * **Bella figura:** Yalnızca güzel giyinmek değil; davranışlarda, konuşmada ve tavırda zarafeti, asaleti ve görgüyü koruma sanatı.
+  > **
 * **Aperitivo:** Akşam yemeği öncesinde hafif bir içecek ve atıştırmalık eşliğinde dostlarla günün yorgunluğunu atma ritüeli.
+  > **
 * **Campanilismo:** Kişinin doğduğu köyün veya mahallenin kilise çan kulesinin (campanile) gölgesine, kendi dar bölgesine duyduğu tutkulu yerel aidiyet.
+  > **
 
 ---
 
@@ -29,7 +33,7 @@ Sabahları ayakta barda hızlıca espresso veya cappuccino içilmesi; öğleden 
 
 ## 4. Gastronomi Felsefesi ve Sofra Kültürü
 
-Kutsal gelenek. Her bölgenin, hatta her kasabanın kendine has makarna kesimi, peyniri ve zeytinyağı vardır. Reçetelere dışarıdan müdahale (örneğin pizzaya ananas koymak veya carbonaraya krema eklemek) kültürel saygısızlık sayılır.
+* **Mutfak Felsefesi:** Kutsal gelenek. Her bölgenin, hatta her kasabanın kendine has makarna kesimi, peyniri ve zeytinyağı vardır. Reçetelere dışarıdan müdahale (örneğin pizzaya ananas koymak veya carbonaraya krema eklemek) kültürel saygısızlık sayılır.
 
 ---
 
@@ -39,7 +43,7 @@ Kutsal gelenek. Her bölgenin, hatta her kasabanın kendine has makarna kesimi, 
 
 ---
 
-## 6. Edebiyat, Sanat ve Mimari Miras
+## 6. Edebiyat, Sanat ve Entelektüel Miras
 
 Dante Alighieri (İlahi Komedya), Boccaccio, Umberto Eco; Leonardo da Vinci, Michelangelo, Caravaggio; Verdi ve Puccini operaları.
 

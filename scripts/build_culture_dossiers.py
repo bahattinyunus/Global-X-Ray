@@ -79,6 +79,36 @@ Dünya dillerinde yalnızca bir kelimeyle ifade edilen ancak arkasında bin yıl
 
 ### 🇷🇺 7. Toska (Rusça)
 * Vladimir Nabokov'un ifadesiyle: "Hiçbir belirgin sebebi olmayan, insanın göğsünü sıkıştıran, sonsuz bozkırlara ve ruhun derinliklerine bakan büyük manevi sızı ve metafizik hasret."
+
+### 🇳🇴 8. Friluftsliv (Norveççe)
+* «Kötü hava yoktur, yetersiz kıyafet vardır.» Fırtına veya soğuk dinlemeden, insanın ruhunu doğanın bağrında özgürce tazeleyerek açık havada yaşama felsefesi.
+
+### 🇮🇪 9. Craic (İrlandaca / Keltçe)
+* Yalnızca eğlence değil; zeka dolu espriler, canlı gayda/keman melodileri ve dost meclisinde saatlerce akan o benzersiz sıcak muhabbet atmosferi.
+
+### 🇳🇱 10. Gezelligheid (Felemenkçe)
+* Sıcak, samimi, telaşsız ve mekanla kurulan güven dolu dingin aidiyet hali; bir buluşma 'gezellig' değilse eksik kalmış demektir.
+
+### 🇵🇪 11. Ayni (Quechua / İnka)
+* «Bugün bana, yarın sana.» Evrenin dengesi gereği yapılan hiçbir iyiliğin karşılıksız kalmayacağına inanılan kutsal karşılıklı yardımlaşma ve cemaat dayanışması.
+
+### 🇺🇦 12. Volya (Ukraynaca)
+* Yalnızca özgürlük değil; kişinin kendi kaderini tayin etme hakkı, zincir vurulamaz hürriyet iradesi ve boyun eğmez Kozak bağımsızlık aşkı.
+
+### 🇮🇩 13. Gotong Royong (Endonezyaca)
+* Bir köyün tarlasını hasat etmek veya afetten kurtulmak için tüm toplumun hiçbir ücret beklemeden omuz omuza imeceye koşması.
+
+### 🇹🇭 14. Sanuk (Tayca)
+* Hayatta yapılan her işe, çalışmaya ve göreve oyunsu bir neşe ve keyif katma sanatı; Taylandlıların güler yüzlü olmasının varoluşsal sırrı.
+
+### 🇸🇦 15. Karam (Arapça)
+* Karşılık beklemeden, yabancı bir misafirin önüne sürünün en iyi hayvanını kesip sunan sınırsız çöl cömertliği ve onur kodu.
+
+### 🇦🇺 16. Mateship (Avustralya İngilizcesi)
+* Zorlu çöl şartlarında veya savaşta bir yoldaşına koşulsuz sadakat, eşitlik ve güven duyma andı; Anzak ruhunun temel omurgası.
+
+### 🇰🇪 17. Harambee (Svahili / Kenya)
+* «Hep birlikte asılalım, el birliğiyle yükü kaldıralım.» Toplumda kimsenin geride kalmaması için tüm halkın ortak dayanışmaya çağrısı.
 """
     with open(CULTURE_DIR / "UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md", "w", encoding="utf-8") as f:
         f.write(content)
@@ -103,7 +133,7 @@ Yemek; yalnızca biyolojik bir karın doyurma eylemi değil, bir toplumun doğay
 
 ---
 
-## 🍽️ 20 Medeniyetin Sofra ve Mutfak Felsefesi
+## 🍽️ 40 Medeniyetin Sofra ve Mutfak Felsefesi
 
 | Ülke / Medeniyet | Gastronomi Felsefesi & Sofra Adabı |
 | :--- | :--- |
@@ -135,7 +165,7 @@ Farklı kültürlerde saygı ifadesi olan bir davranış, başka bir coğrafyada
 
 ---
 
-## 🌐 20 Ülkenin Sosyal Tabuları ve İletişim Kodları
+## 🌐 40 Ülkenin Sosyal Tabuları ve İletişim Kodları
 
 | Ülke | Görgü Kuralları & Sosyal Tabular (Kaçınılması Gerekenler) | İletişim Tarzı (High/Low Context) |
 | :--- | :--- | :--- |

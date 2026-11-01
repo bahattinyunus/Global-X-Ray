@@ -7,6 +7,9 @@ Medeniyet Atlası (Civilization Atlas) - Kültürel Kodlar, Yaşam Felsefesi & G
 Kullanım:
   python scripts/xray_cli.py country <ulke_adi_veya_kodu>
   python scripts/xray_cli.py culture [ulke_veya_medeniyet]
+  python scripts/xray_cli.py compare-culture <ulke_1> <ulke_2>
+  python scripts/xray_cli.py epics [arama]
+  python scripts/xray_cli.py architecture [arama]
   python scripts/xray_cli.py compare <ulke_1> <ulke_2>
   python scripts/xray_cli.py search <terim>
   python scripts/xray_cli.py top-shadow [sayi]
@@ -567,6 +570,154 @@ def show_culture(query=None):
     print(f"  {matched['literary_and_artistic_archetypes']}")
     print("=" * 85)
 
+def show_epics(query=None):
+    epics_file = BASE_DIR / "culture" / "GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md"
+    if not epics_file.exists():
+        print("[-] Destanlar külliyatı bulunamadı.")
+        return
+    with open(epics_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+    
+    print("=" * 85)
+    print("📜 DÜNYA MİTOLOJİLERİ VE KURUCU DESTANLAR KÜLLİYATI")
+    print("=" * 85)
+    
+    table_rows = []
+    in_table = False
+    for line in lines:
+        line_s = line.strip()
+        if line_s.startswith("| Destan"):
+            in_table = True
+            continue
+        if in_table and line_s.startswith("| :---"):
+            continue
+        if in_table and line_s.startswith("|"):
+            parts = [p.strip() for p in line_s.split("|")[1:-1]]
+            if len(parts) >= 5:
+                table_rows.append({
+                    "epic": parts[0].replace("**", ""),
+                    "civ": parts[1],
+                    "hero": parts[2],
+                    "theme": parts[3],
+                    "legacy": parts[4]
+                })
+        elif in_table and not line_s.startswith("|"):
+            in_table = False
+
+    if query:
+        q = query.lower()
+        table_rows = [r for r in table_rows if q in r["epic"].lower() or q in r["civ"].lower() or q in r["hero"].lower() or q in r["theme"].lower()]
+        
+    for r in table_rows:
+        print(f"\n📖 {r['epic']} ({r['civ']})")
+        print(f"  • Baş Kahraman / Figür:   {r['hero']}")
+        print(f"  • Temel Felsefe & İkilem: {r['theme']}")
+        print(f"  • Edebi & Manevi Miras:   {r['legacy']}")
+        print("-" * 85)
+    print(f"\n[!] Detaylı felsefi analiz için bkz: culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md")
+
+def show_architecture(query=None):
+    arch_file = BASE_DIR / "culture" / "WORLD_ARCHITECTURE_AND_SACRED_SPACES.md"
+    if not arch_file.exists():
+        print("[-] Mimari külliyatı bulunamadı.")
+        return
+    with open(arch_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    print("=" * 85)
+    print("🏛️ DÜNYA MİMARİSİ, ŞEHİR FELSEFESİ VE KUTSAL MEKANLAR KÜLLİYATI")
+    print("=" * 85)
+
+    table_rows = []
+    in_table = False
+    for line in lines:
+        line_s = line.strip()
+        if line_s.startswith("| Mimari Ekol"):
+            in_table = True
+            continue
+        if in_table and line_s.startswith("| :---"):
+            continue
+        if in_table and line_s.startswith("|"):
+            parts = [p.strip() for p in line_s.split("|")[1:-1]]
+            if len(parts) >= 5:
+                table_rows.append({
+                    "school": parts[0].replace("**", ""),
+                    "geo": parts[1],
+                    "materials": parts[2],
+                    "philosophy": parts[3].replace("**", ""),
+                    "masterpieces": parts[4]
+                })
+        elif in_table and not line_s.startswith("|"):
+            in_table = False
+
+    if query:
+        q = query.lower()
+        table_rows = [r for r in table_rows if q in r["school"].lower() or q in r["geo"].lower() or q in r["philosophy"].lower() or q in r["masterpieces"].lower()]
+
+    for r in table_rows:
+        print(f"\n🏰 {r['school']} ({r['geo']})")
+        print(f"  • Malzeme & Strüktür:  {r['materials']}")
+        print(f"  • Mekan Felsefesi:     {r['philosophy']}")
+        print(f"  • Başyapıt Örnekleri:  {r['masterpieces']}")
+        print("-" * 85)
+    print(f"\n[!] Detaylı şehir meydanları ve mekan felsefesi için bkz: culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md")
+
+def compare_culture(q1: str, q2: str):
+    if not CULTURE_PATH.exists():
+        print("[-] Kültürel kodlar veritabanı bulunamadı.")
+        return
+    with open(CULTURE_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    countries_dna = data.get("countries_cultural_dna", [])
+
+    def match_dna(q):
+        ql = q.lower().strip()
+        c_reg = find_country(ql)
+        target_code = c_reg["code"].lower() if c_reg else ""
+        for c in countries_dna:
+            if (target_code and c.get("code", "").lower() == target_code) or \
+               ql in c["country"].lower() or ql in c["code"].lower() or ql in c["capital"].lower():
+                return c
+        return None
+
+    dna1 = match_dna(q1)
+    dna2 = match_dna(q2)
+
+    if not dna1 or not dna2:
+        print(f"[-] Karşılaştırılacak ülkelerden biri veya ikisi kültürel DNA veritabanında bulunamadı: ({q1}, {q2})")
+        return
+
+    print("=" * 90)
+    print(f"🎭 MEDENİYET VE KÜLTÜREL DNA KARŞILAŞTIRMASI")
+    print(f"   {dna1['country'].upper()} ({dna1['code']}) vs {dna2['country'].upper()} ({dna2['code']})")
+    print("=" * 90)
+    print(f"• Medeniyet Havzası:")
+    print(f"  [{dna1['country']}]: {dna1['civilization_crossroads']}")
+    print(f"  [{dna2['country']}]: {dna2['civilization_crossroads']}")
+    print("-" * 90)
+    print(f"• Temel Kültürel Ethos & Karakter:")
+    print(f"  [{dna1['country']}]: {dna1['core_cultural_ethos']}")
+    print(f"  [{dna2['country']}]: {dna2['core_cultural_ethos']}")
+    print("-" * 90)
+    print(f"• İletişim Tarzı & Sosyal Etkileşim:")
+    print(f"  [{dna1['country']}]: {dna1['communication_style']}")
+    print(f"  [{dna2['country']}]: {dna2['communication_style']}")
+    print("-" * 90)
+    print(f"• Çevrilemeyen Ruh Kavramları:")
+    c1_words = ", ".join([w['word'] + ' (' + w['meaning'][:40] + '...)' for w in dna1.get('untranslatable_soul_concepts', [])])
+    c2_words = ", ".join([w['word'] + ' (' + w['meaning'][:40] + '...)' for w in dna2.get('untranslatable_soul_concepts', [])])
+    print(f"  [{dna1['country']}]: {c1_words}")
+    print(f"  [{dna2['country']}]: {c2_words}")
+    print("-" * 90)
+    print(f"• Sofra Ritüelleri ve Mutfak:")
+    print(f"  [{dna1['country']}]: {dna1['gastronomic_philosophy']}")
+    print(f"  [{dna2['country']}]: {dna2['gastronomic_philosophy']}")
+    print("-" * 90)
+    print(f"• Sosyal Tabular & Görgü:")
+    print(f"  [{dna1['country']}]: {dna1['social_taboos_and_etiquette']}")
+    print(f"  [{dna2['country']}]: {dna2['social_taboos_and_etiquette']}")
+    print("=" * 90)
+
 def show_stats():
     registry = load_registry()
     total_gdp = sum(c.get("gdp_usd_b", 0) for c in registry)
@@ -624,6 +775,14 @@ def main():
     elif cmd in ["culture", "kultur", "medeniyet", "kod"]:
         q = " ".join(sys.argv[2:]) if len(sys.argv) > 2 else None
         show_culture(q)
+    elif cmd in ["compare-culture", "kultur-karsilas", "karsilas-kultur"] and len(sys.argv) > 3:
+        compare_culture(sys.argv[2], sys.argv[3])
+    elif cmd in ["epics", "destanlar", "destan", "mitoloji"]:
+        q = " ".join(sys.argv[2:]) if len(sys.argv) > 2 else None
+        show_epics(q)
+    elif cmd in ["architecture", "mimari", "mimar"]:
+        q = " ".join(sys.argv[2:]) if len(sys.argv) > 2 else None
+        show_architecture(q)
     elif cmd in ["compare", "karsilas", "vs"] and len(sys.argv) > 3:
         compare_countries(sys.argv[2], sys.argv[3])
     elif cmd in ["search", "ara", "s"] and len(sys.argv) > 2:

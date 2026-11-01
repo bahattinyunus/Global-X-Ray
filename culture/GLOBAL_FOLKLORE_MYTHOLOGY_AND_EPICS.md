@@ -1,5 +1,9 @@
 # 📜 Dünya Mitolojileri, Kurucu Destanlar ve Sözlü Edebiyat Külliyatı
 
+<p align="center">
+  <img src="../assets/images/global_folklore_mythology_epics.jpg" alt="Dünya Mitolojileri ve Kurucu Destanlar Külliyatı" width="100%">
+</p>
+
 > *"Bir milletin tarihini ordular yazar, fakat ruhunu destanlar ve masallar yaşatır. Destanlar, bir toplumun ölüm, kader, kahramanlık ve Tanrı ile kurduğu ilk büyük hesaplaşmanın kutsal şiiridir."*
 
 Dünya medeniyetleri, binlerce yıl boyunca varoluşlarını, ahlak yasalarını ve evrendeki yerlerini sözlü olarak aktarılan kurucu destanlar (epos) ve mitolojik anlatılarla inşa etmiştir. Bu dosya, dünya halklarının kolektif bilinçdışını (Jungian Archetypes) şekillendiren 14 büyük kurucu destanın felsefi ve edebi haritasıdır.

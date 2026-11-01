@@ -1,5 +1,9 @@
 # 🏛️ Dünya Mimarisi, Şehir Felsefesi ve Kutsal Mekanlar Külliyatı
 
+<p align="center">
+  <img src="../assets/images/world_sacred_architecture_monuments.jpg" alt="Dünya Mimarisi, Şehir Felsefesi ve Kutsal Mekanlar Külliyatı" width="100%">
+</p>
+
 > *"Mimarlık, taş ve ahşapla yazılmış en kalıcı felsefe kitabıdır. Bir medeniyetin Tanrı'yı nerede aradığını, insana ne kadar değer verdiğini ve gökyüzüyle nasıl bir bağ kurduğunu anlamak için inşa ettiği mabetlere, evlere ve şehir meydanlarına bakmanız kafidir."*
 
 Şehirler ve mabetler, bir medeniyetin kozmolojik dünya görüşünün üç boyutlu heykelleridir. Bu araştırma dosyası; İslam'ın kubbe ve avlusundan Doğu Asya'nın depreme meydan okuyan ahşap pagodalarına, Gotik katedrallerin ışık teolojisinden Afrika'nın kerpiç kulelerine kadar dünya mimari felsefesinin atlasıdır.

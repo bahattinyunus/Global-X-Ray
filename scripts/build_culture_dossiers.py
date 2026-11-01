@@ -161,6 +161,10 @@ def build_etiquette():
 
     content = f"""# 🚫 Küresel Görgü Kuralları, İletişim Kodları ve Sosyal Tabular (Do's & Don'ts)
 
+<p align="center">
+  <img src="../assets/images/intercultural_etiquette_and_greeting_rituals.jpg" alt="Kültürlerarası Nezaket ve Selamlaşma Ritüelleri" width="90%">
+</p>
+
 Farklı kültürlerde saygı ifadesi olan bir davranış, başka bir coğrafyada en ağır hakaret sayılabilir. Yabancı bir ülkede saygın ve görgülü bir misafir olmanın altın anahtarları:
 
 ---
@@ -241,6 +245,8 @@ Bu dizin, dünya uluslarının **kültürel kodlarını, çevrilemeyen ruh kavra
 | 🍲 [**GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md**](GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md) | Mutfaklar & Sofra Adabı | Anadolu bereket sofrası, Japon Washoku felsefesi, Hint Ayurveda baharatları, Kore fermantasyon sanatı ve Latin Amerika Asado ritüeli. |
 | 🚫 [**WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md**](WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md) | Görgü Kuralları & Tabular | 20 ülkenin do's and don'ts listesi, ayakkabı kuralları, hediyeleşme adabı ve Yüksek Bağlam (High Context) vs Düşük Bağlam iletişimi. |
 | 🏛️ [**CIVILIZATION_REALMS_AND_PHILOSOPHIES.md**](CIVILIZATION_REALMS_AND_PHILOSOPHIES.md) | 9 Büyük Medeniyet Havzası | Anadolu-Akdeniz, Doğu Asya, Cermen-İskandinav, Anglo-Sakson, Slav-Avrasya, Latin Amerika, Orta Doğu, Güney Asya ve Afrika medeniyet felsefeleri. |
+| 📜 [**GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md**](GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md) | Mitolojiler & Kurucu Destanlar | Gılgamış, Dede Korkut, Manas, Şehnâme, Mahabharata, Ramayana, İlyada & Odysseia, Kalevala, Nibelungenlied, Popol Vuh, Sundiata ve Dreamtime dahil 14 kurucu epos. |
+| 🏛️ [**WORLD_ARCHITECTURE_AND_SACRED_SPACES.md**](WORLD_ARCHITECTURE_AND_SACRED_SPACES.md) | Mimari & Şehir Felsefesi | İslam kubbe ve külliyeleri, Doğu Asya ahşap pagodaları (Douqong), Gotik ışık teolojisi (Lux Nova), Sahra Altı çamur mabetleri ve antik agora/piazza kamusal alan felsefeleri. |
 
 ---
 

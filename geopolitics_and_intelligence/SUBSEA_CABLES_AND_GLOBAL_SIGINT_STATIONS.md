@@ -1,5 +1,10 @@
 # 🌐 Küresel Denizaltı Fiber Optik Kabloları ve SIGINT Dinleme İstasyonları
 
+<p align="center">
+  <img src="../assets/images/subsea_cables_and_cyber_sigint_nexus.jpg" alt="Küresel Denizaltı Fiber Optik Kabloları ve Okyanus SIGINT İstasyonları" width="100%">
+</p>
+
+
 Dünya internet trafiğinin ve finansal transferlerinin (SWIFT) %97'si uydulardan değil, okyanus tabanındaki fiber kablolardan akar.
 
 ---

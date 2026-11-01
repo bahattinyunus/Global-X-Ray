@@ -26,10 +26,12 @@
 1. [🏛️ Giriş ve Medeniyet Atlası Manifestosu](#️-giriş-ve-medeniyet-atlasi-manifestosu)
 2. [🎭 Dünya Medeniyetleri ve Kültürel Kodlar Rehberi (Cultural DNA)](#-dünya-medeniyetleri-ve-kültürel-kodlar-rehberi-cultural-dna)
    - [🌐 9 Büyük Küresel Medeniyet Havzası](#-9-büyük-küresel-medeniyet-havzasi)
-   - [🧬 20 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı](#-20-örnek-medeniyet-çapasi-ulusal-karakterler-ve-yaşam-adabi)
+   - [🧬 40 Örnek Medeniyet Çapası: Ulusal Karakterler ve Yaşam Adabı](#-40-örnek-medeniyet-çapasi-ulusal-karakterler-ve-yaşam-adabi)
    - [📖 Çevrilemeyen Ruh Kavramları Galerisi](#-çevrilemeyen-ruh-kavramlari-galerisi)
    - [🍲 Dünya Gastronomi Felsefeleri & Sofra Ritüelleri](#-dünya-gastronomi-felsefeleri--sofra-ritüelleri)
    - [🧭 Küresel Nezaket Kuralları, İletişim Kodları ve Sosyal Tabular](#-küresel-nezaket-kurallari-iletişim-kodlari-ve-sosyal-tabular)
+   - [📜 Dünya Mitolojileri, Kurucu Destanlar ve Sözlü Edebiyat](#-dünya-mitolojileri-kurucu-destanlar-ve-sözlü-edebiyat)
+   - [🏛️ Dünya Kutsal Mimarisi, Şehir Felsefesi ve Kutsal Mekanlar](#-dünya-kutsal-mimarisi-şehir-felsefesi-ve-kutsal-mekanlar)
    - [📚 Medeniyet & Kültür Kütüphanesi Arşivi (/culture)](#-medeniyet--kültür-kütüphanesi-arşivi-culture)
 3. [🗺️ 205 ÜLKELİK KÜRESEL ATLAS: TÜM DÜNYA ULUSLARI VE ALT İÇERİK REHBERİ](#️-205-ülkelik-küresel-atlas-tüm-dünya-uluslari-ve-alt-i̇çerik-rehberi)
    - [📍 Bölgesel Fihrist ve Hızlı Atlama](#-bölgesel-fihrist-ve-hizli-atlama)
@@ -41,6 +43,7 @@
    - [🛰️ Küresel İstihbarat ve Stratejik Dosyalar Matrisi (11 Özel Rapor)](#️-küresel-istihbarat-ve-stratejik-dosyalar-matrisi-11-özel-rapor)
    - [💸 Kleptokrasi & Offshore Sermaye Kaçırma Döngüsü](#-kleptokrasi--offshore-sermaye-kaçirma-döngüsü)
    - [🧠 Bilişsel Savaş & Siber İstihbarat Matrisi (5GW)](#-bilişsel-savaş--siber-istihbarat-matrisi-5gw)
+   - [🌐 Küresel Denizaltı Fiber Optik Kabloları ve Okyanus SIGINT Ağı](#-küresel-denizalti-fiber-optik-kablolari-ve-okyanus-sigint-aği)
    - [🚢 Küresel Deniz Darboğazları & Jeopolitik Kilit Noktaları](#-küresel-deniz-darboğazlari--jeopolitik-kilit-noktalari)
 8. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
 9. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
@@ -211,6 +214,10 @@ Yemek, biyolojik bir ihtiyaçtan öte, bir medeniyetin doğayla kurduğu barış
 ### 🧭 KÜRESEL NEZAKET KURALLARI, İLETİŞİM KODLARI VE SOSYAL TABULAR
 > 🤝 *Kültürlerarası iletişim ve protokol rehberi için: [`culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md`](culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md)*
 
+<p align="center">
+  <img src="assets/images/intercultural_etiquette_and_greeting_rituals.jpg" alt="Kültürlerarası Nezaket Kuralları ve Selamlaşma Ritüelleri" width="90%">
+</p>
+
 Farklı kültürlerde saygı ve hakaret kavramları taban tabana zıt şekillerde tezahür edebilir. Dünyayı doğru anlamak, bu görünmez kültürel sınırları bilmeyi gerektirir:
 
 | Kültürel Parametre | Yüksek Bağlamlı Kültürler (High-Context)<br/>*(Japonya, Çin, Türkiye, Arap Dünyası, Latin Amerika)* | Düşük Bağlamlı Kültürler (Low-Context)<br/>*(Almanya, İsviçre, ABD, İskandinavya, Hollanda)* |
@@ -220,6 +227,28 @@ Farklı kültürlerde saygı ve hakaret kavramları taban tabana zıt şekillerd
 | **Zaman Algısı (P-Time vs M-Time)** | Polikronik: İlişkiler ve insani muhabbet saatten önemlidir; esnek zaman anlayışı vardır. | Monokronik: Dakiklik kutsaldır; 5 dakika geç kalmak bile derin bir saygısızlık kabul edilir. |
 | **Sosyal Mesafe (Proxemics)** | Yakın temas, sarılma, öpüşme ve samimi fiziksel temas normdur; mesafe sıcaklığı gösterir. | Geniş kişisel alan (1.5m); fiziksel temas profesyonel veya kamusal alanda hoş karşılanmaz. |
 | **Kartvizit / Selamlaşma** | Kartvizit iki elle saygıyla tutulur ve incelenir (*Meishi*); selamlaşma statüye göre derinleşir. | Hızlıca cebe atılabilir; sıkı ve kuru bir el sıkışma kafidir. |
+
+---
+
+### 📜 DÜNYA MİTOLOJİLERİ, KURUCU DESTANLAR VE SÖZLÜ EDEBİYAT
+> 📖 *14 büyük kurucu destanın felsefi ve edebi tahlili için: [`culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md`](culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md)*
+
+<p align="center">
+  <img src="assets/images/global_folklore_mythology_epics.jpg" alt="Dünya Mitolojileri ve Kurucu Destanlar Külliyatı" width="90%">
+</p>
+
+Destanlar, insanlığın varoluş, kader, kahramanlık ve ölüm karşısında ürettiği ilk büyük kutsal şiirlerdir. Mezopotamya'nın ölümsüzlük arayan *Gılgamış*ından bozkır töresinin sesi *Dede Korkut* ve *Manas*a; Hindistan'ın vicdan terazisi *Mahabharata*sından Mezoamerika'nın mısır efsanesi *Popol Vuh*a kadar kurucu eposlar bu atlasın ruhunu oluşturur.
+
+---
+
+### 🏛️ DÜNYA MİMARİSİ, ŞEHİR FELSEFESİ VE KUTSAL MEKANLAR
+> 🏰 *Mabetler, meydanlar ve kamusal alan felsefesi için: [`culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md`](culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md)*
+
+<p align="center">
+  <img src="assets/images/world_sacred_architecture_monuments.jpg" alt="Dünya Kutsal Mimarisi, Şehir Felsefesi ve Mabetler" width="90%">
+</p>
+
+Taş ve ahşapla yazılmış mimari miras; İslam'ın gök kubbe ve iç avlu mahremiyetinden Doğu Asya'nın depreme meydan okuyan ahşap pagoda kenetlerine (Douqong), Gotik katedrallerin ışık teolojisinden (Lux Nova) Afrika'nın çamurdan yükselen cemaat mabetlerine (Djenné) kadar insanlığın aşkın olanla kurduğu mekan bağıdır.
 
 ---
 
@@ -613,6 +642,17 @@ Küresel kleptokrasi; kamu kaynaklarının ve maden imtiyazlarının siyasi elit
 * **Denizaltı Kablo Dinleme:** Dünya internet trafiğinin %99'u denizaltı fiber optik hatlarından akar; FVEY paktı küresel trafiği stratejik iniş istasyonlarında filtreler.
 * **Sıfır-Tıklama Casus Yazılımlar (Zero-Click):** Pegasus ve Predator gibi askeri araçlar kullanıcı hiçbir linke tıklamadan cihazın mikrofon, kamera ve şifreli yazışmalarını gerçek zamanlı çeker.
 * **Algoritmik Kitle Manipülasyonu:** Sosyal medya bot orduları ve psikometrik hedeflemeler kitlelerin duygusal tepkilerini polarize etmek için kullanılır.
+
+---
+
+### 🌐 KÜRESEL DENİZALTI FİBER OPTİK KABLOLARI VE OKYANUS SIGINT AĞI
+> 📡 *Denizaltı kablo koridorları ve dinleme merkezleri analizi için: [`geopolitics_and_intelligence/SUBSEA_CABLES_AND_GLOBAL_SIGINT_STATIONS.md`](geopolitics_and_intelligence/SUBSEA_CABLES_AND_GLOBAL_SIGINT_STATIONS.md)*
+
+<p align="center">
+  <img src="assets/images/subsea_cables_and_cyber_sigint_nexus.jpg" alt="Küresel Denizaltı Fiber Optik Kabloları ve Okyanus SIGINT Ağı" width="90%">
+</p>
+
+Dünya internet trafiğinin ve finansal veri akışının %97'den fazlası uydulardan değil, okyanus tabanlarına döşenmiş yüzbinlerce kilometrelik fiber optik kablolardan geçer. Bu hatlar; Mısır Kızıldeniz geçişi, Malakka Boğazı, Luzon Boğazı ve Kuzey Atlantik gibi kritik darboğazlarda yoğunlaşır ve Five Eyes (FVEY) dinleme istasyonları ile denizaltı casusluk araçlarının daimi hedefidir.
 
 ---
 

@@ -1,5 +1,9 @@
 # 🚫 Küresel Görgü Kuralları, İletişim Kodları ve Sosyal Tabular (Do's & Don'ts)
 
+<p align="center">
+  <img src="../assets/images/intercultural_etiquette_and_greeting_rituals.jpg" alt="Kültürlerarası Nezaket ve Selamlaşma Ritüelleri" width="90%">
+</p>
+
 Farklı kültürlerde saygı ifadesi olan bir davranış, başka bir coğrafyada en ağır hakaret sayılabilir. Yabancı bir ülkede saygın ve görgülü bir misafir olmanın altın anahtarları:
 
 ---

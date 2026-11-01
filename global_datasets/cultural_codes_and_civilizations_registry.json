@@ -1,0 +1,239 @@
+{
+  "title": "Küresel Medeniyetler, Ulusal Karakterler ve Kültürel Kodlar Atlası",
+  "doctrine": "Bir ülkeyi yalnızca GSYİH rakamları, ordu gücü veya siyasi liderleriyle tanımak imkansızdır. Bir ulusun gerçek ruhu; bin yıllık kolektif hafızasında, sofrasında, çevrilemeyen kelimelerinde, selamlaşma adabında, edebiyatında ve gündelik hayat ritüellerinde gizlidir.",
+  "civilization_realms": [
+    {
+      "id": "anatolian_mediterranean",
+      "name": "Anadolu & Akdeniz Havzası (Kavşak Medeniyetleri)",
+      "core_philosophy": "Kolektif misafirperverlik, kader birliği, 'Gönül' ve 'İmece' kültürü, yüksek bağlamlı iletişim, duygusal dışavurum ve derin tarihsel katmanlaşma.",
+      "representative_states": ["Turkey", "Greece", "Cyprus"]
+    },
+    {
+      "id": "east_asian_sinic",
+      "name": "Doğu Asya & Konfüçyüsçü-Budist Havza",
+      "core_philosophy": "Sosyal uyum (Wa/He), hiyerarşiye ve büyüklere hürmet, 'Yüz Kaybetmeme' (Mianzi/Menboku) hassasiyeti, dolaylı anlatım, disiplinli sabır ve uzun vadeli planlama.",
+      "representative_states": ["Japan", "China", "South Korea", "Taiwan", "Singapore"]
+    },
+    {
+      "id": "germanic_nordic",
+      "name": "Cermen & İskandinav Mutabakatı",
+      "core_philosophy": "Kuralcılık, dakiklik (Pünktlichkeit), kamusal eşitlikçilik (Janteloven), doğayla iç içelik, düşük bağlamlı doğrudan iletişim ve rasyonel şeffaflık.",
+      "representative_states": ["Germany", "Sweden", "Norway", "Denmark", "Finland", "Switzerland", "Austria", "Netherlands"]
+    },
+    {
+      "id": "anglo_saxon",
+      "name": "Anglo-Sakson Bireyciliği & Pragmatizm",
+      "core_philosophy": "Bireysel özgürlük, girişimcilik, 'Fırsatlar Ülkesi' ethosu, pragmatik problem çözme, nezaket mesafesi (Privacy) ve liyakat odaklılık.",
+      "representative_states": ["United States", "United Kingdom", "Canada", "Australia", "New Zealand"]
+    },
+    {
+      "id": "slavic_eurasian",
+      "name": "Slav & Avrasya Derinliği",
+      "core_philosophy": "Kolektif 'Geniş Ruh' (Shirokaya Dusha), melankoli ve dayanıklılık (Stoykost), metafizik derinlik, zorluklar karşısında adanmışlık ve güçlü devlet algısı.",
+      "representative_states": ["Russia", "Ukraine", "Poland", "Serbia", "Bulgaria", "Belarus"]
+    },
+    {
+      "id": "latin_american",
+      "name": "Latin Amerika & Büyülü Gerçekçilik",
+      "core_philosophy": "Aile odaklılık (Familismo), sıcak temas ve dans, 'Sobremesa' (yemek sonrası koyu sohbet), kutlama coşkusu ve kaderci neşe.",
+      "representative_states": ["Brazil", "Mexico", "Argentina", "Colombia", "Chile", "Peru"]
+    },
+    {
+      "id": "middle_eastern_persian",
+      "name": "Orta Doğu & Fars İncelik Havzası",
+      "core_philosophy": "Cömertlik ve ikram (Kerem), onur ve itibar (Şeref), nezaket inceliği (Ta'arof), sözlü edebiyat ve şiir tutkusu, kutsal mekan hürmeti.",
+      "representative_states": ["Iran", "Egypt", "Saudi Arabia", "Morocco", "Jordan", "Iraq"]
+    },
+    {
+      "id": "south_asian_dharmic",
+      "name": "Güney Asya & Dharmik Çoğulculuk",
+      "core_philosophy": "Dharma (Ödev ve Doğruluk), Karma (Sebep-Sonuç döngüsü), 'Jugaad' (yaratıcı doğaçlama), renkli bayramlar ve derin ruhani hoşgörü.",
+      "representative_states": ["India", "Pakistan", "Bangladesh", "Sri Lanka", "Nepal"]
+    },
+    {
+      "id": "sub_saharan_ubuntu",
+      "name": "Sahra Altı Afrika & Ubuntu Kültürü",
+      "core_philosophy": "'Ben, biz olduğumuz için benim' (Ubuntu); kabile ve topluluk dayanışması, ritmik müzik, sözlü tarih anlatıcılığı (Griot) ve yaşlılara mutlak saygı.",
+      "representative_states": ["South Africa", "Nigeria", "Kenya", "Ghana", "Ethiopia", "Senegal"]
+    }
+  ],
+  "countries_cultural_dna": [
+    {
+      "country": "Türkiye",
+      "code": "TUR",
+      "capital": "Ankara (Kültür Başkenti: İstanbul)",
+      "civilization_crossroads": "Orta Asya Bozkır Kültürü + İslam Medeniyeti + Doğu Roma (Bizans) & Selçuklu/Osmanlı İmparatorluk Mirası + Akdeniz Sıcaklığı.",
+      "core_cultural_ethos": "Misafirperverlik (Tanrı Misafiri inancı), 'Gönül' dili, hiyerarşide Devlet Baba ve büyüklere saygı, imece usulü yardımlaşma, anlık duygu fırtınaları ve kriz anlarında sarsılmaz kenetlenme refleksi.",
+      "untranslatable_soul_concepts": [
+        {"word": "Gönül", "meaning": "Kalp ve ruhun ötesinde; sevgi, kırılganlık, bağışlama ve derin manevi arzuların taht kurduğu içsel mekan."},
+        {"word": "Hüzün", "meaning": "Bireysel kederden ziyade, geçmiş büyük medeniyetin kaybından ve hayatın geçiciliğinden doğan asil, kolektif ve şairane melankoli."},
+        {"word": "İmece", "meaning": "Köylerde ve mahallelerde hiçbir karşılık beklemeksizin el birliğiyle zor işlerin üstesinden gelme dayanışması."},
+        {"word": "Hasret", "meaning": "Sıla, sevdikler ve vatan özleminin yüreği dağlayan derin nostaljik sızısı."},
+        {"word": "Yakamoz", "meaning": "Ay ışığının değil, denizdeki biyolüminesans planktonların parıldamasıyla su yüzeyinde beliren büyüleyici ışıltı."}
+      ],
+      "social_rituals_and_lifestyle": "Günde ortalama 4-6 bardak ince belli bardakta taze demlenmiş Rize çayı tüketimi; yemek sonrası lokum ve közde Türk kahvesi eşliğinde saatlerce süren sohbetler; bayramlarda büyüklerin ellerinin öpülüp alna konması; cuma ve pazar günleri kurulan rengarenk semt pazarları ve esnaf selamlaşması.",
+      "communication_style": "Yüksek Bağlamlı (High Context). Doğrudan 'Hayır' demek ayıp sayılır; beden dili, ses tonu, ikram ve jestler sözcüklerden daha derin anlam taşır.",
+      "gastronomic_philosophy": "Bereket sofrası. Ekmek nimettir ve kutsaldır; sofra bir karın doyurma aracı değil, ailenin ve dostların bir araya geldiği bir şölendir. Zengin zeytinyağlılar, kebap çeşitleri, taş fırın pidesi, baklava ve yoğurt merkezli kadim mutfak.",
+      "social_taboos_and_etiquette": "Eve ayakkabıyla girmek kesinlikle tabudur; ekmeği yere atmak veya çöpe basmak günahtır; misafire ikram edilen çay/kahveyi geri çevirmek kırıcı kabul edilir; cenazelerde ve taziye evlerinde yüksek sesle konuşulmaz, komşular günlerce yemek taşır.",
+      "literary_and_artistic_archetypes": "Yunus Emre, Mevlana Celaleddin Rumi, Fuzuli, Nazım Hikmet, Yaşar Kemal; Çini sanatı, Ebru, Hat sanatı ve Türk Sanat/Halk Müziği makamları."
+    },
+    {
+      "country": "Japonya",
+      "code": "JPN",
+      "capital": "Tokyo (Tarih Başkenti: Kyoto)",
+      "civilization_crossroads": "Şinto Doğa İnancı + Zen Budizmi + Samuray Onur Kodu (Bushido) + Yüksek Teknoloji Modernizmi.",
+      "core_cultural_ethos": "Toplumsal ahenk (Wa), başkalarına rahatsızlık vermeme (Meiwaku), mükemmeliyetçilik ve zanaat tutkusu (Shokunin Kishitsu), geçiciliğin estetiği.",
+      "untranslatable_soul_concepts": [
+        {"word": "Mono no aware", "meaning": "Varlıkların ve mevsimlerin (özellikle kiraz çiçeklerinin / sakura) geçiciliğine duyulan derin, dokunaklı hüzün ve şefkat."},
+        {"word": "Ikigai", "meaning": "Sabahları yataktan kalkmak için sebep; tutku, yetenek, dünya ihtiyacı ve mesleğin kesiştiği varoluş gayesi."},
+        {"word": "Kintsugi", "meaning": "Kırılan seramikleri altın tozuyla birleştirerek kusurları saklamak yerine onlara değer ve karakter katma felsefesi."},
+        {"word": "Komorebi", "meaning": "Güneş ışınlarının ağaç yapraklarının arasından süzülerek yerde oluşturduğu gölgeli ışık oyunu."},
+        {"word": "Wabi-sabi", "meaning": "Kusurlu, eksik ve mütevazı olanın içindeki dingin güzelliği bulma estetiği."}
+      ],
+      "social_rituals_and_lifestyle": "Çay seremonisi (Chado / Sadō); baharda parklarda sakura izleme piknikleri (Hanami); geleneksel hamam (Onsen) ritüeli; trenlerde ve kamusal alanlarda mutlak sessizlik; hafifçe öne eğilerek selamlaşma (Ojigi).",
+      "communication_style": "Aşırı Yüksek Bağlamlı. 'Honne' (gerçek kişisel duygu ve fikirler) ile 'Tatemae' (kamuoyu önünde sergilenen uyumlu yüz) ayrımı esastır. Doğrudan reddetmek kabalıktır, 'Zor görünüyor' demek 'Hayır' anlamına gelir.",
+      "gastronomic_philosophy": "Doğal lezzeti değiştirmeden sunma sanatı (Washoku / UNESCO Mirası). Malzemenin tazeliği, mevsimselliği ve sunumun görsel geometrisi her şeyden önemlidir. Sushi, ramen, matcha ve dashi suyu.",
+      "social_taboos_and_etiquette": "Yürürken yemek yemek veya içmek hoş karşılanmaz; yemek çubuklarını (hashi) pirinç kasesine dik saplamak (cenaze ritüelini andırdığı için) büyük bir tabudur; ayakkabıyla tatamiye basılmaz; bahşiş bırakmak 'hizmetin değerine hakaret' sayılır.",
+      "literary_and_artistic_archetypes": "Yasunari Kawabata, Haruki Murakami, Matsuo Bashō (Haiku); Ukiyo-e tahta baskı sanatı, Noh ve Kabuki tiyatrosu, Anime ve Manga anlatımı."
+    },
+    {
+      "country": "Almanya",
+      "code": "DEU",
+      "capital": "Berlin",
+      "civilization_crossroads": "Kutsal Roma-Cermen İmparatorluğu + Aydınlanma & Kant/Hegel Felsefesi + Romantizm + Sanayi Devrimi ve Sosyal Piyasa Ekonomisi.",
+      "core_cultural_ethos": "Düzen ve planlama (Ordnung), güvenilirlik (Zuverlässigkeit), doğrudanlık (Direktheit), çevreye saygı ve liyakatli mühendislik bilinci.",
+      "untranslatable_soul_concepts": [
+        {"word": "Gemütlichkeit", "meaning": "Sıcak bir mekanda, dostlarla birlikte, telaştan uzak hissedilen dingin, samimi ve huzurlu aidiyet duygusu."},
+        {"word": "Fernweh", "meaning": "Evde otururken bilinmeyen uzak diyarlara, yabancı coğrafyalara duyulan özlem ve seyahat arzusu (sıla hasretinin tersi)."},
+        {"word": "Schadenfreude", "meaning": "Başkasının başına gelen talihsizlikten ya da başarısızlıktan duyulan gizli hoşnutluk."},
+        {"word": "Feierabend", "meaning": "İş gününün bittiği, profesyonel sorumlulukların kapıda bırakıldığı ve kişisel dinlenmenin başladığı kutsal saatler."},
+        {"word": "Waldeinsamkeit", "meaning": "Ormanın derinliklerinde tek başına yürürken doğanın sükunetiyle bütünleşme ve yalnızlığın verdiği huzur."}
+      ],
+      "social_rituals_and_lifestyle": "Pazar günleri 'Ruhetag' (Dinlenme Günü) gereği marketlerin kapalı olması ve evlerde gürültü yapılmaması; bahar aylarında açık hava 'Biergarten' buluşmaları; Noel pazarları (Weihnachtsmarkt); hafta sonu doğa yürüyüşleri (Wandern).",
+      "communication_style": "Düşük Bağlamlı (Low Context). Düşünceler dolandırmadan, net, rasyonel ve gerçekçi şekilde söylenir. Fazla iltifat yapmacık bulunur; yapıcı eleştiri profesyonelliğin gereğidir.",
+      "gastronomic_philosophy": "Doyurucu, besleyici ve yerel. 3.000'den fazla ekmek çeşidi (Kültür Mirası), binlerce çeşit sosis (Wurst), patates yemekleri, lahana turşusu (Sauerkraut) ve Saflık Yasası'na (Reinheitsgebot) göre üretilen geleneksel biralar.",
+      "social_taboos_and_etiquette": "Randevuya 5 dakika bile geç kalmak saygısızlık kabul edilir; kırmızı ışıkta yaya olarak dahi karşıya geçilmez; başkalarının özel alanına izinsiz müdahale edilmez; pazar günü çim biçmek veya tadilat yapmak komşuluk şikayetine yol açar.",
+      "literary_and_artistic_archetypes": "Goethe, Schiller, Thomas Mann, Franz Kafka; Beethoven, Bach, Brahms senfonileri; Bauhaus tasarım ekolü."
+    },
+    {
+      "country": "İtalya",
+      "code": "ITA",
+      "capital": "Roma",
+      "civilization_crossroads": "Antik Roma Hukuku & Mimarisi + Rönesans Hümanizmi + Katolik Kilisesi Merkezi + Akdeniz Yaşam Sanatı.",
+      "core_cultural_ethos": "'La Dolce Vita' (Tatlı Hayat), 'Bella Figura' (her ortamda estetik, şık ve kusursuz görünme gayreti), aile bağları ve yemek üzerinden sosyalleşme tutkusu.",
+      "untranslatable_soul_concepts": [
+        {"word": "Dolce far niente", "meaning": "Hiçbir şey yapmamanın, anın tadını telaşsızca çıkarmanın getirdiği tatlı tembellik zevki."},
+        {"word": "Bella figura", "meaning": "Yalnızca güzel giyinmek değil; davranışlarda, konuşmada ve tavırda zarafeti, asaleti ve görgüyü koruma sanatı."},
+        {"word": "Aperitivo", "meaning": "Akşam yemeği öncesinde hafif bir içecek ve atıştırmalık eşliğinde dostlarla günün yorgunluğunu atma ritüeli."},
+        {"word": "Campanilismo", "meaning": "Kişinin doğduğu köyün veya mahallenin kilise çan kulesinin (campanile) gölgesine, kendi dar bölgesine duyduğu tutkulu yerel aidiyet."}
+      ],
+      "social_rituals_and_lifestyle": "Sabahları ayakta barda hızlıca espresso veya cappuccino içilmesi; öğleden sonraları ana caddede piyasa yapma (La Passeggiata) gezintisi; Pazar günleri saatler süren çok aşamalı aile yemekleri (Pranzo della Domenica).",
+      "communication_style": "Çok Yüksek Bağlamlı ve Zengin Beden Dili. Konuşurken eller, kollar ve yüz mimikleri cümlenin gramerinden daha fazla anlam ifade eder; ses tonu canlı ve teatraldir.",
+      "gastronomic_philosophy": "Kutsal gelenek. Her bölgenin, hatta her kasabanın kendine has makarna kesimi, peyniri ve zeytinyağı vardır. Reçetelere dışarıdan müdahale (örneğin pizzaya ananas koymak veya carbonaraya krema eklemek) kültürel saygısızlık sayılır.",
+      "social_taboos_and_etiquette": "Öğleden sonra veya yemek sonrasında asla cappuccino sipariş edilmez (yalnızca sabah içilir); spagetti asla bıçakla kesilmez veya kaşıkla sarılmaz; salaş veya özensiz kıyafetle sokağa çıkmak 'brutta figura' olarak kınanır.",
+      "literary_and_artistic_archetypes": "Dante Alighieri (İlahi Komedya), Boccaccio, Umberto Eco; Leonardo da Vinci, Michelangelo, Caravaggio; Verdi ve Puccini operaları."
+    },
+    {
+      "country": "Amerika Birleşik Devletleri",
+      "code": "USA",
+      "capital": "Washington, D.C. (Kültür & Finans: New York, Los Angeles)",
+      "civilization_crossroads": "Püriten İş Etiği + Vahşi Batı Öncü Ruhu (Frontier Spirit) + Aydınlanma Anayasası + Küresel Göçmen Potası (Melting Pot).",
+      "core_cultural_ethos": "Bireysel başarı (Self-made man), sınırsız fırsat inancı (Amerikan Rüyası), optimizm, ifade özgürlüğü ve doğrudan iletişim.",
+      "untranslatable_soul_concepts": [
+        {"word": "Underdog", "meaning": "Mücadelede şansı en az görülen, herkesin kaybedeceğini düşündüğü ancak azmiyle imkansızı başarıp herkesi kendine hayran bırakan taraf."},
+        {"word": "Serendipity", "meaning": "Kişinin aslında aramadığı, tamamen tesadüf eseri karşısına çıkan ve hayatını değiştiren güzel keşif veya şans."},
+        {"word": "Grit", "meaning": "Tüm engellere, yenilgilere ve zorluklara rağmen uzun vadeli hedeflerden asla vazgeçmeyen demir gibi irade ve kararlılık."}
+      ],
+      "social_rituals_and_lifestyle": "Hafta sonu arka bahçede mangal (Barbecue/BBQ) partileri; Şükran Günü'nde (Thanksgiving) ailenin hindi sofrasında toplanması; lise ve üniversite spor müsabakaları (Tailgating); arabayla uzun yol (Road Trip) maceraları.",
+      "communication_style": "Düşük Bağlamlı, Doğrudan ve Rahat (Informal). Yabancılarla asansörde veya kuyrukta hemen samimi havadan sudan konuşma (Small Talk) başlatılır; resmi unvanlar yerine ilk isimle hitap yaygındır.",
+      "gastronomic_philosophy": "Hızlı, bol porsiyonlu ve füzyon. Dünyanın her mutfağından esinlenen, diners kültürü, hamburger, tütsülenmiş barbekü etleri, New York tarzı cheesecake ve her köşe başında devasa kahve bardakları.",
+      "social_taboos_and_etiquette": "Hizmet sektöründe bahşiş (tip - %18-%22) bırakmamak en büyük sosyal ayıptır; kişisel fiziksel alana (Personal Space) aşırı yaklaşmak rahatsızlık verir; yabancılara maaş veya oy tercihi doğrudan sorulmaz.",
+      "literary_and_artistic_archetypes": "Mark Twain, Ernest Hemingway, F. Scott Fitzgerald, John Steinbeck; Hollywood sineması, Caz, Blues, Rock'n Roll ve Hip-Hop müzik devrimi."
+    },
+    {
+      "country": "Birleşik Krallık",
+      "code": "GBR",
+      "capital": "Londra",
+      "civilization_crossroads": "Kelt Kökleri + Roma & Anglo-Sakson Mirası + Magna Carta Parlamentarizmi + Britanya İmparatorluğu Küresel Etkisi.",
+      "core_cultural_ethos": "İğneleyici nükte (Dry Humour / Understatement), duygusal ölçülülük ve metanet (Stiff Upper Lip), centilmenlik adabı ve kuyrukta bekleme intizamı.",
+      "untranslatable_soul_concepts": [
+        {"word": "Understatement", "meaning": "Dehşet verici veya harika bir durumu aşırı mütevazı ve önemsizmiş gibi ifade etme sanatı (örn. fırtına koparken 'Hava biraz serin gibi' demek)."},
+        {"word": "Banter", "meaning": "Dostlar arasında karşılıklı yapılan, incitici olmayan, son derece zeki, esprili ve iğneleyici atışma sohbeti."},
+        {"word": "Cheerio", "meaning": "Hem neşeli bir veda hem de içten bir iyi dilek içeren geleneksel İngiliz selamı."}
+      ],
+      "social_rituals_and_lifestyle": "Saat beşte sütlü çay ve bisküvi/scone molası (Afternoon Tea); mesai sonrası yerel barda (Pub) bir bira içip mahalleliyle sohbet etmek; Pazar günleri fırında etli patates ziyafeti (Sunday Roast); hava durumunu konuşarak her muhabbeti başlatma refleksi.",
+      "communication_style": "Yüksek Düzeyde İroni ve Dolaylılık. Asla doğrudan kaba veya öfkeli konuşulmaz; aşırı derecede 'Please', 'Thank you' ve 'Sorry' (özür dilerim) kullanılır.",
+      "gastronomic_philosophy": "Geleneksel konfor yemekleri. Fish & Chips, Shepherd's Pie, scone ve reçelli krema, Cheddar peyniri ve zengin kahvaltı (Full English Breakfast).",
+      "social_taboos_and_etiquette": "Kuyruğa kaynak yapmak (Queue jumping) ulusal bir suç derecesinde kınanır; metroda veya trende tanımadığın insanlarla göz teması kurmak veya sesli konuşmak uygunsuz bulunur; duygusal patlamalar ve taşkınlıklar ayıplanır.",
+      "literary_and_artistic_archetypes": "William Shakespeare, Jane Austen, Charles Dickens, George Orwell, J.K. Rowling; The Beatles, Queen, Pink Floyd; Viktorya ve Gotik mimari."
+    },
+    {
+      "country": "Fransa",
+      "code": "FRA",
+      "capital": "Paris",
+      "civilization_crossroads": "Galya-Roma Kökleri + Fransız Aydınlanması (Voltaire, Rousseau) + 1789 İhtilali (Özgürlük, Eşitlik, Kardeşlik) + Küresel Sanat & Moda Merkezi.",
+      "core_cultural_ethos": "'L'art de vivre' (Yaşama Sanatı), entelektüel münazara ve eleştirel sorgulama tutkusu, laik cumhuriyetçilik (Laïcité) ve diline/kültürüne duyulan sarsılmaz gurur.",
+      "untranslatable_soul_concepts": [
+        {"word": "Joie de vivre", "meaning": "Hayatın sunduğu en küçük zevklerden (bir parça peynir, güzel bir gün batımı, dost sohbeti) duyulan coşkulu yaşama sevinci."},
+        {"word": "Flâneur", "meaning": "Şehir sokaklarında hiçbir hedef ve telaş olmadan, yalnızca çevreyi gözlemlemek ve atmosferi içine çekmek için aylakça dolaşan entelektüel gezgin."},
+        {"word": "Terroir", "meaning": "Bir şarabın veya peynirin üretildiği toprağın, iklimin, geleneğin ve mikroorganizmaların ürüne kattığı taklit edilemez özgün karakter."}
+      ],
+      "social_rituals_and_lifestyle": "Sabah fırından sıcak alınan baget ekmek ve kruvasan; kaldırım üstü kafelerde oturup geçen insanları izlemek; akşamları peynir ve şarap eşliğinde saatlerce süren felsefi/politik tartışmalar; iki yanaktan öpüşerek selamlaşma (La Bise).",
+      "communication_style": "Zarif, Münazaracı ve Entelektüel. Fikir ayrılıkları ve hararetli tartışmalar dostluğu bozmaz, bilakis zihni diri tutan bir oyun olarak sevilir.",
+      "gastronomic_philosophy": "UNESCO Somut Olmayan Mirası listesindeki Fransız Gastronomi Yemeği. Yemek aceleye getirilmez; başlangıç, ana yemek, peynir tabağı ve tatlı sırasıyla bir seremoni gibi icra edilir.",
+      "social_taboos_and_etiquette": "Dükkana veya restorana girerken 'Bonjour' (Günaydın) dememek büyük kabalıktır; ekmeği masada ters koymak uğursuzluk sayılır; yemeğe tuz veya ketçap istemek aşçının sanatına hakaret algılanabilir.",
+      "literary_and_artistic_archetypes": "Victor Hugo, Marcel Proust, Albert Camus, Jean-Paul Sartre; Claude Monet, Auguste Rodin; Şanzelize, Eyfel Kulesi ve Louvre Sarayı."
+    },
+    {
+      "country": "Çin",
+      "code": "CHN",
+      "capital": "Pekin (Ticaret & Kültür: Şanghay, Xi'an)",
+      "civilization_crossroads": "5.000 Yıllık Kesintisiz Han Medeniyeti + Konfüçyanizm + Taoizm (Yin-Yang Dengesi) + Modern Sosyalist Piyasa.",
+      "core_cultural_ethos": "Kolektif uyum, toplumsal hiyerarşi, 'Guanxi' (kişisel güvene dayalı derin ilişki ağları), yüz koruma (Mianzi) ve sabırlı tarihsel perspektif.",
+      "untranslatable_soul_concepts": [
+        {"word": "Guanxi", "meaning": "Resmi sözleşmelerin ötesinde; karşılıklı yükümlülük, sadakat ve lütuf alışverişine dayanan ömür boyu süren kişisel bağlantı ağı."},
+        {"word": "Mianzi", "meaning": "Toplum içindeki itibar, haysiyet ve sosyal prestij; bir insanın 'yüzünü kaybetmesi' en büyük felakettir."},
+        {"word": "Yuanfen", "meaning": "İki insanın, kaderin ve evrenin gizli çekimiyle bir araya gelmesini sağlayan önceden belirlenmiş tesadüfi bağ."}
+      ],
+      "social_rituals_and_lifestyle": "Sabahın erken saatlerinde parklarda Tai Chi yapan yaşlılar; döner tablalı yuvarlak masalarda paylaşılan ziyafetler; Bahar Bayramı'nda (Çin Yeni Yılı) ailelerin toplanıp kırmızı zarf (Hongbao) dağıtması; sürekli sıcak su veya yeşil çay içme alışkanlığı.",
+      "communication_style": "Aşırı Dolaylı ve Nezaket Odaklı. Asla muhatabı mahcup edecek veya 'yüzünü düşürecek' sert eleştiriler uluorta yapılmaz.",
+      "gastronomic_philosophy": "Yemek hem şifa hem felsefedir (Tıbbi Beslenme - Yin ve Yang dengesi). Sekiz büyük mutfak geleneği (Siçuan, Kanton vb.); Pekin ördeği, Dim Sum, mantı (Jiaozi) ve wok ateşinde pişirme sanatı.",
+      "social_taboos_and_etiquette": "Yemek çubuklarını dikey olarak pirince saplamak (ölüm çağrışımı); saat veya beyaz çiçek hediye etmek (cenaze sembolü); hediye verilirken veya alınırken hemen kabul etmek yerine iki kez mütevazıca reddetmek adettendir.",
+      "literary_and_artistic_archetypes": "Konfüçyüs (Konuşmalar), Laozi (Dao De Jing), Dört Büyük Klasik Roman (Kızıl Köşkün Rüyası vb.); Hat sanatı, porselen ustalığı ve Pekin Operası."
+    },
+    {
+      "country": "Rusya",
+      "code": "RUS",
+      "capital": "Moskova (Kültür Başkenti: St. Petersburg)",
+      "civilization_crossroads": "Doğu Slav Mirası + Bizans Ortodoks Ruhaniyeti + Moğol/Altın Orda İdaresi İzi + Çarlık İmparatorluğu & Sovyet Dönemi Anıtsallığı.",
+      "core_cultural_ethos": "Geniş ruh (Shirokaya Dusha), acıya ve soğuğa karşı doğaüstü dayanıklılık (Stoykost), derin melankoli, sahicilik (yapmacıklıktan nefret) ve samimi dostluk.",
+      "untranslatable_soul_concepts": [
+        {"word": "Toska", "meaning": "Hiçbir belirgin sebebi olmayan, insanın göğsünü sıkıştıran, sonsuz bozkırlara ve ruhun derinliklerine bakan büyük manevi sızı ve metafizik hasret."},
+        {"word": "Dusha", "meaning": "Bireyin vicdanını, dürüstlüğünü ve duygusal derinliğini barındıran kutsal 'Rus Ruhu'."},
+        {"word": "Avos", "meaning": "Hiçbir rasyonel hazırlık veya plan olmamasına rağmen, 'kaderin bir şekilde yardım edeceği ve işlerin yoluna gireceği' yönündeki kaderci kör inanç."}
+      ],
+      "social_rituals_and_lifestyle": "Geleneksel buhar banyosu (Banya) ve huş ağacı dallarıyla masaj ritüeli; yaz aylarında şehirden kaçıp kır evinde (Dacha) sebze yetiştirip dinlenmek; mutfakta sabaha kadar süren derin felsefi sohbetler; votka içilirken her kadehte uzun ve edebi bir kadeh kaldırma (Tost) konuşması yapmak.",
+      "communication_style": "Yüzeyde Soğuk ve Ciddi, İçeride Tutkulu ve Fedakar. Sokakta yabancılara sebepsizce gülümsemek 'samimiyetsizlik ve ahmaklık' olarak algılanır; ancak bir eve misafir olunduğunda ev sahibi son kuruşuna kadar her şeyini misafire ikram eder.",
+      "gastronomic_philosophy": "Kış şartlarına meydan okuyan doyurucu lezzetler. Borş çorbası, Pelmeni mantısı, havyar, çavdar ekmeği, ringa balığı ve semaverde demlenen koyu çay.",
+      "social_taboos_and_etiquette": "Kapı eşiğinde el sıkışmak veya bir şey vermek (şeytanın eşikte beklediğine inanıldığı için) uğursuzluk sayılır; boş şişe asla masanın üzerinde bırakılmaz, yere konur; tek sayıda çiçek hediye edilir (çift sayı yalnızca cenazelere götürülür).",
+      "literary_and_artistic_archetypes": "Lev Tolstoy, Fyodor Dostoyevski, Aleksandr Puşkin, Anton Çehov; Çaykovski, Şostakoviç; Bolşoy Balesi ve Ermitaj Müzesi."
+    },
+    {
+      "country": "Hindistan",
+      "code": "IND",
+      "capital": "Yeni Delhi (Kültür & Sinema: Mumbai, Varanasi, Kalküta)",
+      "civilization_crossroads": "İndus Vadisi Medeniyeti + Vedik & Hinduizm Gelenekleri + Budizm ve Jainizm Doğuşu + Babür İslam Sanatı + İngiliz Raj Koloni Mirası.",
+      "core_cultural_ethos": "Dharma (kozmik ahlaki nizam), Ahimsa (şiddetsizlik), derin hoşgörü, aile dayanışması ve yaratıcı pratik zeka (Jugaad).",
+      "untranslatable_soul_concepts": [
+        {"word": "Jugaad", "meaning": "Kıt kaynaklarla, hiçbir kurala takılmadan, anında yaratıcı ve pratik doğaçlama çözümler üretme dehası."},
+        {"word": "Namaste", "meaning": "'İçimdeki ilahi kıvılcım, senin içindeki ilahi kıvılcımı selamlar ve ona saygıyla eğilir.'"},
+        {"word": "Chai-Pani", "meaning": "Kelime anlamıyla 'Çay ve Su'; misafire sunulan asgari ikramı veya dostane bir sohbet davetini ifade eden sevgi dolu tabir."}
+      ],
+      "social_rituals_and_lifestyle": "Ganj Nehri kıyısında sabah duaları ve Aarti ateş seremonisi; gün boyu sokak tezgahlarında zencefilli ve kakuleli Masala Chai içimi; günlerce süren görkemli, danslı kına ve düğün merasimleri; Holi (Renkler Festivali) ve Diwali (Işıklar Festivali) kutlamaları.",
+      "communication_style": "Yüksek Bağlamlı ve Toleranslı. Başın iki yana sallanması (Indian Head Wobble) duruma göre 'anladım', 'katılıyorum' veya 'nezaketle dinliyorum' anlamına gelir.",
+      "gastronomic_philosophy": "Baharatların simyası ve Ayurveda dengesi. Her baharatın bir sağlık ve ruhsal faydası olduğuna inanılır. Zengin vejetaryen mutfağı, köri çeşitleri, tandır ekmekleri (Naan/Roti), Biryani ve taze mercimek yahnisi (Dal).",
+      "social_taboos_and_etiquette": "Yemek yerken veya birine bir şey uzatırken sol el kullanılmaz (temizlik dışı sayılır); tapınaklara ve evlere ayakkabıyla girilmez; büyüklere saygı için ayaklarına dokunarak kutsanma istenir (Charan Sparsh); inekler kutsaldır ve sokaklarda serbestçe dolaşırlar.",
+      "literary_and_artistic_archetypes": "Mahabharata ve Ramayana destanları, Rabindranath Tagore; Sitar ustası Ravi Shankar, klasik Bharatanatyam dansı, Bollywood sineması ve Tac Mahal."
+    }
+  ]
+}

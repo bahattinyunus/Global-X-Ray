@@ -227,6 +227,7 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
         darkfleet_file = self.datasets_dir / "shadow_fleet_maritime_registry.json"
         nuclear_file = self.datasets_dir / "nuclear_arsenals_and_triad_registry.json"
         armstrade_file = self.datasets_dir / "global_arms_trade_and_contractors.json"
+        culture_file = self.datasets_dir / "cultural_codes_and_civilizations_registry.json"
 
         self.assertTrue(choke_file.exists(), "chokepoints_registry.json eksik!")
         self.assertTrue(pmc_file.exists(), "pmc_mercenary_groups.json eksik!")
@@ -238,6 +239,7 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
         self.assertTrue(darkfleet_file.exists(), "shadow_fleet_maritime_registry.json eksik!")
         self.assertTrue(nuclear_file.exists(), "nuclear_arsenals_and_triad_registry.json eksik!")
         self.assertTrue(armstrade_file.exists(), "global_arms_trade_and_contractors.json eksik!")
+        self.assertTrue(culture_file.exists(), "cultural_codes_and_civilizations_registry.json eksik!")
 
     def test_strategic_datasets_structure(self):
         """Yeni stratejik veri setlerinin JSON içerik ve şema bütünlüğü test edilir."""
@@ -294,6 +296,14 @@ class TestGlobalXRayIntegrity(unittest.TestCase):
             self.assertIn("top_prime_contractors", armstrade)
             self.assertGreaterEqual(len(armstrade["top_prime_contractors"]), 12)
             self.assertIn("top_exporters_vs_importers", armstrade)
+
+        # 9. Cultural Codes & Civilizations
+        with open(self.datasets_dir / "cultural_codes_and_civilizations_registry.json", "r", encoding="utf-8") as f:
+            culture = json.load(f)
+            self.assertIn("civilization_realms", culture)
+            self.assertIn("countries_cultural_dna", culture)
+            self.assertEqual(len(culture["civilization_realms"]), 9)
+            self.assertGreaterEqual(len(culture["countries_cultural_dna"]), 10)
 
 if __name__ == "__main__":
     unittest.main()

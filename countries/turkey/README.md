@@ -34,7 +34,15 @@ Cumhurbaşkanlığı Külliyesi dar karar alma çemberi, kamu ihaleleriyle büy�
 
 ---
 
-## 🧬 3. KATMAN 1: COĞRAFYA, TARİH VE SOSYAL FAY HATLARI
+## 🎭 3. KATMAN 1: MEDENİYET KİMLİĞİ, KÜLTÜREL KODLAR VE TOPLUMSAL DOKU
+
+> 📖 *Detaylı kültürel analiz, çevrilemeyen kavramlar, gündelik hayat ritüelleri ve gastronomi rehberi için:* [**01_culture_demographics/society_history.md**](01_culture_demographics/society_history.md)
+
+### 🧬 Kültürel DNA ve Medeniyet Kavşağı
+- **Medeniyet Sentezi:** Orta Asya Bozkır Kültürü + İslam Medeniyeti + Doğu Roma & Selçuklu/Osmanlı İmparatorluk Mirası + Akdeniz Sıcaklığı.
+- **Temel Ethos:** Misafirperverlik ("Tanrı Misafiri" inancı), "Gönül" dili, hiyerarşide Devlet Baba ve büyüklere saygı, imece dayanışması ve kriz anlarında sarsılmaz kenetlenme refleksi.
+- **Çevrilemeyen Ruh Kavramları:** *Gönül*, *Hüzün*, *İmece*, *Hasret*, *Yakamoz*.
+- **Gündelik Hayat & Sofra Adabı:** İnce belli bardakta çay, közde Türk kahvesi sohbetleri; ekmeğin kutsallığı ve bereket sofrası felsefesi.
 
 ### 👥 Etnik, Dini ve Demografik Dağılım
 - **Nüfus Büyüklüğü:** 85,372,377 vatandaş ve mukim nüfus.

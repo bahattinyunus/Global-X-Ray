@@ -6,6 +6,7 @@ Küresel Röntgen (Global X-Ray) - Komut Satırı İstihbarat & Analiz Terminali
 
 Kullanım:
   python scripts/xray_cli.py country <ulke_adi_veya_kodu>
+  python scripts/xray_cli.py culture [ulke_veya_medeniyet]
   python scripts/xray_cli.py compare <ulke_1> <ulke_2>
   python scripts/xray_cli.py search <terim>
   python scripts/xray_cli.py top-shadow [sayi]
@@ -55,6 +56,7 @@ SWF_PATH = BASE_DIR / "global_datasets" / "sovereign_wealth_funds_registry.json"
 DARKFLEET_PATH = BASE_DIR / "global_datasets" / "shadow_fleet_maritime_registry.json"
 NUCLEAR_PATH = BASE_DIR / "global_datasets" / "nuclear_arsenals_and_triad_registry.json"
 ARMSTRADE_PATH = BASE_DIR / "global_datasets" / "global_arms_trade_and_contractors.json"
+CULTURE_PATH = BASE_DIR / "global_datasets" / "cultural_codes_and_civilizations_registry.json"
 DOSSIERS_DIR = BASE_DIR / "dossiers"
 RESEARCH_DIR = BASE_DIR / "research"
 
@@ -107,6 +109,20 @@ def show_country(query: str):
     print(f"• Nominal GSYH: ${c['gdp_usd_b']:,.1f} Milyar")
     print(f"• Gölge / Kayıt Dışı Ekonomi: %{c['shadow_economy_pct']}")
     print("-" * 75)
+
+    if CULTURE_PATH.exists():
+        with open(CULTURE_PATH, "r", encoding="utf-8") as f:
+            c_dna_list = json.load(f).get("countries_cultural_dna", [])
+        c_dna = next((x for x in c_dna_list if x.get("code") == c["code"] or x.get("country").lower() == c["name"].lower()), None)
+        if c_dna:
+            print("🎭 MEDENİYET KİMLİĞİ VE KÜLTÜREL KODLAR:")
+            print(f"  Medeniyet Havzası: {c_dna.get('civilization_crossroads')}")
+            print(f"  Ulusal Karakter:   {c_dna.get('core_cultural_ethos')}")
+            print(f"  İletişim Tarzı:    {c_dna.get('communication_style')}")
+            words = [f"{w['word']} ({w['meaning'][:40]}...)" for w in c_dna.get("untranslatable_soul_concepts", [])[:3]]
+            if words:
+                print(f"  Kilit Kavramlar:   {'; '.join(words)}")
+            print("-" * 75)
 
     if macro_path.exists():
         with open(macro_path, "r", encoding="utf-8") as f:
@@ -480,6 +496,77 @@ def show_armstrade(query=None):
         print(f"  • Stratejik Tekel:   {c['strategic_monopoly']}")
         print("-" * 85)
 
+def show_culture(query=None):
+    if not CULTURE_PATH.exists():
+        print("[-] Kültürel kodlar veritabanı bulunamadı.")
+        return
+    with open(CULTURE_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    realms = data.get("civilization_realms", [])
+    countries_dna = data.get("countries_cultural_dna", [])
+
+    if not query:
+        print("=" * 85)
+        print("🏛️ KÜRESEL MEDENİYETLER VE KÜLTÜREL KODLAR REHBERİ")
+        print("=" * 85)
+        print(f"Toplam {len(realms)} Büyük Medeniyet Havzası ve {len(countries_dna)} Detaylı Kültürel Profil:\n")
+        for r in realms:
+            print(f"📍 [{r['name']}]")
+            print(f"   Felsefe: {r['core_philosophy']}")
+            print(f"   Temsilci Ülkeler: {', '.join(r['representative_states'])}\n")
+        print("=" * 85)
+        print("[!] Belirli bir ülkenin kültürel kodlarını incelemek için: python scripts/xray_cli.py culture <ulke>")
+        return
+
+    q = query.lower().strip()
+    c_reg = find_country(q)
+    target_code = c_reg["code"].lower() if c_reg else ""
+
+    matched = None
+    for c in countries_dna:
+        if (target_code and c.get("code", "").lower() == target_code) or \
+           q in c["country"].lower() or q in c["code"].lower() or q in c["capital"].lower():
+            matched = c
+            break
+
+    if not matched:
+        matched_realms = [r for r in realms if q in r["name"].lower() or q in r["id"].lower()]
+        if matched_realms:
+            for r in matched_realms:
+                print("=" * 85)
+                print(f"🏛️ MEDENİYET HAVZASI: {r['name'].upper()}")
+                print("=" * 85)
+                print(f"• Temel Felsefe:   {r['core_philosophy']}")
+                print(f"• Temsilci Ülkeler: {', '.join(r['representative_states'])}")
+                print("=" * 85)
+            return
+        print(f"[-] '{query}' için kültürel profil veya medeniyet havzası bulunamadı.")
+        return
+
+    print("=" * 85)
+    print(f"🎭 KÜLTÜREL KODLAR VE ULUSAL KARAKTER: {matched['country'].upper()} ({matched['code']})")
+    print("=" * 85)
+    print(f"• Medeniyet Kavşağı:       {matched['civilization_crossroads']}")
+    print(f"• Ulusal Karakter & Ethos: {matched['core_cultural_ethos']}")
+    print(f"• İletişim Tarzı:          {matched['communication_style']}")
+    print("-" * 85)
+    print("✨ ÇEVRİLEMEYEN RUH KAVRAMLARI (Untranslatable Concepts):")
+    for w in matched.get("untranslatable_soul_concepts", []):
+        print(f"  • {w['word']}: {w['meaning']}")
+    print("-" * 85)
+    print("☕ GÜNDELİK HAYAT VE SOSYAL RİTÜELLER:")
+    print(f"  {matched['social_rituals_and_lifestyle']}")
+    print("-" * 85)
+    print("🍲 MUTFAK FELSEFESİ & GASTRONOMİ:")
+    print(f"  {matched['gastronomic_philosophy']}")
+    print("-" * 85)
+    print("🚫 GÖRGÜ KURALLARI VE SOSYAL TABULAR (Do's & Don'ts):")
+    print(f"  {matched['social_taboos_and_etiquette']}")
+    print("-" * 85)
+    print("📚 EDEBİYAT, SANAT VE MİMARİ MİRAS:")
+    print(f"  {matched['literary_and_artistic_archetypes']}")
+    print("=" * 85)
+
 def show_stats():
     registry = load_registry()
     total_gdp = sum(c.get("gdp_usd_b", 0) for c in registry)
@@ -534,6 +621,9 @@ def main():
 
     if cmd in ["country", "ulke", "c"] and len(sys.argv) > 2:
         show_country(" ".join(sys.argv[2:]))
+    elif cmd in ["culture", "kultur", "medeniyet", "kod"]:
+        q = " ".join(sys.argv[2:]) if len(sys.argv) > 2 else None
+        show_culture(q)
     elif cmd in ["compare", "karsilas", "vs"] and len(sys.argv) > 3:
         compare_countries(sys.argv[2], sys.argv[3])
     elif cmd in ["search", "ara", "s"] and len(sys.argv) > 2:

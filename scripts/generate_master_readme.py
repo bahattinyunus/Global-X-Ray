@@ -57,6 +57,9 @@ with open(BASE_DIR / "global_datasets" / "nuclear_arsenals_and_triad_registry.js
 with open(BASE_DIR / "global_datasets" / "global_arms_trade_and_contractors.json", encoding="utf-8") as f:
     armstrade_data = json.load(f)
 
+with open(BASE_DIR / "global_datasets" / "cultural_codes_and_civilizations_registry.json", encoding="utf-8") as f:
+    culture_data = json.load(f)
+
 # Türkçe isme göre alfabetik sırala
 countries_sorted = sorted(countries, key=lambda x: x["name"])
 
@@ -169,65 +172,107 @@ for c in armstrade_data["top_prime_contractors"]:
     armstrade_rows.append(f"| **#{c['rank']} {c['company']}** | {c['country']} | ${c['defense_revenue_usd_b']}B | {c['flagship_systems'][:65]}... | {c['strategic_monopoly'][:60]}... |")
 armstrade_table_md = "\n".join(armstrade_rows)
 
-master_readme_content = f"""# 🌍 KÜRESEL RÖNTGEN (GLOBAL X-RAY)
-### *Açık Kaynak İstihbarat (OSINT), Derin Devlet Ağları, Oligarşik Sermaye & Kleptokrasi Haritalandırma Atlası*
+# Medeniyet Havzaları Tablosu
+realms_rows = []
+for r in culture_data["civilization_realms"]:
+    realms_rows.append(f"| **{r['name']}** | {r['core_philosophy']} | `{', '.join(r['representative_states'])}` |")
+realms_table_md = "\n".join(realms_rows)
+
+# Kültürel Kodlar ve Ulusal DNA Tablosu
+culture_rows = []
+for c in culture_data["countries_cultural_dna"]:
+    words = ", ".join([f"**{w['word']}**" for w in c.get("untranslatable_soul_concepts", [])[:3]])
+    culture_rows.append(f"| **{c['country']}** (`{c['code']}`) | {c['core_cultural_ethos'][:65]}... | {words} | {c['communication_style'][:35]} | {c['gastronomic_philosophy'][:65]}... |")
+culture_table_md = "\n".join(culture_rows)
+
+master_readme_content = f"""# 🌍 DÜNYA MEDENİYETLERİ, KÜLTÜREL KODLAR & DERİN GÜÇ ATLASI
+### *205 Ülkenin Kültürel DNA'sı, Yaşam Felsefesi, Medeniyet Havzaları ve Gerçek İktidar Anatomisi Ansiklopedisi*
 
 <p align="center">
   <img src="assets/images/hero_banner.jpg" alt="Global X-Ray Hero Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OSINT-Standardized%20Framework-red?style=for-the-badge&logo=target" alt="OSINT">
-  <img src="https://img.shields.io/badge/Coverage-205%20Countries%20%26%20Entities-blue?style=for-the-badge&logo=globe" alt="Coverage">
-  <img src="https://img.shields.io/badge/Economic%20Classification-8%20Macro%20Archetypes-blueviolet?style=for-the-badge" alt="Economic Archetypes">
-  <img src="https://img.shields.io/badge/Architecture-4--Layer%20Deep%20State-black?style=for-the-badge" alt="4-Layer">
-  <img src="https://img.shields.io/badge/Defense%20Alliances-8%20Global%20Pacts-navy?style=for-the-badge" alt="Alliances">
-  <img src="https://img.shields.io/badge/Sanctions%20Regimes-Tracked%20%26%20Mapped-darkred?style=for-the-badge" alt="Sanctions">
-  <img src="https://img.shields.io/badge/Case%20Studies-12%20Forensic%20Investigations-crimson?style=for-the-badge" alt="Case Studies">
-  <img src="https://img.shields.io/badge/Nuclear%20Triad-12%2C121%20Warheads%20Mapped-darkred?style=for-the-badge" alt="Nuclear Triad">
-  <img src="https://img.shields.io/badge/Arms%20Trade-$2.4T%20MIC%20Oligopoly-firebrick?style=for-the-badge" alt="Arms Trade">
-  <img src="https://img.shields.io/badge/Research%20Treatises-12%20Comprehensive%20Dossiers-gold?style=for-the-badge" alt="Treatises">
-  <img src="https://img.shields.io/badge/Sovereign%20Wealth-$12+%20Trillion%20Mapped-darkgreen?style=for-the-badge" alt="SWF">
-  <img src="https://img.shields.io/badge/Shadow%20Fleet-850%20Dark%20Tankers-maroon?style=for-the-badge" alt="Shadow Fleet">
-  <img src="https://img.shields.io/badge/Verification-Admiralty%20Code%20B2+-success?style=for-the-badge" alt="Verification">
-  <img src="https://img.shields.io/badge/Global%20GDP%20Analyzed-$105.6%20Trillion-green?style=for-the-badge" alt="Global GDP">
-  <img src="https://img.shields.io/badge/License-Open%20Intelligence%20(CC%20BY--SA%204.0)-purple?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Ansiklopedi-K%C3%BClt%C3%BCrel%20Kodlar%20%26%20Medeniyet-darkgreen?style=for-the-badge&logo=bookstack" alt="Encyclopedia">
+  <img src="https://img.shields.io/badge/Kapsam-205%20%C3%9Clke%20%26%20B%C3%B6lge-blue?style=for-the-badge&logo=globe" alt="Coverage">
+  <img src="https://img.shields.io/badge/Medeniyet%20Havzas%C4%B1-9%20K%C3%BCresel%20Kutup-teal?style=for-the-badge" alt="Civilization">
+  <img src="https://img.shields.io/badge/Ekonomik%20Arketip-8%20Makro%20G%C3%BC%C3%A7%20Blo%C4%9Fu-blueviolet?style=for-the-badge" alt="Economic Archetypes">
+  <img src="https://img.shields.io/badge/G%C3%BC%C3%A7%20Anatomisi-4%20Katmanl%C4%B1%20Derin%20Devlet-black?style=for-the-badge" alt="4-Layer">
+  <img src="https://img.shields.io/badge/Vaka%20Analizleri-12%20Adli%20Soru%C5%9Fturma-crimson?style=for-the-badge" alt="Case Studies">
+  <img src="https://img.shields.io/badge/N%C3%BCkleer%20Triad-12%2C121%20Ba%C5%9Fl%C4%B1k%20Kayd%C4%B1-darkred?style=for-the-badge" alt="Nuclear Triad">
+  <img src="https://img.shields.io/badge/Silah%20Ticareti-$2.4T%20Savunma%20Oligopol%C3%BC-firebrick?style=for-the-badge" alt="Arms Trade">
+  <img src="https://img.shields.io/badge/Egemen%20Varl%C4%B1k-$12+%20Trilyon%20SWF-forestgreen?style=for-the-badge" alt="SWF">
+  <img src="https://img.shields.io/badge/G%C3%B6lge%20Filo-850%20Dark%20Tanker-maroon?style=for-the-badge" alt="Shadow Fleet">
+  <img src="https://img.shields.io/badge/Do%C4%9Frulama-Admiralty%20Kodu%20B2+-success?style=for-the-badge" alt="Verification">
+  <img src="https://img.shields.io/badge/Lisans-A%C3%A7%C4%B1k%20K%C3%BClt%C3%BCr%20(CC%20BY--SA%204.0)-purple?style=for-the-badge" alt="License">
 </p>
 
 ---
 
 ## 📑 İÇİNDEKİLER TABLOSU
 
-1. [🏛️ Giriş ve İktidarın Felsefesi: Görünmeyen Hükümet](#️-giriş-ve-iktidarin-felsefesi-görünmeyen-hükümet)
-2. [🌐 Küresel Röntgen Manifestosu ve Doktrini](#-küresel-röntgen-manifestosu-ve-doktrini)
-3. [📊 Ekonomik Modellere Göre 8 Küresel Güç Bloğu (/01_... - /08_...)](#-ekonomik-modellere-göre-8-küresel-güç-bloğu-01----08_)
-4. [🏛️ Metodoloji: 4 Katmanlı Derin Devlet Mimarisi](#️-metodoloji-4-katmanli-derin-devlet-mimarisi)
-5. [🛡️ Doğrulama Standardı: NATO / Admiralty Kodu (B2+)](#️-doğrulama-standardi-nato--admiralty-kodu-b2)
-6. [💸 Kleptokrasi & Offshore Sermaye Kaçırma Döngüsü](#-kleptokrasi--offshore-sermaye-kaçirma-döngüsü)
-7. [🧠 Bilişsel Savaş & Siber İstihbarat Matrisi (5GW)](#-bilişsel-savaş--siber-istihbarat-matrisi-5gw)
-8. [🚢 Küresel Deniz Darboğazları & Jeopolitik Kilit Noktaları](#-küresel-deniz-darboğazlari--jeopolitik-kilit-noktalari)
-9. [🌐 Küresel Denizaltı Fiber Kablolar & SIGINT İstasyonları](#-küresel-denizalti-fiber-kablolar--sigint-istasyonlari)
-10. [🛡️ Savunma Paktları, Askeri İttifaklar & Nükleer Şemsiye](#️-savunma-paktlari-askeri-ittifaklar--nükleer-şemsiye)
-11. [⚠️ Finansal Yaptırım Rejimleri & Bypass Koridorları](#️-finansal-yaptirim-rejimleri--bypass-koridorlari)
-12. [⛏️ Kritik Madenler & Küresel Rafinaj Tekelleri](#️-kritik-madenler--küresel-rafinaj-tekelleri)
-13. [💰 Küresel Egemen Varlık Fonları (SWF) & Devlet Sermayesi](#-küresel-egemen-varlik-fonlari-swf--devlet-sermayesi)
-14. [🚢 Küresel Gölge Tanker Filosu (Dark Fleet) & Yaptırım Kaçırma](#-küresel-gölge-tanker-filosu-dark-fleet--yaptirim-kaçirma)
-15. [☢️ Küresel Nükleer Cephanelikler & Stratejik Nükleer Triad](#️-küresel-nükleer-cephanelikler--stratejik-nükleer-triad)
-16. [⚔️ Küresel Silah Ticareti & Savunma Sanayii Tröstleri (MIC)](#️-küresel-silah-ticareti--savunma-sanayii-tröstleri-mic)
-17. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
-18. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
-19. [⚔️ Özel Askeri Şirketler (PMC) & Paramiliter Şebekeler](#️-özel-askeri-şirketler-pmc--paramiliter-şebekeler)
-20. [🕵️ Küresel İstihbarat Teşkilatları & Güç Mimarisi](#️-küresel-istihbarat-teşkilatlari--güç-mimarisi)
-21. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
-22. [🗺️ 205 Ülkelik Küresel Atlas İndeksi (Ekonomik Modelleriyle)](#️-205-ülkelik-küresel-atlas-indeksi-ekonomik-modelleriyle)
-23. [🔬 Metodoloji ve OSINT Araştırma Kılavuzları (/methodology)](#-metodoloji-ve-osint-araştirma-kilavuzlari-methodology)
-24. [🛠️ CLI Terminal Aracı ile Kullanım (xray_cli.py)](#️-cli-terminal-araci-ile-kullanim-xray_clipy)
-25. [🧪 Bütünlük ve Veri Doğrulama Testleri](#-bütünlük-ve-veri-doğrulama-testleri)
-26. [⚖️ Etik, Hukuki Beyan ve Açık İstihbarat Lisansı](#️-etik-hukuki-beyan-ve-açik-istihbarat-lisansi)
+1. [🏛️ Giriş ve Ana Misyon: Dünya Uluslarını ve Kültürel Kodlarını Tanımak](#️-giriş-ve-ana-misyon-dünya-uluslarini-ve-kültürel-kodlarini-tanimak)
+2. [🎭 Dünya Medeniyetleri ve Kültürel Kodlar Rehberi (Cultural DNA)](#-dünya-medeniyetleri-ve-kültürel-kodlar-rehberi-cultural-dna)
+3. [🌐 Küresel Röntgen Doktrini: Gerçekçi Güç ve Derin Devlet Anatomisi](#-küresel-röntgen-doktrini-gerçekçi-güç-ve-derin-devlet-anatomisi)
+4. [📊 Ekonomik Modellere Göre 8 Küresel Güç Bloğu (/01_... - /08_...)](#-ekonomik-modellere-göre-8-küresel-güç-bloğu-01----08_)
+5. [🏛️ Metodoloji: 4 Katmanlı Ülke ve Güç Mimarisi](#️-metodoloji-4-katmanli-ülke-ve-güç-mimarisi)
+6. [🛡️ Doğrulama Standardı: NATO / Admiralty Kodu (B2+)](#️-doğrulama-standardi-nato--admiralty-kodu-b2)
+7. [💸 Kleptokrasi & Offshore Sermaye Kaçırma Döngüsü](#-kleptokrasi--offshore-sermaye-kaçirma-döngüsü)
+8. [🧠 Bilişsel Savaş & Siber İstihbarat Matrisi (5GW)](#-bilişsel-savaş--siber-istihbarat-matrisi-5gw)
+9. [🚢 Küresel Deniz Darboğazları & Jeopolitik Kilit Noktaları](#-küresel-deniz-darboğazlari--jeopolitik-kilit-noktalari)
+10. [🌐 Küresel Denizaltı Fiber Kablolar & SIGINT İstasyonları](#-küresel-denizalti-fiber-kablolar--sigint-istasyonlari)
+11. [🛡️ Savunma Paktları, Askeri İttifaklar & Nükleer Şemsiye](#️-savunma-paktlari-askeri-ittifaklar--nükleer-şemsiye)
+12. [⚠️ Finansal Yaptırım Rejimleri & Bypass Koridorları](#️-finansal-yaptirim-rejimleri--bypass-koridorlari)
+13. [⛏️ Kritik Madenler & Küresel Rafinaj Tekelleri](#️-kritik-madenler--küresel-rafinaj-tekelleri)
+14. [💰 Küresel Egemen Varlık Fonları (SWF) & Devlet Sermayesi](#-küresel-egemen-varlik-fonlari-swf--devlet-sermayesi)
+15. [🚢 Küresel Gölge Tanker Filosu (Dark Fleet) & Yaptırım Kaçırma](#-küresel-gölge-tanker-filosu-dark-fleet--yaptirim-kaçirma)
+16. [☢️ Küresel Nükleer Cephanelikler & Stratejik Nükleer Triad](#️-küresel-nükleer-cephanelikler--stratejik-nükleer-triad)
+17. [⚔️ Küresel Silah Ticareti & Savunma Sanayii Tröstleri (MIC)](#️-küresel-silah-ticareti--savunma-sanayii-tröstleri-mic)
+18. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
+19. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
+20. [⚔️ Özel Askeri Şirketler (PMC) & Paramiliter Şebekeler](#️-özel-askeri-şirketler-pmc--paramiliter-şebekeler)
+21. [🕵️ Küresel İstihbarat Teşkilatları & Güç Mimarisi](#️-küresel-istihbarat-teşkilatlari--güç-mimarisi)
+22. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
+23. [🗺️ 205 Ülkelik Küresel Atlas İndeksi (Ekonomik Modelleriyle)](#️-205-ülkelik-küresel-atlas-indeksi-ekonomik-modelleriyle)
+24. [🔬 Metodoloji ve OSINT Araştırma Kılavuzları (/methodology)](#-metodoloji-ve-osint-araştirma-kilavuzlari-methodology)
+25. [🛠️ CLI Terminal Aracı ile Kullanım (xray_cli.py)](#️-cli-terminal-araci-ile-kullanim-xray_clipy)
+26. [🧪 Bütünlük ve Veri Doğrulama Testleri](#-bütünlük-ve-veri-doğrulama-testleri)
+27. [⚖️ Etik, Hukuki Beyan ve Açık İstihbarat Lisansı](#️-etik-hukuki-beyan-ve-açik-istihbarat-lisansi)
 
 ---
 
-## 🏛️ GİRİŞ VE İKTİDARIN FELSEFESİ: GÖRÜNMEYEN HÜKÜMET
+## 🏛️ GİRİŞ VE ANA MİSYON: DÜNYA ULUSLARINI VE KÜLTÜREL KODLARINI TANIMAK
+
+> *"Bir ulusu gerçekten tanımak; onun yalnızca sınırlarını, başkentini ve bayrağını bilmek değildir. Bir ulusu tanımak; bin yıllık kolektif hafızasını, sevinçlerini ve yaslarını, sofrasındaki ekmeği bölüşme adabını, başka hiçbir dile tam çevrilemeyen ruh kavramlarını (Gönül, Ikigai, Gemütlichkeit, Saudade, Ubuntu), selamlaşma inceliklerini ve dünyaya bakış felsefesini öğrenmektir."*
+
+Bu projenin **birincil ve en temel varoluş gayesi**; dünya üzerindeki 205 egemen ve jeopolitik ülkeyi tüm kültürel derinlikleri, medeniyet kodları, yaşam tarzları, mutfak gelenekleri, edebi mirası ve toplumsal karakterleriyle tanıtan **muazzam bir açık kaynaklı dünya ansiklopedisi** sunmaktır.
+
+Dünya ulusları birbirine düşman soyut bayraklardan ibaret değildir; her biri binlerce yıllık coğrafi sınavlardan, göçlerden ve felsefi arayışlardan süzülmüş eşsiz birer kültürel hazinedir. Bu atlas, okuyucusuna bir Japon'un *Wabi-sabi* estetiğindeki dinginliği, bir Türk'ün *Gönül* ve *İmece* dilindeki derin cömertliği, bir Alman'ın *Gemütlichkeit* huzurunu, bir Slav'ın *Toska* melankolisini ve bir Afrikalının *Ubuntu* ("Biz olduğumuz için benim") dayanışmasını anlama kapısını aralar.
+
+### ⚖️ Gerçekçilik Dengesi: Neden Derin Devlet ve Güç Katmanı da Var?
+Bir ülkeyi yalnızca masalsı turizm broşürleriyle anlatmak, o ülkenin halkına ve tarihsel gerçeğine haksızlık etmektir. Bir ulusun gündelik hayatı ve kültürel dokusu ne kadar zengin olursa olsun; o toplum aynı zamanda **derin devlet mekanizmaları, askeri ittifaklar, oligarşik sermaye konsorsiyumları, enerji darboğazları ve istihbarat savaşları** gerçeğiyle kuşatılmıştır.
+
+Bu nedenle bu ansiklopedi; **kültürü ve insanı merkeze koyan ana gövdesini**, adli bilişim ve OSINT disipliniyle hazırlanmış **derin güç anatomisi** ile dengeler. Böylece okuyucu hem bir ülkenin ruhunu tanır hem de o ülkenin üzerinde dönen küresel satrancı tüm çıplaklığıyla kavrar.
+
+---
+
+## 🎭 DÜNYA MEDENİYETLERİ VE KÜLTÜREL KODLAR REHBERİ (CULTURAL DNA)
+
+İnsanlık tarihi, belirli coğrafi ve manevi havzalarda şekillenen büyük medeniyetlerin etkileşimidir (`global_datasets/cultural_codes_and_civilizations_registry.json`):
+
+### 🌐 9 Büyük Küresel Medeniyet Havzası
+| Medeniyet Havzası | Temel Felsefe & Toplumsal Ethos | Temsilci Ülkeler |
+| :--- | :--- | :--- |
+{realms_table_md}
+
+### 🧬 Örnek Medeniyet Çapaları: Ulusal Karakterler ve Yaşam Adabı
+| Ülke | Ulusal Karakter & Temel Ethos | Çevrilemeyen Ruh Kavramları | İletişim Tarzı | Gastronomi & Sofra Felsefesi |
+| :--- | :--- | :--- | :--- | :--- |
+{culture_table_md}
+
+---
+
+## 🌐 KÜRESEL RÖNTGEN DOKTRİNİ: GERÇEKÇİ GÜÇ VE DERİN DEVLET ANATOMİSİ
 
 > *"Görünen hükümetin arkasında, halka karşı hiçbir bağlılığı olmayan ve hiçbir sorumluluk kabul etmeyen görünmez bir hükümet taht kurmuştur. Bu görünmez hükümeti yok etmek, yozlaşmış iş dünyası ile yozlaşmış siyaset arasındaki kirli ittifakı bozmak, günümüzün ilk görevidir."*  
 > — **Theodore Roosevelt** (ABD 26. Başkanı, 1912 İlerleme Partisi Platformu)
@@ -583,8 +628,14 @@ Araştırmacılar, gazeteciler ve analistler için hazırlanan teknik OSINT kıl
 Tüm repoyu komut satırından hızlıca sorgulamak ve çapraz istihbarat analizi yapmak için `scripts/xray_cli.py` geliştirilmiştir:
 
 ```bash
-# Bir ülkenin 4 katmanlı tam istihbarat profilini terminalde görüntüle
+# Bir ülkenin 4 katmanlı tam istihbarat ve kültür profilini terminalde görüntüle
 python scripts/xray_cli.py country turkey
+
+# Bir ülkenin kültürel kodlarını, çevrilemeyen kavramlarını ve yaşam tarzını incele
+python scripts/xray_cli.py culture turkey
+
+# Küresel 9 büyük medeniyet havzasını listele
+python scripts/xray_cli.py culture
 
 # İki ülkeyi jeopolitik, askeri ve makroekonomik olarak karşılaştır
 python scripts/xray_cli.py compare turkey iran

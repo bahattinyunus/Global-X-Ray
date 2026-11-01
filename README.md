@@ -2,8 +2,8 @@
   <img src="assets/images/hero_banner.jpg" alt="Medeniyet Atlası & Global X-Ray" width="100%">
 </p>
 
-# 🌐 Global X-Ray & Medeniyet Atlası
-> **205 Dünya Ulusunun Kültürel Kodları, Yaşam Felsefeleri ve 4 Katmanlı Güç Anatomisi Ansiklopedisi**
+# 🏛️ MEDENİYET ATLASI & GLOBAL X-RAY
+### *205 Dünya Ulusunun Kültürel Kodları, Yaşam Felsefeleri, Medeniyet Havzaları ve Gerçek Güç Anatomisi Ansiklopedisi*
 
 <p align="center">
   <a href="#-205-ülkelik-küresel-atlas-master-alt-içerik-rehberi"><img src="https://img.shields.io/badge/Uluslar-205%20%C3%9Clke-blue.svg?style=flat-square" alt="205 Countries"></a>
@@ -24,50 +24,186 @@
 
 ---
 
-## 📌 GENEL BAKIŞ & MANİFESTO
+## 🏛️ GİRİŞ VE MEDENİYET ATLASI MANİFESTOSU
 
-Klasik uluslararası ilişkiler analizleri iki büyük yanılgıya düşer: Ülkeleri ya yalnızca resmi diplomatik söylemler ve soyut turizm broşürlerinden ibaret görür ya da onları yalnızca askeri-finansal bilançolara indirgeyerek toplumların bin yıllık ruhunu ıskalar.
+> *"Bir ulusu gerçekten tanımak; onun yalnızca sınırlarını, başkentini ve bayrağını bilmek değildir. Bir ulusu tanımak; bin yıllık kolektif hafızasını, sevinçlerini ve yaslarını, sofrasındaki ekmeği bölüşme adabını, başka hiçbir dile tam çevrilemeyen ruh kavramlarını (Gönül, Ikigai, Gemütlichkeit, Saudade, Ubuntu), selamlaşma inceliklerini ve dünyaya bakış felsefesini öğrenmektir."*
 
-> *"Bir ulusu gerçekten tanımak; onun yalnızca sınırlarını, başkentini ve bayrağını bilmek değildir. Gerçek tanışıklık; o halkın neye güldüğünü, neye ağladığını, misafirine hangi niyetle ekmek sunduğunu, ölümle ve tabiatla nasıl helalleştiğini, dilinde sakladığı ve başka hiçbir lisana tercüme edilemeyen o mahrem ruh kavramlarını kalbinde hissetmektir."*
+Bu projenin **birincil ve en temel varoluş gayesi**; dünya üzerindeki 205 egemen ve jeopolitik ülkeyi tüm kültürel derinlikleri, medeniyet kodları, yaşam tarzları, mutfak gelenekleri, edebi mirası ve toplumsal karakterleriyle tanıtan **muazzam bir açık kaynaklı dünya ansiklopedisi** sunmaktır.
 
-**Global X-Ray**, bu iki kutbu bilimsel ve felsefi bir dengede birleştiren açık kaynaklı bir küresel araştırma külliyatıdır:
+Dünya ulusları birbirine düşman soyut bayraklardan ibaret değildir; her biri binlerce yıllık coğrafi sınavlardan, göçlerden ve felsefi arayışlardan süzülmüş eşsiz birer kültürel hazinedir. Bu atlas, okuyucusuna bir Japon'un *Wabi-sabi* estetiğindeki dinginliği, bir Türk'ün *Gönül* ve *İmece* dilindeki derin cömertliği, bir Alman'ın *Gemütlichkeit* huzurunu, bir Slav'ın *Toska* melankolisini ve bir Afrikalının *Ubuntu* ("Biz olduğumuz için benim") dayanışmasını anlama kapısını aralar.
 
-1. **Kültürel DNA & Toplumsal Ruh ([`/culture`](culture/README.md)):** Ulusların diline, mutfak felsefesine, çevrilemeyen kolektif kavramlarına (*Gönül, Ikigai, Ubuntu, Toska, Gemütlichkeit*), kurucu destanlarına ve yaşam adabına odaklanır.
-2. **Gerçek Güç & Jeopolitik Anatomi ([`/geopolitics_and_intelligence`](geopolitics_and_intelligence/README.md)):** Resmi retoriğin arkasındaki nükleer kapasiteleri, savunma paktlarını, kritik maden tekellerini, denizaltı kablo hatlarını ve oligarşik sermaye ağlarını analiz eder.
+### ⚖️ Gerçekçilik Dengesi: Neden Derin Güç ve İstihbarat Katmanı da Var?
+Bir ülkeyi yalnızca masalsı turizm broşürleriyle anlatmak, o ülkenin halkına ve tarihsel gerçeğine haksızlık etmektir. Bir ulusun gündelik hayatı ve kültürel dokusu ne kadar zengin olursa olsun; o toplum aynı zamanda **derin devlet mekanizmaları, askeri ittifaklar, oligarşik sermaye konsorsiyumları, enerji darboğazları ve istihbarat savaşları** gerçeğiyle kuşatılmıştır.
 
----
-
-## 🎭 1. KÜLTÜREL DNA: ULUSLARIN MAHREM RUHU (/culture)
-
-> *"Gönül Çalab'ın tahtı, Çalap gönüle baktı / İki cihan bedbahtı, kim gönül yıkar ise."*  
-> — **Yunus Emre**
-
-> *"Ubuntu: Bir insanın insanlığı, diğer insanların insanlığına bağlıdır. 'Biz' olduğumuz için 'ben' varım."*  
-> — **Desmond Tutu**
-
-> *"Kusurlu olanda derin bir sükûnet vardır. Çay fincanındaki çatlak, hayatın fani güzelliğini fısıldar."*  
-> — **Kakuzo Okakura** (*The Book of Tea / Çay Kitabı*)
-
-> *"Toska: Somut hiçbir nedeni olmayan, ruhun metafizik vatanına duyduğu o dindirilemez sızıdır."*  
-> — **Vladimir Nabokov**
-
-> *"Bir dili öğrenmek, dünyayı başka bir gökyüzünün altından seyretmektir."*  
-> — **Ludwig Wittgenstein**
-
-Dünya toplumları 9 kadim medeniyet havzasının değerleri üzerinde nefes alır. Dil, yemek ve ritüeller bir ulusun doğayla ve ölümle kurduğu barışın ifadesidir:
-
-* 🧬 [**CULTURAL_DNA_MATRIX.md**](culture/CULTURAL_DNA_MATRIX.md): 205 dünya ulusunun kapsamlı sosyo-kültürel DNA matrisi.
-* 📖 [**UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md**](culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md): 50+ dile çevrilemeyen kolektif ruh kavramı (*Gönül, Ikigai, Wabi-sabi, Gemütlichkeit, Saudade, Ubuntu, Toska, Guanxi, Sisu*).
-* 🍲 [**GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md**](culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md): 205 ulusun sofra adabı, kutsal ekmek kültleri ve paylaşma ahlakı.
-* 🧭 [**WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md**](culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md): Küresel beden dili, ayakkabı kuralları, hediye protokolü ve sosyal tabular.
-* 📜 [**GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md**](culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md): Gılgamış'tan Manas'a, Mahabharata'dan Popol Vuh'a 14 kurucu destan.
-* 🏛️ [**WORLD_ARCHITECTURE_AND_SACRED_SPACES.md**](culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md): Kutsal mabet mimarisi, kubbe geometrisi ve meydan felsefeleri.
-* 🎵 [**GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md**](culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md): Ney, Koto, Kora, Didgeridoo ve medeniyetlerin ses haritası.
-* 🎆 [**WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md**](culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md): Nevruz, Hanami, Diwali ve Ölüler Günü döngüleri.
+Bu nedenle bu ansiklopedi; **kültürü ve insanı merkeze koyan ana gövdesini**, adli bilişim ve OSINT disipliniyle hazırlanmış **derin güç anatomisi** ile dengeler. Tüm detaylı istihbari ve askeri veri setleri [`geopolitics_and_intelligence/`](geopolitics_and_intelligence/README.md) dizininde bağımsız araştırma dosyalarında toplanmış; ana omurgada ise bu dinamiklerin kültürel ve insani izdüşümleri öne çıkarılmıştır.
 
 ---
 
-## 🌐 2. GÖRÜNMEZ İKTİDAR: GÜÇ ELİTLERİ VE İSTİHBARAT DOKTRİNİ (/geopolitics_and_intelligence)
+## 🎭 DÜNYA MEDENİYETLERİ VE KÜLTÜREL KODLAR REHBERİ (CULTURAL DNA)
+
+<p align="center">
+  <img src="assets/images/world_civilizations_cultural_realms.jpg" alt="Dünya Medeniyet Havzaları ve Kültürel Kodlar Kartografyası" width="90%">
+</p>
+
+İnsanlık tarihi, belirli coğrafi ve manevi havzalarda şekillenen büyük medeniyetlerin etkileşimidir. Bu bölümde dünya toplumlarının temel kültürel kodları, yaşam felsefeleri ve müşterek değerleri incelenmektedir:
+
+### 🌐 9 Büyük Küresel Medeniyet Havzası
+> 📖 *Genişletilmiş medeniyet havzaları felsefesi ve tarihi için: [`culture/CIVILIZATION_REALMS_AND_PHILOSOPHIES.md`](culture/CIVILIZATION_REALMS_AND_PHILOSOPHIES.md)*
+
+| Medeniyet Havzası | Temel Felsefe & Toplumsal Ethos | Temsilci Ülkeler | Müşterek Erdemler & Değerler |
+| :--- | :--- | :--- | :--- |
+| **Anadolu & Akdeniz Havzası (Kavşak Medeniyetleri)** | Kolektif misafirperverlik, kader birliği, 'Gönül' ve 'İmece' kültürü, yüksek bağlamlı iletişim, duygusal dışavurum ve derin tarihsel katmanlaşma. | `Türkiye, Yunanistan, Kıbrıs` | Bereket sofrası, hüznün asaleti, kapıyı yabancıya açma cömertliği. |
+| **Doğu Asya & Konfüçyüsçü-Budist Havza** | Sosyal uyum (Wa/He), hiyerarşiye ve büyüklere hürmet, 'Yüz Kaybetmeme' (Mianzi/Menboku) hassasiyeti, dolaylı anlatım, disiplinli sabır ve uzun vadeli planlama. | `Japonya, Çin, Güney Kore, Tayvan, Singapur` | Sabır, sessizlik adabı, kusurda güzellik bulma (Wabi-sabi), liyakat ve vefa. |
+| **Cermen & İskandinav Mutabakatı** | Kuralcılık, dakiklik (Pünktlichkeit), kamusal eşitlikçilik (Janteloven), doğayla iç içelik, düşük bağlamlı doğrudan iletişim ve rasyonel şeffaflık. | `Almanya, İsveç, Norveç, Danimarka, Finlandiya, İsviçre, Avusturya, Hollanda` | Sadakat, dingin ev huzuru (Hygge/Gemütlichkeit), kurallara sorgusuz riayet. |
+| **Anglo-Sakson Bireyciliği & Pragmatizm** | Bireysel özgürlük, girişimcilik, 'Fırsatlar Ülkesi' ethosu, pragmatik problem çözme, nezaket mesafesi (Privacy) ve liyakat odaklılık. | `Amerika Birleşik Devletleri, Birleşik Krallık, Kanada, Avustralya, Yeni Zelanda` | Bireysel haklar, nezaket mesafesi, sözleşme güveni, girişimcilik cesareti. |
+| **Slav & Avrasya Derinliği** | Kolektif 'Geniş Ruh' (Shirokaya Dusha), melankoli ve dayanıklılık (Stoykost), metafizik derinlik, zorluklar karşısında adanmışlık ve güçlü devlet algısı. | `Rusya, Ukrayna, Polonya, Sırbistan, Bulgaristan, Belarus` | Fedakarlık, varoluşsal keder (Toska), sadakat, doğaüstü yazgıya teslimiyet. |
+| **Latin Amerika & Büyülü Gerçekçilik** | Aile odaklılık (Familismo), sıcak temas ve dans, 'Sobremesa' (yemek sonrası koyu sohbet), kutlama coşkusu ve kaderci neşe. | `Brezilya, Meksika, Arjantin, Kolombiya, Şili, Peru` | Sıcak kucaklaşma, yaşama sevinci, ölümle alay eden şenlikler, akrabalık bağı. |
+| **Orta Doğu & Fars İncelik Havzası** | Cömertlik ve ikram (Kerem), onur ve itibar (Şeref), nezaket inceliği (Ta'arof), sözlü edebiyat ve şiir tutkusu, kutsal mekan hürmeti. | `İran, Mısır, Suudi Arabistan, Fas, Ürdün, Irak` | Sınırsız sofra ikramı, iltifat zarafeti, kabilevi vefa, müzikal vecd (Tarab). |
+| **Güney Asya & Dharmik Çoğulculuk** | Dharma (Ödev ve Doğruluk), Karma (Sebep-Sonuç döngüsü), 'Jugaad' (yaratıcı doğaçlama), renkli bayramlar ve derin ruhani hoşgörü. | `Hindistan, Pakistan, Bangladeş, Sri Lanka, Nepal` | Ruhani arınma, büyüklere ayak dokunarak hürmet, renklerin kutsallığı. |
+| **Sahra Altı Afrika & Ubuntu Kültürü** | 'Ben, biz olduğumuz için benim' (Ubuntu); kabile ve topluluk dayanışması, ritmik müzik, sözlü tarih anlatıcılığı (Griot) ve yaşlılara mutlak saygı. | `Güney Afrika, Nijerya, Kenya, Gana, Etiyopya, Senegal` | Kolektif neşe, atalara saygı, paylaşım ahlakı, ritimle şifalanma. |
+
+---
+
+### 📖 ÇEVRİLEMEYEN RUH KAVRAMLARI GALERİSİ
+> 📚 *205 ulustan 450'den fazla kavramın kökenbilimsel ve sosyolojik tahlili için: [`culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md`](culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md)*
+
+<p align="center">
+  <img src="assets/images/untranslatable_soul_concepts_wisdom.jpg" alt="Çevrilemeyen Ruh Kavramları ve Kültürel Bilgelik" width="90%">
+</p>
+
+Bir dilin sözlüğünde tek kelimeyle yer alıp başka hiçbir dünya diline doğrudan tercüme edilemeyen kavramlar, o milletin bin yıllık kolektif şuurunun ve yaşam tecrübesinin en saf kristalleridir:
+
+* **Gönül** (🇹🇷 Türk (Anadolu)): Akıl ile kalbin, sevgi ile merhametin birleştiği; fiziki kalbin ötesindeki manevi, kırılgan ve sınırsız insan cevheri.  
+  > *«Gönül Çalab'ın tahtı, Çalap gönüle baktı / İki cihan bedbahtı, kim gönül yıkar ise» — Yunus Emre*
+
+* **Ikigai (生きがい)** (🇯🇵 Japon (Okinawa)): Sabah yataktan uyanma sebebi; tutku, misyon, meslek ve yeteneğin kesiştiği varoluşsal yaşam gayesi.  
+  > *«Küçük şeylerde derin anlam bulmak, acele etmeden akışta kalmak.»*
+
+* **Wabi-Sabi (侘寂)** (🇯🇵 Japon): Kusurlu, eksik, geçici ve mütevazı olanın içindeki dingin güzelliği ve hüznü kabul etme estetiği.  
+  > *«Kırılan çanağın altınla onarılması (Kintsugi); yara izleri kusur değil, tarihin şeref madalyasıdır.»*
+
+* **Gemütlichkeit** (🇩🇪 Alman & Avusturya): Sıcak, huzurlu, telaşsız, dostlarla paylaşılan ve mekanla kurulan güven dolu dingin aidiyet hali.  
+  > *«Zamanın durduğu, samimi bir sofra ve güvende hissedilen bir dost meclisi.»*
+
+* **Saudade** (🇵🇹 Portekiz & Brezilya): Bir daha asla geri dönmeyecek olan bir insana, mekana veya hatıraya duyulan tatlı-acı derin melankoli.  
+  > *«Fado müziğinin can damarı: Sevilenin yokluğunun bizzat varlık haline gelmesi.»*
+
+* **Ubuntu** (🇿🇦 Sahra Altı Afrika (Bantu)): «Biz olduğumuz için ben varım»; bireyin varlığını toplumun refahı ve ortak merhametiyle tanımlayan hümanizma.  
+  > *«Bir insanın insanlığı diğer insanların insanlığına bağlıdır.» — Desmond Tutu*
+
+* **Toska (Тоска)** (🇷🇺 Rus & Doğu Slav): Herhangi bir somut sebebi olmayan, ruhun derinliklerinden gelen varoluşsal hüzün ve sonsuz manevi açlık.  
+  > *«Nabokov'un ifadesiyle: 'Hiçbir dile tek kelimeyle çevrilemeyen, ruhun sebepsiz sızısı.'»*
+
+* **Hygge** (🇩🇰 Danimarka & İskandinav): Mum ışığında, dostlarla, kasmadan, gösterişsiz ve sıcacık bir atmosferde anın huzurunu yakalama sanatı.  
+  > *«Kuzey soğuğuna inat, evin sıcaklığında samimiyet ve sükunet.»*
+
+* **Meraki (Μεράκι)** (🇬🇷 Yunan & Akdeniz): Bir işi, yemeği veya sanatı icra ederken içine ruhunu, tutkusunu ve sevgisini bütünüyle katmak.  
+  > *«Sıradan bir zeytinyağlı tabağına dahi aşkını üflemek.»*
+
+* **Guanxi (关系)** (🇨🇳 Çin): Sözleşmelerin ötesinde; karşılıklı ahlaki yükümlülük, güven, vefa ve derin ilişkiler ağı.  
+  > *«Hukuktan önce gelen bin yıllık ahlaki güven dokusu.»*
+
+* **Sisu** (🇫🇮 Fin): Tüm umutlar tükendiğinde, imkansız şartlar altında dahi pes etmeden sessizce direnme ve dayanma gücü.  
+  > *«Fin kışının dondurucu karanlığında bile geri adım atmayan irade.»*
+
+* **Tarab (طرب)** (🇪🇬 Arap & Yakın Doğu): Müziğin ve şiirin etkisiyle kendinden geçme, duygu fırtınasıyla ruhani vecd ve mest olma hali.  
+  > *«Ümmü Gülsüm'ün sesinde kitlelerin gözyaşlarıyla buluştuğu kolektif esrime.»*
+
+---
+
+### 🍲 DÜNYA GASTRONOMİ FELSEFELERİ & SOFRA RİTÜELLERİ
+> 🍷 *Dünya mutfaklarının ritüelistik ve felsefi anatomisi için: [`culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md`](culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md)*
+
+<p align="center">
+  <img src="assets/images/global_gastronomy_table_rituals.jpg" alt="Dünya Gastronomi Felsefeleri ve Sofra Ritüelleri" width="90%">
+</p>
+
+Yemek, biyolojik bir ihtiyaçtan öte, bir medeniyetin doğayla kurduğu barışın, inanç sisteminin ve insani yakınlığının en somut ayinidir:
+
+| Mutfak Kültürü | Temel Felsefe | Kutsal Sofra Ritüeli & Adabı | Ekmek / Karbonhidrat Kodu |
+| :--- | :--- | :--- | :--- |
+| 🇹🇷 **Türk & Anadolu** | Bereket, misafirperverlik ve Tanrı misafiri hakkı; nimete şükür. | Sofradan misafir doymadan kalkılmaz; ekmek yere düşerse öpülüp alına konur; çay ikramı sohbetin mührüdür. | Somun, Pide, Lavaş: Yeryüzünün bereketi |
+| 🇯🇵 **Japon (Washoku)** | *Shun* (mevsimsellik), doğaya saygı, *Itadakimasu* (hayatını feda eden canlılara şükran). | Yemekten önce eller birleştirilip eğilinir; çubuklar asla dik batırılmaz (*Tsukitate-bashi* cenaze adetidir); çorba höpürdetilerek içilir (aşçıya saygı). | Gohan (Pirinç): Her tanesi bir emek |
+| 🇫🇷 **Fransız (Haute & Terroir)** | *Art de Vivre* (Yaşama sanatı), *Terroir* (toprağın kimliği), gastronomi bir entelektüel eylemdir. | Yemek bir performans ve törendir; şarap ile yemek eşleşmesi zorunludur; sofra en az 2-3 saat sürer; ekmek tabağın soluna konur. | Baguette: Fransız cumhuriyet mirası |
+| 🇮🇹 **İtalyan (Cucina Povera)** | Malzemenin saflığı, sadelik, aile birliği ve mevsiminde taze ürün. | Saat 11:00'den sonra Asla Cappuccino içilmez; makarnanın üzerine asla ketçap sıkılmaz; balıklı makarnaya peynir serpilmez; sofra kutsal aile meclisidir. | Ciabatta, Focaccia: Aile ocağının sıcaklığı |
+| 🇨🇳 **Çin (Yin-Yang & Uyum)** | Yiyecek ilaçtır (*Shi Liao*); tatların dengesi (tatlı, ekşi, acı, tuzlu, umami); ortak paylaşılan döner masa. | Balığın başı masadaki en kıdemli veya onur konuğuna çevrilir; kase göğse yakın tutularak çubukla yenir; tabak tamamen temizlenmez (aşçı yetersiz doyurdu sanmasın diye). | Fan (Pirinç) & Mantou (Buharda Ekmek) |
+| 🇮🇳 **Hint (Ayurvedik Denge)** | *Sattvik*, *Rajasik*, *Tamasik* enerji dengesi; yemek prana (yaşam gücü) taşır. | Yemek sağ el ile yenir (sol el temiz kabul edilmez); tabaktaki tüm lezzetler parmak uçlarıyla hissedilerek vücuda alınır (*Thali* geleneği). | Roti, Naan, Chapati: Ateşin kutsal bereketi |
+| 🇲🇽 **Meksika (Mısır & Ata Ruhu)** | Mısır insanın özüdür (Maya Popol Vuh efsanesi); yemek atalarla kurulan canlı köprüdür. | Ölüler Günü'nde (*Día de los Muertos*) mezarlar ziyafet sofrasına çevrilir; yemek paylaşılmadan yenmez; sokak taquería'sı eşitlik alanıdır. | Tortilla: Bin yıllık kutsal mısır döngüsü |
+
+---
+
+### 🧭 KÜRESEL NEZAKET KURALLARI, İLETİŞİM KODLARI VE SOSYAL TABULAR
+> 🤝 *Kültürlerarası iletişim ve protokol rehberi için: [`culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md`](culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md)*
+
+<p align="center">
+  <img src="assets/images/intercultural_etiquette_and_greeting_rituals.jpg" alt="Kültürlerarası Nezaket Kuralları ve Selamlaşma Ritüelleri" width="90%">
+</p>
+
+Farklı kültürlerde saygı ve hakaret kavramları taban tabana zıt şekillerde tezahür edebilir. Dünyayı doğru anlamak, bu görünmez kültürel sınırları bilmeyi gerektirir:
+
+| Kültürel Parametre | Yüksek Bağlamlı Kültürler (High-Context)<br/>*(Japonya, Çin, Türkiye, Arap Dünyası, Latin Amerika)* | Düşük Bağlamlı Kültürler (Low-Context)<br/>*(Almanya, İsviçre, ABD, İskandinavya, Hollanda)* |
+| :--- | :--- | :--- |
+| **İletişim Üslubu** | İmalı, zarif, satır araları yüklü, söylenmeyenler söylenenlerden daha mühimdir (*Haragei*). | Net, dolaysız, şeffaf, kelimeler lafzi anlamıyla anlaşılır; imaya yer yoktur. |
+| **Hayır Deme Sanatı** | Doğrudan «Hayır» demek kabalık sayılır; «Düşünelim», «Bir bakalım», sessizlik veya tebessüm tercih edilir. | Doğrudan ve tereddütsüz «Nein» veya «No» denir; profesyonellik ve dürüstlük sayılır. |
+| **Zaman Algısı (P-Time vs M-Time)** | Polikronik: İlişkiler ve insani muhabbet saatten önemlidir; esnek zaman anlayışı vardır. | Monokronik: Dakiklik kutsaldır; 5 dakika geç kalmak bile derin bir saygısızlık kabul edilir. |
+| **Sosyal Mesafe (Proxemics)** | Yakın temas, sarılma, öpüşme ve samimi fiziksel temas normdur; mesafe sıcaklığı gösterir. | Geniş kişisel alan (1.5m); fiziksel temas profesyonel veya kamusal alanda hoş karşılanmaz. |
+| **Kartvizit / Selamlaşma** | Kartvizit iki elle saygıyla tutulur ve incelenir (*Meishi*); selamlaşma statüye göre derinleşir. | Hızlıca cebe atılabilir; sıkı ve kuru bir el sıkışma kafidir. |
+
+---
+
+### 📜 DÜNYA MİTOLOJİLERİ, KURUCU DESTANLAR VE SÖZLÜ EDEBİYAT
+> 📖 *14 büyük kurucu destanın felsefi ve edebi tahlili için: [`culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md`](culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md)*
+
+<p align="center">
+  <img src="assets/images/global_folklore_mythology_epics.jpg" alt="Dünya Mitolojileri ve Kurucu Destanlar Külliyatı" width="90%">
+</p>
+
+Destanlar, insanlığın varoluş, kader, kahramanlık ve ölüm karşısında ürettiği ilk büyük kutsal şiirlerdir. Mezopotamya'nın ölümsüzlük arayan *Gılgamış*ından bozkır töresinin sesi *Dede Korkut* ve *Manas*a; Hindistan'ın vicdan terazisi *Mahabharata*sından Mezoamerika'nın mısır efsanesi *Popol Vuh*a kadar kurucu eposlar bu atlasın ruhunu oluşturur.
+
+---
+
+### 🏛️ DÜNYA MİMARİSİ, ŞEHİR FELSEFESİ VE KUTSAL MEKANLAR
+> 🏰 *Mabetler, meydanlar ve kamusal alan felsefesi için: [`culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md`](culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md)*
+
+<p align="center">
+  <img src="assets/images/world_sacred_architecture_monuments.jpg" alt="Dünya Kutsal Mimarisi, Şehir Felsefesi ve Mabetler" width="90%">
+</p>
+
+Taş ve ahşapla yazılmış mimari miras; İslam'ın gök kubbe ve iç avlu mahremiyetinden Doğu Asya'nın depreme meydan okuyan ahşap pagoda kenetlerine (Douqong), Gotik katedrallerin ışık teolojisinden (Lux Nova) Afrika'nın çamurdan yükselen cemaat mabetlerine (Djenné) kadar insanlığın aşkın olanla kurduğu mekan bağıdır.
+
+---
+
+### 🎵 DÜNYA MÜZİK MİRASI VE GELENEKSEL ÇALGILAR
+> 🎻 *Enstrümanların kökeni, tını felsefesi ve manevi anlamı için: [`culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md`](culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md)*
+
+Müzik, sözün bittiği yerde başlayan evrensel ruhtur. Ney'in hasret inlemesinden Zen keşişlerinin Shakuhachi nefesine, Afrika Griot'larının Kora tellerinden İskoç gaydasına ve Aborjin Didgeridoo'sunun 40.000 yıllık Düşzamanı uğultusuna kadar medeniyetlerin ses hafızası.
+
+---
+
+### 🎆 DÜNYA FESTİVALLERİ VE KUTSAL RİTÜELLER
+> 🎭 *Takvim döngüleri ve kolektif arınma şenlikleri için: [`culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md`](culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md)*
+
+Festivaller, zamanın sıradan akışını durdurup insanı kutsal başlangıç anına götüren bayramlardır. Baharın müjdecisi *Nevruz*dan ışığın zaferi *Diwali*ye; kiraz çiçeklerinin faniliğini kutlayan *Hanami*den atalarla mezarlıkta vuslat kuran Meksika *Día de los Muertos*una kadar insanlığın müşterek sevinç atlası.
+
+---
+
+### 📚 MEDENİYET & KÜLTÜR KÜTÜPHANESİ ARŞİVİ (/culture)
+
+Kültürel zenginliğin derinlemesine tahlil edildiği özel araştırma dosyalarımız:
+
+* 🏛️ [`culture/CIVILIZATION_REALMS_AND_PHILOSOPHIES.md`](culture/CIVILIZATION_REALMS_AND_PHILOSOPHIES.md): 9 büyük küresel havzanın tarihi, antropolojik gelişimi ve dünya görüşü.
+* 📖 [`culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md`](culture/UNTRANSLATABLE_CONCEPTS_ENCYCLOPEDIA.md): 50+ küresel çevrilemeyen kavramın kökeni, anlamı ve günlük hayattaki yansıması.
+* 🍲 [`culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md`](culture/GLOBAL_GASTRONOMY_AND_TABLE_RITUALS.md): Sofra adabı, kutsal ekmek kültleri, çay/kahve seremonileri ve paylaşma ahlakı.
+* 🧭 [`culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md`](culture/WORLD_ETIQUETTE_AND_TABOOS_GUIDE.md): Vücut dili, jestler, hediyeleşme adabı, sessizlik kültürü ve ölümcül sosyal tabular.
+* 📜 [`culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md`](culture/GLOBAL_FOLKLORE_MYTHOLOGY_AND_EPICS.md): 14 büyük kurucu destan, halk masalları, mitolojik arketipler ve sözlü gelenekler.
+* 🏛️ [`culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md`](culture/WORLD_ARCHITECTURE_AND_SACRED_SPACES.md): İslam kubbesinden Gotik ışığa, Doğu Asya pagodalarından Afrika çamur mabetlerine mimari ve şehir felsefesi.
+* 🎵 [`culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md`](culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md): Neyden koraya, sitardan didgeridoo'ya 12 kadim çalgı ve ses mirası.
+* 🎆 [`culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md`](culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md): Nevruz, Diwali, Hanami, Ölüler Günü ve Songkran dahil 12 kutsal festival ve arınma ritüeli.
+* 📚 [`culture/README.md`](culture/README.md): Kültür araştırmaları merkezi indeksi ve kaynakçası.
+
+---
+
+## 🌐 GERÇEKÇİ GÜÇ, SAVUNMA VE İSTİHBARAT DOKTRİNİ (/geopolitics_and_intelligence)
 
 > *"Görünen hükümetin arkasında, halka karşı hiçbir bağlılığı olmayan ve hiçbir sorumluluk kabul etmeyen görünmez bir hükümet taht kurmuştur."*  
 > — **Theodore Roosevelt** (ABD 26. Başkanı, 1912)
@@ -103,7 +239,7 @@ Ulusların kaderini tayin eden 11 stratejik güç parametresi [`geopolitics_and_
 
 ---
 
-## 📁 3. ADLİ OSINT & FİNANSAL AKIŞLAR (/dossiers & /research)
+## 📁 DERİN ADLİ OSINT VAKA ANALİZLERİ & TEORİ KÜLLİYATI
 
 > *"Her büyük servetin arkasında faili meçhul büyük bir suç gizlidir."*  
 > — **Honoré de Balzac**

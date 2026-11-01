@@ -1,5 +1,5 @@
 # 🌍 Moritanya (Moritanya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: MRT` • `Para Birimi: MRU` • `Başkent: Nuakşot`
+`Bölge: Afrika` • `ISO: MRT` • `Para Birimi: MRU` • `Başkent: Nuakşot`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Moritanya Cumhuriyeti | **Başkent** | Nuakşot |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 1,030,700 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 1,030,700 km² |
 | **Nüfus** | 4,614,974 | **Para Birimi** | MRU |
 | **Resmi Diller** | Arapça | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Muhammed Veled Gazvani | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

@@ -1,5 +1,5 @@
 # 🌍 Gabon (Gabon) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: GAB` • `Para Birimi: XAF` • `Başkent: Libreville`
+`Bölge: Afrika` • `ISO: GAB` • `Para Birimi: XAF` • `Başkent: Libreville`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Gabon | **Başkent** | Libreville |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 267,667 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 267,667 km² |
 | **Nüfus** | 2,388,992 | **Para Birimi** | XAF |
 | **Resmi Diller** | Fransızca | **Resmi Rejim Biçimi** | Askeri Cunta |
 | **Görünen (De Jure) Lider** | Brice Clotaire Oligui Nguema | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

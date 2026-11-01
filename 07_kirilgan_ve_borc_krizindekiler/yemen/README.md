@@ -1,5 +1,5 @@
 # 🌍 Yemen (Yemen Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: YEM` • `Para Birimi: YER (Yemen Riyali - Bölünmüş kur sistemi)` • `Başkent: Sana (Aden geçici başkent)`
+`Bölge: Orta Doğu` • `ISO: YEM` • `Para Birimi: YER (Yemen Riyali - Bölünmüş kur sistemi)` • `Başkent: Sana (Aden geçici başkent)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Yemen Cumhuriyeti | **Başkent** | Sana (Aden geçici başkent) |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 527,968 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 527,968 km² |
 | **Nüfus** | 33,696,614 | **Para Birimi** | YER (Yemen Riyali - Bölünmüş kur sistemi) |
 | **Resmi Diller** | Arapça (Resmi) | **Resmi Rejim Biçimi** | Bölünmüş / Başarısız Devlet (Husi Ansarullah vs PLC) |
 | **Görünen (De Jure) Lider** | Mehdi el-Meşat (Sana/Husi Yüksek Siyasi Konsey) / Reşad el-Alimi (Aden/Başkanlık Liderlik Konseyi) | **Diplomatik Ekseni** | Husiler: İran Direniş Ekseni; PLC: Suudi-BAE Askeri Koalisyonu, Arap Birliği. |

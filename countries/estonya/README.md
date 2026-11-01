@@ -1,5 +1,5 @@
 # 🌍 Estonya (Estonya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: EST` • `Para Birimi: EUR` • `Başkent: Tallinn`
+`Bölge: Avrupa` • `ISO: EST` • `Para Birimi: EUR` • `Başkent: Tallinn`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Estonya Cumhuriyeti | **Başkent** | Tallinn |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 45,227 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 45,227 km² |
 | **Nüfus** | 1,365,884 | **Para Birimi** | EUR |
 | **Resmi Diller** | Estonca | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Kristen Michal | **Diplomatik Ekseni** | Bölgesel Paktlar |

@@ -1,5 +1,5 @@
 # 🌍 Japonya (Japonya) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: JPN` • `Para Birimi: JPY (Japon Yeni)` • `Başkent: Tokyo`
+`Bölge: Asya & Hint-Pasifik` • `ISO: JPN` • `Para Birimi: JPY (Japon Yeni)` • `Başkent: Tokyo`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Japonya | **Başkent** | Tokyo |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 377,975 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 377,975 km² |
 | **Nüfus** | 124,500,000 | **Para Birimi** | JPY (Japon Yeni) |
 | **Resmi Diller** | Japonca (Resmi) | **Resmi Rejim Biçimi** | Parlamenter Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | İmparator Naruhito / Shigeru Ishiba (Başbakan) | **Diplomatik Ekseni** | ABD ile İkili Güvenlik Paktı (54 bin ABD askeri), G7, Quad, OECD. |

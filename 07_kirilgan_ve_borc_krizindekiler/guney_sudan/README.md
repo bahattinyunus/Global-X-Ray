@@ -1,5 +1,5 @@
 # 🌍 Güney Sudan (Güney Sudan) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: SSD` • `Para Birimi: SSP` • `Başkent: Juba`
+`Bölge: Afrika` • `ISO: SSD` • `Para Birimi: SSP` • `Başkent: Juba`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Güney Sudan | **Başkent** | Juba |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 644,329 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 644,329 km² |
 | **Nüfus** | 10,913,164 | **Para Birimi** | SSP |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Geçici Başkanlık (Kırılgan Devlet) |
 | **Görünen (De Jure) Lider** | Salva Kiir Mayardit | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

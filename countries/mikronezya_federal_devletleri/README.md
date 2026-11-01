@@ -1,5 +1,5 @@
 # 🌍 Mikronezya Federal Devletleri (Mikronezya Federal Devletleri) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: FSM` • `Para Birimi: USD` • `Başkent: Palikir`
+`Bölge: Okyanusya` • `ISO: FSM` • `Para Birimi: USD` • `Başkent: Palikir`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Mikronezya Federal Devletleri | **Başkent** | Palikir |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 702 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 702 km² |
 | **Nüfus** | 114,164 | **Para Birimi** | USD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Federal Başkanlık |
 | **Görünen (De Jure) Lider** | Wesley Simina | **Diplomatik Ekseni** | Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu |

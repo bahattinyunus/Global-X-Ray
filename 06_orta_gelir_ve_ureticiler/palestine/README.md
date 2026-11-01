@@ -1,5 +1,5 @@
 # 🌍 Filistin (Filistin Devleti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: PSE` • `Para Birimi: ILS (İsrail Şekeli), JOD (Ürdün Dinarı), USD` • `Başkent: Kudüs (Ramallah idari merkez)`
+`Bölge: Orta Doğu` • `ISO: PSE` • `Para Birimi: ILS (İsrail Şekeli), JOD (Ürdün Dinarı), USD` • `Başkent: Kudüs (Ramallah idari merkez)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Filistin Devleti | **Başkent** | Kudüs (Ramallah idari merkez) |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 6,020 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 6,020 km² |
 | **Nüfus** | 5,483,450 | **Para Birimi** | ILS (İsrail Şekeli), JOD (Ürdün Dinarı), USD |
 | **Resmi Diller** | Arapça (Resmi) | **Resmi Rejim Biçimi** | İşgal Altında Yarı-Özerk Yönetim (Bölünmüş: Ramallah PA vs Gazze) |
 | **Görünen (De Jure) Lider** | Mahmud Abbas (Devlet Başkanı) / Muhammed Mustafa (Başbakan) | **Diplomatik Ekseni** | Arap Birliği, İslam İşbirliği Teşkilatı, BM Gözlemci Devlet Statüsü (140+ ülkece tanınma). |

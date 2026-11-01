@@ -1,5 +1,5 @@
 # 🌍 Haiti (Haiti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: HTI` • `Para Birimi: HTG` • `Başkent: Port-au-Prince`
+`Bölge: Amerika Kıtası` • `ISO: HTI` • `Para Birimi: HTG` • `Başkent: Port-au-Prince`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Haiti | **Başkent** | Port-au-Prince |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 27,750 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 27,750 km² |
 | **Nüfus** | 11,724,763 | **Para Birimi** | HTG |
 | **Resmi Diller** | Fransızca, Haiti Kreolü | **Resmi Rejim Biçimi** | Başarısız Devlet / Geçiş Konseyi |
 | **Görünen (De Jure) Lider** | Garry Conille / Geçiş Konseyi | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

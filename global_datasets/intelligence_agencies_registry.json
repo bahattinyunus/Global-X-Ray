@@ -8,7 +8,7 @@
   },
   "agencies": [
     {
-      "country": "United States",
+      "country": "Amerika Birleşik Devletleri",
       "iso2": "US",
       "primary_foreign": "Central Intelligence Agency (CIA)",
       "primary_signals": "National Security Agency (NSA)",
@@ -25,7 +25,7 @@
       "classification_level": "Global Tier 1 SIGINT/HUMINT/Covert Action"
     },
     {
-      "country": "United Kingdom",
+      "country": "Birleşik Krallık",
       "iso2": "GB",
       "primary_foreign": "Secret Intelligence Service (SIS / MI6)",
       "primary_signals": "Government Communications Headquarters (GCHQ)",
@@ -41,7 +41,7 @@
       "classification_level": "Global Tier 1 Five-Eyes Core"
     },
     {
-      "country": "Russia",
+      "country": "Rusya",
       "iso2": "RU",
       "primary_foreign": "Foreign Intelligence Service (SVR)",
       "primary_signals": "Federal Guard Service (FSO) / 16th Center FSB",
@@ -57,7 +57,7 @@
       "classification_level": "Global Tier 1 Hybrid Warfare & HUMINT"
     },
     {
-      "country": "China",
+      "country": "Çin",
       "iso2": "CN",
       "primary_foreign": "Ministry of State Security (MSS - Guoanbu)",
       "primary_signals": "PLA Strategic Support Force / Cyberspace Force",
@@ -73,7 +73,7 @@
       "classification_level": "Global Tier 1 Cyber Espionage & Economic Intelligence"
     },
     {
-      "country": "Israel",
+      "country": "İsrail",
       "iso2": "IL",
       "primary_foreign": "Institute for Intelligence and Special Operations (Mossad)",
       "primary_signals": "Unit 8200 (ISNU)",
@@ -90,7 +90,7 @@
       "classification_level": "Global Tier 1 Targeted Lethal Action & Cyber Capability"
     },
     {
-      "country": "France",
+      "country": "Fransa",
       "iso2": "FR",
       "primary_foreign": "General Directorate for External Security (DGSE)",
       "primary_signals": "DGSE Technical Directorate (Boulevard Mortier)",
@@ -106,7 +106,7 @@
       "classification_level": "European Sovereign Autonomous Intelligence Tier"
     },
     {
-      "country": "Germany",
+      "country": "Almanya",
       "iso2": "DE",
       "primary_foreign": "Federal Intelligence Service (BND)",
       "primary_signals": "BND Department VI (Technical Intelligence / Bad Aibling)",
@@ -121,7 +121,7 @@
       "classification_level": "Major European SIGINT & Technical Intelligence"
     },
     {
-      "country": "Turkey",
+      "country": "Türkiye",
       "iso2": "TR",
       "primary_foreign": "National Intelligence Organization (MİT)",
       "primary_signals": "MİT Electronic and Technical Intelligence Directorate (GES Command integration)",
@@ -137,7 +137,7 @@
       "classification_level": "Dominant Regional Armed Drone & Paramilitary Intelligence Actor"
     },
     {
-      "country": "Iran",
+      "country": "İran",
       "iso2": "IR",
       "primary_foreign": "IRGC Quds Force Intelligence",
       "primary_signals": "Basij Cyber Command / IRGC Electronic Warfare Unit",
@@ -153,7 +153,7 @@
       "classification_level": "Asymmetric Proxy Network & Regional Covert Power"
     },
     {
-      "country": "Saudi Arabia",
+      "country": "Suudi Arabistan",
       "iso2": "SA",
       "primary_foreign": "General Intelligence Presidency (GIP - Al-Mukhabarat al-A'amah)",
       "primary_signals": "State Security Cyber Warfare Center",

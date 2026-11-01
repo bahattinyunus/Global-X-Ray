@@ -1,5 +1,5 @@
 # 🌍 Moldova (Moldova Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: MDA` • `Para Birimi: MDL` • `Başkent: Kişinev`
+`Bölge: Avrupa` • `ISO: MDA` • `Para Birimi: MDL` • `Başkent: Kişinev`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Moldova Cumhuriyeti | **Başkent** | Kişinev |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 33,846 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 33,846 km² |
 | **Nüfus** | 2,512,758 | **Para Birimi** | MDL |
 | **Resmi Diller** | Rumence | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Maia Sandu | **Diplomatik Ekseni** | Bölgesel Paktlar |

@@ -1,5 +1,5 @@
 # 🌍 Gürcistan (Gürcistan Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: GEO` • `Para Birimi: GEL` • `Başkent: Tiflis`
+`Bölge: Asya & Hint-Pasifik` • `ISO: GEO` • `Para Birimi: GEL` • `Başkent: Tiflis`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Gürcistan Cumhuriyeti | **Başkent** | Tiflis |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 69,700 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 69,700 km² |
 | **Nüfus** | 3,712,000 | **Para Birimi** | GEL |
 | **Resmi Diller** | Gürcüce | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | İrakli Kobahidze | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

@@ -1,5 +1,5 @@
 # 🌍 İrlanda (İrlanda Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: IRL` • `Para Birimi: EUR` • `Başkent: Dublin`
+`Bölge: Avrupa` • `ISO: IRL` • `Para Birimi: EUR` • `Başkent: Dublin`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | İrlanda Cumhuriyeti | **Başkent** | Dublin |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 70,273 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 70,273 km² |
 | **Nüfus** | 5,262,000 | **Para Birimi** | EUR |
 | **Resmi Diller** | İngilizce, İrlandaca | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Simon Harris | **Diplomatik Ekseni** | Bölgesel Paktlar |

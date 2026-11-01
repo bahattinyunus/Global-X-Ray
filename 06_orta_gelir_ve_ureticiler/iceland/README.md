@@ -1,5 +1,5 @@
 # 🌍 İzlanda (İzlanda Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: ISL` • `Para Birimi: ISK` • `Başkent: Reykjavik`
+`Bölge: Avrupa` • `ISO: ISL` • `Para Birimi: ISK` • `Başkent: Reykjavik`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | İzlanda Cumhuriyeti | **Başkent** | Reykjavik |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 103,000 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 103,000 km² |
 | **Nüfus** | 387,800 | **Para Birimi** | ISK |
 | **Resmi Diller** | İzlandaca | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Bjarni Benediktsson | **Diplomatik Ekseni** | AB / NATO / Avrupa Konseyi |

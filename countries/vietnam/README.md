@@ -1,5 +1,5 @@
 # 🌍 Vietnam (Vietnam Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: VNM` • `Para Birimi: VND` • `Başkent: Hanoi`
+`Bölge: Asya & Hint-Pasifik` • `ISO: VNM` • `Para Birimi: VND` • `Başkent: Hanoi`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Vietnam Cumhuriyeti | **Başkent** | Hanoi |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 331,210 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 331,210 km² |
 | **Nüfus** | 98,186,856 | **Para Birimi** | VND |
 | **Resmi Diller** | Vietnamca | **Resmi Rejim Biçimi** | Tek Parti Sosyalist Cumhuriyeti |
 | **Görünen (De Jure) Lider** | To Lam | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

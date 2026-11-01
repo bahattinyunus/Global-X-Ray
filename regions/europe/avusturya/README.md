@@ -1,5 +1,5 @@
 # 🌍 Avusturya (Avusturya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: AUT` • `Para Birimi: EUR` • `Başkent: Viyana`
+`Bölge: Avrupa` • `ISO: AUT` • `Para Birimi: EUR` • `Başkent: Viyana`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Avusturya Cumhuriyeti | **Başkent** | Viyana |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 83,879 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 83,879 km² |
 | **Nüfus** | 9,104,772 | **Para Birimi** | EUR |
 | **Resmi Diller** | Almanca | **Resmi Rejim Biçimi** | Federal Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Karl Nehammer | **Diplomatik Ekseni** | Bölgesel Paktlar |

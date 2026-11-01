@@ -1,5 +1,5 @@
 # 🌍 Kazakistan (Kazakistan Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: KAZ` • `Para Birimi: KZT` • `Başkent: Astana`
+`Bölge: Asya & Hint-Pasifik` • `ISO: KAZ` • `Para Birimi: KZT` • `Başkent: Astana`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kazakistan Cumhuriyeti | **Başkent** | Astana |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 2,724,900 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 2,724,900 km² |
 | **Nüfus** | 20,000,000 | **Para Birimi** | KZT |
 | **Resmi Diller** | Kazakça, Rusça | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Kasım Cömert Tokayev | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

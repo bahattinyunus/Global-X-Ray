@@ -1,5 +1,5 @@
 # 🌍 Nijer (Nijer) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: NER` • `Para Birimi: XOF` • `Başkent: Niamey`
+`Bölge: Afrika` • `ISO: NER` • `Para Birimi: XOF` • `Başkent: Niamey`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Nijer | **Başkent** | Niamey |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 1,267,000 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 1,267,000 km² |
 | **Nüfus** | 26,207,977 | **Para Birimi** | XOF |
 | **Resmi Diller** | Fransızca, Hausa | **Resmi Rejim Biçimi** | Askeri Cunta |
 | **Görünen (De Jure) Lider** | Abdourahamane Tchiani | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

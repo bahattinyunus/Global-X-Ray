@@ -1,5 +1,5 @@
 # 🌍 Afganistan (Afganistan) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: AFG` • `Para Birimi: AFN` • `Başkent: Kabil`
+`Bölge: Asya & Hint-Pasifik` • `ISO: AFG` • `Para Birimi: AFN` • `Başkent: Kabil`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Afganistan | **Başkent** | Kabil |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 652,864 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 652,864 km² |
 | **Nüfus** | 41,128,771 | **Para Birimi** | AFN |
 | **Resmi Diller** | Peştuca, Darice | **Resmi Rejim Biçimi** | Taliban Teokratik Emirliği |
 | **Görünen (De Jure) Lider** | Mevlevi Hibetullah Ahundzade | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

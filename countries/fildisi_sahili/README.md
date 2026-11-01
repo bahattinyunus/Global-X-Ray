@@ -1,5 +1,5 @@
 # 🌍 Fildişi Sahili (Fildişi Sahili Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: CIV` • `Para Birimi: XOF` • `Başkent: Yamoussoukro (Abidjan)`
+`Bölge: Afrika` • `ISO: CIV` • `Para Birimi: XOF` • `Başkent: Yamoussoukro (Abidjan)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Fildişi Sahili Cumhuriyeti | **Başkent** | Yamoussoukro (Abidjan) |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 322,463 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 322,463 km² |
 | **Nüfus** | 29,389,150 | **Para Birimi** | XOF |
 | **Resmi Diller** | Fransızca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Alassane Ouattara | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

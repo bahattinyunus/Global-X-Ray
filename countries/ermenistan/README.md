@@ -1,5 +1,5 @@
 # 🌍 Ermenistan (Ermenistan Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: ARM` • `Para Birimi: AMD` • `Başkent: Erivan`
+`Bölge: Asya & Hint-Pasifik` • `ISO: ARM` • `Para Birimi: AMD` • `Başkent: Erivan`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Ermenistan Cumhuriyeti | **Başkent** | Erivan |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 29,743 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 29,743 km² |
 | **Nüfus** | 2,780,000 | **Para Birimi** | AMD |
 | **Resmi Diller** | Ermenice | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Nikol Paşinyan | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

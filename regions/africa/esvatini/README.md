@@ -1,5 +1,5 @@
 # 🌍 Esvatini (Esvatini) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: SWZ` • `Para Birimi: SZL` • `Başkent: Mbabane (Lobamba)`
+`Bölge: Afrika` • `ISO: SWZ` • `Para Birimi: SZL` • `Başkent: Mbabane (Lobamba)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Esvatini | **Başkent** | Mbabane (Lobamba) |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 17,364 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 17,364 km² |
 | **Nüfus** | 1,201,670 | **Para Birimi** | SZL |
 | **Resmi Diller** | Svazi dili, İngilizce | **Resmi Rejim Biçimi** | Mutlak Monarşi |
 | **Görünen (De Jure) Lider** | Kral III. Mswati | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

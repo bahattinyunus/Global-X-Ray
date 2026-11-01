@@ -1,5 +1,5 @@
 # 🌍 Suudi Arabistan (Suudi Arabistan Krallığı) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: SAU` • `Para Birimi: SAR (Suudi Riyali)` • `Başkent: Riyad`
+`Bölge: Orta Doğu` • `ISO: SAU` • `Para Birimi: SAR (Suudi Riyali)` • `Başkent: Riyad`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Suudi Arabistan Krallığı | **Başkent** | Riyad |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 2,149,690 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 2,149,690 km² |
 | **Nüfus** | 36,408,820 | **Para Birimi** | SAR (Suudi Riyali) |
 | **Resmi Diller** | Arapça (Resmi) | **Resmi Rejim Biçimi** | Mutlak Teokratik Monarşi (El Suud Hanedanı) |
 | **Görünen (De Jure) Lider** | Kral Selman bin Abdülaziz / Veliaht Prens Muhammed bin Selman (MBS) | **Diplomatik Ekseni** | Körfez İşbirliği Konseyi (KİK), OPEC+, Arap Birliği, İslam İşbirliği Teşkilatı. |

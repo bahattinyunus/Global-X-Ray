@@ -1,5 +1,5 @@
 # 🌍 Çekya (Çekya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: CZE` • `Para Birimi: CZK` • `Başkent: Prag`
+`Bölge: Avrupa` • `ISO: CZE` • `Para Birimi: CZK` • `Başkent: Prag`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Çekya Cumhuriyeti | **Başkent** | Prag |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 78,866 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 78,866 km² |
 | **Nüfus** | 10,827,529 | **Para Birimi** | CZK |
 | **Resmi Diller** | Çekçe | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Petr Fiala | **Diplomatik Ekseni** | Bölgesel Paktlar |

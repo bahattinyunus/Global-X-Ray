@@ -1,5 +1,5 @@
 # 🌍 Hindistan (Hindistan Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: IND` • `Para Birimi: INR (Hindistan Rupisi)` • `Başkent: Yeni Delhi`
+`Bölge: Asya & Hint-Pasifik` • `ISO: IND` • `Para Birimi: INR (Hindistan Rupisi)` • `Başkent: Yeni Delhi`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Hindistan Cumhuriyeti | **Başkent** | Yeni Delhi |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 3,287,263 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 3,287,263 km² |
 | **Nüfus** | 1,428,627,663 | **Para Birimi** | INR (Hindistan Rupisi) |
 | **Resmi Diller** | Hintçe ve İngilizce (Federal Resmi Diller) + 22 Anayasal Dil | **Resmi Rejim Biçimi** | Federal Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Narendra Modi (Başbakan) / Droupadi Murmu (Cumhurbaşkanı) | **Diplomatik Ekseni** | Quad (ABD, Japonya, Avustralya ile), BRICS+, ŞİÖ, G20. |

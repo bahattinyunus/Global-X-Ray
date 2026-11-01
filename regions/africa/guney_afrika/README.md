@@ -1,5 +1,5 @@
 # 🌍 Güney Afrika (Güney Afrika Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: ZAF` • `Para Birimi: ZAR (Güney Afrika Randı)` • `Başkent: Pretoria (İdari), Cape Town (Yasama), Bloemfontein (Yargı)`
+`Bölge: Afrika` • `ISO: ZAF` • `Para Birimi: ZAR (Güney Afrika Randı)` • `Başkent: Pretoria (İdari), Cape Town (Yasama), Bloemfontein (Yargı)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Güney Afrika Cumhuriyeti | **Başkent** | Pretoria (İdari), Cape Town (Yasama), Bloemfontein (Yargı) |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 1,221,037 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 1,221,037 km² |
 | **Nüfus** | 62,027,503 | **Para Birimi** | ZAR (Güney Afrika Randı) |
 | **Resmi Diller** | 12 Resmi Dil (İngilizce, Zulu, Xhosa, Afrikaans vb.) | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet (Milli Birlik Hükümeti) |
 | **Görünen (De Jure) Lider** | Cyril Ramaphosa (Devlet Başkanı) - ANC ve DA Koalisyonu | **Diplomatik Ekseni** | BRICS (Kurucu), G20, Afrika Birliği, SADC. |

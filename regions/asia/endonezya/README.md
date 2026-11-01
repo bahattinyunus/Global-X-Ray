@@ -1,5 +1,5 @@
 # 🌍 Endonezya (Endonezya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: IDN` • `Para Birimi: IDR` • `Başkent: Cakarta`
+`Bölge: Asya & Hint-Pasifik` • `ISO: IDN` • `Para Birimi: IDR` • `Başkent: Cakarta`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Endonezya Cumhuriyeti | **Başkent** | Cakarta |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 1,904,569 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 1,904,569 km² |
 | **Nüfus** | 277,534,122 | **Para Birimi** | IDR |
 | **Resmi Diller** | Endonezyaca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Prabowo Subianto | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

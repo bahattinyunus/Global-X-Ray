@@ -1,5 +1,5 @@
 # 🌍 Laos (Laos Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: LAO` • `Para Birimi: LAK` • `Başkent: Vientiane`
+`Bölge: Asya & Hint-Pasifik` • `ISO: LAO` • `Para Birimi: LAK` • `Başkent: Vientiane`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Laos Cumhuriyeti | **Başkent** | Vientiane |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 236,800 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 236,800 km² |
 | **Nüfus** | 7,525,000 | **Para Birimi** | LAK |
 | **Resmi Diller** | Laoca | **Resmi Rejim Biçimi** | Tek Parti Komünist Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Thongloun Sisoulith | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

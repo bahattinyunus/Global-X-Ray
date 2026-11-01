@@ -1,5 +1,5 @@
 # 🌍 Yunanistan (Yunanistan Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: GRC` • `Para Birimi: EUR` • `Başkent: Atina`
+`Bölge: Avrupa` • `ISO: GRC` • `Para Birimi: EUR` • `Başkent: Atina`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Yunanistan Cumhuriyeti | **Başkent** | Atina |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 131,957 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 131,957 km² |
 | **Nüfus** | 10,413,982 | **Para Birimi** | EUR |
 | **Resmi Diller** | Yunanca | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Kiryakos Miçotakis | **Diplomatik Ekseni** | Bölgesel Paktlar |

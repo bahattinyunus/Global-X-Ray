@@ -1,5 +1,5 @@
 # 🌍 Slovenya (Slovenya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: SVN` • `Para Birimi: EUR` • `Başkent: Ljubljana`
+`Bölge: Avrupa` • `ISO: SVN` • `Para Birimi: EUR` • `Başkent: Ljubljana`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Slovenya Cumhuriyeti | **Başkent** | Ljubljana |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 20,273 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 20,273 km² |
 | **Nüfus** | 2,116,972 | **Para Birimi** | EUR |
 | **Resmi Diller** | Slovence | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Robert Golob | **Diplomatik Ekseni** | Bölgesel Paktlar |

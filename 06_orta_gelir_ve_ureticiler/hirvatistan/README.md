@@ -1,5 +1,5 @@
 # 🌍 Hırvatistan (Hırvatistan Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: HRV` • `Para Birimi: EUR` • `Başkent: Zagreb`
+`Bölge: Avrupa` • `ISO: HRV` • `Para Birimi: EUR` • `Başkent: Zagreb`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Hırvatistan Cumhuriyeti | **Başkent** | Zagreb |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 56,594 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 56,594 km² |
 | **Nüfus** | 3,855,641 | **Para Birimi** | EUR |
 | **Resmi Diller** | Hırvatça | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Andrej Plenković | **Diplomatik Ekseni** | Bölgesel Paktlar |

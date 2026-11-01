@@ -1,5 +1,5 @@
 # 🌍 Portekiz (Portekiz) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: PRT` • `Para Birimi: EUR` • `Başkent: Lizbon`
+`Bölge: Avrupa` • `ISO: PRT` • `Para Birimi: EUR` • `Başkent: Lizbon`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Portekiz | **Başkent** | Lizbon |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 92,212 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 92,212 km² |
 | **Nüfus** | 10,467,366 | **Para Birimi** | EUR |
 | **Resmi Diller** | Portekizce | **Resmi Rejim Biçimi** | Yarı-Başkanlık |
 | **Görünen (De Jure) Lider** | Luís Montenegro | **Diplomatik Ekseni** | Bölgesel Paktlar |

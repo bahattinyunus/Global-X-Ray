@@ -1,5 +1,5 @@
 # 🌍 Şili (Şili Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: CHL` • `Para Birimi: CLP` • `Başkent: Santiago`
+`Bölge: Amerika Kıtası` • `ISO: CHL` • `Para Birimi: CLP` • `Başkent: Santiago`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Şili Cumhuriyeti | **Başkent** | Santiago |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 756,102 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 756,102 km² |
 | **Nüfus** | 19,600,000 | **Para Birimi** | CLP |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Gabriel Boric | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

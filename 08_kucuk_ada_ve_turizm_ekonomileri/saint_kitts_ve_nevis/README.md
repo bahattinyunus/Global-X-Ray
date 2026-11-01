@@ -1,5 +1,5 @@
 # 🌍 Saint Kitts ve Nevis (Saint Kitts ve Nevis) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: KNA` • `Para Birimi: XCD` • `Başkent: Basseterre`
+`Bölge: Amerika Kıtası` • `ISO: KNA` • `Para Birimi: XCD` • `Başkent: Basseterre`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Saint Kitts ve Nevis | **Başkent** | Basseterre |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 261 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 261 km² |
 | **Nüfus** | 47,658 | **Para Birimi** | XCD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | Terrance Drew | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

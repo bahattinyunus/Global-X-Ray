@@ -1,5 +1,5 @@
 # 🌍 Tayvan (Çin Cumhuriyeti (Tayvan)) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: TWN` • `Para Birimi: TWD (Yeni Tayvan Doları)` • `Başkent: Taipei`
+`Bölge: Asya & Hint-Pasifik` • `ISO: TWN` • `Para Birimi: TWD (Yeni Tayvan Doları)` • `Başkent: Taipei`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Çin Cumhuriyeti (Tayvan) | **Başkent** | Taipei |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 36,197 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 36,197 km² |
 | **Nüfus** | 23,570,000 | **Para Birimi** | TWD (Yeni Tayvan Doları) |
 | **Resmi Diller** | Mandarin Çincesi (Resmi), Tayvanca (Hokkien), Hakka | **Resmi Rejim Biçimi** | Yarı-Başkanlık Temsili Demokrasi |
 | **Görünen (De Jure) Lider** | Lai Ching-te (Devlet Başkanı) / Cho Jung-tai (Başbakan) | **Diplomatik Ekseni** | ABD ile Tayvan İlişkileri Yasası (Silah satış garantisi), diplomatik olarak 12 ülke tarafından tanınma. |

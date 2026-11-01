@@ -76,15 +76,15 @@ Bu nedenle bu ansiklopedi; **kültürü ve insanı merkeze koyan ana gövdesini*
 
 | Medeniyet Havzası | Temel Felsefe & Toplumsal Ethos | Temsilci Ülkeler | Müşterek Erdemler & Değerler |
 | :--- | :--- | :--- | :--- |
-| **Anadolu & Akdeniz Havzası (Kavşak Medeniyetleri)** | Kolektif misafirperverlik, kader birliği, 'Gönül' ve 'İmece' kültürü, yüksek bağlamlı iletişim, duygusal dışavurum ve derin tarihsel katmanlaşma. | `Turkey, Greece, Cyprus` | `` |
-| **Doğu Asya & Konfüçyüsçü-Budist Havza** | Sosyal uyum (Wa/He), hiyerarşiye ve büyüklere hürmet, 'Yüz Kaybetmeme' (Mianzi/Menboku) hassasiyeti, dolaylı anlatım, disiplinli sabır ve uzun vadeli planlama. | `Japan, China, South Korea, Taiwan, Singapore` | `` |
-| **Cermen & İskandinav Mutabakatı** | Kuralcılık, dakiklik (Pünktlichkeit), kamusal eşitlikçilik (Janteloven), doğayla iç içelik, düşük bağlamlı doğrudan iletişim ve rasyonel şeffaflık. | `Germany, Sweden, Norway, Denmark, Finland, Switzerland, Austria, Netherlands` | `` |
-| **Anglo-Sakson Bireyciliği & Pragmatizm** | Bireysel özgürlük, girişimcilik, 'Fırsatlar Ülkesi' ethosu, pragmatik problem çözme, nezaket mesafesi (Privacy) ve liyakat odaklılık. | `United States, United Kingdom, Canada, Australia, New Zealand` | `` |
-| **Slav & Avrasya Derinliği** | Kolektif 'Geniş Ruh' (Shirokaya Dusha), melankoli ve dayanıklılık (Stoykost), metafizik derinlik, zorluklar karşısında adanmışlık ve güçlü devlet algısı. | `Russia, Ukraine, Poland, Serbia, Bulgaria, Belarus` | `` |
-| **Latin Amerika & Büyülü Gerçekçilik** | Aile odaklılık (Familismo), sıcak temas ve dans, 'Sobremesa' (yemek sonrası koyu sohbet), kutlama coşkusu ve kaderci neşe. | `Brazil, Mexico, Argentina, Colombia, Chile, Peru` | `` |
-| **Orta Doğu & Fars İncelik Havzası** | Cömertlik ve ikram (Kerem), onur ve itibar (Şeref), nezaket inceliği (Ta'arof), sözlü edebiyat ve şiir tutkusu, kutsal mekan hürmeti. | `Iran, Egypt, Saudi Arabia, Morocco, Jordan, Iraq` | `` |
-| **Güney Asya & Dharmik Çoğulculuk** | Dharma (Ödev ve Doğruluk), Karma (Sebep-Sonuç döngüsü), 'Jugaad' (yaratıcı doğaçlama), renkli bayramlar ve derin ruhani hoşgörü. | `India, Pakistan, Bangladesh, Sri Lanka, Nepal` | `` |
-| **Sahra Altı Afrika & Ubuntu Kültürü** | 'Ben, biz olduğumuz için benim' (Ubuntu); kabile ve topluluk dayanışması, ritmik müzik, sözlü tarih anlatıcılığı (Griot) ve yaşlılara mutlak saygı. | `South Africa, Nigeria, Kenya, Ghana, Ethiopia, Senegal` | `` |
+| **Anadolu & Akdeniz Havzası (Kavşak Medeniyetleri)** | Kolektif misafirperverlik, kader birliği, 'Gönül' ve 'İmece' kültürü, yüksek bağlamlı iletişim, duygusal dışavurum ve derin tarihsel katmanlaşma. | `Türkiye, Yunanistan, Kıbrıs` | `` |
+| **Doğu Asya & Konfüçyüsçü-Budist Havza** | Sosyal uyum (Wa/He), hiyerarşiye ve büyüklere hürmet, 'Yüz Kaybetmeme' (Mianzi/Menboku) hassasiyeti, dolaylı anlatım, disiplinli sabır ve uzun vadeli planlama. | `Japonya, Çin, Güney Kore, Tayvan, Singapur` | `` |
+| **Cermen & İskandinav Mutabakatı** | Kuralcılık, dakiklik (Pünktlichkeit), kamusal eşitlikçilik (Janteloven), doğayla iç içelik, düşük bağlamlı doğrudan iletişim ve rasyonel şeffaflık. | `Almanya, İsveç, Norveç, Danimarka, Finlandiya, İsviçre, Avusturya, Hollanda` | `` |
+| **Anglo-Sakson Bireyciliği & Pragmatizm** | Bireysel özgürlük, girişimcilik, 'Fırsatlar Ülkesi' ethosu, pragmatik problem çözme, nezaket mesafesi (Privacy) ve liyakat odaklılık. | `Amerika Birleşik Devletleri, Birleşik Krallık, Kanada, Avustralya, Yeni Zelanda` | `` |
+| **Slav & Avrasya Derinliği** | Kolektif 'Geniş Ruh' (Shirokaya Dusha), melankoli ve dayanıklılık (Stoykost), metafizik derinlik, zorluklar karşısında adanmışlık ve güçlü devlet algısı. | `Rusya, Ukrayna, Polonya, Sırbistan, Bulgaristan, Belarus` | `` |
+| **Latin Amerika & Büyülü Gerçekçilik** | Aile odaklılık (Familismo), sıcak temas ve dans, 'Sobremesa' (yemek sonrası koyu sohbet), kutlama coşkusu ve kaderci neşe. | `Brezilya, Meksika, Arjantin, Kolombiya, Şili, Peru` | `` |
+| **Orta Doğu & Fars İncelik Havzası** | Cömertlik ve ikram (Kerem), onur ve itibar (Şeref), nezaket inceliği (Ta'arof), sözlü edebiyat ve şiir tutkusu, kutsal mekan hürmeti. | `İran, Mısır, Suudi Arabistan, Fas, Ürdün, Irak` | `` |
+| **Güney Asya & Dharmik Çoğulculuk** | Dharma (Ödev ve Doğruluk), Karma (Sebep-Sonuç döngüsü), 'Jugaad' (yaratıcı doğaçlama), renkli bayramlar ve derin ruhani hoşgörü. | `Hindistan, Pakistan, Bangladeş, Sri Lanka, Nepal` | `` |
+| **Sahra Altı Afrika & Ubuntu Kültürü** | 'Ben, biz olduğumuz için benim' (Ubuntu); kabile ve topluluk dayanışması, ritmik müzik, sözlü tarih anlatıcılığı (Griot) ve yaşlılara mutlak saygı. | `Güney Afrika, Nijerya, Kenya, Gana, Etiyopya, Senegal` | `` |
 
 ---
 

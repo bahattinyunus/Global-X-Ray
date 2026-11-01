@@ -1,5 +1,5 @@
 # 🌍 Lihtenştayn (Lihtenştayn) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: LIE` • `Para Birimi: CHF` • `Başkent: Vaduz`
+`Bölge: Avrupa` • `ISO: LIE` • `Para Birimi: CHF` • `Başkent: Vaduz`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Lihtenştayn | **Başkent** | Vaduz |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 160 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 160 km² |
 | **Nüfus** | 39,584 | **Para Birimi** | CHF |
 | **Resmi Diller** | Almanca | **Resmi Rejim Biçimi** | Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Daniel Risch | **Diplomatik Ekseni** | Bölgesel Paktlar |

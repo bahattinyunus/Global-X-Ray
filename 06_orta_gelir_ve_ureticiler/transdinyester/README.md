@@ -1,5 +1,5 @@
 # 🌍 Transdinyester (Transdinyester Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: PMR` • `Para Birimi: PRB` • `Başkent: Tiraspol`
+`Bölge: Avrupa` • `ISO: PMR` • `Para Birimi: PRB` • `Başkent: Tiraspol`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Transdinyester Cumhuriyeti | **Başkent** | Tiraspol |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 4,163 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 4,163 km² |
 | **Nüfus** | 465,000 | **Para Birimi** | PRB |
 | **Resmi Diller** | Rusça, Moldovaca, Ukraynaca | **Resmi Rejim Biçimi** | Tanınmayan Fiili De Facto Cumhuriyet |
 | **Görünen (De Jure) Lider** | Vadim Krasnoselsky | **Diplomatik Ekseni** | Bölgesel Paktlar |

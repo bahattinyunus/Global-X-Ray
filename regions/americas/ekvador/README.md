@@ -1,5 +1,5 @@
 # 🌍 Ekvador (Ekvador Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: ECU` • `Para Birimi: USD` • `Başkent: Quito`
+`Bölge: Amerika Kıtası` • `ISO: ECU` • `Para Birimi: USD` • `Başkent: Quito`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Ekvador Cumhuriyeti | **Başkent** | Quito |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 283,561 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 283,561 km² |
 | **Nüfus** | 18,000,000 | **Para Birimi** | USD |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Daniel Noboa | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

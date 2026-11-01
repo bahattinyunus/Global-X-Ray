@@ -1,5 +1,5 @@
 # 🌍 Amerika Birleşik Devletleri (Amerika Birleşik Devletleri) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: USA` • `Para Birimi: USD (Amerikan Doları - Küresel Rezerv Para)` • `Başkent: Washington, D.C.`
+`Bölge: Amerika Kıtası` • `ISO: USA` • `Para Birimi: USD (Amerikan Doları - Küresel Rezerv Para)` • `Başkent: Washington, D.C.`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Amerika Birleşik Devletleri | **Başkent** | Washington, D.C. |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 9,833,517 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 9,833,517 km² |
 | **Nüfus** | 334,914,895 | **Para Birimi** | USD (Amerikan Doları - Küresel Rezerv Para) |
 | **Resmi Diller** | İngilizce (Fiili Resmi Dil), İspanyolca | **Resmi Rejim Biçimi** | Federal Başkanlık Anayasal Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Joe Biden / Donald Trump (Seçilmiş Başkan) - Kongre ve Yüksek Mahkeme | **Diplomatik Ekseni** | NATO (Lider), Five Eyes, AUKUS, Quad, G7, USMCA. |

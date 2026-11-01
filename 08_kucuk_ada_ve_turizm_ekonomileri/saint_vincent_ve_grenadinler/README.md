@@ -1,5 +1,5 @@
 # 🌍 Saint Vincent ve Grenadinler (Saint Vincent ve Grenadinler) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: VCT` • `Para Birimi: XCD` • `Başkent: Kingstown`
+`Bölge: Amerika Kıtası` • `ISO: VCT` • `Para Birimi: XCD` • `Başkent: Kingstown`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Saint Vincent ve Grenadinler | **Başkent** | Kingstown |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 389 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 389 km² |
 | **Nüfus** | 104,332 | **Para Birimi** | XCD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | Ralph Gonsalves | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

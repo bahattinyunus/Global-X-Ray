@@ -1,5 +1,5 @@
 # 🌍 Tuvalu (Tuvalu) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: TUV` • `Para Birimi: AUD` • `Başkent: Funafuti`
+`Bölge: Okyanusya` • `ISO: TUV` • `Para Birimi: AUD` • `Başkent: Funafuti`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Tuvalu | **Başkent** | Funafuti |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 26 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 26 km² |
 | **Nüfus** | 11,312 | **Para Birimi** | AUD |
 | **Resmi Diller** | Tuvaluca, İngilizce | **Resmi Rejim Biçimi** | Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | Feleti Teo | **Diplomatik Ekseni** | Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu |

@@ -1,5 +1,5 @@
 # 🌍 Ürdün (Ürdün Haşimi Krallığı) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: JOR` • `Para Birimi: JOD (Ürdün Dinarı)` • `Başkent: Amman`
+`Bölge: Orta Doğu` • `ISO: JOR` • `Para Birimi: JOD (Ürdün Dinarı)` • `Başkent: Amman`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Ürdün Haşimi Krallığı | **Başkent** | Amman |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 89,342 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 89,342 km² |
 | **Nüfus** | 11,337,052 | **Para Birimi** | JOD (Ürdün Dinarı) |
 | **Resmi Diller** | Arapça (Resmi), İngilizce | **Resmi Rejim Biçimi** | Anayasal Monarşi (Haşimi Hanedanı) |
 | **Görünen (De Jure) Lider** | Kral II. Abdullah / Cafer Hassan (Başbakan) | **Diplomatik Ekseni** | ABD'nin Başlıca NATO Dışı Müttefiki, Arap Birliği, İsrail Barış Antlaşması (Vadi Araba 1994). |

@@ -23,10 +23,18 @@
   ],
   "targeted_states": [
     {
-      "country": "Russia",
+      "country": "Rusya",
       "code": "RUS",
       "regime_type": "Kapsamlı Finansal, Enerji ve İleri Teknoloji Ambargosu (2014-2026)",
-      "primary_sanctioners": ["USA (OFAC)", "EU", "GBR", "JPN", "CAN", "AUS", "CHE"],
+      "primary_sanctioners": [
+        "ABD (OFAC)",
+        "AB",
+        "Birleşik Krallık",
+        "Japonya",
+        "Kanada",
+        "Avustralya",
+        "İsviçre"
+      ],
       "frozen_assets_usd_b": 300.0,
       "core_restrictions": [
         "Rusya Merkez Bankası (CBR) döviz rezervlerinin ($300B) batı bankalarında dondurulması",
@@ -42,10 +50,14 @@
       ]
     },
     {
-      "country": "Iran",
+      "country": "İran",
       "code": "IRN",
       "regime_type": "Kapsamlı Nükleer ve İkincil Finansal Ambargo (1979-2026)",
-      "primary_sanctioners": ["USA (OFAC)", "EU", "UN (tarihsel kararlar)"],
+      "primary_sanctioners": [
+        "ABD (OFAC)",
+        "AB",
+        "BM (tarihsel kararlar)"
+      ],
       "frozen_assets_usd_b": 100.0,
       "core_restrictions": [
         "İran Merkez Bankası ve tüm bankacılık sistemine yönelik küresel finansal abluka",
@@ -60,10 +72,16 @@
       ]
     },
     {
-      "country": "North Korea",
+      "country": "Kuzey Kore",
       "code": "PRK",
       "regime_type": "Tam Kapsamlı BM Güvenlik Konseyi ve ABD Ambargosu",
-      "primary_sanctioners": ["UN_SC (Kararlar 1718, 2270, 2397)", "USA", "EU", "JPN", "KOR"],
+      "primary_sanctioners": [
+        "BM_SC (Kararlar 1718, 2270, 2397)",
+        "ABD",
+        "AB",
+        "Japonya",
+        "KOR"
+      ],
       "frozen_assets_usd_b": 5.0,
       "core_restrictions": [
         "Kömür, tekstil, deniz ürünleri ve mineral ihracatının tamamen yasaklanması",
@@ -81,7 +99,11 @@
       "country": "Venezuela",
       "code": "VEN",
       "regime_type": "Kamu Finansmanı ve Petrol Şirketi (PDVSA) Ambargosu",
-      "primary_sanctioners": ["USA (OFAC)", "EU", "CAN"],
+      "primary_sanctioners": [
+        "ABD (OFAC)",
+        "AB",
+        "Kanada"
+      ],
       "frozen_assets_usd_b": 24.0,
       "core_restrictions": [
         "PDVSA'nın ABD'deki rafineri varlığı CITGO'nun gelirlerine el konulması",
@@ -94,10 +116,13 @@
       ]
     },
     {
-      "country": "Syria",
+      "country": "Suriye",
       "code": "SYR",
       "regime_type": "Sezar Suriye Sivil Koruma Yasası (Caesar Act) & Kapsamlı Abluka",
-      "primary_sanctioners": ["USA (Caesar Act 2020)", "EU"],
+      "primary_sanctioners": [
+        "ABD (Caesar Act 2020)",
+        "AB"
+      ],
       "frozen_assets_usd_b": 10.0,
       "core_restrictions": [
         "Suriye Merkez Bankası ve Esad ailesi varlıklarının dondurulması",

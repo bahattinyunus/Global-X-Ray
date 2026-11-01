@@ -5,7 +5,7 @@
     {
       "id": "GPFG_NOR",
       "name": "Norveç Hükümeti Emeklilik Fonu Global (Oljefondet)",
-      "country": "Norway",
+      "country": "Norveç",
       "code": "NOR",
       "assets_under_management_usd_b": 1650.0,
       "funding_source": "Kuzey Denizi petrol ve doğal gaz üretim gelirleri ve vergi fazlası",
@@ -16,7 +16,7 @@
     {
       "id": "CIC_CHN",
       "name": "Çin Yatırım Şirketi (China Investment Corporation - CIC)",
-      "country": "China",
+      "country": "Çin",
       "code": "CHN",
       "assets_under_management_usd_b": 1350.0,
       "funding_source": "Çin Halk Bankası (PBOC) devasa döviz rezervi fazlaları",
@@ -27,7 +27,7 @@
     {
       "id": "ADIA_UAE",
       "name": "Abu Dabi Yatırım Otoritesi (ADIA)",
-      "country": "United Arab Emirates",
+      "country": "Birleşik Arap Emirlikleri",
       "code": "ARE",
       "assets_under_management_usd_b": 1000.0,
       "funding_source": "Abu Dabi Emirliği ham petrol ihracat fazlaları (ADNOC)",
@@ -38,7 +38,7 @@
     {
       "id": "PIF_SAU",
       "name": "Suudi Arabistan Kamu Yatırım Fonu (Public Investment Fund - PIF)",
-      "country": "Saudi Arabia",
+      "country": "Suudi Arabistan",
       "code": "SAU",
       "assets_under_management_usd_b": 930.0,
       "funding_source": "Saudi Aramco temettüleri ve devlet tahvil ihraçları",
@@ -49,7 +49,7 @@
     {
       "id": "KIA_KWT",
       "name": "Kuveyt Yatırım Otoritesi (Kuwait Investment Authority - KIA)",
-      "country": "Kuwait",
+      "country": "Kuveyt",
       "code": "KWT",
       "assets_under_management_usd_b": 900.0,
       "funding_source": "Gelecek Nesiller Fonu (FGF) petrol gelirleri kesintisi (1953'te kurulan dünyanın en eski SWF'si)",
@@ -60,7 +60,7 @@
     {
       "id": "GIC_SGP",
       "name": "GIC Private Limited (Singapur Hükümet Yatırım Şirketi)",
-      "country": "Singapore",
+      "country": "Singapur",
       "code": "SGP",
       "assets_under_management_usd_b": 800.0,
       "funding_source": "Singapur Merkez Bankası (MAS) resmi döviz rezervleri",
@@ -71,7 +71,7 @@
     {
       "id": "QIA_QAT",
       "name": "Katar Yatırım Otoritesi (Qatar Investment Authority - QIA)",
-      "country": "Qatar",
+      "country": "Katar",
       "code": "QAT",
       "assets_under_management_usd_b": 510.0,
       "funding_source": "Kuzey Sahası (North Field) LNG sıvılaştırılmış doğal gaz ihracat gelirleri",
@@ -82,7 +82,7 @@
     {
       "id": "TEMASEK_SGP",
       "name": "Temasek Holdings",
-      "country": "Singapore",
+      "country": "Singapur",
       "code": "SGP",
       "assets_under_management_usd_b": 290.0,
       "funding_source": "Singapur devletine ait kamu iktisadi teşebbüslerinin hisseleri",
@@ -93,7 +93,7 @@
     {
       "id": "NWF_RUS",
       "name": "Rusya Ulusal Refah Fonu (National Wealth Fund - NWF)",
-      "country": "Russia",
+      "country": "Rusya",
       "code": "RUS",
       "assets_under_management_usd_b": 150.0,
       "funding_source": "Urals petrolü taban fiyatı üzerindeki bütçe kuralı petrol/gaz gelirleri",
@@ -104,7 +104,7 @@
     {
       "id": "TWF_TUR",
       "name": "Türkiye Varlık Fonu (Turkey Wealth Fund - TWF)",
-      "country": "Turkey",
+      "country": "Türkiye",
       "code": "TUR",
       "assets_under_management_usd_b": 50.0,
       "funding_source": "Stratejik kamu şirketlerinin (BOTAŞ, TPAO, Ziraat Bankası, THY, Türk Telekom) hisse devirleri",

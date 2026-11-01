@@ -1,5 +1,5 @@
 # 🌍 Kamboçya (Kamboçya) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: KHM` • `Para Birimi: KHR` • `Başkent: Phnom Penh`
+`Bölge: Asya & Hint-Pasifik` • `ISO: KHM` • `Para Birimi: KHR` • `Başkent: Phnom Penh`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kamboçya | **Başkent** | Phnom Penh |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 181,035 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 181,035 km² |
 | **Nüfus** | 16,767,842 | **Para Birimi** | KHR |
 | **Resmi Diller** | Kmerce | **Resmi Rejim Biçimi** | Baskın Parti Monarşisi (Hun Hanedanı) |
 | **Görünen (De Jure) Lider** | Hun Manet | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

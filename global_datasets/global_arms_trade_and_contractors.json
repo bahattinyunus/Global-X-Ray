@@ -12,7 +12,7 @@
     {
       "rank": 1,
       "company": "Lockheed Martin",
-      "country": "United States",
+      "country": "Amerika Birleşik Devletleri",
       "defense_revenue_usd_b": 63.5,
       "flagship_systems": "F-35 Lightning II Müşterek Taarruz Uçağı, F-16 Block 70, PAC-3 Patriot Füzesi, HIMARS Roketatar Sistemi, Trident II D5 SLBM",
       "strategic_monopoly": "Dünyanın en büyük 5. Nesil savaş uçağı tekeli; NATO ve müttefik hava kuvvetlerinin ana omurgası."
@@ -20,7 +20,7 @@
     {
       "rank": 2,
       "company": "RTX Corporation (Raytheon)",
-      "country": "United States",
+      "country": "Amerika Birleşik Devletleri",
       "defense_revenue_usd_b": 40.5,
       "flagship_systems": "Patriot Hava Savunma Sistemi, Tomahawk Seyir Füzesi, AMRAAM AIM-120 Hava-Hava Füzesi, Javelin Tanksavar (Lockheed ortaklığı)",
       "strategic_monopoly": "Küresel hassas güdümlü mühimmat, hava savunma radarları ve AESA sensör tekeli."
@@ -28,7 +28,7 @@
     {
       "rank": 3,
       "company": "Northrop Grumman",
-      "country": "United States",
+      "country": "Amerika Birleşik Devletleri",
       "defense_revenue_usd_b": 35.2,
       "flagship_systems": "B-21 Raider Yeni Nesil Stealth Bombardıman Uçağı, B-2 Spirit, Sentinel ICBM nükleer caydırıcılık, Global Hawk RQ-4 İHA",
       "strategic_monopoly": "ABD stratejik nükleer triadının ana hava ve kara yüklenicisi; uzay tabanlı gözetleme uyduları."
@@ -36,7 +36,7 @@
     {
       "rank": 4,
       "company": "Aviation Industry Corporation of China (AVIC)",
-      "country": "China",
+      "country": "Çin",
       "defense_revenue_usd_b": 34.0,
       "flagship_systems": "J-20 'Mighty Dragon' 5. Nesil Stealth Avcı Uçağı, J-16, J-35 uçak gemisi avcısı, Y-20 stratejik nakliye uçağı",
       "strategic_monopoly": "Çin Halk Kurtuluş Ordusu Hava Kuvvetleri'nin (PLAAF) yegane uçak tasarım ve üretim tekeli."
@@ -44,7 +44,7 @@
     {
       "rank": 5,
       "company": "Boeing Defense, Space & Security",
-      "country": "United States",
+      "country": "Amerika Birleşik Devletleri",
       "defense_revenue_usd_b": 32.5,
       "flagship_systems": "F-15EX Eagle II, F/A-18 Super Hornet, AH-64 Apache Taarruz Helikopteri, P-8A Poseidon Deniz Karakol Uçağı, KC-46 Tanker",
       "strategic_monopoly": "Deniz havacılığı, taarruz helikopterleri ve stratejik havada yakıt ikmali omurgası."
@@ -52,7 +52,7 @@
     {
       "rank": 6,
       "company": "General Dynamics",
-      "country": "United States",
+      "country": "Amerika Birleşik Devletleri",
       "defense_revenue_usd_b": 31.0,
       "flagship_systems": "Virginia ve Columbia Sınıfı Nükleer Denizaltılar (Electric Boat), M1A2 Abrams Ana Muharebe Tankı, Stryker Zırhlı Araçları",
       "strategic_monopoly": "ABD Donanması nükleer denizaltı inşası ve kara kuvvetleri ağır zırhlı muharebe araçları tekeli."
@@ -60,7 +60,7 @@
     {
       "rank": 7,
       "company": "BAE Systems",
-      "country": "United Kingdom",
+      "country": "Birleşik Krallık",
       "defense_revenue_usd_b": 28.0,
       "flagship_systems": "Eurofighter Typhoon (konsorsiyum), Astute Sınıfı Nükleer Saldırı Denizaltısı, Type 26 Fırkateyn, Bradley Zırhlı Muharebe Aracı",
       "strategic_monopoly": "Avrupa ve İngiliz Milletler Topluluğu'nun en büyük savunma devi; AUKUS denizaltı konsorsiyumu ortağı."
@@ -68,7 +68,7 @@
     {
       "rank": 8,
       "company": "China North Industries Group (NORINCO)",
-      "country": "China",
+      "country": "Çin",
       "defense_revenue_usd_b": 22.0,
       "flagship_systems": "Tip 99A Ana Muharebe Tankı, çok namlulu roketatar sistemleri, topçu mühimmatı ve zırhlı personel taşıyıcılar",
       "strategic_monopoly": "Küresel kara harp sistemleri ve topçu mühimmatı üretim hacminde dünyanın en büyük devlet tröstü."
@@ -76,7 +76,7 @@
     {
       "rank": 9,
       "company": "Rostec (Kalaşnikof, UAC, Almaz-Antey, Uralvagonzavod)",
-      "country": "Russia",
+      "country": "Rusya",
       "defense_revenue_usd_b": 18.5,
       "flagship_systems": "Su-57 Felon, Su-35S, T-90M Proryv Tankı, S-400 Triumf ve S-500 Hava Savunma Sistemleri, İskender-M Balistik Füzesi",
       "strategic_monopoly": "Rus devlet savunma sanayi holdingi; yaptırımlara rağmen Küresel Güney'e alternatif silah tedarikçisi."
@@ -84,7 +84,7 @@
     {
       "rank": 10,
       "company": "Rheinmetall",
-      "country": "Germany",
+      "country": "Almanya",
       "defense_revenue_usd_b": 8.0,
       "flagship_systems": "Leopard 2A7/A8 Tank Topu & Mühimmatı, KF51 Panther Tankı, Boxer Zırhlı Aracı, 155mm Topçu Mühimmatı üretim tesisleri",
       "strategic_monopoly": "Ukrayna savaşı sonrası Avrupa'nın en hızlı büyüyen ağır mühimmat ve zırhlı araç sanayi devi."
@@ -92,7 +92,7 @@
     {
       "rank": 11,
       "company": "Baykar Teknoloji & ASELSAN",
-      "country": "Turkey",
+      "country": "Türkiye",
       "defense_revenue_usd_b": 5.2,
       "flagship_systems": "Bayraktar TB2, Bayraktar TB3, Akıncı TİHA, Kızılelma İnsansız Savaş Uçağı, ASELSAN Koral Elektronik Harp Sistemi",
       "strategic_monopoly": "Dünyanın en büyük silahlı insansız hava aracı (SİHA) ihracatçısı (33+ ülkeye ihracat); Karabağ, Libya ve Ukrayna'da savaş doktrini değiştiren güç."
@@ -100,7 +100,7 @@
     {
       "rank": 12,
       "company": "Hanwha Aerospace",
-      "country": "South Korea",
+      "country": "Güney Kore",
       "defense_revenue_usd_b": 5.0,
       "flagship_systems": "K9 Thunder Kundağı Motorlu Obüs, K239 Chunmoo ÇNRA, Redback Zırhlı Muharebe Aracı",
       "strategic_monopoly": "Hızlı teslimat ve rekabetçi fiyatla NATO Doğu Kanadı'nın (Polonya) ana ağır kara gücü tedarikçisi."
@@ -108,19 +108,118 @@
   ],
   "top_exporters_vs_importers": {
     "exporters": [
-      { "country": "United States", "share_pct": 42.0, "primary_markets": ["Middle East (Saudi, Qatar)", "Europe (NATO)", "Indo-Pacific (Japan, Australia)"] },
-      { "country": "France", "share_pct": 11.0, "primary_markets": ["India (Rafale)", "Qatar", "Egypt", "Greece", "Indonesia"] },
-      { "country": "Russia", "share_pct": 11.0, "primary_markets": ["India", "China", "Algeria", "Vietnam", "Belarus"] },
-      { "country": "China", "share_pct": 5.8, "primary_markets": ["Pakistan (JF-17, denizaltılar)", "Myanmar", "Bangladeş", "Sırbistan"] },
-      { "country": "Germany", "share_pct": 5.6, "primary_markets": ["Ukrayna", "Mısır", "İsrail", "Yunanistan", "Singapur"] },
-      { "country": "Turkey", "share_pct": 1.6, "primary_markets": ["Azerbaycan", "Ukrayna", "Körfez Devletleri (Suudi, BAE)", "Polonya", "Afrika (15+ ülke)"] }
+      {
+        "country": "Amerika Birleşik Devletleri",
+        "share_pct": 42.0,
+        "primary_markets": [
+          "Middle East (Saudi, Qatar)",
+          "Europe (NATO)",
+          "Indo-Pacific (Japan, Australia)"
+        ]
+      },
+      {
+        "country": "Fransa",
+        "share_pct": 11.0,
+        "primary_markets": [
+          "India (Rafale)",
+          "Qatar",
+          "Egypt",
+          "Greece",
+          "Indonesia"
+        ]
+      },
+      {
+        "country": "Rusya",
+        "share_pct": 11.0,
+        "primary_markets": [
+          "India",
+          "China",
+          "Algeria",
+          "Vietnam",
+          "Belarus"
+        ]
+      },
+      {
+        "country": "Çin",
+        "share_pct": 5.8,
+        "primary_markets": [
+          "Pakistan (JF-17, denizaltılar)",
+          "Myanmar",
+          "Bangladeş",
+          "Sırbistan"
+        ]
+      },
+      {
+        "country": "Almanya",
+        "share_pct": 5.6,
+        "primary_markets": [
+          "Ukrayna",
+          "Mısır",
+          "İsrail",
+          "Yunanistan",
+          "Singapur"
+        ]
+      },
+      {
+        "country": "Türkiye",
+        "share_pct": 1.6,
+        "primary_markets": [
+          "Azerbaycan",
+          "Ukrayna",
+          "Körfez Devletleri (Suudi, BAE)",
+          "Polonya",
+          "Afrika (15+ ülke)"
+        ]
+      }
     ],
     "importers": [
-      { "country": "India", "share_pct": 9.8, "primary_suppliers": ["Russia", "France", "United States", "Israel"] },
-      { "country": "Saudi Arabia", "share_pct": 8.4, "primary_suppliers": ["United States (78%)", "France", "United Kingdom"] },
-      { "country": "Qatar", "share_pct": 7.6, "primary_suppliers": ["United States", "France", "Italy"] },
-      { "country": "Ukraine", "share_pct": 4.9, "primary_suppliers": ["United States", "Germany", "Poland", "UK"] },
-      { "country": "Pakistan", "share_pct": 4.2, "primary_suppliers": ["China (82%)", "Sweden", "Turkey"] }
+      {
+        "country": "Hindistan",
+        "share_pct": 9.8,
+        "primary_suppliers": [
+          "Russia",
+          "France",
+          "United States",
+          "Israel"
+        ]
+      },
+      {
+        "country": "Suudi Arabistan",
+        "share_pct": 8.4,
+        "primary_suppliers": [
+          "United States (78%)",
+          "France",
+          "United Kingdom"
+        ]
+      },
+      {
+        "country": "Katar",
+        "share_pct": 7.6,
+        "primary_suppliers": [
+          "United States",
+          "France",
+          "Italy"
+        ]
+      },
+      {
+        "country": "Ukrayna",
+        "share_pct": 4.9,
+        "primary_suppliers": [
+          "United States",
+          "Germany",
+          "Poland",
+          "UK"
+        ]
+      },
+      {
+        "country": "Pakistan",
+        "share_pct": 4.2,
+        "primary_suppliers": [
+          "China (82%)",
+          "Sweden",
+          "Turkey"
+        ]
+      }
     ]
   }
 }

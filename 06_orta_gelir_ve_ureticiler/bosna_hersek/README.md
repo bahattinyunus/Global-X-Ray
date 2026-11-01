@@ -1,5 +1,5 @@
 # 🌍 Bosna-Hersek (Bosna-Hersek) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: BIH` • `Para Birimi: BAM` • `Başkent: Saraybosna`
+`Bölge: Avrupa` • `ISO: BIH` • `Para Birimi: BAM` • `Başkent: Saraybosna`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Bosna-Hersek | **Başkent** | Saraybosna |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 51,197 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 51,197 km² |
 | **Nüfus** | 3,233,526 | **Para Birimi** | BAM |
 | **Resmi Diller** | Boşnakça, Hırvatça, Sırpça | **Resmi Rejim Biçimi** | Üçlü Devlet Başkanlığı Konseyi |
 | **Görünen (De Jure) Lider** | Denis Bećirović | **Diplomatik Ekseni** | Bölgesel Paktlar |

@@ -1,5 +1,5 @@
 # 🌍 Grönland (Grönland) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: GRL` • `Para Birimi: DKK` • `Başkent: Nuuk`
+`Bölge: Amerika Kıtası` • `ISO: GRL` • `Para Birimi: DKK` • `Başkent: Nuuk`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Grönland | **Başkent** | Nuuk |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 2,166,086 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 2,166,086 km² |
 | **Nüfus** | 56,609 | **Para Birimi** | DKK |
 | **Resmi Diller** | Grönlandca, Danca | **Resmi Rejim Biçimi** | Danimarka Özerk Bölgesi |
 | **Görünen (De Jure) Lider** | Múte B. Egede | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

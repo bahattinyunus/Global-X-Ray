@@ -329,11 +329,37 @@ def build_chokepoints():
 
     content = f"""# 🚢 Küresel Deniz Darboğazları ve Jeopolitik Kilit Noktaları
 
-Dünya petrol ticaretinin %60'ından fazlası ve uluslararası konteyner taşımacılığının omurgası birkaç dar su yolundan geçer:
+Dünya ticaretinin hacimce %80'inden fazlası, petrol taşımacılığının ise %60'ı okyanuslar ve deniz yolları üzerinden gerçekleşir. Ancak bu devasa küresel akış, coğrafyanın dayattığı birkaç dar boğaz ve yapay kanaldan geçmek zorundadır. Alfred Thayer Mahan'ın "Deniz Gücünün Tarihe Etkisi" kuramında belirttiği üzere: **«Darboğazları kontrol eden güç, dünya ticaretinin şah damarını ve rakiplerinin enerji arzını kontrol eder.»**
 
-| Boğaz / Kanal | Türü | Kıyıdaş & Kontrol Eden Güçler | Günlük Petrol Transiti & Küresel Pay | Jeopolitik Risk |
+---
+
+## ⚓ Kritik Boğazlar ve Kanallar Matrisi
+
+| Boğaz / Kanal | Türü | Kıyıdaş & Kontrol Eden Güçler | Günlük Petrol Transiti & Küresel Pay | Jeopolitik Risk Seviyesi |
 | :--- | :--- | :--- | :---: | :---: |
 {chr(10).join(rows)}
+
+---
+
+## 🎯 Stratejik Darboğazların Derin Güvenlik ve Asimetrik Tehdit Analizi
+
+### 1. Hürmüz Boğazı: Dünyanın Enerji Şah Damarı
+* **Jeopolitik Konum:** Basra Körfezi'ni Umman Denizi ve Hint Okyanusu'na bağlayan en dar noktası 39 km genişliğindeki doğal geçit.
+* **Stratejik Önemi:** Suudi Arabistan, Irak, BAE, Kuveyt, Katar (LNG ihracatının %20'si) ve İran'ın petrol ihracatı buradan geçer.
+* **Tehdit Senaryoları:** İran Devrim Muhafızları Deniz Kuvvetleri (IRGCN) asimetrik sürat tekneleri, mayınlama ve kıyı seyir füzeleri. Boğazın 24 saat kapanması petrol fiyatlarını anında $150+/varil seviyesine fırlatır.
+
+### 2. Malakka Boğazı & "Malakka İkilemi"
+* **Jeopolitik Konum:** Malay Yarımadası ile Sumatra Adası arasında 800 km uzunluğunda, Singapur açıklarında sadece 2.8 km genişliğe inen koridor.
+* **Stratejik Önemi:** Çin, Japonya ve Güney Kore'nin enerji ithalatının %80'i buradan akar.
+* **Çin'in "Malakka İkilemi":** Olası bir Tayvan krizinde Malakka'nın abluka altına alınması durumunda Çin ekonomisinin akaryakıt kıtlığına düşme riski.
+
+### 3. Babülmendep & Süveyş Kanalı: Kızıldeniz Asimetrik Kuşatması
+* **Jeopolitik Konum:** Kızıldeniz'in güney çıkışı (Yemen-Cibuti arası 29 km) ve kuzey çıkışı (193 km uzunluğundaki Süveyş Kanalı).
+* **Kızıldeniz Krizi:** Husi güçlerinin İHA ve balistik füzeleri, ticari gemileri Ümit Burnu rotasına yönlendirmiş, navlun maliyetlerini 3 katına çıkarmıştır.
+
+### 4. Türk Boğazları ve Montrö Rejimi (1936)
+* **Jeopolitik Konum:** Karadeniz'i Akdeniz'e bağlayan İstanbul ve Çanakkale boğazları.
+* **Montrö Boğazlar Sözleşmesi Gücü:** Türkiye'nin boğazlar üzerindeki tam egemenliği ve savaş zamanında Karadeniz'e kıyıdaş olmayan ülkelerin savaş gemilerine geçişi kapatma yetkisi Karadeniz'in küresel savaşa dönüşmesini engelleyen nihai kalkandır.
 """
     with open(GEO_DIR / "MARITIME_CHOKEPOINTS_AND_TRANSIT_VULNERABILITIES.md", "w", encoding="utf-8") as f:
         f.write(content)
@@ -348,11 +374,28 @@ def build_pmc():
 
     content = f"""# ⚔️ Özel Askeri Şirketler (PMC) ve Paramiliter Şebekeler
 
-Devletlerin resmi ordu sorumluluğunu üstlenmeden vekil savaşlarında, maden sahaları korumasında ve örtülü operasyonlarda kullandığı askeri yükleniciler:
+Modern hibrit harp doktrininde devletler; resmi ordularının hukuki ve siyasi sorumluluğunu üstlenmeksizin, vekil savaşlarını yürütmek, maden ve enerji imtiyazlarını korumak ve örtülü operasyonlar icra etmek için **Özel Askeri Şirketleri (PMC)** ve paramiliter ağları kullanmaktadır.
 
-| Şirket / Şebeke | Menşei | Tahmini İnsan Gücü | Aktif Harekât Sahaları | Hukuki Statü |
+Niccolò Machiavelli'nin "Hükümdar" (1532) eserinde uyardığı gibi: **«Paralı askerler sadakatsiz, disiplinsiz ve muhteristir. Barış zamanında onlar sizi soyar, savaş zamanında düşman sizi mahveder.»** Günümüz küresel jeopolitiğinde PMC'ler, makul inkar edilebilirlik (plausible deniability) sağlayan stratejik devlet aygıtlarıdır.
+
+---
+
+## 🪖 Küresel Özel Askeri Şirketler ve Paramiliter Ağlar Matrisi
+
+| Şirket / Şebeke | Menşei | Tahmini İnsan Gücü | Aktif Harekât Sahaları | Hukuki Statü & İlişki Biçimi |
 | :--- | :--- | :---: | :--- | :--- |
 {chr(10).join(rows)}
+
+---
+
+## 🎯 Stratejik Kullanım Modelleri
+
+### 1. Rusya ve "Afrika Kolordusu" Modeli (Eski Wagner Grubu)
+* Mali, Orta Afrika Cumhuriyeti, Burkina Faso ve Nijer'de darbe sonrası maden imtiyazları (altın, lityum) karşılığı rejim koruması.
+* Prigozhin isyanı sonrası doğrudan GRU kontrolüne devredilmiştir.
+
+### 2. ABD Modeli: İhale Tabanlı Savunma Alt-Yükleniciliği
+* Irak ve Afganistan'da lojistik, VIP ve üs koruma taşeronluğu. Constellis (Blackwater/Academi) üzerinden Pentagon ihaleleri.
 """
     with open(GEO_DIR / "PMC_MERCENARY_GROUPS_AND_PROXY_WARFARE.md", "w", encoding="utf-8") as f:
         f.write(content)

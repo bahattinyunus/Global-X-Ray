@@ -1,5 +1,5 @@
 # 🌍 Gine (Gine) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: GIN` • `Para Birimi: GNF` • `Başkent: Konakri`
+`Bölge: Afrika` • `ISO: GIN` • `Para Birimi: GNF` • `Başkent: Konakri`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Gine | **Başkent** | Konakri |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 245,857 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 245,857 km² |
 | **Nüfus** | 13,859,341 | **Para Birimi** | GNF |
 | **Resmi Diller** | Fransızca | **Resmi Rejim Biçimi** | Askeri Cunta |
 | **Görünen (De Jure) Lider** | Mamady Doumbouya | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

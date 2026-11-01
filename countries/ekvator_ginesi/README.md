@@ -1,5 +1,5 @@
 # 🌍 Ekvator Ginesi (Ekvator Ginesi) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: GNQ` • `Para Birimi: XAF` • `Başkent: Malabo`
+`Bölge: Afrika` • `ISO: GNQ` • `Para Birimi: XAF` • `Başkent: Malabo`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Ekvator Ginesi | **Başkent** | Malabo |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 28,051 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 28,051 km² |
 | **Nüfus** | 1,674,908 | **Para Birimi** | XAF |
 | **Resmi Diller** | İspanyolca, Fransızca | **Resmi Rejim Biçimi** | Totaliter Aile Kleptokrasisi |
 | **Görünen (De Jure) Lider** | Teodoro Obiang Nguema Mbasogo | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

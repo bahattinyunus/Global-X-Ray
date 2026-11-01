@@ -1,5 +1,5 @@
 # 🌍 Panama (Panama Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: PAN` • `Para Birimi: PAB / USD` • `Başkent: Panama City`
+`Bölge: Amerika Kıtası` • `ISO: PAN` • `Para Birimi: PAB / USD` • `Başkent: Panama City`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Panama Cumhuriyeti | **Başkent** | Panama City |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 75,417 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 75,417 km² |
 | **Nüfus** | 4,408,581 | **Para Birimi** | PAB / USD |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | José Raúl Mulino | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

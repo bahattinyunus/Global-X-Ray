@@ -1,5 +1,5 @@
 # 🌍 Guyana (Guyana Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: GUY` • `Para Birimi: GYD` • `Başkent: Georgetown`
+`Bölge: Amerika Kıtası` • `ISO: GUY` • `Para Birimi: GYD` • `Başkent: Georgetown`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Guyana Cumhuriyeti | **Başkent** | Georgetown |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 214,969 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 214,969 km² |
 | **Nüfus** | 808,726 | **Para Birimi** | GYD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Irfaan Ali | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

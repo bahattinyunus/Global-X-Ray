@@ -1,5 +1,5 @@
 # 🌍 Malta (Malta Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: MLT` • `Para Birimi: EUR` • `Başkent: Valletta`
+`Bölge: Avrupa` • `ISO: MLT` • `Para Birimi: EUR` • `Başkent: Valletta`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Malta Cumhuriyeti | **Başkent** | Valletta |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 316 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 316 km² |
 | **Nüfus** | 535,064 | **Para Birimi** | EUR |
 | **Resmi Diller** | Maltaca, İngilizce | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Robert Abela | **Diplomatik Ekseni** | Bölgesel Paktlar |

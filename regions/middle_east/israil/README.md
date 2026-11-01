@@ -1,5 +1,5 @@
 # 🌍 İsrail (İsrail Devleti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: ISR` • `Para Birimi: ILS (Yeni İsrail Şekeli)` • `Başkent: Kudüs (Tel Aviv idari/uluslararası)`
+`Bölge: Orta Doğu` • `ISO: ISR` • `Para Birimi: ILS (Yeni İsrail Şekeli)` • `Başkent: Kudüs (Tel Aviv idari/uluslararası)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | İsrail Devleti | **Başkent** | Kudüs (Tel Aviv idari/uluslararası) |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 22,072 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 22,072 km² |
 | **Nüfus** | 9,842,000 | **Para Birimi** | ILS (Yeni İsrail Şekeli) |
 | **Resmi Diller** | İbranice (Resmi), Arapça (Özel Statü) | **Resmi Rejim Biçimi** | Parlamenter Demokrasi (Koalisyon Sistemi) |
 | **Görünen (De Jure) Lider** | Binyamin Netanyahu (Başbakan) / Isaac Herzog (Cumhurbaşkanı) | **Diplomatik Ekseni** | ABD ile Stratejik Güvenlik Paktı, İbrahim Anlaşmaları (BAE, Bahreyn, Fas, Sudan), OECD. |

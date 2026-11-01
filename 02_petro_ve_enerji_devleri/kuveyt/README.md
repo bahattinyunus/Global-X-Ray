@@ -1,5 +1,5 @@
 # 🌍 Kuveyt (Kuveyt Devleti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: KWT` • `Para Birimi: KWD (Kuveyt Dinarı - Dünyanın en değerli para birimi)` • `Başkent: Kuveyt`
+`Bölge: Orta Doğu` • `ISO: KWT` • `Para Birimi: KWD (Kuveyt Dinarı - Dünyanın en değerli para birimi)` • `Başkent: Kuveyt`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kuveyt Devleti | **Başkent** | Kuveyt |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 17,818 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 17,818 km² |
 | **Nüfus** | 4,440,000 | **Para Birimi** | KWD (Kuveyt Dinarı - Dünyanın en değerli para birimi) |
 | **Resmi Diller** | Arapça (Resmi), İngilizce | **Resmi Rejim Biçimi** | Yarı-Demokratik Anayasal Emirlik (El Sabah Hanedanı) |
 | **Görünen (De Jure) Lider** | Şeyh Mişal el-Ahmed el-Cabir el-Sabah (Emir) / Şeyh Ahmed Abdullah (Başbakan) | **Diplomatik Ekseni** | KİK, OPEC, Arap Birliği, ABD'nin NATO Dışı Baş Müttefiki. |

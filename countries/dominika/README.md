@@ -1,5 +1,5 @@
 # 🌍 Dominika (Dominika Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: DMA` • `Para Birimi: XCD` • `Başkent: Roseau`
+`Bölge: Amerika Kıtası` • `ISO: DMA` • `Para Birimi: XCD` • `Başkent: Roseau`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Dominika Cumhuriyeti | **Başkent** | Roseau |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 751 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 751 km² |
 | **Nüfus** | 72,737 | **Para Birimi** | XCD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Roosevelt Skerrit | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

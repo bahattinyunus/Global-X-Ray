@@ -1,5 +1,5 @@
 # 🌍 Hollanda (Hollanda Krallığı) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: NLD` • `Para Birimi: EUR (Euro)` • `Başkent: Amsterdam (Lahey hükümet merkezi)`
+`Bölge: Avrupa` • `ISO: NLD` • `Para Birimi: EUR (Euro)` • `Başkent: Amsterdam (Lahey hükümet merkezi)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Hollanda Krallığı | **Başkent** | Amsterdam (Lahey hükümet merkezi) |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 41,850 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 41,850 km² |
 | **Nüfus** | 17,947,682 | **Para Birimi** | EUR (Euro) |
 | **Resmi Diller** | Felemenkçe (Resmi), Frizce | **Resmi Rejim Biçimi** | Parlamenter Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Kral Willem-Alexander / Dick Schoof (Başbakan) | **Diplomatik Ekseni** | AB, NATO, OECD. |

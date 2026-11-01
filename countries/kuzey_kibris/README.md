@@ -1,5 +1,5 @@
 # 🌍 Kuzey Kıbrıs (Kuzey Kıbrıs Türk Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: TRNC` • `Para Birimi: TRY (Türk Lirası)` • `Başkent: Lefkoşa`
+`Bölge: Orta Doğu` • `ISO: TRNC` • `Para Birimi: TRY (Türk Lirası)` • `Başkent: Lefkoşa`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kuzey Kıbrıs Türk Cumhuriyeti | **Başkent** | Lefkoşa |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 3,355 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 3,355 km² |
 | **Nüfus** | 382,836 | **Para Birimi** | TRY (Türk Lirası) |
 | **Resmi Diller** | Türkçe (Resmi) | **Resmi Rejim Biçimi** | Yarı-Başkanlık Cumhuriyeti (Yalnızca Türkiye Tarafından Tanınan) |
 | **Görünen (De Jure) Lider** | Ersin Tatar (Cumhurbaşkanı) / Ünal Üstel (Başbakan) | **Diplomatik Ekseni** | Türkiye ile Stratejik İttifak, Türk Devletleri Teşkilatı (Gözlemci Üye). |

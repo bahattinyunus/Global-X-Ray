@@ -1,5 +1,5 @@
 # 🌍 Arnavutluk (Arnavutluk Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: ALB` • `Para Birimi: ALL` • `Başkent: Tiran`
+`Bölge: Avrupa` • `ISO: ALB` • `Para Birimi: ALL` • `Başkent: Tiran`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Arnavutluk Cumhuriyeti | **Başkent** | Tiran |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 28,748 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 28,748 km² |
 | **Nüfus** | 2,761,785 | **Para Birimi** | ALL |
 | **Resmi Diller** | Arnavutça | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Edi Rama | **Diplomatik Ekseni** | AB / NATO / Avrupa Konseyi |

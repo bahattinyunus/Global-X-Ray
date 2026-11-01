@@ -1,5 +1,5 @@
 # 🌍 Gambiya (Gambiya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: GMB` • `Para Birimi: GMD` • `Başkent: Banjul`
+`Bölge: Afrika` • `ISO: GMB` • `Para Birimi: GMD` • `Başkent: Banjul`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Gambiya Cumhuriyeti | **Başkent** | Banjul |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 11,295 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 11,295 km² |
 | **Nüfus** | 2,705,992 | **Para Birimi** | GMD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Adama Barrow | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

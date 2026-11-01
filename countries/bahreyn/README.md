@@ -1,5 +1,5 @@
 # 🌍 Bahreyn (Bahreyn Krallığı) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: BHR` • `Para Birimi: BHD (Bahreyn Dinarı)` • `Başkent: Manama`
+`Bölge: Orta Doğu` • `ISO: BHR` • `Para Birimi: BHD (Bahreyn Dinarı)` • `Başkent: Manama`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Bahreyn Krallığı | **Başkent** | Manama |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 785 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 785 km² |
 | **Nüfus** | 1,501,635 | **Para Birimi** | BHD (Bahreyn Dinarı) |
 | **Resmi Diller** | Arapça (Resmi), İngilizce | **Resmi Rejim Biçimi** | Anayasal Monarşi (El Halife Hanedanı) |
 | **Görünen (De Jure) Lider** | Kral Hamad bin İsa el-Halife / Veliaht Prens Selman (Başbakan) | **Diplomatik Ekseni** | KİK, İbrahim Anlaşmaları (İsrail ile normalleşme), Arap Birliği, ABD Başlıca NATO Dışı Müttefiki. |

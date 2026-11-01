@@ -1,5 +1,5 @@
 # 🌍 Arjantin (Arjantin Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: ARG` • `Para Birimi: ARS (Arjantin Pesosu)` • `Başkent: Buenos Aires`
+`Bölge: Amerika Kıtası` • `ISO: ARG` • `Para Birimi: ARS (Arjantin Pesosu)` • `Başkent: Buenos Aires`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Arjantin Cumhuriyeti | **Başkent** | Buenos Aires |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 2,780,400 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 2,780,400 km² |
 | **Nüfus** | 46,044,703 | **Para Birimi** | ARS (Arjantin Pesosu) |
 | **Resmi Diller** | İspanyolca (Resmi) | **Resmi Rejim Biçimi** | Federal Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Javier Milei (Devlet Başkanı) / Victoria Villarruel (Devlet Başkanı Yardımcısı) | **Diplomatik Ekseni** | Mercosur, G20, Batı Bloku (Milei sonrası BRICS üyeliğini reddetti). |

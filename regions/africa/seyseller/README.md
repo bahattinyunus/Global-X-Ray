@@ -1,5 +1,5 @@
 # 🌍 Seyşeller (Seyşeller Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: SYC` • `Para Birimi: SCR` • `Başkent: Victoria`
+`Bölge: Afrika` • `ISO: SYC` • `Para Birimi: SCR` • `Başkent: Victoria`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Seyşeller Cumhuriyeti | **Başkent** | Victoria |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 459 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 459 km² |
 | **Nüfus** | 107,660 | **Para Birimi** | SCR |
 | **Resmi Diller** | Seyşeller Kreolü, İngilizce, Fransızca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Wavel Ramkalawan | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

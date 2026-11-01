@@ -1,5 +1,5 @@
 # 🌍 Bolivya (Bolivya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: BOL` • `Para Birimi: BOB` • `Başkent: Sucre (La Paz hükümet)`
+`Bölge: Amerika Kıtası` • `ISO: BOL` • `Para Birimi: BOB` • `Başkent: Sucre (La Paz hükümet)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Bolivya Cumhuriyeti | **Başkent** | Sucre (La Paz hükümet) |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 1,098,581 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 1,098,581 km² |
 | **Nüfus** | 12,388,571 | **Para Birimi** | BOB |
 | **Resmi Diller** | İspanyolca, Keçuva, Aymara | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Luis Arce | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

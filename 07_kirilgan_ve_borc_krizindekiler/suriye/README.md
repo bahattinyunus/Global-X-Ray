@@ -1,5 +1,5 @@
 # 🌍 Suriye (Suriye Arap Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: SYR` • `Para Birimi: SYP (Suriye Lirası)` • `Başkent: Şam`
+`Bölge: Orta Doğu` • `ISO: SYR` • `Para Birimi: SYP (Suriye Lirası)` • `Başkent: Şam`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Suriye Arap Cumhuriyeti | **Başkent** | Şam |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 185,180 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 185,180 km² |
 | **Nüfus** | 23,227,000 | **Para Birimi** | SYP (Suriye Lirası) |
 | **Resmi Diller** | Arapça (Resmi), Kürtçe, Süryanice | **Resmi Rejim Biçimi** | Otoriter Aile Diktatörlüğü (Baas Partisi) |
 | **Görünen (De Jure) Lider** | Beşar Esad (Devlet Başkanı) / Muhammed Gazi el-Celali (Başbakan) | **Diplomatik Ekseni** | Rusya, İran, Lübnan Hizbullahı, Arap Birliği (yeniden kabul). |

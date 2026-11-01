@@ -1,5 +1,5 @@
 # 🌍 Porto Riko (Porto Riko) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: PRI` • `Para Birimi: USD` • `Başkent: San Juan`
+`Bölge: Amerika Kıtası` • `ISO: PRI` • `Para Birimi: USD` • `Başkent: San Juan`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Porto Riko | **Başkent** | San Juan |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 9,104 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 9,104 km² |
 | **Nüfus** | 3,205,691 | **Para Birimi** | USD |
 | **Resmi Diller** | İspanyolca, İngilizce | **Resmi Rejim Biçimi** | ABD Toprağı / Commonwealth |
 | **Görünen (De Jure) Lider** | Pedro Pierluisi | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

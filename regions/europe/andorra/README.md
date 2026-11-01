@@ -1,5 +1,5 @@
 # 🌍 Andorra (Andorra) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: AND` • `Para Birimi: EUR` • `Başkent: Andorra la Vella`
+`Bölge: Avrupa` • `ISO: AND` • `Para Birimi: EUR` • `Başkent: Andorra la Vella`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Andorra | **Başkent** | Andorra la Vella |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 468 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 468 km² |
 | **Nüfus** | 79,824 | **Para Birimi** | EUR |
 | **Resmi Diller** | Katalanca | **Resmi Rejim Biçimi** | Eş-Prens Monarşisi |
 | **Görünen (De Jure) Lider** | Xavier Espot Zamora | **Diplomatik Ekseni** | Bölgesel Paktlar |

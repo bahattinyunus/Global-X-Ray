@@ -1,5 +1,5 @@
 # 🌍 Tacikistan (Tacikistan) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: TJK` • `Para Birimi: TJS` • `Başkent: Duşanbe`
+`Bölge: Asya & Hint-Pasifik` • `ISO: TJK` • `Para Birimi: TJS` • `Başkent: Duşanbe`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Tacikistan | **Başkent** | Duşanbe |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 143,100 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 143,100 km² |
 | **Nüfus** | 10,143,543 | **Para Birimi** | TJS |
 | **Resmi Diller** | Tacikçe | **Resmi Rejim Biçimi** | Başkanlık Otoriter Rejimi (Rahmon Hanedanı) |
 | **Görünen (De Jure) Lider** | İmamali Rahmon | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

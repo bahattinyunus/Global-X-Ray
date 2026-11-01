@@ -1,5 +1,5 @@
 # 🌍 Ruanda (Ruanda) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: RWA` • `Para Birimi: RWF` • `Başkent: Kigali`
+`Bölge: Afrika` • `ISO: RWA` • `Para Birimi: RWF` • `Başkent: Kigali`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Ruanda | **Başkent** | Kigali |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 26,338 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 26,338 km² |
 | **Nüfus** | 13,776,698 | **Para Birimi** | RWF |
 | **Resmi Diller** | Kinyarwanda, Fransızca, İngilizce | **Resmi Rejim Biçimi** | Başkanlık Otoriter (Kagame) |
 | **Görünen (De Jure) Lider** | Paul Kagame | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

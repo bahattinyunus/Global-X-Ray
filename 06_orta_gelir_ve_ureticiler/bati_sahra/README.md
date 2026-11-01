@@ -1,5 +1,5 @@
 # 🌍 Batı Sahra (Batı Sahra Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: ESH` • `Para Birimi: MAD` • `Başkent: El Aaiun (Tifariti)`
+`Bölge: Afrika` • `ISO: ESH` • `Para Birimi: MAD` • `Başkent: El Aaiun (Tifariti)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Batı Sahra Cumhuriyeti | **Başkent** | El Aaiun (Tifariti) |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 266,000 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 266,000 km² |
 | **Nüfus** | 587,259 | **Para Birimi** | MAD |
 | **Resmi Diller** | Arapça, İspanyolca | **Resmi Rejim Biçimi** | İhtilaflı Bölge / Sahra Demokratik Arap Cumhuriyeti (Polisario) |
 | **Görünen (De Jure) Lider** | Brahim Ghali | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

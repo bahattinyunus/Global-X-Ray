@@ -1,5 +1,5 @@
 # 🌍 Çad (Çad) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: TCD` • `Para Birimi: XAF` • `Başkent: N'Djamena`
+`Bölge: Afrika` • `ISO: TCD` • `Para Birimi: XAF` • `Başkent: N'Djamena`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Çad | **Başkent** | N'Djamena |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 1,284,000 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 1,284,000 km² |
 | **Nüfus** | 17,723,315 | **Para Birimi** | XAF |
 | **Resmi Diller** | Fransızca, Arapça | **Resmi Rejim Biçimi** | Askeri Hanedan Cuntası |
 | **Görünen (De Jure) Lider** | Mahamat İdriss Déby | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

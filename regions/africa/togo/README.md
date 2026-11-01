@@ -1,5 +1,5 @@
 # 🌍 Togo (Togo) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: TGO` • `Para Birimi: XOF` • `Başkent: Lome`
+`Bölge: Afrika` • `ISO: TGO` • `Para Birimi: XOF` • `Başkent: Lome`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Togo | **Başkent** | Lome |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 56,785 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 56,785 km² |
 | **Nüfus** | 8,848,699 | **Para Birimi** | XOF |
 | **Resmi Diller** | Fransızca | **Resmi Rejim Biçimi** | Gnassingbé Hanedanı Otoriterliği |
 | **Görünen (De Jure) Lider** | Faure Gnassingbé | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

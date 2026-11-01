@@ -1,5 +1,5 @@
 # 🌍 Cezayir (Cezayir) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: DZA` • `Para Birimi: DZD` • `Başkent: Cezayir`
+`Bölge: Afrika` • `ISO: DZA` • `Para Birimi: DZD` • `Başkent: Cezayir`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Cezayir | **Başkent** | Cezayir |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 2,381,741 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 2,381,741 km² |
 | **Nüfus** | 45,606,480 | **Para Birimi** | DZD |
 | **Resmi Diller** | Arapça, Berberi dili | **Resmi Rejim Biçimi** | Yarı-Başkanlık Askeri Rejimi |
 | **Görünen (De Jure) Lider** | Abdülmecid Tebbun | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

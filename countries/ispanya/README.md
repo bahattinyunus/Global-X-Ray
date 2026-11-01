@@ -1,5 +1,5 @@
 # 🌍 İspanya (İspanya Krallığı) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: ESP` • `Para Birimi: EUR (Euro)` • `Başkent: Madrid`
+`Bölge: Avrupa` • `ISO: ESP` • `Para Birimi: EUR (Euro)` • `Başkent: Madrid`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | İspanya Krallığı | **Başkent** | Madrid |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 505,990 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 505,990 km² |
 | **Nüfus** | 48,373,336 | **Para Birimi** | EUR (Euro) |
 | **Resmi Diller** | İspanyolca (Resmi), Katalanca, Galiçyaca, Baskça | **Resmi Rejim Biçimi** | Parlamenter Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Kral VI. Felipe / Pedro Sánchez (Başbakan) | **Diplomatik Ekseni** | AB, NATO, OECD. |

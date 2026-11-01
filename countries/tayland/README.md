@@ -1,5 +1,5 @@
 # 🌍 Tayland (Tayland) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: THA` • `Para Birimi: THB` • `Başkent: Bangkok`
+`Bölge: Asya & Hint-Pasifik` • `ISO: THA` • `Para Birimi: THB` • `Başkent: Bangkok`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Tayland | **Başkent** | Bangkok |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 513,120 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 513,120 km² |
 | **Nüfus** | 71,801,279 | **Para Birimi** | THB |
 | **Resmi Diller** | Tayca | **Resmi Rejim Biçimi** | Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Paetongtarn Shinawatra | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

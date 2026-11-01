@@ -1,5 +1,5 @@
 # 🌍 Filipinler (Filipinler Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: PHL` • `Para Birimi: PHP` • `Başkent: Manila`
+`Bölge: Asya & Hint-Pasifik` • `ISO: PHL` • `Para Birimi: PHP` • `Başkent: Manila`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Filipinler Cumhuriyeti | **Başkent** | Manila |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 300,000 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 300,000 km² |
 | **Nüfus** | 115,559,009 | **Para Birimi** | PHP |
 | **Resmi Diller** | Filipince, İngilizce | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Ferdinand Marcos Jr. | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

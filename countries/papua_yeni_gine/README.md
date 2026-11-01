@@ -1,5 +1,5 @@
 # 🌍 Papua Yeni Gine (Papua Yeni Gine) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: PNG` • `Para Birimi: PGK` • `Başkent: Port Moresby`
+`Bölge: Okyanusya` • `ISO: PNG` • `Para Birimi: PGK` • `Başkent: Port Moresby`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Papua Yeni Gine | **Başkent** | Port Moresby |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 462,840 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 462,840 km² |
 | **Nüfus** | 10,142,619 | **Para Birimi** | PGK |
 | **Resmi Diller** | Tok Pisin, İngilizce, Hiri Motu | **Resmi Rejim Biçimi** | Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | James Marape | **Diplomatik Ekseni** | Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu |

@@ -1,5 +1,5 @@
 # 🌍 Umman (Umman Sultanlığı) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: OMN` • `Para Birimi: OMR (Umman Riyali)` • `Başkent: Maskat`
+`Bölge: Orta Doğu` • `ISO: OMN` • `Para Birimi: OMR (Umman Riyali)` • `Başkent: Maskat`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Umman Sultanlığı | **Başkent** | Maskat |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 309,500 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 309,500 km² |
 | **Nüfus** | 4,576,298 | **Para Birimi** | OMR (Umman Riyali) |
 | **Resmi Diller** | Arapça (Resmi), İngilizce | **Resmi Rejim Biçimi** | Mutlak Monarşi (Sultanlık) |
 | **Görünen (De Jure) Lider** | Heysem bin Tarık (Sultan ve Başbakan) | **Diplomatik Ekseni** | KİK, Arap Birliği, tarafsız arabulucu rolü (İran-ABD, İran-Suudi Arabistan müzakere masası). |

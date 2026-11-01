@@ -1,5 +1,5 @@
 # 🌍 Nikaragua (Nikaragua) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: NIC` • `Para Birimi: NIO` • `Başkent: Managua`
+`Bölge: Amerika Kıtası` • `ISO: NIC` • `Para Birimi: NIO` • `Başkent: Managua`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Nikaragua | **Başkent** | Managua |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 130,373 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 130,373 km² |
 | **Nüfus** | 6,948,392 | **Para Birimi** | NIO |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Başkanlık Otoriter Diktatörlüğü |
 | **Görünen (De Jure) Lider** | Daniel Ortega / Rosario Murillo | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

@@ -1,5 +1,5 @@
 # 🌍 Guatemala (Guatemala Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: GTM` • `Para Birimi: GTQ` • `Başkent: Guatemala City`
+`Bölge: Amerika Kıtası` • `ISO: GTM` • `Para Birimi: GTQ` • `Başkent: Guatemala City`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Guatemala Cumhuriyeti | **Başkent** | Guatemala City |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 108,889 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 108,889 km² |
 | **Nüfus** | 18,092,026 | **Para Birimi** | GTQ |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Bernardo Arévalo | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

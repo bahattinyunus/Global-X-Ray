@@ -1,5 +1,5 @@
 # 🌍 Macaristan (Macaristan) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: HUN` • `Para Birimi: HUF` • `Başkent: Budapeşte`
+`Bölge: Avrupa` • `ISO: HUN` • `Para Birimi: HUF` • `Başkent: Budapeşte`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Macaristan | **Başkent** | Budapeşte |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 93,030 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 93,030 km² |
 | **Nüfus** | 9,600,000 | **Para Birimi** | HUF |
 | **Resmi Diller** | Macarca | **Resmi Rejim Biçimi** | Parlamenter (İlliberal Rejim) |
 | **Görünen (De Jure) Lider** | Viktor Orbán | **Diplomatik Ekseni** | Bölgesel Paktlar |

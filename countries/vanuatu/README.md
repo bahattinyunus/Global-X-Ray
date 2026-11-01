@@ -1,5 +1,5 @@
 # 🌍 Vanuatu (Vanuatu Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: VUT` • `Para Birimi: VUV` • `Başkent: Port Vila`
+`Bölge: Okyanusya` • `ISO: VUT` • `Para Birimi: VUV` • `Başkent: Port Vila`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Vanuatu Cumhuriyeti | **Başkent** | Port Vila |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 12,189 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 12,189 km² |
 | **Nüfus** | 326,740 | **Para Birimi** | VUV |
 | **Resmi Diller** | Bislama, İngilizce, Fransızca | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Charlot Salwai | **Diplomatik Ekseni** | Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu |

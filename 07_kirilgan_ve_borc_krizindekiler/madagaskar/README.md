@@ -1,5 +1,5 @@
 # 🌍 Madagaskar (Madagaskar) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: MDG` • `Para Birimi: MGA` • `Başkent: Antananarivo`
+`Bölge: Afrika` • `ISO: MDG` • `Para Birimi: MGA` • `Başkent: Antananarivo`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Madagaskar | **Başkent** | Antananarivo |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 587,041 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 587,041 km² |
 | **Nüfus** | 29,611,714 | **Para Birimi** | MGA |
 | **Resmi Diller** | Malgaşça, Fransızca | **Resmi Rejim Biçimi** | Yarı-Başkanlık |
 | **Görünen (De Jure) Lider** | Andry Rajoelina | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

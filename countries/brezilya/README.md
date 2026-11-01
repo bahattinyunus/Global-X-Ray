@@ -1,5 +1,5 @@
 # 🌍 Brezilya (Brezilya Federal Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: BRA` • `Para Birimi: BRL (Brezilya Reali)` • `Başkent: Brasilia`
+`Bölge: Amerika Kıtası` • `ISO: BRA` • `Para Birimi: BRL (Brezilya Reali)` • `Başkent: Brasilia`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Brezilya Federal Cumhuriyeti | **Başkent** | Brasilia |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 8,515,767 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 8,515,767 km² |
 | **Nüfus** | 203,062,512 | **Para Birimi** | BRL (Brezilya Reali) |
 | **Resmi Diller** | Portekizce (Resmi) | **Resmi Rejim Biçimi** | Federal Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Luiz Inácio Lula da Silva (Devlet Başkanı) / Geraldo Alckmin (Devlet Başkanı Yardımcısı) | **Diplomatik Ekseni** | BRICS (Kurucu), Mercosur, G20. |

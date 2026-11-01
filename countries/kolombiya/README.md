@@ -1,5 +1,5 @@
 # 🌍 Kolombiya (Kolombiya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: COL` • `Para Birimi: COP` • `Başkent: Bogota`
+`Bölge: Amerika Kıtası` • `ISO: COL` • `Para Birimi: COP` • `Başkent: Bogota`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kolombiya Cumhuriyeti | **Başkent** | Bogota |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 1,141,748 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 1,141,748 km² |
 | **Nüfus** | 52,085,168 | **Para Birimi** | COP |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Gustavo Petro | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

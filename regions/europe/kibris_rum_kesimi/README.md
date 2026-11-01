@@ -1,5 +1,5 @@
 # 🌍 Kıbrıs Rum Kesimi (Kıbrıs Rum Kesimi Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: CYP` • `Para Birimi: EUR` • `Başkent: Lefkoşa`
+`Bölge: Avrupa` • `ISO: CYP` • `Para Birimi: EUR` • `Başkent: Lefkoşa`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kıbrıs Rum Kesimi Cumhuriyeti | **Başkent** | Lefkoşa |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 9,251 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 9,251 km² |
 | **Nüfus** | 1,251,488 | **Para Birimi** | EUR |
 | **Resmi Diller** | Rumca, Türkçe | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Nikos Hristodulidis | **Diplomatik Ekseni** | Bölgesel Paktlar |

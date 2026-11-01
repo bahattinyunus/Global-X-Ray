@@ -1,5 +1,5 @@
 # 🌍 Solomon Adaları (Solomon Adaları) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: SLB` • `Para Birimi: SBD` • `Başkent: Honiara`
+`Bölge: Okyanusya` • `ISO: SLB` • `Para Birimi: SBD` • `Başkent: Honiara`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Solomon Adaları | **Başkent** | Honiara |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 28,896 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 28,896 km² |
 | **Nüfus** | 724,273 | **Para Birimi** | SBD |
 | **Resmi Diller** | İngilizce, Pijin | **Resmi Rejim Biçimi** | Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | Jeremiah Manele | **Diplomatik Ekseni** | Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu |

@@ -1,5 +1,5 @@
 # 🌍 Kuzey Kore (Kuzey Kore) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: PRK` • `Para Birimi: KPW` • `Başkent: Pyongyang`
+`Bölge: Asya & Hint-Pasifik` • `ISO: PRK` • `Para Birimi: KPW` • `Başkent: Pyongyang`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kuzey Kore | **Başkent** | Pyongyang |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 120,538 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 120,538 km² |
 | **Nüfus** | 26,069,416 | **Para Birimi** | KPW |
 | **Resmi Diller** | Korece | **Resmi Rejim Biçimi** | Totaliter Kalıtsal Diktatörlük |
 | **Görünen (De Jure) Lider** | Kim Jong Un | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

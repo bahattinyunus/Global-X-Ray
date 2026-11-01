@@ -1,5 +1,5 @@
 # 🌍 Hong Kong (Hong Kong) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: HKG` • `Para Birimi: HKD` • `Başkent: Hong Kong`
+`Bölge: Asya & Hint-Pasifik` • `ISO: HKG` • `Para Birimi: HKD` • `Başkent: Hong Kong`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Hong Kong | **Başkent** | Hong Kong |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 1,114 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 1,114 km² |
 | **Nüfus** | 7,498,100 | **Para Birimi** | HKD |
 | **Resmi Diller** | Çince, İngilizce | **Resmi Rejim Biçimi** | Özel İdari Bölge (Çin Vesayeti) |
 | **Görünen (De Jure) Lider** | John Lee Ka-chiu | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

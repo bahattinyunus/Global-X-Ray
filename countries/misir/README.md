@@ -1,5 +1,5 @@
 # 🌍 Mısır (Mısır Arap Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: EGY` • `Para Birimi: EGP (Mısır Lirası)` • `Başkent: Kahire`
+`Bölge: Afrika` • `ISO: EGY` • `Para Birimi: EGP (Mısır Lirası)` • `Başkent: Kahire`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Mısır Arap Cumhuriyeti | **Başkent** | Kahire |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 1,002,450 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 1,002,450 km² |
 | **Nüfus** | 105,000,000 | **Para Birimi** | EGP (Mısır Lirası) |
 | **Resmi Diller** | Arapça (Resmi) | **Resmi Rejim Biçimi** | Askeri Rejim / Hiper-Başkanlık |
 | **Görünen (De Jure) Lider** | Abdülfettah es-Sisi (Cumhurbaşkanı) / Mustafa Medbuli (Başbakan) | **Diplomatik Ekseni** | Arap Birliği, Afrika Birliği, BRICS+, ABD'nin NATO Dışı Baş Müttefiki. |

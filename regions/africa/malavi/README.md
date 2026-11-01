@@ -1,5 +1,5 @@
 # 🌍 Malavi (Malavi Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: MWI` • `Para Birimi: MWK` • `Başkent: Lilongwe`
+`Bölge: Afrika` • `ISO: MWI` • `Para Birimi: MWK` • `Başkent: Lilongwe`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Malavi Cumhuriyeti | **Başkent** | Lilongwe |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 118,484 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 118,484 km² |
 | **Nüfus** | 20,405,317 | **Para Birimi** | MWK |
 | **Resmi Diller** | İngilizce, Chewa | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Lazarus Chakwera | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

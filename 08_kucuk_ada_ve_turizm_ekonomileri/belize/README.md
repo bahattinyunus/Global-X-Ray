@@ -1,5 +1,5 @@
 # 🌍 Belize (Belize) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: BLZ` • `Para Birimi: BZD` • `Başkent: Belmopan`
+`Bölge: Amerika Kıtası` • `ISO: BLZ` • `Para Birimi: BZD` • `Başkent: Belmopan`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Belize | **Başkent** | Belmopan |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 22,966 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 22,966 km² |
 | **Nüfus** | 405,272 | **Para Birimi** | BZD |
 | **Resmi Diller** | İngilizce, İspanyolca | **Resmi Rejim Biçimi** | Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | Johnny Briceño | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

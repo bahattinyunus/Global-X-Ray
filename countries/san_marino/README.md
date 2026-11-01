@@ -1,5 +1,5 @@
 # 🌍 San Marino (San Marino Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: SMR` • `Para Birimi: EUR` • `Başkent: San Marino`
+`Bölge: Avrupa` • `ISO: SMR` • `Para Birimi: EUR` • `Başkent: San Marino`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | San Marino Cumhuriyeti | **Başkent** | San Marino |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 61 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 61 km² |
 | **Nüfus** | 33,660 | **Para Birimi** | EUR |
 | **Resmi Diller** | İtalyanca | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet (Yüzbaşı Naibleri) |
 | **Görünen (De Jure) Lider** | Alessandro Rossi / Milena Gasperoni | **Diplomatik Ekseni** | Bölgesel Paktlar |

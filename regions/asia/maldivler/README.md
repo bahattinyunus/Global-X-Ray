@@ -1,5 +1,5 @@
 # 🌍 Maldivler (Maldivler Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: MDV` • `Para Birimi: MVR` • `Başkent: Male`
+`Bölge: Asya & Hint-Pasifik` • `ISO: MDV` • `Para Birimi: MVR` • `Başkent: Male`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Maldivler Cumhuriyeti | **Başkent** | Male |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 298 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 298 km² |
 | **Nüfus** | 523,781 | **Para Birimi** | MVR |
 | **Resmi Diller** | Dhivehi | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Muhammed Muizzu | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

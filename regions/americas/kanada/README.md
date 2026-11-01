@@ -1,5 +1,5 @@
 # 🌍 Kanada (Kanada) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: CAN` • `Para Birimi: CAD (Kanada Doları)` • `Başkent: Ottawa`
+`Bölge: Amerika Kıtası` • `ISO: CAN` • `Para Birimi: CAD (Kanada Doları)` • `Başkent: Ottawa`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kanada | **Başkent** | Ottawa |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 9,984,670 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 9,984,670 km² |
 | **Nüfus** | 40,100,000 | **Para Birimi** | CAD (Kanada Doları) |
 | **Resmi Diller** | İngilizce ve Fransızca (Resmi) | **Resmi Rejim Biçimi** | Federal Parlamenter Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Kral III. Charles / Justin Trudeau (Başbakan) | **Diplomatik Ekseni** | NATO, G7, Five Eyes, USMCA, İngiliz Milletler Topluluğu. |

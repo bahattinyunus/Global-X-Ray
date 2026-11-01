@@ -1,5 +1,5 @@
 # 🌍 Senegal (Senegal Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: SEN` • `Para Birimi: XOF` • `Başkent: Dakar`
+`Bölge: Afrika` • `ISO: SEN` • `Para Birimi: XOF` • `Başkent: Dakar`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Senegal Cumhuriyeti | **Başkent** | Dakar |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 196,722 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 196,722 km² |
 | **Nüfus** | 17,316,449 | **Para Birimi** | XOF |
 | **Resmi Diller** | Fransızca, Volofça | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Bassirou Diomaye Faye / Ousmane Sonko (Başbakan) | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

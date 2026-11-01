@@ -4,8 +4,17 @@
   "fleet_metrics": {
     "estimated_active_vessels": 850,
     "share_of_global_tanker_tonnage_pct": 13.5,
-    "primary_cargo_origins": ["Russia (Primorsk, Ust-Luga, Novorossiysk, Kozmino)", "Iran (Kharg Island)", "Venezuela (Jose Terminal)"],
-    "primary_destinations": ["China (Shandong Teapot Refineries)", "India (Vadinar, Jamnagar, Paradip)", "Turkey", "UAE (Fujairah blending hubs)"],
+    "primary_cargo_origins": [
+      "Russia (Primorsk, Ust-Luga, Novorossiysk, Kozmino)",
+      "Iran (Kharg Island)",
+      "Venezuela (Jose Terminal)"
+    ],
+    "primary_destinations": [
+      "China (Shandong Teapot Refineries)",
+      "India (Vadinar, Jamnagar, Paradip)",
+      "Turkey",
+      "UAE (Fujairah blending hubs)"
+    ],
     "average_vessel_age_years": 18.5
   },
   "flags_of_convenience": [
@@ -16,7 +25,7 @@
       "risk_profile": "Çok Yüksek; Batı yaptırımlarından kaçan eski Sovyet ve Yunan tankerlerinin toplu tescil merkezi; teftiş ve denetim sıfır seviyesinde."
     },
     {
-      "flag_state": "Cameroon",
+      "flag_state": "Kamerun",
       "code": "CMR",
       "registered_dark_vessels": 65,
       "risk_profile": "Aşırı Yüksek; Paris MoU kara listesinde en alt sırada; sigortasız ve teknik kusurlu tankerlerin sığınağı."
@@ -28,13 +37,13 @@
       "risk_profile": "Yüksek; Pasifik ada devleti sicili; İran ve Rus petrol sevkiyatlarında transponder karartan VLCC'ler."
     },
     {
-      "flag_state": "Cook Islands",
+      "flag_state": "Cook Adaları",
       "code": "COK",
       "registered_dark_vessels": 110,
       "risk_profile": "Yüksek; deniz kazalarında sorumluluk kabul etmeyen bayrak yapısı."
     },
     {
-      "flag_state": "Panama & Liberia (Historical Flags)",
+      "flag_state": "Panama & Liberya (Tarihsel Bayraklar)",
       "code": "PAN_LBR",
       "registered_dark_vessels": 180,
       "risk_profile": "Orta-Yüksek; ABD Hazine Bakanlığı (OFAC) baskısı sonucu bayrak iptalleri artsa da paravan şirketler üzerinden kullanılmaya devam etmektedir."

@@ -1,5 +1,5 @@
 # 🌍 Özbekistan (Özbekistan Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: UZB` • `Para Birimi: UZS` • `Başkent: Taşkent`
+`Bölge: Asya & Hint-Pasifik` • `ISO: UZB` • `Para Birimi: UZS` • `Başkent: Taşkent`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Özbekistan Cumhuriyeti | **Başkent** | Taşkent |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 447,400 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 447,400 km² |
 | **Nüfus** | 36,412,350 | **Para Birimi** | UZS |
 | **Resmi Diller** | Özbekçe | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Şevket Mirziyoyev | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

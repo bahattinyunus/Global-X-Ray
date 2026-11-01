@@ -1,5 +1,5 @@
 # 🌍 Rusya (Rusya Federasyonu) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: RUS` • `Para Birimi: RUB (Rus Rublesi)` • `Başkent: Moskova`
+`Bölge: Avrupa` • `ISO: RUS` • `Para Birimi: RUB (Rus Rublesi)` • `Başkent: Moskova`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Rusya Federasyonu | **Başkent** | Moskova |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 17,098,242 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 17,098,242 km² |
 | **Nüfus** | 144,236,933 | **Para Birimi** | RUB (Rus Rublesi) |
 | **Resmi Diller** | Rusça (Resmi) ve 30+ bölgesel cumhuriyet dili | **Resmi Rejim Biçimi** | Federal Yarı-Başkanlık (Fiili Otoriter Kleptokrasi) |
 | **Görünen (De Jure) Lider** | Vladimir Putin (Devlet Başkanı) / Mihail Mişustin (Başbakan) | **Diplomatik Ekseni** | KGAÖ (CSTO), BRICS+, ŞİÖ, Avrasya Ekonomik Birliği, BM Güvenlik Konseyi Daimi Üyesi. |

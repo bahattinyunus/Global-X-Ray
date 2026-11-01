@@ -1,5 +1,5 @@
 # 🌍 Kongo Cumhuriyeti (Brazzaville) (Kongo Cumhuriyeti (Brazzaville)) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: COG` • `Para Birimi: XAF` • `Başkent: Brazzaville`
+`Bölge: Afrika` • `ISO: COG` • `Para Birimi: XAF` • `Başkent: Brazzaville`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kongo Cumhuriyeti (Brazzaville) | **Başkent** | Brazzaville |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 342,000 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 342,000 km² |
 | **Nüfus** | 5,970,000 | **Para Birimi** | XAF |
 | **Resmi Diller** | Fransızca, Lingala | **Resmi Rejim Biçimi** | Başkanlık Otoriter Rejimi |
 | **Görünen (De Jure) Lider** | Denis Sassou Nguesso | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

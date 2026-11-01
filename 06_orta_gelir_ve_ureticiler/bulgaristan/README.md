@@ -1,5 +1,5 @@
 # 🌍 Bulgaristan (Bulgaristan Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: BGR` • `Para Birimi: BGN` • `Başkent: Sofya`
+`Bölge: Avrupa` • `ISO: BGR` • `Para Birimi: BGN` • `Başkent: Sofya`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Bulgaristan Cumhuriyeti | **Başkent** | Sofya |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 110,879 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 110,879 km² |
 | **Nüfus** | 6,447,710 | **Para Birimi** | BGN |
 | **Resmi Diller** | Bulgarca | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Rumen Radev | **Diplomatik Ekseni** | Bölgesel Paktlar |

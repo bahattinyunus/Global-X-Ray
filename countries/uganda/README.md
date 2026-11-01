@@ -1,5 +1,5 @@
 # 🌍 Uganda (Uganda) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: UGA` • `Para Birimi: UGX` • `Başkent: Kampala`
+`Bölge: Afrika` • `ISO: UGA` • `Para Birimi: UGX` • `Başkent: Kampala`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Uganda | **Başkent** | Kampala |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 241,038 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 241,038 km² |
 | **Nüfus** | 47,249,585 | **Para Birimi** | UGX |
 | **Resmi Diller** | İngilizce, Svahili | **Resmi Rejim Biçimi** | Başkanlık Otoriter (Museveni Hanedanı) |
 | **Görünen (De Jure) Lider** | Yoweri Museveni | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

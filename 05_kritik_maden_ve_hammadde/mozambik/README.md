@@ -1,5 +1,5 @@
 # 🌍 Mozambik (Mozambik Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: MOZ` • `Para Birimi: MZN` • `Başkent: Maputo`
+`Bölge: Afrika` • `ISO: MOZ` • `Para Birimi: MZN` • `Başkent: Maputo`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Mozambik Cumhuriyeti | **Başkent** | Maputo |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 801,590 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 801,590 km² |
 | **Nüfus** | 32,969,518 | **Para Birimi** | MZN |
 | **Resmi Diller** | Portekizce | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti (FRELIMO) |
 | **Görünen (De Jure) Lider** | Daniel Chapo | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

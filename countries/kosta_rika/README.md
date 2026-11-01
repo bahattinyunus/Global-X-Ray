@@ -1,5 +1,5 @@
 # 🌍 Kosta Rika (Kosta Rika Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: CRI` • `Para Birimi: CRC` • `Başkent: San Jose`
+`Bölge: Amerika Kıtası` • `ISO: CRI` • `Para Birimi: CRC` • `Başkent: San Jose`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kosta Rika Cumhuriyeti | **Başkent** | San Jose |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 51,100 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 51,100 km² |
 | **Nüfus** | 5,212,173 | **Para Birimi** | CRC |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Rodrigo Chaves Robles | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

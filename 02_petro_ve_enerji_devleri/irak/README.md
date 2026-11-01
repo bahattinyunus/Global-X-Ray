@@ -1,5 +1,5 @@
 # 🌍 Irak (Irak Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: IRQ` • `Para Birimi: IQD (Irak Dinarı)` • `Başkent: Bağdat`
+`Bölge: Orta Doğu` • `ISO: IRQ` • `Para Birimi: IQD (Irak Dinarı)` • `Başkent: Bağdat`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Irak Cumhuriyeti | **Başkent** | Bağdat |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 438,317 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 438,317 km² |
 | **Nüfus** | 45,504,560 | **Para Birimi** | IQD (Irak Dinarı) |
 | **Resmi Diller** | Arapça (Resmi), Kürtçe (Resmi) | **Resmi Rejim Biçimi** | Federal Parlamenter Cumhuriyet (Muhasasa Mezhepsel Kotası) |
 | **Görünen (De Jure) Lider** | Muhammed Şiya es-Sudani (Başbakan) / Abdüllatif Reşid (Cumhurbaşkanı) | **Diplomatik Ekseni** | Arap Birliği, OPEC, İslam İşbirliği Teşkilatı. |

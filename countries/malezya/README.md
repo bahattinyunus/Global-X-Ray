@@ -1,5 +1,5 @@
 # 🌍 Malezya (Malezya) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: MYS` • `Para Birimi: MYR` • `Başkent: Kuala Lumpur`
+`Bölge: Asya & Hint-Pasifik` • `ISO: MYS` • `Para Birimi: MYR` • `Başkent: Kuala Lumpur`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Malezya | **Başkent** | Kuala Lumpur |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 330,803 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 330,803 km² |
 | **Nüfus** | 33,938,221 | **Para Birimi** | MYR |
 | **Resmi Diller** | Malayca | **Resmi Rejim Biçimi** | Federal Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Enver İbrahim | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

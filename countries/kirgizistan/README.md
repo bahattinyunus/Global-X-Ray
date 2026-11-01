@@ -1,5 +1,5 @@
 # 🌍 Kırgızistan (Kırgızistan Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: KGZ` • `Para Birimi: KGS` • `Başkent: Bişkek`
+`Bölge: Asya & Hint-Pasifik` • `ISO: KGZ` • `Para Birimi: KGS` • `Başkent: Bişkek`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kırgızistan Cumhuriyeti | **Başkent** | Bişkek |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 199,951 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 199,951 km² |
 | **Nüfus** | 7,000,000 | **Para Birimi** | KGS |
 | **Resmi Diller** | Kırgızca, Rusça | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Sadır Caparov | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

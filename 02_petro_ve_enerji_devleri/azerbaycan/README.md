@@ -1,5 +1,5 @@
 # 🌍 Azerbaycan (Azerbaycan Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: AZE` • `Para Birimi: AZN` • `Başkent: Bakü`
+`Bölge: Asya & Hint-Pasifik` • `ISO: AZE` • `Para Birimi: AZN` • `Başkent: Bakü`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Azerbaycan Cumhuriyeti | **Başkent** | Bakü |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 86,600 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 86,600 km² |
 | **Nüfus** | 10,145,212 | **Para Birimi** | AZN |
 | **Resmi Diller** | Azerbaycan Türkçesi | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti (Aliyev Hanedanı) |
 | **Görünen (De Jure) Lider** | İlham Aliyev | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

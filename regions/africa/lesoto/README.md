@@ -1,5 +1,5 @@
 # 🌍 Lesoto (Lesoto) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: LSO` • `Para Birimi: LSL` • `Başkent: Maseru`
+`Bölge: Afrika` • `ISO: LSO` • `Para Birimi: LSL` • `Başkent: Maseru`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Lesoto | **Başkent** | Maseru |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 30,355 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 30,355 km² |
 | **Nüfus** | 2,306,000 | **Para Birimi** | LSL |
 | **Resmi Diller** | Sotho dili, İngilizce | **Resmi Rejim Biçimi** | Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Kral III. Letsie / Sam Matekane | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

@@ -1,5 +1,5 @@
 # 🌍 Marshall Adaları (Marshall Adaları) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: MHL` • `Para Birimi: USD` • `Başkent: Majuro`
+`Bölge: Okyanusya` • `ISO: MHL` • `Para Birimi: USD` • `Başkent: Majuro`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Marshall Adaları | **Başkent** | Majuro |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 181 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 181 km² |
 | **Nüfus** | 41,569 | **Para Birimi** | USD |
 | **Resmi Diller** | Marşalca, İngilizce | **Resmi Rejim Biçimi** | Karma Parlamenter Başkanlık |
 | **Görünen (De Jure) Lider** | Hilda Heine | **Diplomatik Ekseni** | Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu |

@@ -1,5 +1,5 @@
 # 🌍 Meksika (Meksika Birleşik Devletleri) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: MEX` • `Para Birimi: MXN (Meksika Pesosu)` • `Başkent: Mexico City`
+`Bölge: Amerika Kıtası` • `ISO: MEX` • `Para Birimi: MXN (Meksika Pesosu)` • `Başkent: Mexico City`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Meksika Birleşik Devletleri | **Başkent** | Mexico City |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 1,964,375 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 1,964,375 km² |
 | **Nüfus** | 129,388,467 | **Para Birimi** | MXN (Meksika Pesosu) |
 | **Resmi Diller** | İspanyolca (Resmi) ve 68 yerli dili | **Resmi Rejim Biçimi** | Federal Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Claudia Sheinbaum (Devlet Başkanı) - Morena Partisi | **Diplomatik Ekseni** | USMCA (Kuzey Amerika Serbest Ticaret Paktı), G20, Pasifik İttifakı. |

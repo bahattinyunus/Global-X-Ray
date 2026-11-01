@@ -1,5 +1,5 @@
 # 🌍 Angola (Angola Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: AGO` • `Para Birimi: AOA` • `Başkent: Luanda`
+`Bölge: Afrika` • `ISO: AGO` • `Para Birimi: AOA` • `Başkent: Luanda`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Angola Cumhuriyeti | **Başkent** | Luanda |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 1,246,700 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 1,246,700 km² |
 | **Nüfus** | 35,588,987 | **Para Birimi** | AOA |
 | **Resmi Diller** | Portekizce | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti (MPLA) |
 | **Görünen (De Jure) Lider** | João Lourenço | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

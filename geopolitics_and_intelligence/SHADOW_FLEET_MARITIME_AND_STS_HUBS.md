@@ -12,10 +12,10 @@ G7 tavan fiyatını, denizcilik sigorta yasaklarını ve petrol ambargolarını 
 | Bayrak Devleti | Tescilli Gölge Gemi Sayısı | Risk Profili & Zaafiyet Analizi |
 | :--- | :---: | :--- |
 | **Gabon** (`GAB`) | 140 Gemi | Çok Yüksek; Batı yaptırımlarından kaçan eski Sovyet ve Yunan tankerlerinin toplu... |
-| **Cameroon** (`CMR`) | 65 Gemi | Aşırı Yüksek; Paris MoU kara listesinde en alt sırada; sigortasız ve teknik kusu... |
+| **Kamerun** (`CMR`) | 65 Gemi | Aşırı Yüksek; Paris MoU kara listesinde en alt sırada; sigortasız ve teknik kusu... |
 | **Palau** (`PLW`) | 90 Gemi | Yüksek; Pasifik ada devleti sicili; İran ve Rus petrol sevkiyatlarında transpond... |
-| **Cook Islands** (`COK`) | 110 Gemi | Yüksek; deniz kazalarında sorumluluk kabul etmeyen bayrak yapısı.... |
-| **Panama & Liberia (Historical Flags)** (`PAN_LBR`) | 180 Gemi | Orta-Yüksek; ABD Hazine Bakanlığı (OFAC) baskısı sonucu bayrak iptalleri artsa d... |
+| **Cook Adaları** (`COK`) | 110 Gemi | Yüksek; deniz kazalarında sorumluluk kabul etmeyen bayrak yapısı.... |
+| **Panama & Liberya (Tarihsel Bayraklar)** (`PAN_LBR`) | 180 Gemi | Orta-Yüksek; ABD Hazine Bakanlığı (OFAC) baskısı sonucu bayrak iptalleri artsa d... |
 
 ---
 

@@ -1,5 +1,5 @@
 # 🌍 Fransa (Fransa Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: FRA` • `Para Birimi: EUR (Euro)` • `Başkent: Paris`
+`Bölge: Avrupa` • `ISO: FRA` • `Para Birimi: EUR (Euro)` • `Başkent: Paris`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Fransa Cumhuriyeti | **Başkent** | Paris |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 643,801 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 643,801 km² |
 | **Nüfus** | 68,170,228 | **Para Birimi** | EUR (Euro) |
 | **Resmi Diller** | Fransızca (Resmi) | **Resmi Rejim Biçimi** | Yarı-Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Emmanuel Macron (Cumhurbaşkanı) / Michel Barnier (Başbakan) | **Diplomatik Ekseni** | AB (Lokomotif), NATO, BM Güvenlik Konseyi Daimi Üyesi, G7, Frankofoni. |

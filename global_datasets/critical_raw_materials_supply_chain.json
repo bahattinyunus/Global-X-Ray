@@ -8,13 +8,25 @@
       "strategic_category": "Kritik Yüksek Teknoloji & Savunma",
       "critical_applications": "F-35 savaş uçakları radarları, nükleer denizaltı tahrik sistemleri, rüzgar türbini daimi mıknatısları, EV motorları",
       "top_mining_nations": [
-        {"country": "China", "share_pct": 70.0},
-        {"country": "United States", "share_pct": 14.0},
-        {"country": "Myanmar", "share_pct": 9.0},
-        {"country": "Australia", "share_pct": 5.0}
+        {
+          "country": "Çin",
+          "share_pct": 70.0
+        },
+        {
+          "country": "Amerika Birleşik Devletleri",
+          "share_pct": 14.0
+        },
+        {
+          "country": "Myanmar",
+          "share_pct": 9.0
+        },
+        {
+          "country": "Avustralya",
+          "share_pct": 5.0
+        }
       ],
       "refining_monopoly": {
-        "dominant_nation": "China",
+        "dominant_nation": "Çin",
         "global_refining_share_pct": 89.0,
         "vulnerability_analysis": "Batı dünyası madeni çıkarsa dahi, mıknatıs kalitesinde metal ayrıştırma ve alaşım üretiminde tamamen Çin devlet tröstlerine (China Rare Earth Group) bağımlıdır."
       },
@@ -26,13 +38,25 @@
       "strategic_category": "Batarya & Enerji Depolama",
       "critical_applications": "Lityum-iyon piller, elektrikli araçlar, şebeke ölçekli enerji depolama, akıllı telefonlar",
       "top_mining_nations": [
-        {"country": "Australia", "share_pct": 47.0},
-        {"country": "Chile", "share_pct": 30.0},
-        {"country": "China", "share_pct": 15.0},
-        {"country": "Argentina", "share_pct": 5.0}
+        {
+          "country": "Avustralya",
+          "share_pct": 47.0
+        },
+        {
+          "country": "Şili",
+          "share_pct": 30.0
+        },
+        {
+          "country": "Çin",
+          "share_pct": 15.0
+        },
+        {
+          "country": "Arjantin",
+          "share_pct": 5.0
+        }
       ],
       "refining_monopoly": {
-        "dominant_nation": "China",
+        "dominant_nation": "Çin",
         "global_refining_share_pct": 65.0,
         "vulnerability_analysis": "Avustralya ve Latin Amerika Lityum Üçgeni (Şili, Bolivya, Arjantin) cevheri üretirken, pil kalitesinde lityum hidroksit ve karbonat dönüşümü ağırlıklı olarak Çin'de yapılmaktadır."
       },
@@ -44,13 +68,25 @@
       "strategic_category": "Enerji Yoğun Bataryalar & Süper Alaşımlar",
       "critical_applications": "NMC batarya katotları, jet motoru türbin kanatçıkları, zırh kaplamaları",
       "top_mining_nations": [
-        {"country": "DR Congo", "share_pct": 74.0},
-        {"country": "Indonesia", "share_pct": 5.0},
-        {"country": "Russia", "share_pct": 4.0},
-        {"country": "Australia", "share_pct": 3.0}
+        {
+          "country": "Demokratik Kongo Cumhuriyeti",
+          "share_pct": 74.0
+        },
+        {
+          "country": "Endonezya",
+          "share_pct": 5.0
+        },
+        {
+          "country": "Rusya",
+          "share_pct": 4.0
+        },
+        {
+          "country": "Avustralya",
+          "share_pct": 3.0
+        }
       ],
       "refining_monopoly": {
-        "dominant_nation": "China",
+        "dominant_nation": "Çin",
         "global_refining_share_pct": 77.0,
         "vulnerability_analysis": "Kongo Demokratik Cumhuriyeti'ndeki sanayi tipi madenlerin %70'inden fazlası doğrudan Çin devlet şirketlerinin (China Molybdenum / CMOC) mülkiyetindedir; rafinaj Pekin'de tamamlanır."
       },
@@ -62,12 +98,21 @@
       "strategic_category": "Yarı İletken, Optoelektronik ve Radar",
       "critical_applications": "AESA faz dizili askeri radarlar, 5G baz istasyonları RF çipler, kızılötesi gece görüş optikleri, uydu güneş panelleri",
       "top_mining_nations": [
-        {"country": "China", "share_pct": 98.0},
-        {"country": "Russia", "share_pct": 1.0},
-        {"country": "Japan", "share_pct": 0.5}
+        {
+          "country": "Çin",
+          "share_pct": 98.0
+        },
+        {
+          "country": "Rusya",
+          "share_pct": 1.0
+        },
+        {
+          "country": "Japonya",
+          "share_pct": 0.5
+        }
       ],
       "refining_monopoly": {
-        "dominant_nation": "China",
+        "dominant_nation": "Çin",
         "global_refining_share_pct": 98.0,
         "vulnerability_analysis": "Çin Ticaret Bakanlığı'nın 2023 yılında getirdiği ihracat lisansı zorunluluğu, Batı savunma sanayisinin AESA radarları ve gece görüş tedarik zincirinde doğrudan kriz yaratmıştır."
       },
@@ -79,13 +124,25 @@
       "strategic_category": "Batarya Anotları & Nükleer Reaktörler",
       "critical_applications": "EV batarya anot malzemesi, nükleer reaktör nötron yavaşlatıcıları, füze nozulları",
       "top_mining_nations": [
-        {"country": "China", "share_pct": 77.0},
-        {"country": "Madagascar", "share_pct": 9.0},
-        {"country": "Mozambique", "share_pct": 6.0},
-        {"country": "Brazil", "share_pct": 4.0}
+        {
+          "country": "Çin",
+          "share_pct": 77.0
+        },
+        {
+          "country": "Madagaskar",
+          "share_pct": 9.0
+        },
+        {
+          "country": "Mozambik",
+          "share_pct": 6.0
+        },
+        {
+          "country": "Brezilya",
+          "share_pct": 4.0
+        }
       ],
       "refining_monopoly": {
-        "dominant_nation": "China",
+        "dominant_nation": "Çin",
         "global_refining_share_pct": 92.0,
         "vulnerability_analysis": "Grafit olmadan elektrikli araç pili hücresi üretmek imkansızdır; Çin küresel küresel küresel grafit (spherical graphite) pazarını neredeyse tek başına kontrol eder."
       },
@@ -97,13 +154,25 @@
       "strategic_category": "Havacılık, Uzay ve Denizaltı Gövdeleri",
       "critical_applications": "Boeing ve Airbus yolcu uçakları iskeleti, F-22 gövdesi, nükleer denizaltı basınca dayanıklı çift cidarlı gövdeler",
       "top_mining_nations": [
-        {"country": "China", "share_pct": 52.0},
-        {"country": "Japan", "share_pct": 18.0},
-        {"country": "Russia", "share_pct": 13.0},
-        {"country": "Kazakhstan", "share_pct": 7.0}
+        {
+          "country": "Çin",
+          "share_pct": 52.0
+        },
+        {
+          "country": "Japonya",
+          "share_pct": 18.0
+        },
+        {
+          "country": "Rusya",
+          "share_pct": 13.0
+        },
+        {
+          "country": "Kazakistan",
+          "share_pct": 7.0
+        }
       ],
       "refining_monopoly": {
-        "dominant_nation": "Russia (VSMPO-AVISMA) & China",
+        "dominant_nation": "Rusya (VSMPO-AVISMA) & Çin",
         "global_refining_share_pct": 65.0,
         "vulnerability_analysis": "Rus VSMPO-AVISMA şirketi, Ukrayna savaşına rağmen Batılı havacılık devlerine (Airbus) titanyum parça sağlayan alternatifsiz bir tedarikçi olarak varlığını sürdürmüştür."
       },
@@ -115,15 +184,33 @@
       "strategic_category": "Nükleer Enerji & Nükleer Başlıklar",
       "critical_applications": "Nükleer santraller, denizaltı nükleer reaktörleri, taktik ve stratejik nükleer silahlar",
       "top_mining_nations": [
-        {"country": "Kazakhstan", "share_pct": 43.0},
-        {"country": "Canada", "share_pct": 15.0},
-        {"country": "Namibia", "share_pct": 11.0},
-        {"country": "Australia", "share_pct": 8.0},
-        {"country": "Uzbekistan", "share_pct": 7.0},
-        {"country": "Russia", "share_pct": 5.0}
+        {
+          "country": "Kazakistan",
+          "share_pct": 43.0
+        },
+        {
+          "country": "Kanada",
+          "share_pct": 15.0
+        },
+        {
+          "country": "Namibya",
+          "share_pct": 11.0
+        },
+        {
+          "country": "Avustralya",
+          "share_pct": 8.0
+        },
+        {
+          "country": "Özbekistan",
+          "share_pct": 7.0
+        },
+        {
+          "country": "Rusya",
+          "share_pct": 5.0
+        }
       ],
       "refining_monopoly": {
-        "dominant_nation": "Russia (Rosatom - Tenex)",
+        "dominant_nation": "Rusya (Rosatom - Tenex)",
         "global_refining_share_pct": 44.0,
         "vulnerability_analysis": "Dünya uranyum zenginleştirme (SWU) kapasitesinin %44'ü Rus devlet devi Rosatom'un elindedir. ABD ve Avrupa nükleer reaktörleri dahi Rus zenginleştirilmiş uranyumuna bağımlıdır."
       },

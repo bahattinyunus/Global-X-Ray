@@ -1,5 +1,5 @@
 # 🌍 Samoa (Samoa Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: WSM` • `Para Birimi: WST` • `Başkent: Apia`
+`Bölge: Okyanusya` • `ISO: WSM` • `Para Birimi: WST` • `Başkent: Apia`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Samoa Cumhuriyeti | **Başkent** | Apia |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 2,842 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 2,842 km² |
 | **Nüfus** | 222,382 | **Para Birimi** | WST |
 | **Resmi Diller** | Samoaca, İngilizce | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Fiamē Naomi Mataʻafa | **Diplomatik Ekseni** | Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu |

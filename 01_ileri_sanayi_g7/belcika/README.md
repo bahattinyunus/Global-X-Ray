@@ -1,5 +1,5 @@
 # 🌍 Belçika (Belçika) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: BEL` • `Para Birimi: EUR` • `Başkent: Brüksel`
+`Bölge: Avrupa` • `ISO: BEL` • `Para Birimi: EUR` • `Başkent: Brüksel`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Belçika | **Başkent** | Brüksel |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 30,528 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 30,528 km² |
 | **Nüfus** | 11,697,557 | **Para Birimi** | EUR |
 | **Resmi Diller** | Felemenkçe, Fransızca, Almanca | **Resmi Rejim Biçimi** | Federal Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | Alexander De Croo | **Diplomatik Ekseni** | Bölgesel Paktlar |

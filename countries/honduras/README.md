@@ -1,5 +1,5 @@
 # 🌍 Honduras (Honduras Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: HND` • `Para Birimi: HNL` • `Başkent: Tegucigalpa`
+`Bölge: Amerika Kıtası` • `ISO: HND` • `Para Birimi: HNL` • `Başkent: Tegucigalpa`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Honduras Cumhuriyeti | **Başkent** | Tegucigalpa |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 112,492 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 112,492 km² |
 | **Nüfus** | 10,432,860 | **Para Birimi** | HNL |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Xiomara Castro | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

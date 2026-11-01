@@ -1,5 +1,5 @@
 # 🌍 Polonya (Polonya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: POL` • `Para Birimi: PLN (Polonya Zlotisi)` • `Başkent: Varşova`
+`Bölge: Avrupa` • `ISO: POL` • `Para Birimi: PLN (Polonya Zlotisi)` • `Başkent: Varşova`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Polonya Cumhuriyeti | **Başkent** | Varşova |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 312,696 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 312,696 km² |
 | **Nüfus** | 36,821,749 | **Para Birimi** | PLN (Polonya Zlotisi) |
 | **Resmi Diller** | Lehçe (Resmi) | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Donald Tusk (Başbakan) / Andrzej Duda (Cumhurbaşkanı) | **Diplomatik Ekseni** | NATO (En yüksek savunma harcaması %4.2 GSYH), AB, Weimar Üçgeni, Visegrad Dörtlüsü. |

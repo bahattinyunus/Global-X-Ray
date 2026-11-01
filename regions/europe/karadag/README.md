@@ -1,5 +1,5 @@
 # 🌍 Karadağ (Karadağ Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: MNE` • `Para Birimi: EUR` • `Başkent: Podgorica`
+`Bölge: Avrupa` • `ISO: MNE` • `Para Birimi: EUR` • `Başkent: Podgorica`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Karadağ Cumhuriyeti | **Başkent** | Podgorica |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 13,812 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 13,812 km² |
 | **Nüfus** | 620,739 | **Para Birimi** | EUR |
 | **Resmi Diller** | Karadağca | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Milojko Spajić | **Diplomatik Ekseni** | AB / NATO / Avrupa Konseyi |

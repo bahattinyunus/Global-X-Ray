@@ -1,5 +1,5 @@
 # 🌍 Bahamalar (Bahamalar) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: BHS` • `Para Birimi: BSD` • `Başkent: Nassau`
+`Bölge: Amerika Kıtası` • `ISO: BHS` • `Para Birimi: BSD` • `Başkent: Nassau`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Bahamalar | **Başkent** | Nassau |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 13,880 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 13,880 km² |
 | **Nüfus** | 412,623 | **Para Birimi** | BSD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | Philip Davis | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

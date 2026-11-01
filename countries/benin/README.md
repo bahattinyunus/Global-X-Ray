@@ -1,5 +1,5 @@
 # 🌍 Benin (Benin Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: BEN` • `Para Birimi: XOF` • `Başkent: Porto-Novo (Cotonou)`
+`Bölge: Afrika` • `ISO: BEN` • `Para Birimi: XOF` • `Başkent: Porto-Novo (Cotonou)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Benin Cumhuriyeti | **Başkent** | Porto-Novo (Cotonou) |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 114,763 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 114,763 km² |
 | **Nüfus** | 13,352,864 | **Para Birimi** | XOF |
 | **Resmi Diller** | Fransızca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Patrice Talon | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

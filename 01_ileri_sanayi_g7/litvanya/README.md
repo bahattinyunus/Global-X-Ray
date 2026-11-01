@@ -1,5 +1,5 @@
 # 🌍 Litvanya (Litvanya) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: LTU` • `Para Birimi: EUR` • `Başkent: Vilnius`
+`Bölge: Avrupa` • `ISO: LTU` • `Para Birimi: EUR` • `Başkent: Vilnius`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Litvanya | **Başkent** | Vilnius |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 65,300 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 65,300 km² |
 | **Nüfus** | 2,857,279 | **Para Birimi** | EUR |
 | **Resmi Diller** | Litvanca | **Resmi Rejim Biçimi** | Yarı-Başkanlık |
 | **Görünen (De Jure) Lider** | Gitanas Nausėda | **Diplomatik Ekseni** | Bölgesel Paktlar |

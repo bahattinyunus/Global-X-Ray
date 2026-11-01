@@ -1,5 +1,5 @@
 # 🌍 Cibuti (Cibuti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: DJI` • `Para Birimi: DJF` • `Başkent: Cibuti`
+`Bölge: Afrika` • `ISO: DJI` • `Para Birimi: DJF` • `Başkent: Cibuti`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Cibuti | **Başkent** | Cibuti |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 23,200 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 23,200 km² |
 | **Nüfus** | 1,120,849 | **Para Birimi** | DJF |
 | **Resmi Diller** | Arapça, Fransızca | **Resmi Rejim Biçimi** | Başkanlık Otoriter Rejimi |
 | **Görünen (De Jure) Lider** | İsmail Ömer Guelleh | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

@@ -1,5 +1,5 @@
 # 🌍 Singapur (Singapur Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: SGP` • `Para Birimi: SGD` • `Başkent: Singapur`
+`Bölge: Asya & Hint-Pasifik` • `ISO: SGP` • `Para Birimi: SGD` • `Başkent: Singapur`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Singapur Cumhuriyeti | **Başkent** | Singapur |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 728 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 728 km² |
 | **Nüfus** | 5,917,600 | **Para Birimi** | SGD |
 | **Resmi Diller** | İngilizce, Malayca, Mandarin, Tamilce | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet (PAP Baskın) |
 | **Görünen (De Jure) Lider** | Lawrence Wong | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

@@ -1,5 +1,5 @@
 # 🌍 Doğu Timor (Doğu Timor Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: TLS` • `Para Birimi: USD` • `Başkent: Dili`
+`Bölge: Asya & Hint-Pasifik` • `ISO: TLS` • `Para Birimi: USD` • `Başkent: Dili`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Doğu Timor Cumhuriyeti | **Başkent** | Dili |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 14,874 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 14,874 km² |
 | **Nüfus** | 1,341,296 | **Para Birimi** | USD |
 | **Resmi Diller** | Tetum, Portekizce | **Resmi Rejim Biçimi** | Yarı-Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | José Ramos-Horta | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

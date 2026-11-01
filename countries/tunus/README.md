@@ -1,5 +1,5 @@
 # 🌍 Tunus (Tunus) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: TUN` • `Para Birimi: TND` • `Başkent: Tunus`
+`Bölge: Afrika` • `ISO: TUN` • `Para Birimi: TND` • `Başkent: Tunus`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Tunus | **Başkent** | Tunus |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 163,610 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 163,610 km² |
 | **Nüfus** | 12,356,117 | **Para Birimi** | TND |
 | **Resmi Diller** | Arapça | **Resmi Rejim Biçimi** | Hiper-Başkanlık Otoriter Rejimi |
 | **Görünen (De Jure) Lider** | Kais Saied | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

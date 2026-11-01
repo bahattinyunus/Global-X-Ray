@@ -1,5 +1,5 @@
 # 🌍 Sri Lanka (Sri Lanka Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: LKA` • `Para Birimi: LKR` • `Başkent: Kolombo`
+`Bölge: Asya & Hint-Pasifik` • `ISO: LKA` • `Para Birimi: LKR` • `Başkent: Kolombo`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Sri Lanka Cumhuriyeti | **Başkent** | Kolombo |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 65,610 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 65,610 km² |
 | **Nüfus** | 22,181,000 | **Para Birimi** | LKR |
 | **Resmi Diller** | Sinhalaca, Tamilce | **Resmi Rejim Biçimi** | Yarı-Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Anura Kumara Dissanayake | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

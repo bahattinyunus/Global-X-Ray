@@ -1,5 +1,5 @@
 # 🌍 Bangladeş (Bangladeş) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: BGD` • `Para Birimi: BDT` • `Başkent: Dakka`
+`Bölge: Asya & Hint-Pasifik` • `ISO: BGD` • `Para Birimi: BDT` • `Başkent: Dakka`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Bangladeş | **Başkent** | Dakka |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 147,570 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 147,570 km² |
 | **Nüfus** | 171,186,372 | **Para Birimi** | BDT |
 | **Resmi Diller** | Bengalce | **Resmi Rejim Biçimi** | Geçici Hükümet / Parlamenter |
 | **Görünen (De Jure) Lider** | Muhammed Yunus | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

@@ -1,5 +1,5 @@
 # 🌍 Kiribati (Kiribati) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: KIR` • `Para Birimi: AUD` • `Başkent: Tarawa`
+`Bölge: Okyanusya` • `ISO: KIR` • `Para Birimi: AUD` • `Başkent: Tarawa`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kiribati | **Başkent** | Tarawa |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 811 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 811 km² |
 | **Nüfus** | 131,232 | **Para Birimi** | AUD |
 | **Resmi Diller** | İngilizce, Kiribatice | **Resmi Rejim Biçimi** | Parlamenter Başkanlık |
 | **Görünen (De Jure) Lider** | Taneti Maamau | **Diplomatik Ekseni** | Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu |

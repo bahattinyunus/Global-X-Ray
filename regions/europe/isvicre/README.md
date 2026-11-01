@@ -1,5 +1,5 @@
 # 🌍 İsviçre (İsviçre Konfederasyonu) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: CHE` • `Para Birimi: CHF (İsviçre Frangı - Güvenli Liman)` • `Başkent: Bern`
+`Bölge: Avrupa` • `ISO: CHE` • `Para Birimi: CHF (İsviçre Frangı - Güvenli Liman)` • `Başkent: Bern`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | İsviçre Konfederasyonu | **Başkent** | Bern |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 41,285 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 41,285 km² |
 | **Nüfus** | 8,853,000 | **Para Birimi** | CHF (İsviçre Frangı - Güvenli Liman) |
 | **Resmi Diller** | Almanca, Fransızca, İtalyanca, Romanşça (4 Resmi Dil) | **Resmi Rejim Biçimi** | Federal Direkt Demokrasi (7 Üyeli Federal Konsey) |
 | **Görünen (De Jure) Lider** | Viola Amherd (Konfederasyon Başkanı) / 7 Üyeli Federal Konsey | **Diplomatik Ekseni** | BM Üyesi (2002'den beri), EFTA, Schengen Bölgesi (AB ve NATO üyesi değil). |

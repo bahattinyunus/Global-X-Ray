@@ -1,5 +1,5 @@
 # 🌍 Vatikan (Vatikan) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: VAT` • `Para Birimi: EUR` • `Başkent: Vatikan`
+`Bölge: Avrupa` • `ISO: VAT` • `Para Birimi: EUR` • `Başkent: Vatikan`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Vatikan | **Başkent** | Vatikan |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 0.49 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 0.49 km² |
 | **Nüfus** | 764 | **Para Birimi** | EUR |
 | **Resmi Diller** | İtalyanca, Latince | **Resmi Rejim Biçimi** | Mutlak Teokratik Monarşi |
 | **Görünen (De Jure) Lider** | Papa Françesko (Jorge Mario Bergoglio) | **Diplomatik Ekseni** | Bölgesel Paktlar |

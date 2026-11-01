@@ -1,5 +1,5 @@
 # 🌍 Mali (Mali) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: MLI` • `Para Birimi: XOF` • `Başkent: Bamako`
+`Bölge: Afrika` • `ISO: MLI` • `Para Birimi: XOF` • `Başkent: Bamako`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Mali | **Başkent** | Bamako |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 1,240,192 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 1,240,192 km² |
 | **Nüfus** | 22,593,590 | **Para Birimi** | XOF |
 | **Resmi Diller** | Fransızca, Bambara | **Resmi Rejim Biçimi** | Askeri Cunta |
 | **Görünen (De Jure) Lider** | Assimi Goïta | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

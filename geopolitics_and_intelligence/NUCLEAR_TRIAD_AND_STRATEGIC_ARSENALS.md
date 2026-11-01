@@ -16,15 +16,15 @@
 
 | Nükleer Güç | Toplam Cephanelik | Konuşlu Stratejik Başlık | Triad Yeteneği | İlk Test Yılı | Nükleer Doktrin & Angajman Şartı |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| **Russia** (`RUS`) | 5,580 | 1710 | `Tam Triad (Kara-Deniz-Hava)` | 1949 | Varoluşsal devlet tehdidi, konvansiyonel saldırıda dahi devletin bekası tehlikey... |
-| **United States** (`USA`) | 5,044 | 1770 | `Tam Triad (Kara-Deniz-Hava)` | 1945 | Hesaplanmış belirsizlik (Calculated ambiguity); nükleer ve kritik stratejik nükl... |
-| **China** (`CHN`) | 500 | 240 | `Tam Triad (Kara-Deniz-Hava)` | 1964 | Tarihsel 'İlk Kullanan Olmama' (No First Use - NFU) ilkesi; ancak 2030'a kadar 1... |
-| **France** (`FRA`) | 290 | 280 | `Tam Triad (Kara-Deniz-Hava)` | 1960 | Ulusal hayati çıkarların tehdidi durumunda 'Son Uyarı' (Ultime Avertissement) ol... |
-| **United Kingdom** (`GBR`) | 225 | 120 | `Tam Triad (Kara-Deniz-Hava)` | 1952 | NATO kolektif savunmasına tahsisli ancak nihai kullanım kararı tamamen Birleşik ... |
+| **Rusya** (`RUS`) | 5,580 | 1710 | `Tam Triad (Kara-Deniz-Hava)` | 1949 | Varoluşsal devlet tehdidi, konvansiyonel saldırıda dahi devletin bekası tehlikey... |
+| **Amerika Birleşik Devletleri** (`USA`) | 5,044 | 1770 | `Tam Triad (Kara-Deniz-Hava)` | 1945 | Hesaplanmış belirsizlik (Calculated ambiguity); nükleer ve kritik stratejik nükl... |
+| **Çin** (`CHN`) | 500 | 240 | `Tam Triad (Kara-Deniz-Hava)` | 1964 | Tarihsel 'İlk Kullanan Olmama' (No First Use - NFU) ilkesi; ancak 2030'a kadar 1... |
+| **Fransa** (`FRA`) | 290 | 280 | `Tam Triad (Kara-Deniz-Hava)` | 1960 | Ulusal hayati çıkarların tehdidi durumunda 'Son Uyarı' (Ultime Avertissement) ol... |
+| **Birleşik Krallık** (`GBR`) | 225 | 120 | `Tam Triad (Kara-Deniz-Hava)` | 1952 | NATO kolektif savunmasına tahsisli ancak nihai kullanım kararı tamamen Birleşik ... |
 | **Pakistan** (`PAK`) | 170 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 1998 | Hindistan konvansiyonel üstünlüğüne karşı asimetrik ilk kullanım hakkı (First Us... |
-| **India** (`IND`) | 172 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 1974 | İlk Kullanan Olmama (No First Use - NFU); ancak nükleer, kimyasal veya biyolojik... |
-| **Israel** (`ISR`) | 90 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 1966 | Resmi olarak nükleer silaha sahip olduğunu ne teyit ne de tekzip eden nükleer te... |
-| **North Korea** (`PRK`) | 50 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 2006 | Anayasaya girmiş geri döndürülemez nükleer güç statüsü; rejim bekası ve ABD aske... |
+| **Hindistan** (`IND`) | 172 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 1974 | İlk Kullanan Olmama (No First Use - NFU); ancak nükleer, kimyasal veya biyolojik... |
+| **İsrail** (`ISR`) | 90 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 1966 | Resmi olarak nükleer silaha sahip olduğunu ne teyit ne de tekzip eden nükleer te... |
+| **Kuzey Kore** (`PRK`) | 50 | 0 | `Tam Triad (Kara-Deniz-Hava)` | 2006 | Anayasaya girmiş geri döndürülemez nükleer güç statüsü; rejim bekası ve ABD aske... |
 
 ---
 

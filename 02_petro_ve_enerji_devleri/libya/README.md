@@ -1,5 +1,5 @@
 # 🌍 Libya (Libya) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: LBY` • `Para Birimi: LYD` • `Başkent: Trablus`
+`Bölge: Afrika` • `ISO: LBY` • `Para Birimi: LYD` • `Başkent: Trablus`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Libya | **Başkent** | Trablus |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 1,759,540 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 1,759,540 km² |
 | **Nüfus** | 6,812,341 | **Para Birimi** | LYD |
 | **Resmi Diller** | Arapça | **Resmi Rejim Biçimi** | Bölünmüş / Fiili İki Hükümet |
 | **Görünen (De Jure) Lider** | Abdülhamid Dibeybe (Trablus) / Usame Hammad & Hafter (Bingazi) | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

@@ -1,5 +1,5 @@
 # 🌍 Gana (Gana Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: GHA` • `Para Birimi: GHS` • `Başkent: Accra`
+`Bölge: Afrika` • `ISO: GHA` • `Para Birimi: GHS` • `Başkent: Accra`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Gana Cumhuriyeti | **Başkent** | Accra |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 238,533 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 238,533 km² |
 | **Nüfus** | 33,475,870 | **Para Birimi** | GHS |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Nana Akufo-Addo | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

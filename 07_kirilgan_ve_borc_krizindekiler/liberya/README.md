@@ -1,5 +1,5 @@
 # 🌍 Liberya (Liberya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: LBR` • `Para Birimi: LRD` • `Başkent: Monrovia`
+`Bölge: Afrika` • `ISO: LBR` • `Para Birimi: LRD` • `Başkent: Monrovia`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Liberya Cumhuriyeti | **Başkent** | Monrovia |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 111,369 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 111,369 km² |
 | **Nüfus** | 5,302,681 | **Para Birimi** | LRD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Joseph Boakai | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

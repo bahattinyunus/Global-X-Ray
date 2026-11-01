@@ -1,5 +1,5 @@
 # 🌍 Orta Afrika Cumhuriyeti (Orta Afrika Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: CAF` • `Para Birimi: XAF` • `Başkent: Bangui`
+`Bölge: Afrika` • `ISO: CAF` • `Para Birimi: XAF` • `Başkent: Bangui`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Orta Afrika Cumhuriyeti | **Başkent** | Bangui |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 622,984 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 622,984 km² |
 | **Nüfus** | 5,579,144 | **Para Birimi** | XAF |
 | **Resmi Diller** | Sango, Fransızca | **Resmi Rejim Biçimi** | Başkanlık (Rus Wagner Himayesi) |
 | **Görünen (De Jure) Lider** | Faustin-Archange Touadéra | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

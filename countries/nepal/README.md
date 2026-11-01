@@ -1,5 +1,5 @@
 # 🌍 Nepal (Nepal Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: NPL` • `Para Birimi: NPR` • `Başkent: Katmandu`
+`Bölge: Asya & Hint-Pasifik` • `ISO: NPL` • `Para Birimi: NPR` • `Başkent: Katmandu`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Nepal Cumhuriyeti | **Başkent** | Katmandu |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 147,181 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 147,181 km² |
 | **Nüfus** | 30,547,580 | **Para Birimi** | NPR |
 | **Resmi Diller** | Nepalce | **Resmi Rejim Biçimi** | Federal Demokratik Cumhuriyet |
 | **Görünen (De Jure) Lider** | K. P. Sharma Oli | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

@@ -1,5 +1,5 @@
 # 🌍 Avustralya (Avustralya Milletler Topluluğu) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: AUS` • `Para Birimi: AUD (Avustralya Doları)` • `Başkent: Canberra`
+`Bölge: Okyanusya` • `ISO: AUS` • `Para Birimi: AUD (Avustralya Doları)` • `Başkent: Canberra`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Avustralya Milletler Topluluğu | **Başkent** | Canberra |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 7,692,024 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 7,692,024 km² |
 | **Nüfus** | 26,439,111 | **Para Birimi** | AUD (Avustralya Doları) |
 | **Resmi Diller** | İngilizce (Resmi) | **Resmi Rejim Biçimi** | Federal Parlamenter Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Kral III. Charles / Anthony Albanese (Başbakan) | **Diplomatik Ekseni** | AUKUS, Five Eyes, Quad, ANZUS, OECD, G20. |

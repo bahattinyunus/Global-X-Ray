@@ -1,5 +1,5 @@
 # 🌍 Burundi (Burundi Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: BDI` • `Para Birimi: BIF` • `Başkent: Gitega (Bujumbura)`
+`Bölge: Afrika` • `ISO: BDI` • `Para Birimi: BIF` • `Başkent: Gitega (Bujumbura)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Burundi Cumhuriyeti | **Başkent** | Gitega (Bujumbura) |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 27,834 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 27,834 km² |
 | **Nüfus** | 12,889,576 | **Para Birimi** | BIF |
 | **Resmi Diller** | Kirundi, Fransızca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Évariste Ndayishimiye | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

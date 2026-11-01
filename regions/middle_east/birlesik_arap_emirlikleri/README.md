@@ -1,5 +1,5 @@
 # 🌍 Birleşik Arap Emirlikleri (Birleşik Arap Emirlikleri) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: ARE` • `Para Birimi: AED (BAE Dirhemi)` • `Başkent: Abu Dabi`
+`Bölge: Orta Doğu` • `ISO: ARE` • `Para Birimi: AED (BAE Dirhemi)` • `Başkent: Abu Dabi`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Birleşik Arap Emirlikleri | **Başkent** | Abu Dabi |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 83,600 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 83,600 km² |
 | **Nüfus** | 9,516,871 | **Para Birimi** | AED (BAE Dirhemi) |
 | **Resmi Diller** | Arapça (Resmi), İngilizce (İş ve Finans Dili) | **Resmi Rejim Biçimi** | Federal Mutlak Monarşi (7 Emirlik Federasyonu) |
 | **Görünen (De Jure) Lider** | Muhammed bin Zayid el-Nahyan (BAE Devlet Başkanı / Abu Dabi Emiri) | **Diplomatik Ekseni** | KİK, OPEC, BRICS, İbrahim Anlaşmaları, Arap Birliği. |

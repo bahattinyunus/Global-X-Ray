@@ -1,5 +1,5 @@
 # 🌍 Jamaika (Jamaika) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: JAM` • `Para Birimi: JMD` • `Başkent: Kingston`
+`Bölge: Amerika Kıtası` • `ISO: JAM` • `Para Birimi: JMD` • `Başkent: Kingston`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Jamaika | **Başkent** | Kingston |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 10,991 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 10,991 km² |
 | **Nüfus** | 2,825,544 | **Para Birimi** | JMD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | Andrew Holness | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

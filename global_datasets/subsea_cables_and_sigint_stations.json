@@ -7,7 +7,12 @@
       "name": "Mısır Kara Köprüsü & Kızıldeniz Koridoru",
       "strategic_significance": "Avrupa ile Asya arasındaki tüm dijital veri akışının %90'ı Mısır topraklarından (Süveyş ve İskenderiye arası kara geçişi) geçen 16 ana kablo hattı üzerinden akar.",
       "connected_regions": "Avrupa - Ortadoğu - Güney Asya - Uzak Doğu",
-      "key_cables": ["AAE-1", "SEA-ME-WE 3, 4, 5", "Europe India Gateway (EIG)", "2Africa"],
+      "key_cables": [
+        "AAE-1",
+        "SEA-ME-WE 3, 4, 5",
+        "Europe India Gateway (EIG)",
+        "2Africa"
+      ],
       "vulnerability": "Tek Noktadan Arıza Riski (Single Point of Failure): Mısır Telekom tekelinin aşırı fahiş transit ücretleri, karada kazara kopma riski ve Husi füzeleri/demir atan ticari gemiler nedeniyle Kızıldeniz'de kablo kopmaları.",
       "geopolitical_risk": "Kritik / Azami"
     },
@@ -16,7 +21,13 @@
       "name": "Kuzey Atlantik Koridoru (Bude / Cornwall - New York / Virginia)",
       "strategic_significance": "Londra ve New York finans merkezlerini birbirine bağlayan, hisse senedi ve türev piyasaları için mikrosaniye seviyesinde yüksek frekanslı ticaret (HFT) omurgası.",
       "connected_regions": "Kuzey Amerika - Batı Avrupa",
-      "key_cables": ["Apollo", "Grace Hopper", "Amitié", "Dunant", "MAREA (Virginia Beach - Bilbao)"],
+      "key_cables": [
+        "Apollo",
+        "Grace Hopper",
+        "Amitié",
+        "Dunant",
+        "MAREA (Virginia Beach - Bilbao)"
+      ],
       "vulnerability": "Soğuk Savaş dönemi 'Operation Ivy Bells' benzeri gizli su altı dinleme operasyonları; Rus GUGI derin deniz araştırma gemilerinin (Yantar) şüpheli devriyeleri.",
       "geopolitical_risk": "Yüksek"
     },
@@ -25,7 +36,12 @@
       "name": "Malakka Boğazı & Singapur Dijital Hub'ı",
       "strategic_significance": "Güneydoğu Asya, Çin, Japonya ve Avustralya'nın küresel bulut bilişim veri merkezleriyle entegrasyon kavşağı.",
       "connected_regions": "Güneydoğu Asya - Doğu Asya - Hint Okyanusu",
-      "key_cables": ["Asia-America Gateway (AAG)", "APCN-2", "SeaMeWe-5", "Bifrost"],
+      "key_cables": [
+        "Asia-America Gateway (AAG)",
+        "APCN-2",
+        "SeaMeWe-5",
+        "Bifrost"
+      ],
       "vulnerability": "Dünyanın en yoğun gemi trafiği; sığ sularda atılan gemi demirlerinin kabloları koparması ve korsanlık/asimetrik sabotaj riskleri.",
       "geopolitical_risk": "Yüksek"
     },
@@ -34,7 +50,12 @@
       "name": "Luzon Boğazı (Tayvan - Filipinler)",
       "strategic_significance": "Doğu Asya anakarasını (Hong Kong, Tayvan, Japonya) Pasifik üzerinden ABD Batı Kıyısına bağlayan dar su yolu.",
       "connected_regions": "Tayvan - Hong Kong - Filipinler - ABD",
-      "key_cables": ["Trans-Pacific Express (TPE)", "EAC-C2C", "SJC", "Challenger"],
+      "key_cables": [
+        "Trans-Pacific Express (TPE)",
+        "EAC-C2C",
+        "SJC",
+        "Challenger"
+      ],
       "vulnerability": "Yüksek sismik aktivite (depremler ve denizaltı heyelanları) ve Çin Halk Kurtuluş Ordusu Donanması'nın (PLAN) denizaltı ablukası manevra sahası.",
       "geopolitical_risk": "Kritik / Çatışma Alanı"
     }
@@ -42,35 +63,35 @@
   "global_sigint_interception_stations": [
     {
       "station_name": "GCHQ Bude (Cleave Camp)",
-      "country": "United Kingdom",
+      "country": "Birleşik Krallık",
       "operator": "Government Communications Headquarters (GCHQ) / NSA Ortaklığı",
       "location": "Cornwall, İngiltere",
       "capabilities": "Kuzey Atlantik üzerinden gelen ve Bude kıyısında karaya çıkan transatlantik denizaltı fiber optik kablolarının doğrudan dinlenmesi (Mastering the Internet / TEMPORA programı)."
     },
     {
       "station_name": "Pine Gap (Joint Defence Facility Pine Gap)",
-      "country": "Australia",
+      "country": "Avustralya",
       "operator": "Avustralya ASD / ABD CIA & NSA",
       "location": "Alice Springs, Avustralya",
       "capabilities": "Asya, Orta Doğu ve Rusya üzerindeki jeosenkron uyduların kontrolü; balistik füze fırlatma erken uyarısı ve küresel telemetri/sinyal yakalama."
     },
     {
       "station_name": "RAF Menwith Hill",
-      "country": "United Kingdom",
+      "country": "Birleşik Krallık",
       "operator": "ABD Ulusal Güvenlik Ajansı (NSA) / RAF",
       "location": "Harrogate, Kuzey Yorkshire, İngiltere",
       "capabilities": "Dünyanın en büyük elektronik gözetim üssü (33 adet radom / 'golf topu'); Avrupa ve Orta Doğu askeri/diplomatik telsiz ve uydu trafiğinin dinlenmesi."
     },
     {
       "station_name": "NSA Fort Meade (National Cryptologic Center)",
-      "country": "United States",
+      "country": "Amerika Birleşik Devletleri",
       "operator": "National Security Agency (NSA) / US Cyber Command",
       "location": "Maryland, ABD",
       "capabilities": "Küresel sinyal istihbaratının merkezi beyni; süper bilgisayarlarla kriptanaliz, PRISM veri tabanı ve kuantum kriptografi kırma araştırmaları."
     },
     {
       "station_name": "Diego Garcia Naval Support Facility",
-      "country": "British Indian Ocean Territory (BIOT)",
+      "country": "Britanya Hint Okyanusu Toprakları (Diego Garcia)",
       "operator": "ABD Donanması / Birleşik Krallık Savunma Bakanlığı",
       "location": "Chagos Takımadaları, Hint Okyanusu",
       "capabilities": "Hint Okyanusu, Körfez ve Güney Asya sinyal trafiğini izleyen stratejik SIGINT üssü ve nükleer denizaltı ikmal istasyonu."
@@ -80,13 +101,19 @@
     {
       "nation": "Russia",
       "unit_name": "GUGI (Ana Derin Deniz Araştırma Dairesi)",
-      "special_platforms": ["Yantar Okyanus Araştırma Gemisi", "BS-64 Podmoskovye & K-329 Belgorod nükleer denizaltıları", "AS-31 Losharik titanyum derin dalış denizaltısı"],
+      "special_platforms": [
+        "Yantar Okyanus Araştırma Gemisi",
+        "BS-64 Podmoskovye & K-329 Belgorod nükleer denizaltıları",
+        "AS-31 Losharik titanyum derin dalış denizaltısı"
+      ],
       "doctrine": "NATO denizaltı kablolarının derin deniz kollarını tespit etme, tabana nükleer tahrikli dinleme sensörleri yerleştirme ve kriz anında kabloları kesme kabiliyeti."
     },
     {
       "nation": "United States",
       "unit_name": "US Navy Submarine Development Squadron 5 (DEVRON 5)",
-      "special_platforms": ["USS Jimmy Carter (SSN-23) Modifiye Seawolf Sınıfı Denizaltı"],
+      "special_platforms": [
+        "USS Jimmy Carter (SSN-23) Modifiye Seawolf Sınıfı Denizaltı"
+      ],
       "doctrine": "100 metrelik 'Multi-Mission Platform' (MMP) gövde uzantısıyla deniz tabanında saturasyon dalgıçları ve insansız su altı araçları (UUV) ile kablolara fiziksel tap (dinleme aparatı) yerleştirme ve çıkarma."
     }
   ]

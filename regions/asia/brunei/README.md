@@ -1,5 +1,5 @@
 # 🌍 Brunei (Brunei) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: BRN` • `Para Birimi: BND` • `Başkent: Bandar Seri Begavan`
+`Bölge: Asya & Hint-Pasifik` • `ISO: BRN` • `Para Birimi: BND` • `Başkent: Bandar Seri Begavan`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Brunei | **Başkent** | Bandar Seri Begavan |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 5,765 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 5,765 km² |
 | **Nüfus** | 449,002 | **Para Birimi** | BND |
 | **Resmi Diller** | Malayca | **Resmi Rejim Biçimi** | Mutlak Monarşi (Sultanlık) |
 | **Görünen (De Jure) Lider** | Hassanal Bolkiah | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

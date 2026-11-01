@@ -1,5 +1,5 @@
 # 🌍 Norveç (Norveç) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: NOR` • `Para Birimi: NOK` • `Başkent: Oslo`
+`Bölge: Avrupa` • `ISO: NOR` • `Para Birimi: NOK` • `Başkent: Oslo`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Norveç | **Başkent** | Oslo |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 385,207 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 385,207 km² |
 | **Nüfus** | 5,488,984 | **Para Birimi** | NOK |
 | **Resmi Diller** | Norveççe | **Resmi Rejim Biçimi** | Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Jonas Gahr Støre | **Diplomatik Ekseni** | AB / NATO / Avrupa Konseyi |

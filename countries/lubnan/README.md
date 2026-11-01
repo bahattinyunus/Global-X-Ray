@@ -1,5 +1,5 @@
 # 🌍 Lübnan (Lübnan Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: LBN` • `Para Birimi: LBP (Lübnan Lirası)` • `Başkent: Beyrut`
+`Bölge: Orta Doğu` • `ISO: LBN` • `Para Birimi: LBP (Lübnan Lirası)` • `Başkent: Beyrut`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Lübnan Cumhuriyeti | **Başkent** | Beyrut |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 10,452 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 10,452 km² |
 | **Nüfus** | 5,353,930 | **Para Birimi** | LBP (Lübnan Lirası) |
 | **Resmi Diller** | Arapça (Resmi), Fransızca, İngilizce, Ermenice | **Resmi Rejim Biçimi** | Mezhepsel Konfesyonalist Cumhuriyet |
 | **Görünen (De Jure) Lider** | Necip Mikati (Geçici Başbakan) / Cumhurbaşkanlığı Makamı Boş | **Diplomatik Ekseni** | Arap Birliği, Frankofon Topluluğu. |

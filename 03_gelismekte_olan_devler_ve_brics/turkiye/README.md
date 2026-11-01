@@ -1,5 +1,5 @@
 # 🌍 Türkiye (Türkiye Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: TUR` • `Para Birimi: TRY (Türk Lirası)` • `Başkent: Ankara`
+`Bölge: Orta Doğu` • `ISO: TUR` • `Para Birimi: TRY (Türk Lirası)` • `Başkent: Ankara`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Türkiye Cumhuriyeti | **Başkent** | Ankara |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 783,562 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 783,562 km² |
 | **Nüfus** | 85,372,377 | **Para Birimi** | TRY (Türk Lirası) |
 | **Resmi Diller** | Türkçe (Resmi), Kürtçe, Zazaca, Arapça | **Resmi Rejim Biçimi** | Cumhurbaşkanlığı Hükümet Sistemi (Hiper-Başkanlık) |
 | **Görünen (De Jure) Lider** | Recep Tayyip Erdoğan (Cumhurbaşkanı) | **Diplomatik Ekseni** | NATO, BM, G20, Türk Devletleri Teşkilatı, İslam İşbirliği Teşkilatı. |

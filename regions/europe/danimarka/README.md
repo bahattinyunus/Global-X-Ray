@@ -1,5 +1,5 @@
 # 🌍 Danimarka (Danimarka) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: DNK` • `Para Birimi: DKK` • `Başkent: Kopenhag`
+`Bölge: Avrupa` • `ISO: DNK` • `Para Birimi: DKK` • `Başkent: Kopenhag`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Danimarka | **Başkent** | Kopenhag |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 42,933 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 42,933 km² |
 | **Nüfus** | 5,932,654 | **Para Birimi** | DKK |
 | **Resmi Diller** | Danca | **Resmi Rejim Biçimi** | Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Mette Frederiksen | **Diplomatik Ekseni** | Bölgesel Paktlar |

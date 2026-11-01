@@ -1,5 +1,5 @@
 # 🌍 Paraguay (Paraguay Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: PRY` • `Para Birimi: PYG` • `Başkent: Asuncion`
+`Bölge: Amerika Kıtası` • `ISO: PRY` • `Para Birimi: PYG` • `Başkent: Asuncion`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Paraguay Cumhuriyeti | **Başkent** | Asuncion |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 406,752 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 406,752 km² |
 | **Nüfus** | 6,780,744 | **Para Birimi** | PYG |
 | **Resmi Diller** | İspanyolca, Guaranice | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Santiago Peña | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

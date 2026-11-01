@@ -1,5 +1,5 @@
 # 🌍 Almanya (Almanya Federal Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: DEU` • `Para Birimi: EUR (Euro)` • `Başkent: Berlin`
+`Bölge: Avrupa` • `ISO: DEU` • `Para Birimi: EUR (Euro)` • `Başkent: Berlin`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Almanya Federal Cumhuriyeti | **Başkent** | Berlin |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 357,022 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 357,022 km² |
 | **Nüfus** | 84,482,267 | **Para Birimi** | EUR (Euro) |
 | **Resmi Diller** | Almanca (Resmi) | **Resmi Rejim Biçimi** | Federal Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Olaf Scholz (Şansölye) / Frank-Walter Steinmeier (Cumhurbaşkanı) | **Diplomatik Ekseni** | AB (Lokomotif), NATO, G7, G20, OECD. |

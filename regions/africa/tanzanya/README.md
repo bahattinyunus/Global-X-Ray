@@ -1,5 +1,5 @@
 # 🌍 Tanzanya (Tanzanya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: TZA` • `Para Birimi: TZS` • `Başkent: Dodoma (Darüsselam)`
+`Bölge: Afrika` • `ISO: TZA` • `Para Birimi: TZS` • `Başkent: Dodoma (Darüsselam)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Tanzanya Cumhuriyeti | **Başkent** | Dodoma (Darüsselam) |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 947,303 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 947,303 km² |
 | **Nüfus** | 65,497,748 | **Para Birimi** | TZS |
 | **Resmi Diller** | Svahili, İngilizce | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti (CCM) |
 | **Görünen (De Jure) Lider** | Samia Suluhu Hassan | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

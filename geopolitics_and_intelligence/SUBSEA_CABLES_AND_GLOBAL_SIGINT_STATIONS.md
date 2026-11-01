@@ -19,8 +19,8 @@ Five Eyes (FVEY) ve müttefik istihbarat servislerinin denizaltı kablolarını 
 
 | İstasyon Adı | Ev Sahibi Ülke | Operatör Teşkilat | Stratejik Coğrafi Konum |
 | :--- | :--- | :--- | :--- |
-| **GCHQ Bude (Cleave Camp)** | United Kingdom | Government Communications Headquarters (GCHQ) / NSA Ortaklığı | Cornwall, İngiltere |
-| **Pine Gap (Joint Defence Facility Pine Gap)** | Australia | Avustralya ASD / ABD CIA & NSA | Alice Springs, Avustralya |
-| **RAF Menwith Hill** | United Kingdom | ABD Ulusal Güvenlik Ajansı (NSA) / RAF | Harrogate, Kuzey Yorkshire, İngiltere |
-| **NSA Fort Meade (National Cryptologic Center)** | United States | National Security Agency (NSA) / US Cyber Command | Maryland, ABD |
-| **Diego Garcia Naval Support Facility** | British Indian Ocean Territory (BIOT) | ABD Donanması / Birleşik Krallık Savunma Bakanlığı | Chagos Takımadaları, Hint Okyanusu |
+| **GCHQ Bude (Cleave Camp)** | Birleşik Krallık | Government Communications Headquarters (GCHQ) / NSA Ortaklığı | Cornwall, İngiltere |
+| **Pine Gap (Joint Defence Facility Pine Gap)** | Avustralya | Avustralya ASD / ABD CIA & NSA | Alice Springs, Avustralya |
+| **RAF Menwith Hill** | Birleşik Krallık | ABD Ulusal Güvenlik Ajansı (NSA) / RAF | Harrogate, Kuzey Yorkshire, İngiltere |
+| **NSA Fort Meade (National Cryptologic Center)** | Amerika Birleşik Devletleri | National Security Agency (NSA) / US Cyber Command | Maryland, ABD |
+| **Diego Garcia Naval Support Facility** | Britanya Hint Okyanusu Toprakları (Diego Garcia) | ABD Donanması / Birleşik Krallık Savunma Bakanlığı | Chagos Takımadaları, Hint Okyanusu |

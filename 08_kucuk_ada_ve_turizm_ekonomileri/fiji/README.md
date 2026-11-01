@@ -1,5 +1,5 @@
 # 🌍 Fiji (Fiji Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: FJI` • `Para Birimi: FJD` • `Başkent: Suva`
+`Bölge: Okyanusya` • `ISO: FJI` • `Para Birimi: FJD` • `Başkent: Suva`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Fiji Cumhuriyeti | **Başkent** | Suva |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 18,274 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 18,274 km² |
 | **Nüfus** | 929,766 | **Para Birimi** | FJD |
 | **Resmi Diller** | İngilizce, Fijice, Hintçe | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Sitiveni Rabuka | **Diplomatik Ekseni** | Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu |

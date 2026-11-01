@@ -1,5 +1,5 @@
 # 🌍 Kamerun (Kamerun) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: CMR` • `Para Birimi: XAF` • `Başkent: Yaounde`
+`Bölge: Afrika` • `ISO: CMR` • `Para Birimi: XAF` • `Başkent: Yaounde`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kamerun | **Başkent** | Yaounde |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 475,442 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 475,442 km² |
 | **Nüfus** | 27,914,536 | **Para Birimi** | XAF |
 | **Resmi Diller** | Fransızca, İngilizce | **Resmi Rejim Biçimi** | Başkanlık Otoriter Rejimi |
 | **Görünen (De Jure) Lider** | Paul Biya | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

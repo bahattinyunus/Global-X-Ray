@@ -1,5 +1,5 @@
 # 🌍 Burkina Faso (Burkina Faso) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: BFA` • `Para Birimi: XOF` • `Başkent: Ouagadougou`
+`Bölge: Afrika` • `ISO: BFA` • `Para Birimi: XOF` • `Başkent: Ouagadougou`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Burkina Faso | **Başkent** | Ouagadougou |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 274,200 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 274,200 km² |
 | **Nüfus** | 22,673,762 | **Para Birimi** | XOF |
 | **Resmi Diller** | Fransızca | **Resmi Rejim Biçimi** | Askeri Cunta |
 | **Görünen (De Jure) Lider** | İbrahim Traore | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

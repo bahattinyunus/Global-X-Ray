@@ -1,5 +1,5 @@
 # 🌍 Slovakya (Slovakya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: SVK` • `Para Birimi: EUR` • `Başkent: Bratislava`
+`Bölge: Avrupa` • `ISO: SVK` • `Para Birimi: EUR` • `Başkent: Bratislava`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Slovakya Cumhuriyeti | **Başkent** | Bratislava |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 49,036 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 49,036 km² |
 | **Nüfus** | 5,431,752 | **Para Birimi** | EUR |
 | **Resmi Diller** | Slovakça | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Robert Fico | **Diplomatik Ekseni** | Bölgesel Paktlar |

@@ -1,5 +1,5 @@
 # 🌍 Sierra Leone (Sierra Leone Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: SLE` • `Para Birimi: SLE` • `Başkent: Freetown`
+`Bölge: Afrika` • `ISO: SLE` • `Para Birimi: SLE` • `Başkent: Freetown`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Sierra Leone Cumhuriyeti | **Başkent** | Freetown |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 71,740 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 71,740 km² |
 | **Nüfus** | 8,605,718 | **Para Birimi** | SLE |
 | **Resmi Diller** | İngilizce, Krio | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Julius Maada Bio | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

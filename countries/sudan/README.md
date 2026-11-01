@@ -1,5 +1,5 @@
 # 🌍 Sudan (Sudan) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: SDN` • `Para Birimi: SDG` • `Başkent: Hartum (Port Sudan)`
+`Bölge: Afrika` • `ISO: SDN` • `Para Birimi: SDG` • `Başkent: Hartum (Port Sudan)`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Sudan | **Başkent** | Hartum (Port Sudan) |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 1,861,484 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 1,861,484 km² |
 | **Nüfus** | 46,874,204 | **Para Birimi** | SDG |
 | **Resmi Diller** | Arapça, İngilizce | **Resmi Rejim Biçimi** | İç Savaş / Askeri Yıkım (SAF vs RSF) |
 | **Görünen (De Jure) Lider** | Abdulfettah el-Burhan (SAF) / Hemedti (RSF) | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

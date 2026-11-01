@@ -1,5 +1,5 @@
 # 🌍 Kenya (Kenya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: KEN` • `Para Birimi: KES` • `Başkent: Nairobi`
+`Bölge: Afrika` • `ISO: KEN` • `Para Birimi: KES` • `Başkent: Nairobi`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kenya Cumhuriyeti | **Başkent** | Nairobi |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 580,367 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 580,367 km² |
 | **Nüfus** | 54,027,487 | **Para Birimi** | KES |
 | **Resmi Diller** | Svahili, İngilizce | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | William Ruto | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

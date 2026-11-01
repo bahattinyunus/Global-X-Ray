@@ -1,5 +1,5 @@
 # 🌍 El Salvador (El Salvador Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: SLV` • `Para Birimi: USD` • `Başkent: San Salvador`
+`Bölge: Amerika Kıtası` • `ISO: SLV` • `Para Birimi: USD` • `Başkent: San Salvador`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | El Salvador Cumhuriyeti | **Başkent** | San Salvador |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 21,041 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 21,041 km² |
 | **Nüfus** | 6,364,943 | **Para Birimi** | USD |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Nayib Bukele | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

@@ -1,5 +1,5 @@
 # 🌍 Yeni Zelanda (Yeni Zelanda (Aotearoa)) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: NZL` • `Para Birimi: NZD (Yeni Zelanda Doları)` • `Başkent: Wellington`
+`Bölge: Okyanusya` • `ISO: NZL` • `Para Birimi: NZD (Yeni Zelanda Doları)` • `Başkent: Wellington`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Yeni Zelanda (Aotearoa) | **Başkent** | Wellington |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 268,021 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 268,021 km² |
 | **Nüfus** | 5,228,100 | **Para Birimi** | NZD (Yeni Zelanda Doları) |
 | **Resmi Diller** | İngilizce (Resmi), Maori Dili (Resmi), Yeni Zelanda İşaret Dili | **Resmi Rejim Biçimi** | Parlamenter Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Kral III. Charles / Christopher Luxon (Başbakan) | **Diplomatik Ekseni** | Five Eyes İstihbarat İttifakı, ANZUS (Nükleer karşıtı politika nedeniyle askeri kanadı askıda), OECD, İngiliz Milletler Topluluğu. |

@@ -9,7 +9,7 @@
   },
   "nuclear_powers": [
     {
-      "country": "Russia",
+      "country": "Rusya",
       "code": "RUS",
       "total_inventory": 5580,
       "deployed_strategic_warheads": 1710,
@@ -30,7 +30,7 @@
       "nuclear_doctrine": "Varoluşsal devlet tehdidi, konvansiyonel saldırıda dahi devletin bekası tehlikeye girdiğinde ilk nükleer kullanım hakkı (De-escalation strike / Tırmandırmayı Önleme Saldırısı)."
     },
     {
-      "country": "United States",
+      "country": "Amerika Birleşik Devletleri",
       "code": "USA",
       "total_inventory": 5044,
       "deployed_strategic_warheads": 1770,
@@ -50,7 +50,7 @@
       "nuclear_doctrine": "Hesaplanmış belirsizlik (Calculated ambiguity); nükleer ve kritik stratejik nükleer-dışı saldırılara (siber, biyolojik) karşı misilleme hakkı; müttefiklere genişletilmiş nükleer şemsiye garantisi."
     },
     {
-      "country": "China",
+      "country": "Çin",
       "code": "CHN",
       "total_inventory": 500,
       "deployed_strategic_warheads": 240,
@@ -71,7 +71,7 @@
       "nuclear_doctrine": "Tarihsel 'İlk Kullanan Olmama' (No First Use - NFU) ilkesi; ancak 2030'a kadar 1.000+ başlığa ulaşarak ABD ile stratejik nükleer eşitlik kurma hedefi."
     },
     {
-      "country": "France",
+      "country": "Fransa",
       "code": "FRA",
       "total_inventory": 290,
       "deployed_strategic_warheads": 280,
@@ -90,7 +90,7 @@
       "nuclear_doctrine": "Ulusal hayati çıkarların tehdidi durumunda 'Son Uyarı' (Ultime Avertissement) olarak tekil taktik nükleer vuruş ve ardından topyekun stratejik misilleme."
     },
     {
-      "country": "United Kingdom",
+      "country": "Birleşik Krallık",
       "code": "GBR",
       "total_inventory": 225,
       "deployed_strategic_warheads": 120,
@@ -128,7 +128,7 @@
       "nuclear_doctrine": "Hindistan konvansiyonel üstünlüğüne karşı asimetrik ilk kullanım hakkı (First Use); kırmızı çizgiler: toprak kaybı, ordunun imhası, ekonomik boğulma."
     },
     {
-      "country": "India",
+      "country": "Hindistan",
       "code": "IND",
       "total_inventory": 172,
       "deployed_strategic_warheads": 0,
@@ -147,7 +147,7 @@
       "nuclear_doctrine": "İlk Kullanan Olmama (No First Use - NFU); ancak nükleer, kimyasal veya biyolojik saldırıya uğranması halinde kabul edilemez hasar verecek topyekun misilleme."
     },
     {
-      "country": "Israel",
+      "country": "İsrail",
       "code": "ISR",
       "total_inventory": 90,
       "deployed_strategic_warheads": 0,
@@ -166,7 +166,7 @@
       "nuclear_doctrine": "Resmi olarak nükleer silaha sahip olduğunu ne teyit ne de tekzip eden nükleer tekel koruma doktrini (Begin Doktrini: Ortadoğu'da başka hiçbir gücün nükleer silah edinmesine izin vermeme)."
     },
     {
-      "country": "North Korea",
+      "country": "Kuzey Kore",
       "code": "PRK",
       "total_inventory": 50,
       "deployed_strategic_warheads": 0,
@@ -189,11 +189,36 @@
   "nato_nuclear_sharing": {
     "doctrine": "NATO Nükleer Paylaşım Anlaşması uyarınca, nükleer silaha sahip olmayan 5 NATO müttefiki ülkenin hava üslerinde ABD Hava Kuvvetleri kontrolünde B61 serisi yerçekimi nükleer bombaları depolanmaktadır. Savaş durumunda bu bombalar müttefik ülke pilotları tarafından atılmak üzere yetkilendirilebilir.",
     "bases": [
-      { "base_name": "İncirlik Hava Üssü", "country": "Turkey", "estimated_bombs": 20, "weapon_type": "B61-3/4" },
-      { "base_name": "Büchel Hava Üssü", "country": "Germany", "estimated_bombs": 20, "weapon_type": "B61-12 (Tornado / F-35A)" },
-      { "base_name": "Aviano & Ghedi Hava Üsleri", "country": "Italy", "estimated_bombs": 35, "weapon_type": "B61-12 (Tornado / F-35A)" },
-      { "base_name": "Kleine Brogel Hava Üssü", "country": "Belgium", "estimated_bombs": 15, "weapon_type": "B61-12 (F-16 / F-35A)" },
-      { "base_name": "Volkel Hava Üssü", "country": "Netherlands", "estimated_bombs": 15, "weapon_type": "B61-12 (F-35A)" }
+      {
+        "base_name": "İncirlik Hava Üssü",
+        "country": "Turkey",
+        "estimated_bombs": 20,
+        "weapon_type": "B61-3/4"
+      },
+      {
+        "base_name": "Büchel Hava Üssü",
+        "country": "Germany",
+        "estimated_bombs": 20,
+        "weapon_type": "B61-12 (Tornado / F-35A)"
+      },
+      {
+        "base_name": "Aviano & Ghedi Hava Üsleri",
+        "country": "Italy",
+        "estimated_bombs": 35,
+        "weapon_type": "B61-12 (Tornado / F-35A)"
+      },
+      {
+        "base_name": "Kleine Brogel Hava Üssü",
+        "country": "Belgium",
+        "estimated_bombs": 15,
+        "weapon_type": "B61-12 (F-16 / F-35A)"
+      },
+      {
+        "base_name": "Volkel Hava Üssü",
+        "country": "Netherlands",
+        "estimated_bombs": 15,
+        "weapon_type": "B61-12 (F-35A)"
+      }
     ]
   }
 }

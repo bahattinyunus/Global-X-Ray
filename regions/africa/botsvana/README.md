@@ -1,5 +1,5 @@
 # 🌍 Botsvana (Botsvana Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: BWA` • `Para Birimi: BWP` • `Başkent: Gaborone`
+`Bölge: Afrika` • `ISO: BWA` • `Para Birimi: BWP` • `Başkent: Gaborone`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Botsvana Cumhuriyeti | **Başkent** | Gaborone |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 581,730 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 581,730 km² |
 | **Nüfus** | 2,630,296 | **Para Birimi** | BWP |
 | **Resmi Diller** | İngilizce, Setswana | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Duma Boko | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

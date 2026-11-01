@@ -1,5 +1,5 @@
 # 🌍 Eritre (Eritre) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: ERI` • `Para Birimi: ERN` • `Başkent: Asmara`
+`Bölge: Afrika` • `ISO: ERI` • `Para Birimi: ERN` • `Başkent: Asmara`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Eritre | **Başkent** | Asmara |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 117,600 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 117,600 km² |
 | **Nüfus** | 3,684,032 | **Para Birimi** | ERN |
 | **Resmi Diller** | Tigrinya, Arapça, İngilizce | **Resmi Rejim Biçimi** | Totaliter Kapalı Diktatörlük |
 | **Görünen (De Jure) Lider** | Isaias Afwerki | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

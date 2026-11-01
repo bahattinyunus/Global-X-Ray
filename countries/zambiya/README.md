@@ -1,5 +1,5 @@
 # 🌍 Zambiya (Zambiya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: ZMB` • `Para Birimi: ZMW` • `Başkent: Lusaka`
+`Bölge: Afrika` • `ISO: ZMB` • `Para Birimi: ZMW` • `Başkent: Lusaka`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Zambiya Cumhuriyeti | **Başkent** | Lusaka |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 752,618 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 752,618 km² |
 | **Nüfus** | 20,017,675 | **Para Birimi** | ZMW |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Hakainde Hichilema | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

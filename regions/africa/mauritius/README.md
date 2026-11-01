@@ -1,5 +1,5 @@
 # 🌍 Mauritius (Mauritius Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: MUS` • `Para Birimi: MUR` • `Başkent: Port Louis`
+`Bölge: Afrika` • `ISO: MUS` • `Para Birimi: MUR` • `Başkent: Port Louis`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Mauritius Cumhuriyeti | **Başkent** | Port Louis |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 2,040 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 2,040 km² |
 | **Nüfus** | 1,262,524 | **Para Birimi** | MUR |
 | **Resmi Diller** | İngilizce, Fransızca, Kreol | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Navin Ramgoolam | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

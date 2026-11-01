@@ -1,5 +1,5 @@
 # 🌍 Peru (Peru Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: PER` • `Para Birimi: PEN` • `Başkent: Lima`
+`Bölge: Amerika Kıtası` • `ISO: PER` • `Para Birimi: PEN` • `Başkent: Lima`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Peru Cumhuriyeti | **Başkent** | Lima |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 1,285,216 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 1,285,216 km² |
 | **Nüfus** | 34,000,000 | **Para Birimi** | PEN |
 | **Resmi Diller** | İspanyolca, Keçuva | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Dina Boluarte | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

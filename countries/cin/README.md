@@ -1,5 +1,5 @@
 # 🌍 Çin (Çin Halk Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: CHN` • `Para Birimi: CNY (Çin Yuanı / Renminbi)` • `Başkent: Pekin`
+`Bölge: Asya & Hint-Pasifik` • `ISO: CHN` • `Para Birimi: CNY (Çin Yuanı / Renminbi)` • `Başkent: Pekin`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Çin Halk Cumhuriyeti | **Başkent** | Pekin |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 9,596,961 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 9,596,961 km² |
 | **Nüfus** | 1,409,670,000 | **Para Birimi** | CNY (Çin Yuanı / Renminbi) |
 | **Resmi Diller** | Mandarin Çincesi (Resmi) ve bölgesel diller | **Resmi Rejim Biçimi** | Tek Parti Sosyalist Cumhuriyeti (ÇKP Vesayeti) |
 | **Görünen (De Jure) Lider** | Şi Cinping (ÇKP Genel Sekreteri ve Devlet Başkanı) / Li Çiang (Başbakan) | **Diplomatik Ekseni** | Şanghay İşbirliği Örgütü (ŞİÖ), BRICS+, BM Güvenlik Konseyi Daimi Üyesi, RCEP. |

@@ -1,5 +1,5 @@
 # 🌍 Namibya (Namibya) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: NAM` • `Para Birimi: NAD` • `Başkent: Windhoek`
+`Bölge: Afrika` • `ISO: NAM` • `Para Birimi: NAD` • `Başkent: Windhoek`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Namibya | **Başkent** | Windhoek |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 825,615 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 825,615 km² |
 | **Nüfus** | 2,567,012 | **Para Birimi** | NAD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Yarı-Başkanlık |
 | **Görünen (De Jure) Lider** | Nangolo Mbumba | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

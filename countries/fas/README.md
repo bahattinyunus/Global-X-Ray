@@ -1,5 +1,5 @@
 # 🌍 Fas (Fas) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: MAR` • `Para Birimi: MAD` • `Başkent: Rabat`
+`Bölge: Afrika` • `ISO: MAR` • `Para Birimi: MAD` • `Başkent: Rabat`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Fas | **Başkent** | Rabat |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 446,550 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 446,550 km² |
 | **Nüfus** | 37,457,971 | **Para Birimi** | MAD |
 | **Resmi Diller** | Arapça, Berberi dili | **Resmi Rejim Biçimi** | Anayasal Monarşi (Makhzen Derin Devleti) |
 | **Görünen (De Jure) Lider** | Kral VI. Muhammed / Aziz Ahannuş (Başbakan) | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

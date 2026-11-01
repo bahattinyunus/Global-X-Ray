@@ -1,5 +1,5 @@
 # 🌍 Kosova (Kosova Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: XKX` • `Para Birimi: EUR` • `Başkent: Priştine`
+`Bölge: Avrupa` • `ISO: XKX` • `Para Birimi: EUR` • `Başkent: Priştine`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kosova Cumhuriyeti | **Başkent** | Priştine |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 10,887 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 10,887 km² |
 | **Nüfus** | 1,762,000 | **Para Birimi** | EUR |
 | **Resmi Diller** | Arnavutça, Sırpça | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Albin Kurti | **Diplomatik Ekseni** | Bölgesel Paktlar |

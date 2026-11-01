@@ -1,5 +1,5 @@
 # 🌍 Palau (Palau Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: PLW` • `Para Birimi: USD` • `Başkent: Ngerulmud`
+`Bölge: Okyanusya` • `ISO: PLW` • `Para Birimi: USD` • `Başkent: Ngerulmud`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Palau Cumhuriyeti | **Başkent** | Ngerulmud |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 459 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 459 km² |
 | **Nüfus** | 18,055 | **Para Birimi** | USD |
 | **Resmi Diller** | Palauca, İngilizce | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Surangel Whipps Jr. | **Diplomatik Ekseni** | Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu |

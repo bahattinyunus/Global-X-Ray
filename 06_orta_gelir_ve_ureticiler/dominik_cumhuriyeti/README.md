@@ -1,5 +1,5 @@
 # 🌍 Dominik Cumhuriyeti (Dominik Cumhuriyeti Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: DOM` • `Para Birimi: DOP` • `Başkent: Santo Domingo`
+`Bölge: Amerika Kıtası` • `ISO: DOM` • `Para Birimi: DOP` • `Başkent: Santo Domingo`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Dominik Cumhuriyeti Cumhuriyeti | **Başkent** | Santo Domingo |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 48,670 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 48,670 km² |
 | **Nüfus** | 11,332,972 | **Para Birimi** | DOP |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Luis Abinader | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

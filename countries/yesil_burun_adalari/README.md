@@ -1,5 +1,5 @@
 # 🌍 Yeşil Burun Adaları (Yeşil Burun Adaları) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: CPV` • `Para Birimi: CVE` • `Başkent: Praia`
+`Bölge: Afrika` • `ISO: CPV` • `Para Birimi: CVE` • `Başkent: Praia`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Yeşil Burun Adaları | **Başkent** | Praia |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 4,033 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 4,033 km² |
 | **Nüfus** | 593,149 | **Para Birimi** | CVE |
 | **Resmi Diller** | Portekizce | **Resmi Rejim Biçimi** | Yarı-Başkanlık |
 | **Görünen (De Jure) Lider** | José Maria Neves | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

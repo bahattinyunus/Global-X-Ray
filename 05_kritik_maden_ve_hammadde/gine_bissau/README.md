@@ -1,5 +1,5 @@
 # 🌍 Gine-Bissau (Gine-Bissau) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: GNB` • `Para Birimi: XOF` • `Başkent: Bissau`
+`Bölge: Afrika` • `ISO: GNB` • `Para Birimi: XOF` • `Başkent: Bissau`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Gine-Bissau | **Başkent** | Bissau |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 36,125 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 36,125 km² |
 | **Nüfus** | 2,105,566 | **Para Birimi** | XOF |
 | **Resmi Diller** | Portekizce | **Resmi Rejim Biçimi** | Yarı-Başkanlık |
 | **Görünen (De Jure) Lider** | Umaro Sissoco Embaló | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

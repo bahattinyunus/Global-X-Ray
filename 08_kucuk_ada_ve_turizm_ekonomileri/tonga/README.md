@@ -1,5 +1,5 @@
 # 🌍 Tonga (Tonga) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: TON` • `Para Birimi: TOP` • `Başkent: Nukuʻalofa`
+`Bölge: Okyanusya` • `ISO: TON` • `Para Birimi: TOP` • `Başkent: Nukuʻalofa`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Tonga | **Başkent** | Nukuʻalofa |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 747 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 747 km² |
 | **Nüfus** | 106,858 | **Para Birimi** | TOP |
 | **Resmi Diller** | Tongaca, İngilizce | **Resmi Rejim Biçimi** | Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Kral VI. Tupou / Siaosi Sovaleni | **Diplomatik Ekseni** | Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu |

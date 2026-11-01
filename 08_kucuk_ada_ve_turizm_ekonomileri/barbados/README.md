@@ -1,5 +1,5 @@
 # 🌍 Barbados (Barbados Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: BRB` • `Para Birimi: BBD` • `Başkent: Bridgetown`
+`Bölge: Amerika Kıtası` • `ISO: BRB` • `Para Birimi: BBD` • `Başkent: Bridgetown`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Barbados Cumhuriyeti | **Başkent** | Bridgetown |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 430 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 430 km² |
 | **Nüfus** | 281,635 | **Para Birimi** | BBD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Mia Mottley | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

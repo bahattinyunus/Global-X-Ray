@@ -1,5 +1,5 @@
 # 🌍 Surinam (Surinam Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: SUR` • `Para Birimi: SRD` • `Başkent: Paramaribo`
+`Bölge: Amerika Kıtası` • `ISO: SUR` • `Para Birimi: SRD` • `Başkent: Paramaribo`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Surinam Cumhuriyeti | **Başkent** | Paramaribo |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 163,820 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 163,820 km² |
 | **Nüfus** | 618,040 | **Para Birimi** | SRD |
 | **Resmi Diller** | Felemenkçe | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Chan Santokhi | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

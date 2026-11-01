@@ -1,5 +1,5 @@
 # 🌍 Lüksemburg (Lüksemburg) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: LUX` • `Para Birimi: EUR` • `Başkent: Lüksemburg`
+`Bölge: Avrupa` • `ISO: LUX` • `Para Birimi: EUR` • `Başkent: Lüksemburg`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Lüksemburg | **Başkent** | Lüksemburg |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 2,586 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 2,586 km² |
 | **Nüfus** | 660,809 | **Para Birimi** | EUR |
 | **Resmi Diller** | Lüksemburgca, Fransızca, Almanca | **Resmi Rejim Biçimi** | Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | Luc Frieden | **Diplomatik Ekseni** | Bölgesel Paktlar |

@@ -1,5 +1,5 @@
 # 🌍 Ukrayna (Ukrayna) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: UKR` • `Para Birimi: UAH (Ukrayna Grivnası)` • `Başkent: Kiev`
+`Bölge: Avrupa` • `ISO: UKR` • `Para Birimi: UAH (Ukrayna Grivnası)` • `Başkent: Kiev`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Ukrayna | **Başkent** | Kiev |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 603,500 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 603,500 km² |
 | **Nüfus** | 37,000,000 | **Para Birimi** | UAH (Ukrayna Grivnası) |
 | **Resmi Diller** | Ukraynaca (Resmi), Rusça | **Resmi Rejim Biçimi** | Yarı-Başkanlık Cumhuriyeti (Sıkıyönetim Altında) |
 | **Görünen (De Jure) Lider** | Volodimir Zelenski (Devlet Başkanı) / Denis Şmihal (Başbakan) | **Diplomatik Ekseni** | AB Adayı, NATO Ortaklığı, İngiltere/ABD İkili Güvenlik Paktları. |

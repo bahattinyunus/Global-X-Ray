@@ -1,5 +1,5 @@
 # 🌍 Saint Lucia (Saint Lucia) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: LCA` • `Para Birimi: XCD` • `Başkent: Castries`
+`Bölge: Amerika Kıtası` • `ISO: LCA` • `Para Birimi: XCD` • `Başkent: Castries`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Saint Lucia | **Başkent** | Castries |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 616 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 616 km² |
 | **Nüfus** | 180,251 | **Para Birimi** | XCD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | Philip J. Pierre | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

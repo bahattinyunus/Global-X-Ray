@@ -1,5 +1,5 @@
 # 🌍 Romanya (Romanya) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: ROU` • `Para Birimi: RON` • `Başkent: Bükreş`
+`Bölge: Avrupa` • `ISO: ROU` • `Para Birimi: RON` • `Başkent: Bükreş`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Romanya | **Başkent** | Bükreş |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 238,397 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 238,397 km² |
 | **Nüfus** | 19,051,562 | **Para Birimi** | RON |
 | **Resmi Diller** | Rumence | **Resmi Rejim Biçimi** | Yarı-Başkanlık |
 | **Görünen (De Jure) Lider** | Marcel Ciolacu | **Diplomatik Ekseni** | Bölgesel Paktlar |

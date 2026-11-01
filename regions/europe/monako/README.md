@@ -1,5 +1,5 @@
 # 🌍 Monako (Monako) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: MCO` • `Para Birimi: EUR` • `Başkent: Monako`
+`Bölge: Avrupa` • `ISO: MCO` • `Para Birimi: EUR` • `Başkent: Monako`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Monako | **Başkent** | Monako |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 2 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 2 km² |
 | **Nüfus** | 39,050 | **Para Birimi** | EUR |
 | **Resmi Diller** | Fransızca | **Resmi Rejim Biçimi** | Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Prens II. Albert | **Diplomatik Ekseni** | Bölgesel Paktlar |

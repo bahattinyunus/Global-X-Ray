@@ -1,5 +1,5 @@
 # 🌍 Antigua ve Barbuda (Antigua ve Barbuda) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: ATG` • `Para Birimi: XCD` • `Başkent: Saint John's`
+`Bölge: Amerika Kıtası` • `ISO: ATG` • `Para Birimi: XCD` • `Başkent: Saint John's`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Antigua ve Barbuda | **Başkent** | Saint John's |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 442 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 442 km² |
 | **Nüfus** | 93,763 | **Para Birimi** | XCD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | Gaston Browne | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

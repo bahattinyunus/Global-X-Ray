@@ -1,5 +1,5 @@
 # 🌍 Güney Kore (Kore Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: KOR` • `Para Birimi: KRW (Güney Kore Wonu)` • `Başkent: Seul`
+`Bölge: Asya & Hint-Pasifik` • `ISO: KOR` • `Para Birimi: KRW (Güney Kore Wonu)` • `Başkent: Seul`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kore Cumhuriyeti | **Başkent** | Seul |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 100,210 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 100,210 km² |
 | **Nüfus** | 51,784,059 | **Para Birimi** | KRW (Güney Kore Wonu) |
 | **Resmi Diller** | Korece (Resmi) | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Yoon Suk-yeol (Devlet Başkanı) / Han Duck-soo (Başbakan) | **Diplomatik Ekseni** | ABD ile Karşılıklı Savunma Antlaşması (28.500 ABD askeri), OECD, G20. |

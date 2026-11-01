@@ -1,5 +1,5 @@
 # 🌍 Sao Tome ve Principe (Sao Tome ve Principe) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: STP` • `Para Birimi: STN` • `Başkent: Sao Tome`
+`Bölge: Afrika` • `ISO: STP` • `Para Birimi: STN` • `Başkent: Sao Tome`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Sao Tome ve Principe | **Başkent** | Sao Tome |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 964 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 964 km² |
 | **Nüfus** | 227,380 | **Para Birimi** | STN |
 | **Resmi Diller** | Portekizce | **Resmi Rejim Biçimi** | Yarı-Başkanlık |
 | **Görünen (De Jure) Lider** | Patrice Trovoada | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

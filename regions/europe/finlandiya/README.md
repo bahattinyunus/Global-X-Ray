@@ -1,5 +1,5 @@
 # 🌍 Finlandiya (Finlandiya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: FIN` • `Para Birimi: EUR` • `Başkent: Helsinki`
+`Bölge: Avrupa` • `ISO: FIN` • `Para Birimi: EUR` • `Başkent: Helsinki`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Finlandiya Cumhuriyeti | **Başkent** | Helsinki |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 338,424 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 338,424 km² |
 | **Nüfus** | 5,563,970 | **Para Birimi** | EUR |
 | **Resmi Diller** | Fince, İsveççe | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Petteri Orpo | **Diplomatik Ekseni** | Bölgesel Paktlar |

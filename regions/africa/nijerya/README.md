@@ -1,5 +1,5 @@
 # 🌍 Nijerya (Nijerya Federal Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: NGA` • `Para Birimi: NGN (Nijerya Nairası)` • `Başkent: Abuja`
+`Bölge: Afrika` • `ISO: NGA` • `Para Birimi: NGN (Nijerya Nairası)` • `Başkent: Abuja`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Nijerya Federal Cumhuriyeti | **Başkent** | Abuja |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 923,768 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 923,768 km² |
 | **Nüfus** | 223,804,632 | **Para Birimi** | NGN (Nijerya Nairası) |
 | **Resmi Diller** | İngilizce (Resmi), Hausa, Yoruba, İgbo ve 500+ yerel dil | **Resmi Rejim Biçimi** | Federal Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Bola Ahmed Tinubu (Devlet Başkanı) - APC Partisi | **Diplomatik Ekseni** | Afrika Birliği, ECOWAS, OPEC, İngiliz Milletler Topluluğu. |

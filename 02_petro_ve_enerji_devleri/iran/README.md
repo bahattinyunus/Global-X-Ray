@@ -1,5 +1,5 @@
 # 🌍 İran (İran İslam Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: IRN` • `Para Birimi: IRR (İran Riyali)` • `Başkent: Tahran`
+`Bölge: Orta Doğu` • `ISO: IRN` • `Para Birimi: IRR (İran Riyali)` • `Başkent: Tahran`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | İran İslam Cumhuriyeti | **Başkent** | Tahran |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 1,648,195 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 1,648,195 km² |
 | **Nüfus** | 88,550,570 | **Para Birimi** | IRR (İran Riyali) |
 | **Resmi Diller** | Farsça (Resmi), Azerice, Kürtçe, Lurca, Arapça, Beluçça | **Resmi Rejim Biçimi** | Teokratik İslami Cumhuriyet (Velayet-i Fakih) |
 | **Görünen (De Jure) Lider** | Ali Hamaney (Dini Lider) / Mesud Pezeşkiyan (Cumhurbaşkanı) | **Diplomatik Ekseni** | Şanghay İşbirliği Örgütü (ŞİÖ), BRICS, Direniş Ekseni (Hizbullah, Husiler, Haşdi Şabi). |

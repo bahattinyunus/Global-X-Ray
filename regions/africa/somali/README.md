@@ -1,5 +1,5 @@
 # 🌍 Somali (Somali) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: SOM` • `Para Birimi: SOS` • `Başkent: Mogadişu`
+`Bölge: Afrika` • `ISO: SOM` • `Para Birimi: SOS` • `Başkent: Mogadişu`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Somali | **Başkent** | Mogadişu |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 637,657 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 637,657 km² |
 | **Nüfus** | 17,597,511 | **Para Birimi** | SOS |
 | **Resmi Diller** | Somalice, Arapça | **Resmi Rejim Biçimi** | Federal Parlamenter (Kırılgan Devlet) |
 | **Görünen (De Jure) Lider** | Hasan Şeyh Mahmud | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

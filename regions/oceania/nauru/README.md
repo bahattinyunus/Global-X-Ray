@@ -1,5 +1,5 @@
 # 🌍 Nauru (Nauru Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Oceania` • `ISO: NRU` • `Para Birimi: AUD` • `Başkent: Yaren`
+`Bölge: Okyanusya` • `ISO: NRU` • `Para Birimi: AUD` • `Başkent: Yaren`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Nauru Cumhuriyeti | **Başkent** | Yaren |
-| **Coğrafi Bölge** | Oceania | **Yüzölçümü** | 21 km² |
+| **Coğrafi Bölge** | Okyanusya | **Yüzölçümü** | 21 km² |
 | **Nüfus** | 12,511 | **Para Birimi** | AUD |
 | **Resmi Diller** | Nauruca, İngilizce | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | David Adeang | **Diplomatik Ekseni** | Pasifik Adaları Forumu (PIF) / İngiliz Milletler Topluluğu |

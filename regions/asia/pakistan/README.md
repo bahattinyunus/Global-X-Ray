@@ -1,5 +1,5 @@
 # 🌍 Pakistan (Pakistan İslam Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: PAK` • `Para Birimi: PKR (Pakistan Rupisi)` • `Başkent: İslamabad`
+`Bölge: Asya & Hint-Pasifik` • `ISO: PAK` • `Para Birimi: PKR (Pakistan Rupisi)` • `Başkent: İslamabad`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Pakistan İslam Cumhuriyeti | **Başkent** | İslamabad |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 881,912 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 881,912 km² |
 | **Nüfus** | 240,485,658 | **Para Birimi** | PKR (Pakistan Rupisi) |
 | **Resmi Diller** | Urduca ve İngilizce (Resmi), Pencapça, Peştuca, Sindhi, Beluçça | **Resmi Rejim Biçimi** | Federal Parlamenter Cumhuriyet (Fiili Ordu Vesayeti) |
 | **Görünen (De Jure) Lider** | Şahbaz Şerif (Başbakan) / Asıf Ali Zerdari (Cumhurbaşkanı) | **Diplomatik Ekseni** | Çin ile 'Demir Kardeşlik' İttifakı, ŞİÖ, İslam İşbirliği Teşkilatı, ABD NATO Dışı Baş Müttefiki. |

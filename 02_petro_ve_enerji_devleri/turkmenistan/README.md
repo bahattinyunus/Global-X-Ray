@@ -1,5 +1,5 @@
 # 🌍 Türkmenistan (Türkmenistan) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: TKM` • `Para Birimi: TMT` • `Başkent: Aşkabat`
+`Bölge: Asya & Hint-Pasifik` • `ISO: TKM` • `Para Birimi: TMT` • `Başkent: Aşkabat`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Türkmenistan | **Başkent** | Aşkabat |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 488,100 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 488,100 km² |
 | **Nüfus** | 6,430,770 | **Para Birimi** | TMT |
 | **Resmi Diller** | Türkmence | **Resmi Rejim Biçimi** | Totaliter Hanedan Diktatörlüğü |
 | **Görünen (De Jure) Lider** | Serdar Berdimuhammedov / Gurbangulu Berdimuhammedov | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

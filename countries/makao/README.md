@@ -1,5 +1,5 @@
 # 🌍 Makao (Makao) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: MAC` • `Para Birimi: MOP` • `Başkent: Makao`
+`Bölge: Asya & Hint-Pasifik` • `ISO: MAC` • `Para Birimi: MOP` • `Başkent: Makao`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Makao | **Başkent** | Makao |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 115 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 115 km² |
 | **Nüfus** | 686,607 | **Para Birimi** | MOP |
 | **Resmi Diller** | Çince, Portekizce | **Resmi Rejim Biçimi** | Özel İdari Bölge (Çin Vesayeti) |
 | **Görünen (De Jure) Lider** | Ho Iat Seng | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

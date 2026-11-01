@@ -1,5 +1,5 @@
 # 🌍 İsveç (İsveç) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: SWE` • `Para Birimi: SEK` • `Başkent: Stockholm`
+`Bölge: Avrupa` • `ISO: SWE` • `Para Birimi: SEK` • `Başkent: Stockholm`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | İsveç | **Başkent** | Stockholm |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 450,295 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 450,295 km² |
 | **Nüfus** | 10,521,556 | **Para Birimi** | SEK |
 | **Resmi Diller** | İsveççe | **Resmi Rejim Biçimi** | Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Ulf Kristersson | **Diplomatik Ekseni** | Bölgesel Paktlar |

@@ -1,5 +1,5 @@
 # 🌍 Katar (Katar Devleti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Middle East` • `ISO: QAT` • `Para Birimi: QAR (Katar Riyali)` • `Başkent: Doha`
+`Bölge: Orta Doğu` • `ISO: QAT` • `Para Birimi: QAR (Katar Riyali)` • `Başkent: Doha`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Katar Devleti | **Başkent** | Doha |
-| **Coğrafi Bölge** | Middle East | **Yüzölçümü** | 11,586 km² |
+| **Coğrafi Bölge** | Orta Doğu | **Yüzölçümü** | 11,586 km² |
 | **Nüfus** | 2,979,206 | **Para Birimi** | QAR (Katar Riyali) |
 | **Resmi Diller** | Arapça (Resmi), İngilizce | **Resmi Rejim Biçimi** | Mutlak Monarşi (El Sani Hanedanı) |
 | **Görünen (De Jure) Lider** | Şeyh Temim bin Hamad el-Sani (Emir) / Şeyh Muhammed bin Abdurrahman (Başbakan) | **Diplomatik Ekseni** | KİK, Arap Birliği, OPEC dışı LNG forumu, ABD'nin NATO Dışı Baş Müttefiki statüsü. |

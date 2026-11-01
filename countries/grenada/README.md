@@ -1,5 +1,5 @@
 # 🌍 Grenada (Grenada) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: GRD` • `Para Birimi: XCD` • `Başkent: Saint George's`
+`Bölge: Amerika Kıtası` • `ISO: GRD` • `Para Birimi: XCD` • `Başkent: Saint George's`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Grenada | **Başkent** | Saint George's |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 344 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 344 km² |
 | **Nüfus** | 125,438 | **Para Birimi** | XCD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Parlamenter Monarşi |
 | **Görünen (De Jure) Lider** | Dickon Mitchell | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

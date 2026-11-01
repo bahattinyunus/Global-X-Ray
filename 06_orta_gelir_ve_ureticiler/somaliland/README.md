@@ -1,5 +1,5 @@
 # 🌍 Somaliland (Somaliland Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: SOMX` • `Para Birimi: SLSH` • `Başkent: Hargeisa`
+`Bölge: Afrika` • `ISO: SOMX` • `Para Birimi: SLSH` • `Başkent: Hargeisa`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Somaliland Cumhuriyeti | **Başkent** | Hargeisa |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 176,120 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 176,120 km² |
 | **Nüfus** | 5,700,000 | **Para Birimi** | SLSH |
 | **Resmi Diller** | Somalice, Arapça | **Resmi Rejim Biçimi** | Tanınmayan Fiili De Facto Cumhuriyet |
 | **Görünen (De Jure) Lider** | Muse Bihi Abdi | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

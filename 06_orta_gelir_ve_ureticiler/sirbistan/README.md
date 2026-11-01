@@ -1,5 +1,5 @@
 # 🌍 Sırbistan (Sırbistan) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: SRB` • `Para Birimi: RSD` • `Başkent: Belgrad`
+`Bölge: Avrupa` • `ISO: SRB` • `Para Birimi: RSD` • `Başkent: Belgrad`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Sırbistan | **Başkent** | Belgrad |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 88,361 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 88,361 km² |
 | **Nüfus** | 6,647,003 | **Para Birimi** | RSD |
 | **Resmi Diller** | Sırpça | **Resmi Rejim Biçimi** | Parlamenter (Otoriter Rejim) |
 | **Görünen (De Jure) Lider** | Aleksandar Vučić | **Diplomatik Ekseni** | AB / NATO / Avrupa Konseyi |

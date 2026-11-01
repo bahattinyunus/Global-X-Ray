@@ -1,5 +1,5 @@
 # 🌍 Trinidad ve Tobago (Trinidad ve Tobago Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: TTO` • `Para Birimi: TTD` • `Başkent: Port of Spain`
+`Bölge: Amerika Kıtası` • `ISO: TTO` • `Para Birimi: TTD` • `Başkent: Port of Spain`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Trinidad ve Tobago Cumhuriyeti | **Başkent** | Port of Spain |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 5,130 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 5,130 km² |
 | **Nüfus** | 1,531,044 | **Para Birimi** | TTD |
 | **Resmi Diller** | İngilizce | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Keith Rowley | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

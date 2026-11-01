@@ -1,5 +1,5 @@
 # 🌍 Etiyopya (Etiyopya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: ETH` • `Para Birimi: ETB` • `Başkent: Addis Ababa`
+`Bölge: Afrika` • `ISO: ETH` • `Para Birimi: ETB` • `Başkent: Addis Ababa`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Etiyopya Cumhuriyeti | **Başkent** | Addis Ababa |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 1,104,300 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 1,104,300 km² |
 | **Nüfus** | 123,379,924 | **Para Birimi** | ETB |
 | **Resmi Diller** | Amharca, Oromca | **Resmi Rejim Biçimi** | Federal Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Abiy Ahmed | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

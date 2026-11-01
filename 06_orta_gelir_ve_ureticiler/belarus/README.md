@@ -1,5 +1,5 @@
 # 🌍 Belarus (Belarus) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: BLR` • `Para Birimi: BYN` • `Başkent: Minsk`
+`Bölge: Avrupa` • `ISO: BLR` • `Para Birimi: BYN` • `Başkent: Minsk`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Belarus | **Başkent** | Minsk |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 207,600 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 207,600 km² |
 | **Nüfus** | 9,200,617 | **Para Birimi** | BYN |
 | **Resmi Diller** | Belarusça, Rusça | **Resmi Rejim Biçimi** | Otoriter Başkanlık Diktatörlüğü |
 | **Görünen (De Jure) Lider** | Aleksandr Lukaşenko | **Diplomatik Ekseni** | Bölgesel Paktlar |

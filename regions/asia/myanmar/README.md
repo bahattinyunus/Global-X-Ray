@@ -1,5 +1,5 @@
 # 🌍 Myanmar (Myanmar) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: MMR` • `Para Birimi: MMK` • `Başkent: Naypyidaw`
+`Bölge: Asya & Hint-Pasifik` • `ISO: MMR` • `Para Birimi: MMK` • `Başkent: Naypyidaw`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Myanmar | **Başkent** | Naypyidaw |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 676,578 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 676,578 km² |
 | **Nüfus** | 54,179,306 | **Para Birimi** | MMK |
 | **Resmi Diller** | Birmanca | **Resmi Rejim Biçimi** | Askeri Cunta (Tatmadaw) |
 | **Görünen (De Jure) Lider** | Min Aung Hlaing | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

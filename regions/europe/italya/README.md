@@ -1,5 +1,5 @@
 # 🌍 İtalya (İtalya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: ITA` • `Para Birimi: EUR (Euro)` • `Başkent: Roma`
+`Bölge: Avrupa` • `ISO: ITA` • `Para Birimi: EUR (Euro)` • `Başkent: Roma`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | İtalya Cumhuriyeti | **Başkent** | Roma |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 301,340 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 301,340 km² |
 | **Nüfus** | 58,850,717 | **Para Birimi** | EUR (Euro) |
 | **Resmi Diller** | İtalyanca (Resmi) | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Giorgia Meloni (Başbakan) / Sergio Mattarella (Cumhurbaşkanı) | **Diplomatik Ekseni** | AB, NATO, G7, G20. |

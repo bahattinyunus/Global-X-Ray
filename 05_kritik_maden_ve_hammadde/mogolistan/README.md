@@ -1,5 +1,5 @@
 # 🌍 Moğolistan (Moğolistan Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: MNG` • `Para Birimi: MNT` • `Başkent: Ulanbatur`
+`Bölge: Asya & Hint-Pasifik` • `ISO: MNG` • `Para Birimi: MNT` • `Başkent: Ulanbatur`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Moğolistan Cumhuriyeti | **Başkent** | Ulanbatur |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 1,564,116 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 1,564,116 km² |
 | **Nüfus** | 3,447,157 | **Para Birimi** | MNT |
 | **Resmi Diller** | Moğolca | **Resmi Rejim Biçimi** | Yarı-Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Luvsannamsrain Oyun-Erdene | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

@@ -1,5 +1,5 @@
 # 🌍 Venezuela (Venezuela) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: VEN` • `Para Birimi: VES` • `Başkent: Karakas`
+`Bölge: Amerika Kıtası` • `ISO: VEN` • `Para Birimi: VES` • `Başkent: Karakas`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Venezuela | **Başkent** | Karakas |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 916,445 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 916,445 km² |
 | **Nüfus** | 28,838,499 | **Para Birimi** | VES |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Başkanlık Otoriter Kleptokrasisi |
 | **Görünen (De Jure) Lider** | Nicolás Maduro | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

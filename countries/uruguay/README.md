@@ -1,5 +1,5 @@
 # 🌍 Uruguay (Uruguay Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: URY` • `Para Birimi: UYU` • `Başkent: Montevideo`
+`Bölge: Amerika Kıtası` • `ISO: URY` • `Para Birimi: UYU` • `Başkent: Montevideo`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Uruguay Cumhuriyeti | **Başkent** | Montevideo |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 176,215 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 176,215 km² |
 | **Nüfus** | 3,422,794 | **Para Birimi** | UYU |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Luis Lacalle Pou | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

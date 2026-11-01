@@ -1,5 +1,5 @@
 # 🌍 Komorlar (Komorlar Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: COM` • `Para Birimi: KMF` • `Başkent: Moroni`
+`Bölge: Afrika` • `ISO: COM` • `Para Birimi: KMF` • `Başkent: Moroni`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Komorlar Cumhuriyeti | **Başkent** | Moroni |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 2,235 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 2,235 km² |
 | **Nüfus** | 836,774 | **Para Birimi** | KMF |
 | **Resmi Diller** | Komorca, Arapça, Fransızca | **Resmi Rejim Biçimi** | Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Azali Assoumani | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

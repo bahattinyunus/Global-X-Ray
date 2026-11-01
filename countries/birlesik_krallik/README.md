@@ -1,5 +1,5 @@
 # 🌍 Birleşik Krallık (Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: GBR` • `Para Birimi: GBP (İngiliz Sterlini)` • `Başkent: Londra`
+`Bölge: Avrupa` • `ISO: GBR` • `Para Birimi: GBP (İngiliz Sterlini)` • `Başkent: Londra`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı | **Başkent** | Londra |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 242,495 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 242,495 km² |
 | **Nüfus** | 67,736,802 | **Para Birimi** | GBP (İngiliz Sterlini) |
 | **Resmi Diller** | İngilizce (Resmi), Galce, İskoçça | **Resmi Rejim Biçimi** | Parlamenter Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Kral III. Charles / Keir Starmer (Başbakan) | **Diplomatik Ekseni** | NATO (Kurucu), BM Güvenlik Konseyi Daimi Üyesi, G7, Five Eyes İstihbarat Paktı, AUKUS, İngiliz Milletler Topluluğu. |

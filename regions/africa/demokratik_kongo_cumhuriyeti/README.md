@@ -1,5 +1,5 @@
 # 🌍 Demokratik Kongo Cumhuriyeti (Demokratik Kongo Cumhuriyeti Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: COD` • `Para Birimi: CDF` • `Başkent: Kinşasa`
+`Bölge: Afrika` • `ISO: COD` • `Para Birimi: CDF` • `Başkent: Kinşasa`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Demokratik Kongo Cumhuriyeti Cumhuriyeti | **Başkent** | Kinşasa |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 2,344,858 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 2,344,858 km² |
 | **Nüfus** | 99,010,212 | **Para Birimi** | CDF |
 | **Resmi Diller** | Fransızca, Lingala, Svahili | **Resmi Rejim Biçimi** | Yarı-Başkanlık Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Félix Tshisekedi | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

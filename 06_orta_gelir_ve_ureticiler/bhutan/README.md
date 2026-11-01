@@ -1,5 +1,5 @@
 # 🌍 Bhutan (Bhutan) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Asia` • `ISO: BTN` • `Para Birimi: BTN` • `Başkent: Thimphu`
+`Bölge: Asya & Hint-Pasifik` • `ISO: BTN` • `Para Birimi: BTN` • `Başkent: Thimphu`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Bhutan | **Başkent** | Thimphu |
-| **Coğrafi Bölge** | Asia | **Yüzölçümü** | 38,394 km² |
+| **Coğrafi Bölge** | Asya & Hint-Pasifik | **Yüzölçümü** | 38,394 km² |
 | **Nüfus** | 782,455 | **Para Birimi** | BTN |
 | **Resmi Diller** | Dzongka | **Resmi Rejim Biçimi** | Anayasal Monarşi |
 | **Görünen (De Jure) Lider** | Jigme Khesar Namgyel Wangchuck | **Diplomatik Ekseni** | ASEAN / ŞİÖ / Bölgesel Paktlar |

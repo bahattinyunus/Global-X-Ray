@@ -1,5 +1,5 @@
 # 🌍 Küba (Küba Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Americas` • `ISO: CUB` • `Para Birimi: CUP` • `Başkent: Havana`
+`Bölge: Amerika Kıtası` • `ISO: CUB` • `Para Birimi: CUP` • `Başkent: Havana`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Küba Cumhuriyeti | **Başkent** | Havana |
-| **Coğrafi Bölge** | Americas | **Yüzölçümü** | 109,884 km² |
+| **Coğrafi Bölge** | Amerika Kıtası | **Yüzölçümü** | 109,884 km² |
 | **Nüfus** | 11,194,449 | **Para Birimi** | CUP |
 | **Resmi Diller** | İspanyolca | **Resmi Rejim Biçimi** | Tek Parti Sosyalist Cumhuriyeti |
 | **Görünen (De Jure) Lider** | Miguel Díaz-Canel | **Diplomatik Ekseni** | OAS / CELAC / Mercosur / Caricom |

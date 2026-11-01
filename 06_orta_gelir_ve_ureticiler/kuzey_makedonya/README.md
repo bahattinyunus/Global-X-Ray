@@ -1,5 +1,5 @@
 # 🌍 Kuzey Makedonya (Kuzey Makedonya Cumhuriyeti) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Europe` • `ISO: MKD` • `Para Birimi: MKD` • `Başkent: Üsküp`
+`Bölge: Avrupa` • `ISO: MKD` • `Para Birimi: MKD` • `Başkent: Üsküp`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Kuzey Makedonya Cumhuriyeti | **Başkent** | Üsküp |
-| **Coğrafi Bölge** | Europe | **Yüzölçümü** | 25,713 km² |
+| **Coğrafi Bölge** | Avrupa | **Yüzölçümü** | 25,713 km² |
 | **Nüfus** | 1,836,713 | **Para Birimi** | MKD |
 | **Resmi Diller** | Makedonca, Arnavutça | **Resmi Rejim Biçimi** | Parlamenter Cumhuriyet |
 | **Görünen (De Jure) Lider** | Hristijan Mickoski | **Diplomatik Ekseni** | AB / NATO / Avrupa Konseyi |

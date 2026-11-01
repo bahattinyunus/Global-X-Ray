@@ -1,5 +1,5 @@
 # 🌍 Zimbabve (Zimbabve) - Küresel Röntgen İstihbarat Dosyası
-`Bölge: Africa` • `ISO: ZWE` • `Para Birimi: ZWG` • `Başkent: Harare`
+`Bölge: Afrika` • `ISO: ZWE` • `Para Birimi: ZWG` • `Başkent: Harare`
 
 ---
 
@@ -9,7 +9,7 @@
 | Parametre | Değer | Parametre | Değer |
 | :--- | :--- | :--- | :--- |
 | **Resmi Adı** | Zimbabve | **Başkent** | Harare |
-| **Coğrafi Bölge** | Africa | **Yüzölçümü** | 390,757 km² |
+| **Coğrafi Bölge** | Afrika | **Yüzölçümü** | 390,757 km² |
 | **Nüfus** | 16,320,537 | **Para Birimi** | ZWG |
 | **Resmi Diller** | 16 Resmi Dil (İngilizce, Shona, Ndebele) | **Resmi Rejim Biçimi** | ZANU-PF Hibrit Otoriterliği |
 | **Görünen (De Jure) Lider** | Emmerson Mnangagwa | **Diplomatik Ekseni** | Afrika Birliği / ECOWAS / SADC |

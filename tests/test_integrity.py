@@ -369,7 +369,7 @@ class TestMedeniyetAtlasiIntegrity(unittest.TestCase):
             self.assertGreater(readme_path.stat().st_size, 300, f"{d}/README.md içeriği yetersiz veya boş!")
 
     def test_artwork_images_integrity(self):
-        """assets/images/ altındaki 13 kritik görselin varlığı ve boyutu test edilir."""
+        """assets/images/ altındaki 17 kritik görselin varlığı ve boyutu test edilir."""
         images_dir = BASE_DIR / "assets" / "images"
         self.assertTrue(images_dir.exists(), "assets/images dizini bulunamadı!")
         expected_images = [
@@ -385,12 +385,69 @@ class TestMedeniyetAtlasiIntegrity(unittest.TestCase):
             "nuclear_triad_strategic_deterrence.jpg",
             "geopolitical_chokepoints.jpg",
             "offshore_kleptocracy_network.jpg",
-            "cognitive_warfare_surveillance.jpg"
+            "cognitive_warfare_surveillance.jpg",
+            "global_music_instruments_sonic_heritage.jpg",
+            "world_festivals_and_sacred_rituals.jpg",
+            "critical_raw_materials_semiconductors.jpg",
+            "global_defense_alliances_security.jpg"
         ]
         for img in expected_images:
             img_path = images_dir / img
             self.assertTrue(img_path.exists(), f"Eksik görsel: assets/images/{img}")
             self.assertGreater(img_path.stat().st_size, 50000, f"Görsel boyutu çok küçük: {img}")
+
+    def test_readme_all_artwork_images_referenced(self):
+        """README.md dosyasında 17 eserin tamamının referans verildiği doğrulanır."""
+        readme_path = BASE_DIR / "README.md"
+        self.assertTrue(readme_path.exists(), "README.md bulunamadı!")
+        readme_text = readme_path.read_text(encoding="utf-8")
+        
+        expected_images = [
+            "hero_banner.jpg",
+            "4_layer_power_architecture.jpg",
+            "world_civilizations_cultural_realms.jpg",
+            "untranslatable_soul_concepts_wisdom.jpg",
+            "global_gastronomy_table_rituals.jpg",
+            "global_folklore_mythology_epics.jpg",
+            "world_sacred_architecture_monuments.jpg",
+            "intercultural_etiquette_and_greeting_rituals.jpg",
+            "subsea_cables_and_cyber_sigint_nexus.jpg",
+            "nuclear_triad_strategic_deterrence.jpg",
+            "geopolitical_chokepoints.jpg",
+            "offshore_kleptocracy_network.jpg",
+            "cognitive_warfare_surveillance.jpg",
+            "global_music_instruments_sonic_heritage.jpg",
+            "world_festivals_and_sacred_rituals.jpg",
+            "critical_raw_materials_semiconductors.jpg",
+            "global_defense_alliances_security.jpg"
+        ]
+        for img in expected_images:
+            self.assertIn(f"assets/images/{img}", readme_text, f"README.md içinde {img} referansı eksik!")
+
+    def test_xray_cli_capabilities(self):
+        """xray_cli.py modülünün ve yeni yeteneklerinin (rank, export, stats, json) doğrulanması."""
+        import subprocess
+        
+        # 1. stats --json
+        res_stats = subprocess.run(["python", str(BASE_DIR / "scripts" / "xray_cli.py"), "stats", "--json"], capture_output=True, encoding="utf-8")
+        self.assertEqual(res_stats.returncode, 0, f"CLI stats başarısız: {res_stats.stderr}")
+        stats_obj = json.loads(res_stats.stdout)
+        self.assertEqual(stats_obj["country_count"], 205)
+        self.assertEqual(stats_obj["artwork_images_count"], 17)
+
+        # 2. rank gdp 5 --json
+        res_rank = subprocess.run(["python", str(BASE_DIR / "scripts" / "xray_cli.py"), "rank", "gdp", "5", "--json"], capture_output=True, encoding="utf-8")
+        self.assertEqual(res_rank.returncode, 0, f"CLI rank başarısız: {res_rank.stderr}")
+        rank_arr = json.loads(res_rank.stdout)
+        self.assertEqual(len(rank_arr), 5)
+        self.assertEqual(rank_arr[0]["code"], "USA")
+
+        # 3. export turkiye --format json
+        res_exp = subprocess.run(["python", str(BASE_DIR / "scripts" / "xray_cli.py"), "export", "turkiye", "--format", "json"], capture_output=True, encoding="utf-8")
+        self.assertEqual(res_exp.returncode, 0, f"CLI export başarısız: {res_exp.stderr}")
+        exp_obj = json.loads(res_exp.stdout)
+        self.assertEqual(exp_obj["metadata"]["code"], "TUR")
+        self.assertIn("cultural_dna", exp_obj)
 
     def test_case_studies_and_research_counts(self):
         """dossiers/ ve research/ altındaki dosyaların asgari sayıları doğrulanır."""

@@ -1,5 +1,9 @@
 # 🎵 Dünya Müzik Mirası, Geleneksel Çalgılar ve Ses Haritası Külliyatı
 
+<p align="center">
+  <img src="../assets/images/global_music_instruments_sonic_heritage.jpg" alt="Dünya Müzik Mirası, Geleneksel Çalgılar ve Ses Haritası" width="100%">
+</p>
+
 > *"Müzik, kelimelerin bittiği yerde başlayan evrensel dildir. Bir milletin kederini, coşkusunu, aşkını ve Tanrı ile kurduğu manevi bağı anlamak için telli, nefesli ve vurmalı çalgılarına kulak vermeniz kafidir."*
 
 Dünya medeniyetleri, binlerce yıl boyunca varoluşsal tecrübelerini ses titreşimleriyle ebedileştirmiştir. Bozkırın rüzgarını taklit eden kopuzdan Zen tapınaklarındaki nefes meditasyonu shakuhachiye; Afrika'nın yaşayan kütüphanesi koradan Kelt yaylalarının gaydasına kadar bu dosya, insanlığın somut olmayan işitsel mirasının atlasıdır.

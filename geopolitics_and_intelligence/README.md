@@ -1,5 +1,9 @@
 # 🌐 Medeniyet Atlası: Jeopolitik Güç, Savunma ve İstihbarat Külliyatı (/geopolitics_and_intelligence)
 
+<p align="center">
+  <img src="../assets/images/nuclear_triad_strategic_deterrence.jpg" alt="Stratejik Nükleer Triad ve Savunma Gücü Mimarisi" width="100%">
+</p>
+
 Bu dizin, egemen devletlerin kültürel kimliklerinin arkasında işleyen **askeri, nükleer, istihbari, siber ve jeoekonomik güç mimarisini** adli bilişim ve OSINT disipliniyle belgeleyen stratejik araştırma dosyalarını içerir.
 
 ---

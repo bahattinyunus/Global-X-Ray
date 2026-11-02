@@ -1,5 +1,9 @@
 # 🛡️ Savunma Paktları, Askeri İttifaklar ve Güvenlik Mimarisi
 
+<p align="center">
+  <img src="../assets/images/global_defense_alliances_security.jpg" alt="Küresel Savunma Paktları, Askeri İttifaklar ve Güvenlik Mimarisi" width="100%">
+</p>
+
 Devletlerin sınır güvenliğini ve ortak savunma doktrinini belirleyen çok taraflı ve ikili askeri paktlar:
 
 | Pakt Kodu | İttifak Tam Adı | Kuruluş | Kapsam | Temel Tetikleyici Karşılıklı Yardım Maddesi | Askeri Bütçe |

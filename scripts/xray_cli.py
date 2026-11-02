@@ -31,6 +31,9 @@ Kullanım:
   python scripts/xray_cli.py research [konu]
   python scripts/xray_cli.py cases
   python scripts/xray_cli.py list [bolge]
+  python scripts/xray_cli.py rank [olcut] [limit] (guc ve kirilganlik siralamasi: csfi, gdp, shadow, percapita)
+  python scripts/xray_cli.py export <ulke_adi> [--format md|json] [--out dosya_adi]
+  python scripts/xray_cli.py <komut> --json (makine tarafindan okunabilir JSON ciktisi)
   python scripts/xray_cli.py stats
   python scripts/xray_cli.py interactive (canlı interaktif sorgu kabuğu)
 """
@@ -65,6 +68,8 @@ ARMSTRADE_PATH = BASE_DIR / "global_datasets" / "global_arms_trade_and_contracto
 CULTURE_PATH = BASE_DIR / "global_datasets" / "cultural_codes_and_civilizations_registry.json"
 DOSSIERS_DIR = BASE_DIR / "dossiers"
 RESEARCH_DIR = BASE_DIR / "research"
+
+OUTPUT_JSON = False
 
 def load_registry():
     with open(REGISTRY_PATH, "r", encoding="utf-8") as f:
@@ -105,6 +110,28 @@ def show_country(query: str):
     macro_path = c_dir / "03_official_economy" / "macroeconomics.json"
     shadow_path = c_dir / "04_shadow_power_osint" / "real_power_dynamics.md"
     oligarch_path = c_dir / "04_shadow_power_osint" / "oligarch_network.csv"
+
+    if OUTPUT_JSON:
+        c_dna = None
+        if CULTURE_PATH.exists():
+            with open(CULTURE_PATH, "r", encoding="utf-8") as f:
+                c_dna_list = json.load(f).get("countries_cultural_dna", [])
+            c_dna = next((x for x in c_dna_list if x.get("code") == c["code"] or x.get("country").lower() == c["name"].lower()), None)
+        m = {}
+        if macro_path.exists():
+            with open(macro_path, "r", encoding="utf-8") as f:
+                m = json.load(f)
+        oligarchs_data = []
+        if oligarch_path.exists():
+            with open(oligarch_path, "r", encoding="utf-8") as f:
+                oligarchs_data = list(csv.DictReader(f))
+        print(json.dumps({
+            "country": c,
+            "cultural_dna": c_dna,
+            "macroeconomics": m,
+            "oligarchs": oligarchs_data
+        }, ensure_ascii=False, indent=2))
+        return
 
     print("=" * 80)
     print(f"🏛️ MEDENİYET ATLASI RAPORU: {c['name'].upper()} ({c['code']})")
@@ -813,20 +840,231 @@ def compare_culture(q1: str, q2: str):
     print(f"  [{dna2['country']}]: {dna2['social_taboos_and_etiquette']}")
     print("=" * 90)
 
+
+def show_rank(query=None, limit=20, sort_by="csfi"):
+    matrix_data = load_matrix()
+    if not matrix_data:
+        print("[-] Power matrix verisi yüklenemedi.")
+        return
+
+    filtered = list(matrix_data)
+    if query:
+        q = query.lower().strip()
+        if q in ["gdp", "gsyh"]:
+            sort_by = "gdp"
+        elif q in ["shadow", "golge"]:
+            sort_by = "shadow"
+        elif q in ["percapita", "kisi-basi"]:
+            sort_by = "percapita"
+        elif q in ["csfi", "kirilganlik", "risk"]:
+            sort_by = "csfi"
+        else:
+            filtered = [x for x in matrix_data if q in x.get("region", "").lower() or q in x.get("name", "").lower() or q in x.get("code", "").lower() or q in x.get("risk_tier", "").lower()]
+
+    if sort_by == "gdp":
+        filtered.sort(key=lambda x: x.get("gdp_usd_b", 0), reverse=True)
+        metric_title = "Nominal GSYİH ($B)"
+    elif sort_by == "shadow":
+        filtered.sort(key=lambda x: x.get("shadow_economy_pct", 0), reverse=True)
+        metric_title = "Gölge Ekonomi (%)"
+    elif sort_by == "percapita":
+        filtered.sort(key=lambda x: x.get("gdp_per_capita_usd", 0), reverse=True)
+        metric_title = "Kişi Başı Gelir ($)"
+    else:
+        filtered.sort(key=lambda x: x.get("fragility_index_csfi", 0), reverse=True)
+        metric_title = "CSFI Kırılganlık İndeksi"
+
+    if limit and limit > 0:
+        filtered = filtered[:limit]
+
+    if OUTPUT_JSON:
+        print(json.dumps(filtered, ensure_ascii=False, indent=2))
+        return
+
+    print("=" * 90)
+    print(f"📊 KÜRESEL GÜÇ & KIRILGANLIK MATRİSİ SIRALAMASI ({metric_title})")
+    print("=" * 90)
+    print(f"{'Sıra':<5} | {'Ülke':<24} | {'Kod':<5} | {'Bölge':<14} | {'CSFI':<7} | {'GSYH ($B)':<10} | {'Gölge (%)':<9}")
+    print("-" * 90)
+    for idx, c in enumerate(filtered, start=1):
+        csfi_val = f"{c.get('fragility_index_csfi', 0):.1f}"
+        gdp_val = f"${c.get('gdp_usd_b', 0):,.1f}"
+        shadow_val = f"%{c.get('shadow_economy_pct', 0):.1f}"
+        print(f"{idx:<5} | {c.get('name', ''):<24} | {c.get('code', ''):<5} | {c.get('region', ''):<14} | {csfi_val:<7} | {gdp_val:<10} | {shadow_val:<9}")
+    print("=" * 90)
+
+def export_country_dossier(query: str, fmt="md", output_file=None):
+    c = find_country(query)
+    if not c:
+        print(f"[-] Ülke bulunamadı: '{query}'")
+        return
+
+    c_dir = BASE_DIR / c.get("economy_path", c.get("path", f"countries/{c['slug']}"))
+    if not c_dir.exists():
+        c_dir = BASE_DIR / c.get("path", f"countries/{c['slug']}")
+
+    c_dna = None
+    if CULTURE_PATH.exists():
+        with open(CULTURE_PATH, "r", encoding="utf-8") as f:
+            c_dna_list = json.load(f).get("countries_cultural_dna", [])
+        c_dna = next((x for x in c_dna_list if x.get("code") == c["code"] or x.get("country").lower() == c["name"].lower()), None)
+
+    macro = {}
+    macro_path = c_dir / "03_official_economy" / "macroeconomics.json"
+    if macro_path.exists():
+        with open(macro_path, "r", encoding="utf-8") as f:
+            macro = json.load(f)
+
+    oligarchs = []
+    oligarch_path = c_dir / "04_shadow_power_osint" / "oligarch_network.csv"
+    if oligarch_path.exists():
+        with open(oligarch_path, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            oligarchs = list(reader)
+
+    def read_layer_file(rel):
+        p = c_dir / rel
+        if p.exists():
+            with open(p, "r", encoding="utf-8", errors="ignore") as f:
+                return f.read().strip()
+        return ""
+
+    society_text = read_layer_file("01_culture_demographics/society_history.md")
+    state_text = read_layer_file("02_official_state/constitution_gov.md")
+    power_text = read_layer_file("04_shadow_power_osint/real_power_dynamics.md")
+    media_text = read_layer_file("04_shadow_power_osint/media_censorship_matrix.md")
+
+    if fmt == "json" or OUTPUT_JSON:
+        export_payload = {
+            "metadata": c,
+            "cultural_dna": c_dna,
+            "macroeconomics": macro,
+            "oligarchs": oligarchs,
+            "society_history": society_text,
+            "constitution_gov": state_text,
+            "real_power_dynamics": power_text,
+            "media_censorship_matrix": media_text
+        }
+        res_str = json.dumps(export_payload, ensure_ascii=False, indent=2)
+    else:
+        lines = [
+            f"# 🏛️ MEDENİYET ATLASI DERİN ÜLKE DOSYASI: {c['name'].upper()} ({c['code']})",
+            "",
+            f"> *Resmi Başkent:* **{c['capital']}** | *Bölge:* **{c['region'].replace('_', ' ').title()}** | *Nüfus:* **{c['population']:,}**",
+            f"> *Nominal GSYİH:* **${c['gdp_usd_b']:,.1f} Milyar** | *Gölge Ekonomi Oranı:* **%{c['shadow_economy_pct']}**",
+            "",
+            "---",
+            "",
+            "## 🎭 1. KÜLTÜREL KODLAR VE MEDENİYET KİMLİĞİ",
+        ]
+        if c_dna:
+            lines.extend([
+                f"* **Medeniyet Havzası:** {c_dna.get('civilization_crossroads')}",
+                f"* **Temel Ulusal Ethos:** {c_dna.get('core_cultural_ethos')}",
+                f"* **İletişim Tarzı:** {c_dna.get('communication_style')}",
+                f"* **Mutfak Felsefesi:** {c_dna.get('gastronomic_philosophy')}",
+                f"* **Görgü Kuralları ve Tabular:** {c_dna.get('social_taboos_and_etiquette')}",
+                "",
+                "### 📖 Çevrilemeyen Ruh Kavramları:"
+            ])
+            for w in c_dna.get("untranslatable_soul_concepts", []):
+                lines.append(f"* **{w.get('word')}**: {w.get('meaning')} *(Kültürel Bağlam: {w.get('cultural_context')})*")
+        
+        if society_text:
+            lines.extend(["", "### 📜 Toplumsal Tarih ve Kültürel Bellek:", "", society_text])
+
+        lines.extend([
+            "",
+            "---",
+            "",
+            "## ⚖️ 2. RESMİ DEVLET VE ANAYASAL YAPI",
+            "",
+            state_text if state_text else "Resmi anayasal bilgi bulunamadı.",
+            "",
+            "---",
+            "",
+            "## 📊 3. MAKROEKONOMİK DOKU VE DIŞ TİCARET",
+            "",
+            f"* **Para Birimi:** {macro.get('currency', 'N/A')}",
+            f"* **Kişi Başı Gelir:** ${macro.get('gdp_per_capita_usd', 0):,}",
+            f"* **Enflasyon Oranı:** %{macro.get('inflation_rate_pct', 'N/A')}",
+            f"* **Kamu Borcu / GSYH:** %{macro.get('debt_to_gdp_pct', 'N/A')}",
+            f"* **Dış Borç:** ${macro.get('external_debt_billion_usd', 'N/A')}B",
+            f"* **Ana İhracat Kalemleri:** {', '.join(macro.get('top_exports', []))}",
+            f"* **Başlıca Ticaret Ortakları:** {', '.join(macro.get('major_trading_partners', []))}",
+            "",
+            "---",
+            "",
+            "## 🕶️ 4. ÖRTÜLÜ GÜÇ DİNAMİKLERİ, OLİGARKLAR VE BASIN ÖZGÜRLÜĞÜ",
+            "",
+            "### 👑 Oligark ve Hanedan Sermaye Ağı:"
+        ])
+        if oligarchs:
+            for o in oligarchs:
+                wealth = f" (${o.get('estimated_wealth_usd_m')}M)" if o.get('estimated_wealth_usd_m') != "0" else ""
+                lines.append(f"* **{o.get('person_or_entity')}**{wealth} — *Rol:* {o.get('role_or_title')} | *Sektör:* {o.get('connected_sector')} | *Siyasi Bağ:* {o.get('political_connection')}")
+        else:
+            lines.append("*(Kayıtlı doğrudan oligark verisi bulunamadı)*")
+
+        if power_text:
+            lines.extend(["", "### 🕵️ Gerçek Güç Dinamikleri ve Derin Ağlar:", "", power_text])
+        if media_text:
+            lines.extend(["", "### 📡 Medya Sansür ve Algoritmik Gözetim Matrisi:", "", media_text])
+
+        res_str = "\n".join(lines)
+
+    if output_file:
+        out_p = Path(output_file)
+        with open(out_p, "w", encoding="utf-8") as f:
+            f.write(res_str)
+        print(f"[+] Ülke dosyası başarıyla kaydedildi: {out_p.resolve()}")
+    else:
+        print(res_str)
+
 def show_stats():
     registry = load_registry()
     total_gdp = sum(c.get("gdp_usd_b", 0) for c in registry)
     total_pop = sum(c.get("population", 0) for c in registry)
     avg_shadow = sum(c.get("shadow_economy_pct", 0) for c in registry) / len(registry)
     
-    print("=" * 60)
-    print("🌐 MEDENİYET ATLASI - SİSTEM İSTATİSTİKLERİ")
-    print("=" * 60)
-    print(f"• Kayıtlı Toplam Varlık Sayısı: {len(registry)} Ülke & Bölge")
-    print(f"• Toplam Dünya Nüfusu:          {total_pop:,}")
-    print(f"• Toplam Dünya GSYH'si:         ${total_gdp:,.1f} Milyar (~${total_gdp/1000:.1f} Trilyon)")
-    print(f"• Ortalama Gölge Ekonomi Oranı: %{avg_shadow:.2f}")
-    print("=" * 60)
+    images_dir = BASE_DIR / "assets" / "images"
+    image_count = len(list(images_dir.glob("*.jpg"))) if images_dir.exists() else 0
+    dossiers_count = len(list(DOSSIERS_DIR.glob("CASE_STUDY_*.md"))) if DOSSIERS_DIR.exists() else 0
+    research_count = len([f for f in RESEARCH_DIR.glob("*.md") if f.name != "README.md"]) if RESEARCH_DIR.exists() else 0
+    geo_dir = BASE_DIR / "geopolitics_and_intelligence"
+    geo_count = len([f for f in geo_dir.glob("*.md") if f.name != "README.md"]) if geo_dir.exists() else 0
+    culture_dir = BASE_DIR / "culture"
+    culture_count = len([f for f in culture_dir.glob("*.md") if f.name != "README.md"]) if culture_dir.exists() else 0
+
+    if OUTPUT_JSON:
+        stats_dict = {
+            "country_count": len(registry),
+            "total_population": total_pop,
+            "total_gdp_usd_b": round(total_gdp, 2),
+            "average_shadow_economy_pct": round(avg_shadow, 2),
+            "artwork_images_count": image_count,
+            "forensic_case_studies_count": dossiers_count,
+            "research_theses_count": research_count,
+            "geopolitics_dossiers_count": geo_count,
+            "culture_dossiers_count": culture_count,
+            "economic_blocks_count": 8
+        }
+        print(json.dumps(stats_dict, ensure_ascii=False, indent=2))
+        return
+
+    print("=" * 65)
+    print("🌐 MEDENİYET ATLASI - SİSTEM VE VERİ TABANI İSTATİSTİKLERİ")
+    print("=" * 65)
+    print(f"• Kayıtlı Toplam Varlık Sayısı:     {len(registry)} Ülke & Bölge")
+    print(f"• Toplam Dünya Nüfusu:              {total_pop:,}")
+    print(f"• Toplam Dünya GSYH'si:             ${total_gdp:,.1f} Milyar (~${total_gdp/1000:.1f} Trilyon)")
+    print(f"• Ortalama Gölge Ekonomi Oranı:     %{avg_shadow:.2f}")
+    print(f"• Yüksek Çözünürlüklü İllüstrasyon: {image_count} Tematik Eser")
+    print(f"• Kültür Kütüphanesi Raporları:     {culture_count} İhtisas Dosyası")
+    print(f"• Jeopolitik & Güç Raporları:       {geo_count} Stratejik Rapor")
+    print(f"• Adli Vaka OSINT İncelemeleri:     {dossiers_count} Soruşturma Dosyası")
+    print(f"• Doktrin & Araştırma Tezleri:      {research_count} Akademik Tez")
+    print("=" * 65)
 
 def show_economy_groups(query=None):
     registry = load_registry()
@@ -859,6 +1097,19 @@ def show_economy_groups(query=None):
     print("=" * 70)
 
 def dispatch_command(args):
+    global OUTPUT_JSON
+    if not args:
+        print(__doc__)
+        return
+
+    clean_args = []
+    for a in args:
+        if a.lower() == "--json":
+            OUTPUT_JSON = True
+        else:
+            clean_args.append(a)
+    args = clean_args
+
     if not args:
         print(__doc__)
         return
@@ -947,7 +1198,34 @@ def dispatch_command(args):
         print(f"📋 Toplam {len(reg)} Ülke Kayıtlı:")
         for c in reg:
             print(f"  • {c['name']:<25} ({c['code']}) - {c['region']}")
-    elif cmd in ["help", "yardim", "?"]:
+    elif cmd in ["rank", "siralama", "matrix", "guc-matrisi"]:
+        q = args[1] if len(args) > 1 else None
+        lim = 20
+        if len(args) > 2:
+            try:
+                lim = int(args[2])
+            except ValueError:
+                pass
+        elif len(args) > 1 and args[1].isdigit():
+            lim = int(args[1])
+            q = None
+        show_rank(q, limit=lim)
+    elif cmd in ["export", "disa-aktar"] and len(args) > 1:
+        country_q = args[1]
+        fmt = "md"
+        out_f = None
+        idx = 2
+        while idx < len(args):
+            if args[idx] in ["--format", "-f"] and idx + 1 < len(args):
+                fmt = args[idx + 1].lower()
+                idx += 2
+            elif args[idx] in ["--out", "-o"] and idx + 1 < len(args):
+                out_f = args[idx + 1]
+                idx += 2
+            else:
+                idx += 1
+        export_country_dossier(country_q, fmt=fmt, output_file=out_f)
+    elif cmd in ["help", "--help", "-h", "yardim", "?"]:
         print(__doc__)
     else:
         show_country(cmd)

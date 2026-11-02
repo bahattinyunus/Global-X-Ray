@@ -339,6 +339,8 @@ master_readme_content = f"""# 🏛️ MEDENİYET ATLASI
    - [🧠 Bilişsel Savaş & Siber İstihbarat Matrisi (5GW)](#-bilişsel-savaş--siber-istihbarat-matrisi-5gw)
    - [🌐 Küresel Denizaltı Fiber Optik Kabloları ve Okyanus SIGINT Ağı](#-küresel-denizalti-fiber-optik-kablolari-ve-okyanus-sigint-aği)
    - [🚢 Küresel Deniz Darboğazları & Jeopolitik Kilit Noktaları](#-küresel-deniz-darboğazlari--jeopolitik-kilit-noktalari)
+   - [🛡️ Küresel Savunma Paktları ve Askeri İttifaklar](#️-küresel-savunma-paktlari-ve-askeri-i̇ttifaklar)
+   - [⛏️ Kritik Hammaddeler, Yarı İletkenler ve Rafinaj Tekelleri](#️-kritik-hammaddeler-yari-i̇letkenler-ve-rafinaj-tekelleri)
 8. [🗺️ Bölgesel Master Jeopolitik Güç Dosyaları (/regions)](#️-bölgesel-master-jeopolitik-güç-dosyalari-regions)
 9. [📁 Derin Adli OSINT Vaka Analizleri (/dossiers)](#-derin-adli-osint-vaka-analizleri-dossiers)
 10. [📚 Ansiklopedik Araştırma Dosyaları & Teori Külliyatı (/research)](#-ansiklopedik-araştirma-dosyalari--teori-külliyati-research)
@@ -452,6 +454,10 @@ Taş ve ahşapla yazılmış mimari miras; İslam'ın gök kubbe ve iç avlu mah
 ---
 
 ### 🎵 DÜNYA MÜZİK MİRASI VE GELENEKSEL ÇALGILAR
+
+<p align="center">
+  <img src="assets/images/global_music_instruments_sonic_heritage.jpg" alt="Dünya Müzik Mirası, Geleneksel Çalgılar ve Ses Haritası" width="90%">
+</p>
 > 🎻 *Enstrümanların kökeni, tını felsefesi ve manevi anlamı için: [`culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md`](culture/GLOBAL_MUSIC_INSTRUMENTS_AND_SONIC_HERITAGE.md)*
 
 Müzik, sözün bittiği yerde başlayan evrensel ruhtur. Ney'in hasret inlemesinden Zen keşişlerinin Shakuhachi nefesine, Afrika Griot'larının Kora tellerinden İskoç gaydasına ve Aborjin Didgeridoo'sunun 40.000 yıllık Düşzamanı uğultusuna kadar medeniyetlerin ses hafızası.
@@ -459,6 +465,10 @@ Müzik, sözün bittiği yerde başlayan evrensel ruhtur. Ney'in hasret inlemesi
 ---
 
 ### 🎆 DÜNYA FESTİVALLERİ VE KUTSAL RİTÜELLER
+
+<p align="center">
+  <img src="assets/images/world_festivals_and_sacred_rituals.jpg" alt="Dünya Festivalleri, Takvim Döngüleri ve Kutsal Ritüeller" width="90%">
+</p>
 > 🎭 *Takvim döngüleri ve kolektif arınma şenlikleri için: [`culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md`](culture/WORLD_FESTIVALS_CALENDARS_AND_RITUALS.md)*
 
 Festivaller, zamanın sıradan akışını durdurup insanı kutsal başlangıç anına götüren bayramlardır. Baharın müjdecisi *Nevruz*dan ışığın zaferi *Diwali*ye; kiraz çiçeklerinin faniliğini kutlayan *Hanami*den atalarla mezarlıkta vuslat kuran Meksika *Día de los Muertos*una kadar insanlığın müşterek sevinç atlası.
@@ -647,6 +657,28 @@ Dünya internet trafiğinin ve finansal veri akışının %97'den fazlası uydul
 </p>
 
 Dünya ticaretinin ve deniz yoluyla taşınan petrolün %60'ından fazlası daracık birkaç su yolundan (Hürmüz, Malakka, Babülmendep, Süveyş, Türk Boğazları, Panama, Danimarka Boğazları) geçmek zorundadır. Bu kilit geçitlerin herhangi birinde yaşanacak bir kriz, dünya ekonomisinde anında enflasyonist şok ve tedarik felci yaratır.
+
+---
+
+### 🛡️ KÜRESEL SAVUNMA PAKTLARI VE ASKERİ İTTİFAKLAR
+> ⚔️ *NATO, AUKUS, CSTO ve FVEY paktlarının stratejik analizi için: [`geopolitics_and_intelligence/DEFENSE_ALLIANCES_AND_SECURITY_PACTS.md`](geopolitics_and_intelligence/DEFENSE_ALLIANCES_AND_SECURITY_PACTS.md)*
+
+<p align="center">
+  <img src="assets/images/global_defense_alliances_security.jpg" alt="Küresel Savunma Paktları, Askeri İttifaklar ve Güvenlik Mimarisi" width="90%">
+</p>
+
+Devletlerin sınır güvenliğini ve ortak savunma doktrinini belirleyen çok taraflı askeri paktlar; 1.3 trilyon dolarlık NATO bütçesinden nükleer tahrikli AUKUS denizaltı mimarisine, CSTO kolektif güvenlik taahhüdünden FVEY küresel SIGINT paylaşımına kadar dünya güç dengesinin çelik omurgasıdır.
+
+---
+
+### ⛏️ KRİTİK HAMMADDELER, YARI İLETKENLER VE RAFİNAJ TEKELLERİ
+> 💎 *Nadir toprak elementleri, lityum, kobalt ve çip tedarik zinciri için: [`geopolitics_and_intelligence/CRITICAL_RAW_MATERIALS_AND_REFINING_MONOPOLIES.md`](geopolitics_and_intelligence/CRITICAL_RAW_MATERIALS_AND_REFINING_MONOPOLIES.md)*
+
+<p align="center">
+  <img src="assets/images/critical_raw_materials_semiconductors.jpg" alt="Kritik Hammaddeler, Yarı İletkenler ve Rafinaj Tekelleri" width="90%">
+</p>
+
+Yapay zeka çipleri, bataryalar, elektrikli araçlar ve gelişmiş savunma mühimmatı için hayati olan stratejik hammaddeler; ham maden çıkarımından çok %60-90 oranında tekelleşmiş Çin rafinaj kapasitesiyle modern jeopolitiğin en kırılgan asimetrik şantaj kaldıraçlarından biridir.
 
 ---
 

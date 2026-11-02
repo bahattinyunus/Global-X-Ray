@@ -1,5 +1,9 @@
 # 🎆 Dünya Festivalleri, Takvim Döngüleri ve Kutsal Ritüeller Külliyatı
 
+<p align="center">
+  <img src="../assets/images/world_festivals_and_sacred_rituals.jpg" alt="Dünya Festivalleri, Takvim Döngüleri ve Kutsal Ritüeller" width="100%">
+</p>
+
 > *"Festivaller, zamanın sıradan akışını durduran, insanı kutsal başlangıç anına geri götüren ve bir toplumu müşterek sevinçte eşitleyen kolektif arınma bayramlarıdır."*
 
 İnsan toplulukları; mevsimlerin dönüşümünü, ekinlerin hasadını, ataların anısını ve karanlığa karşı ışığın zaferini binlerce yıldır şenlikler, danslar, ateşler ve kutsal ritüellerle kutlamıştır. Bu dosya, dünya halklarının takvim döngülerini şekillendiren en köklü 12 küresel festivalin antropolojik haritasıdır.

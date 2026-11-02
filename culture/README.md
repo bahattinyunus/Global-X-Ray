@@ -1,5 +1,9 @@
 # 🏛️ Medeniyet Atlası: Kültür, Yaşam Felsefesi ve Medeniyetler Külliyatı (/culture)
 
+<p align="center">
+  <img src="../assets/images/world_civilizations_cultural_realms.jpg" alt="Dünya Medeniyet Havzaları ve Kültürel Kodlar" width="100%">
+</p>
+
 Bu dizin, dünya uluslarının **kültürel kodlarını, çevrilemeyen ruh kavramlarını, mutfak felsefelerini, görgü kurallarını ve kadim medeniyet havzalarını** derinlemesine inceleyen ansiklopedik referans kütüphanesidir.
 
 ---

@@ -1,5 +1,9 @@
 # ⛏️ Kritik Madenler, Tedarik Zincirleri ve Küresel Rafinaj Tekelleri
 
+<p align="center">
+  <img src="../assets/images/critical_raw_materials_semiconductors.jpg" alt="Kritik Madenler, Tedarik Zincirleri ve Küresel Rafinaj Tekelleri" width="100%">
+</p>
+
 Yapay zeka çipleri, bataryalar, elektrikli araçlar ve gelişmiş savunma mühimmatı için hayati olan stratejik hammaddeler:
 
 | Maden / Element | Stratejik Kullanım Kategorisi | En Büyük Maden Üreticileri | Küresel Rafinaj Tekeli | Jeopolitik Risk |

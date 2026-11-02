@@ -31,6 +31,9 @@ jobs:
         python scripts/xray_cli.py epics
         python scripts/xray_cli.py architecture
         python scripts/xray_cli.py compare-culture turkiye japonya
+        python scripts/xray_cli.py briefing turkiye --json
+        python scripts/xray_cli.py crisis-sim hormuz_blockade --json
+        python scripts/xray_cli.py matrix --json
         python scripts/xray_cli.py rank gdp 5 --json
         python scripts/xray_cli.py export turkiye --format json
         python scripts/xray_cli.py graph turkiye

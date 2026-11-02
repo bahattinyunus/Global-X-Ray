@@ -298,7 +298,7 @@ master_readme_content = f"""# 🏛️ MEDENİYET ATLASI
 </p>
 
 <p align="center">
-  <a href="index.html"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%C4%B0nteraktif%20Web%20Atlas%C4%B1-index.html-brightgreen?style=for-the-badge&logo=html5" alt="Interactive Web Atlas"></a>
+  <a href="index.html"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%C4%B0nteraktif%20Web%20Atlas%C4%B1%20%26%20Kriz%20Sim%C3%BClat%C3%B6r%C3%BC-index.html-brightgreen?style=for-the-badge&logo=html5" alt="Interactive Web Atlas & Crisis Simulator"></a>
   <img src="https://img.shields.io/badge/Ansiklopedi-K%C3%BClt%C3%BCrel%20Kodlar%20%26%20Medeniyet-darkgreen?style=for-the-badge&logo=bookstack" alt="Encyclopedia">
   <img src="https://img.shields.io/badge/Kapsam-205%20%C3%9Clke%20%26%20B%C3%B6lge-blue?style=for-the-badge&logo=globe" alt="Coverage">
   <img src="https://img.shields.io/badge/Medeniyet%20Havzas%C4%B1-9%20B%C3%BCy%C3%BCk%20Havza-teal?style=for-the-badge" alt="Civilization">
@@ -772,6 +772,18 @@ python scripts/xray_cli.py compare turkiye japonya
 
 # İki ülkeyi kültürel DNA, iletişim tarzı, sofra ve tabular açısından yan yana karşılaştır
 python scripts/xray_cli.py compare-culture turkiye japonya
+
+# Stratejik 4 katmanlı yönetici istihbarat brifingi (Kültürel DNA, savunma paktları, oligarklar ve kriz maruziyeti)
+python scripts/xray_cli.py briefing turkiye
+python scripts/xray_cli.py briefing japonya
+
+# Küresel jeopolitik kriz & boğum noktası şok simülatörü (Hürmüz, Malakka, Tayvan, REE, vb.)
+python scripts/xray_cli.py crisis-sim
+python scripts/xray_cli.py crisis-sim hormuz_blockade
+python scripts/xray_cli.py crisis-sim turkiye
+
+# 9 küresel medeniyet havzası ve felsefi güç matrisi özeti
+python scripts/xray_cli.py matrix
 
 # Dünya kurucu destanları ve mitolojilerini sorgula veya listele
 python scripts/xray_cli.py epics

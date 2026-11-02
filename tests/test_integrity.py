@@ -466,6 +466,50 @@ class TestMedeniyetAtlasiIntegrity(unittest.TestCase):
         self.assertIn("TUR", html_text)
         self.assertIn("Gönül", html_text)
         self.assertIn("critical_raw_materials_semiconductors.jpg", html_text)
+        self.assertIn("tab-simulator", html_text)
+        self.assertIn("exportFilteredCSV", html_text)
+        self.assertIn("hormuz_blockade", html_text)
+
+    def test_geopolitical_crisis_scenarios_dataset(self):
+        """geopolitical_crisis_scenarios.json dosyasının varlığı ve senaryo yapısı doğrulanır."""
+        crisis_path = self.datasets_dir / "geopolitical_crisis_scenarios.json"
+        self.assertTrue(crisis_path.exists(), "geopolitical_crisis_scenarios.json bulunamadı!")
+        
+        with open(crisis_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            
+        scenarios = data.get("scenarios", [])
+        self.assertGreaterEqual(len(scenarios), 8, "En az 8 kriz senaryosu bulunmalıdır!")
+        
+        required_keys = ["id", "title", "severity", "category", "core_trigger", "strategic_exposure", "most_vulnerable_countries", "mitigation_corridors"]
+        for s in scenarios:
+            for k in required_keys:
+                self.assertIn(k, s, f"{s.get('id', 'Bilinmeyen')} senaryosunda '{k}' alanı eksik!")
+            self.assertGreater(len(s["most_vulnerable_countries"]), 0, f"{s['id']} için en az 1 etkilenen ülke tanımlanmalıdır!")
+
+    def test_cli_briefing_and_crisis_sim(self):
+        """CLI briefing, crisis-sim ve matrix komutlarının çıktısı ve JSON modu doğrulanır."""
+        import subprocess
+        
+        # 1. briefing turkiye --json
+        res_brf = subprocess.run(["python", str(BASE_DIR / "scripts" / "xray_cli.py"), "briefing", "turkiye", "--json"], capture_output=True, encoding="utf-8")
+        self.assertEqual(res_brf.returncode, 0, f"CLI briefing başarısız: {res_brf.stderr}")
+        brf_obj = json.loads(res_brf.stdout)
+        self.assertEqual(brf_obj["country"]["code"], "TUR")
+        self.assertIn("cultural_dna", brf_obj)
+        self.assertIn("alliances", brf_obj)
+        
+        # 2. crisis-sim hormuz_blockade --json
+        res_sim = subprocess.run(["python", str(BASE_DIR / "scripts" / "xray_cli.py"), "crisis-sim", "hormuz_blockade", "--json"], capture_output=True, encoding="utf-8")
+        self.assertEqual(res_sim.returncode, 0, f"CLI crisis-sim başarısız: {res_sim.stderr}")
+        sim_arr = json.loads(res_sim.stdout)
+        self.assertTrue(any(s["id"] == "hormuz_blockade" for s in sim_arr))
+        
+        # 3. matrix --json
+        res_mat = subprocess.run(["python", str(BASE_DIR / "scripts" / "xray_cli.py"), "matrix", "--json"], capture_output=True, encoding="utf-8")
+        self.assertEqual(res_mat.returncode, 0, f"CLI matrix başarısız: {res_mat.stderr}")
+        mat_arr = json.loads(res_mat.stdout)
+        self.assertEqual(len(mat_arr), 9, "9 küresel medeniyet havzası bulunmalıdır!")
 
     def test_case_studies_and_research_counts(self):
         """dossiers/ ve research/ altındaki dosyaların asgari sayıları doğrulanır."""

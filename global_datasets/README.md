@@ -27,4 +27,5 @@ Bu dizin, **Medeniyet Atlası** projesinin tüm analitik, kültürel, makroekono
 | [**`press_freedom_real_index.json`**](press_freedom_real_index.json) | JSON | 205 Ülke | Gerçek basın özgürlüğü, medya mülkiyeti tekelleri, devlet sansür filtreleri ve cezaevi istatistikleri. |
 | [**`offshore_havens_matrix.csv`**](offshore_havens_matrix.csv) | CSV | 20 Merkez | İsviçre, Cayman, BVI, Lüksemburg, Delaware, Jersey; kurumlar vergisi, gizlilik yasaları ve FATF risk kategorileri. |
 | [**`global_shadow_economy.csv`**](global_shadow_economy.csv) | CSV | 205 Ülke | Ülke bazında kayıt dışı gölge ekonomi oranları ve IMF/Dünya Bankası tahminleri. |
+| [**`geopolitical_crisis_scenarios.json`**](geopolitical_crisis_scenarios.json) | JSON | 8 Kriz Senaryosu | Hürmüz, Malakka, Tayvan yarı iletken, nadir topraklar, Babülmendep, Panama, Suwalki koridoru kriz modellemeleri ve etki matrisleri. |
 | [**`GLOBAL_RANKINGS_REPORT.md`**](GLOBAL_RANKINGS_REPORT.md) | Markdown | Rapor | Küresel güç, kırılganlık ve makroekonomik sıralamaların detaylı analiz raporu. |

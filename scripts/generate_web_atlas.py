@@ -46,6 +46,9 @@ def build_web_atlas():
     with open(BASE_DIR / "global_datasets" / "critical_raw_materials_supply_chain.json", "r", encoding="utf-8") as f:
         minerals_data = json.load(f).get("minerals", [])
 
+    with open(BASE_DIR / "global_datasets" / "geopolitical_crisis_scenarios.json", "r", encoding="utf-8") as f:
+        crises_data = json.load(f).get("scenarios", [])
+
     with open(BASE_DIR / "global_datasets" / "sovereign_wealth_funds_registry.json", "r", encoding="utf-8") as f:
         swf_data = json.load(f).get("funds", [])
 
@@ -138,6 +141,7 @@ def build_web_atlas():
         "nuclear": nuclear_data,
         "minerals": minerals_data,
         "swfs": swf_data,
+        "crises": crises_data,
         "artworks": artworks,
         "stats": {
             "country_count": len(consolidated_countries),
@@ -270,6 +274,9 @@ def build_web_atlas():
       <button onclick="switchTab('geopolitics')" id="tab-btn-geopolitics" class="tab-btn px-3 py-1.5 rounded-md font-medium text-slate-400 hover:text-slate-200 hover:bg-slate-800/50 flex items-center gap-1.5 transition">
         <span>🛡️</span> Jeopolitik & Güç Doktrini
       </button>
+      <button onclick="switchTab('simulator')" id="tab-btn-simulator" class="tab-btn px-3 py-1.5 rounded-md font-medium text-slate-400 hover:text-slate-200 hover:bg-slate-800/50 flex items-center gap-1.5 transition">
+        <span>⚡</span> Kriz & Şok Simülatörü
+      </button>
       <button onclick="switchTab('gallery')" id="tab-btn-gallery" class="tab-btn px-3 py-1.5 rounded-md font-medium text-slate-400 hover:text-slate-200 hover:bg-slate-800/50 flex items-center gap-1.5 transition">
         <span>🖼️</span> Tematik Sanat Galerisi (17 Eser)
       </button>
@@ -314,6 +321,25 @@ def build_web_atlas():
             <option value="07_kirilgan_ve_borc_krizindekiler">⚠️ 07 Kırılgan / Yaptırım</option>
             <option value="08_kucuk_ada_ve_turizm_ekonomileri">🏝️ 08 Ada & Turizm</option>
           </select>
+
+          <!-- Civilizational Realm Filter -->
+          <select id="filter-realm" onchange="renderCountries()" class="px-3 py-2 rounded-lg bg-slate-900 border border-slate-700/80 text-xs text-slate-200 focus:outline-none focus:border-blue-500">
+            <option value="all">🏛️ Tüm Medeniyet Havzaları</option>
+            <option value="anatolian">🏺 Anadolu & Akdeniz</option>
+            <option value="east_asian">🏯 Doğu Asya</option>
+            <option value="germanic">🌲 Cermen & İskandinav</option>
+            <option value="anglo">🦅 Anglo-Sakson</option>
+            <option value="slavic">❄️ Slav & Avrasya</option>
+            <option value="latin">🌵 Latin Amerika</option>
+            <option value="middle_eastern">🕌 Orta Doğu & Fars</option>
+            <option value="south_asian">🪷 Güney Asya</option>
+            <option value="sub_saharan">☀️ Sahra Altı & Ubuntu</option>
+          </select>
+
+          <!-- CSV Export Button -->
+          <button onclick="exportFilteredCSV()" class="px-3 py-2 rounded-lg bg-slate-800 hover:bg-slate-700 border border-slate-700/80 text-xs text-slate-200 font-medium flex items-center gap-1.5 transition" title="Filtrelenen listeyi CSV formatında indir">
+            <span>📥</span> CSV İndir
+          </button>
 
           <!-- Sort Order -->
           <select id="sort-select" onchange="renderCountries()" class="px-3 py-2 rounded-lg bg-slate-900 border border-slate-700/80 text-xs text-slate-200 focus:outline-none focus:border-blue-500">
@@ -487,6 +513,44 @@ def build_web_atlas():
       </div>
     </div>
 
+
+    <!-- ========================================== -->
+    <!-- TAB 6: ⚡ JEOPOLİTİK KRİZ & ŞOK SİMÜLATÖRÜ -->
+    <!-- ========================================== -->
+    <div id="tab-simulator" class="tab-pane hidden space-y-6">
+      <div class="flex flex-wrap items-center justify-between gap-3">
+        <div>
+          <h2 class="text-lg font-bold text-white flex items-center gap-2">
+            <span>⚡</span> Küresel Jeopolitik Kriz & Boğum Noktası Şok Simülatörü
+          </h2>
+          <p class="text-xs text-slate-400">Deniz boğazları tıkanmaları, kritik mineral ambargoları ve yarı iletken kesintilerinin 205 ülke üzerindeki zincirleme etkilerini test edin.</p>
+        </div>
+        <div class="flex items-center gap-2">
+          <button onclick="runShockSimulation()" class="px-3.5 py-1.5 rounded-lg bg-red-900/80 hover:bg-red-800 border border-red-700/60 text-red-100 text-xs font-bold flex items-center gap-1.5 transition shadow-lg shadow-red-950/40">
+            <span>💥</span> Şok Simülasyonunu Çalıştır
+          </button>
+        </div>
+      </div>
+
+      <!-- Live Simulation Alert Box -->
+      <div id="sim-alert-box" class="hidden p-4 rounded-xl border border-red-600/60 bg-red-950/40 text-xs space-y-2 text-red-200 transition-all">
+        <!-- Rendered dynamically -->
+      </div>
+
+      <!-- Scenario Selector Buttons -->
+      <div class="space-y-1.5">
+        <label class="text-xs text-slate-400 font-semibold uppercase tracking-wider">Senaryo Seçimi:</label>
+        <div id="scenario-selector" class="flex flex-wrap gap-2">
+          <!-- Rendered by JS -->
+        </div>
+      </div>
+
+      <!-- Active Scenario Details Card -->
+      <div id="scenario-details-container" class="space-y-6">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+
   </main>
 
   <!-- COUNTRY DETAIL MODAL -->
@@ -589,19 +653,7 @@ def build_web_atlas():
       const econ = document.getElementById('filter-econ').value;
       const sortBy = document.getElementById('sort-select').value;
 
-      let list = DATA.countries.filter(c => {{
-        if (region !== 'all' && c.region !== region) return false;
-        if (econ !== 'all' && c.economy_group_id !== econ) return false;
-        if (q) {{
-          const inName = c.name.toLowerCase().includes(q);
-          const inCode = c.code.toLowerCase().includes(q);
-          const inCap = c.capital.toLowerCase().includes(q);
-          const inEthos = (c.cultural_dna?.core_cultural_ethos || '').toLowerCase().includes(q);
-          const inWords = (c.cultural_dna?.untranslatable_soul_concepts || []).some(w => w.word.toLowerCase().includes(q) || w.meaning.toLowerCase().includes(q));
-          if (!inName && !inCode && !inCap && !inEthos && !inWords) return false;
-        }}
-        return true;
-      }});
+      let list = getFilteredCountries();
 
       // Sorting
       list.sort((a, b) => {{
@@ -727,6 +779,36 @@ def build_web_atlas():
         oligarchsHtml = '<div class="text-xs text-slate-500">(Kayıtlı doğrudan oligark verisi bulunamadı)</div>';
       }}
 
+            let crisesHtml = '';
+      const matchedCrises = (DATA.crises || []).filter(s =>
+        (s.most_vulnerable_countries || []).some(vc => vc.code === c.code || (vc.name && vc.name.toLowerCase() === c.name.toLowerCase()))
+      );
+      if (matchedCrises.length > 0) {{
+        crisesHtml = `
+          <div class="space-y-3">
+            <h4 class="text-xs font-bold uppercase tracking-wider text-red-400 flex items-center gap-1.5">
+              <span>⚡</span> Kritik Jeopolitik Darboğaz & Kriz Maruziyeti
+            </h4>
+            <div class="space-y-2">
+              ${{matchedCrises.map(sc => {{
+                const vc = sc.most_vulnerable_countries.find(x => x.code === c.code || (x.name && x.name.toLowerCase() === c.name.toLowerCase()));
+                return `
+                  <div class="p-3 rounded-xl bg-red-950/40 border border-red-800/60 flex items-center justify-between text-xs">
+                    <div>
+                      <div class="font-bold text-red-300 flex items-center gap-1.5">
+                        <span>⚠️</span> ${{sc.title}}
+                      </div>
+                      <div class="text-[11px] text-slate-300 mt-0.5">Etkilenen Sektör: <span class="text-white">${{vc ? vc.sector : '-'}}</span></div>
+                    </div>
+                    <span class="px-2 py-1 rounded bg-red-900/80 text-white font-mono font-bold">%${{vc ? vc.dependency_pct : '0'}} Bağımlılık</span>
+                  </div>
+                `;
+              }}).join('')}}
+            </div>
+          </div>
+        `;
+      }}
+
       document.getElementById('modal-body').innerHTML = `
         <!-- Section 1: Kültürel DNA -->
         <div class="space-y-3">
@@ -751,6 +833,9 @@ def build_web_atlas():
             ${{wordsHtml}}
           </div>
         </div>
+
+        <!-- Section: Kriz Maruziyeti -->
+        ${{crisesHtml}}
 
         <!-- Section 3: Makroekonomi -->
         <div class="space-y-3">
@@ -1021,6 +1106,255 @@ def build_web_atlas():
         `;
         container.appendChild(card);
       }});
+    }}
+
+
+    // Current Active Scenario
+    let activeScenarioId = null;
+
+    // Export Filtered Countries to CSV
+    function exportFilteredCSV() {{
+      const filtered = getFilteredCountries();
+      if (!filtered.length) {{
+        alert('Dışa aktarılacak ülke bulunamadı.');
+        return;
+      }}
+
+      let csv = "name,code,region,capital,population,gdp_usd_b,gdp_per_capita,shadow_economy_pct,csfi,risk_tier,economy_group\n";
+      filtered.forEach(c => {{
+        const row = [
+          `"${{c.name}}"`,
+          `"${{c.code}}"`,
+          `"${{c.region}}"`,
+          `"${{c.capital}}"`,
+          c.population || 0,
+          c.gdp_usd_b || 0,
+          c.gdp_per_capita || 0,
+          c.shadow_economy_pct || 0,
+          c.csfi || 0,
+          `"${{c.risk_tier || ''}}"`,
+          `"${{c.economy_group_name || ''}}"`
+        ];
+        csv += row.join(",") + "\n";
+      }});
+
+      const blob = new Blob(["\uFEFF" + csv], {{ type: "text/csv;charset=utf-8;" }});
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `medeniyet_atlasi_ulkeler_${{new Date().toISOString().slice(0, 10)}}.csv`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    }}
+
+    // Helper to get currently filtered countries
+    function getFilteredCountries() {{
+      const q = (document.getElementById('search-input')?.value || '').toLowerCase().trim();
+      const region = document.getElementById('filter-region')?.value || 'all';
+      const econ = document.getElementById('filter-econ')?.value || 'all';
+      const realm = document.getElementById('filter-realm')?.value || 'all';
+
+      return DATA.countries.filter(c => {{
+        if (region !== 'all' && c.region !== region) return false;
+        if (econ !== 'all' && c.economy_group_id !== econ) return false;
+        if (realm !== 'all') {{
+          const cross = (c.cultural_dna?.civilization_crossroads || '').toLowerCase();
+          const rname = (c.cultural_dna?.civilization_realm || '').toLowerCase();
+          if (realm === 'anatolian' && !cross.includes('anadolu') && !cross.includes('akdeniz')) return false;
+          if (realm === 'east_asian' && !cross.includes('asya') && !cross.includes('konfüçyüs') && !cross.includes('şinto')) return false;
+          if (realm === 'germanic' && !cross.includes('cermen') && !cross.includes('iskandinav') && !cross.includes('alman')) return false;
+          if (realm === 'anglo' && !cross.includes('anglo') && !cross.includes('amerikan')) return false;
+          if (realm === 'slavic' && !cross.includes('slav') && !cross.includes('avrasya') && !cross.includes('rus')) return false;
+          if (realm === 'latin' && !cross.includes('latin') && !cross.includes('ibero')) return false;
+          if (realm === 'middle_eastern' && !cross.includes('orta doğu') && !cross.includes('fars') && !cross.includes('arap')) return false;
+          if (realm === 'south_asian' && !cross.includes('dharmik') && !cross.includes('hint') && !cross.includes('hindu')) return false;
+          if (realm === 'sub_saharan' && !cross.includes('ubuntu') && !cross.includes('sahra altı') && !cross.includes('afrika')) return false;
+        }}
+        if (q) {{
+          const inName = c.name.toLowerCase().includes(q);
+          const inCapital = (c.capital || '').toLowerCase().includes(q);
+          const inCode = c.code.toLowerCase().includes(q);
+          const inSlug = c.slug.toLowerCase().includes(q);
+          const inEthos = (c.cultural_dna?.core_cultural_ethos || '').toLowerCase().includes(q);
+          const inWords = (c.cultural_dna?.untranslatable_soul_concepts || []).some(w => w.word.toLowerCase().includes(q) || w.meaning.toLowerCase().includes(q));
+          return inName || inCapital || inCode || inSlug || inEthos || inWords;
+        }}
+        return true;
+      }});
+    }}
+
+    // Copy terminal CLI command to clipboard
+    function copyCliBriefing(slug) {{
+      const cmd = `python scripts/xray_cli.py briefing ${{slug}}`;
+      navigator.clipboard.writeText(cmd).then(() => {{
+        const btn = document.getElementById('copy-cli-btn');
+        if (btn) {{
+          const original = btn.innerHTML;
+          btn.innerHTML = '<span>✅</span> Kopyalandı!';
+          setTimeout(() => {{ btn.innerHTML = original; }}, 2000);
+        }}
+      }}).catch(() => {{
+        alert('Komut: ' + cmd);
+      }});
+    }}
+
+    // RENDER SIMULATOR
+    function renderSimulator() {{
+      const crises = DATA.crises || [];
+      if (!crises.length) return;
+
+      if (!activeScenarioId) {{
+        activeScenarioId = crises[0].id;
+      }}
+
+      const selectorContainer = document.getElementById('scenario-selector');
+      if (selectorContainer) {{
+        selectorContainer.innerHTML = '';
+        crises.forEach(s => {{
+          const btn = document.createElement('button');
+          const isActive = s.id === activeScenarioId;
+          btn.className = `px-3 py-1.5 rounded-lg text-xs font-medium transition flex items-center gap-1.5 ${{isActive ? 'bg-blue-600 text-white shadow-md' : 'bg-slate-900 border border-slate-800 text-slate-300 hover:bg-slate-800'}}`;
+          btn.innerHTML = `<span>⚡</span> ${{s.title}}`;
+          btn.onclick = () => {{
+            activeScenarioId = s.id;
+            renderSimulator();
+          }};
+          selectorContainer.appendChild(btn);
+        }});
+      }}
+
+      const sc = crises.find(x => x.id === activeScenarioId) || crises[0];
+      const container = document.getElementById('scenario-details-container');
+      if (!container) return;
+
+      const exposureKeys = Object.entries(sc.strategic_exposure || {{}});
+      const exposureHtml = exposureKeys.map(([k, v]) => `
+        <div class="p-3 rounded-lg bg-slate-900/80 border border-slate-800">
+          <div class="text-[10px] text-slate-400 uppercase tracking-wider">${{k.replace(/_/g, ' ')}}</div>
+          <div class="font-bold text-white text-base mt-0.5 text-amber-300">${{v}}</div>
+        </div>
+      `).join('');
+
+      const vulnHtml = (sc.most_vulnerable_countries || []).map(vc => `
+        <div class="p-3 rounded-xl bg-slate-900/60 border border-slate-800 flex items-center justify-between gap-3">
+          <div class="flex-1">
+            <div class="flex items-center gap-2">
+              <span class="font-bold text-white text-sm cursor-pointer hover:text-blue-400 transition" onclick="openCountryModal('${{vc.code}}')">${{vc.name}} (${{vc.code}})</span>
+              <span class="text-[10px] px-2 py-0.5 rounded bg-red-950/80 text-red-300 border border-red-800/50 font-bold">%${{vc.dependency_pct}} Bağımlılık</span>
+            </div>
+            <div class="text-xs text-slate-400 mt-1">Sektör: <span class="text-slate-300">${{vc.sector}}</span></div>
+            <div class="w-full bg-slate-800 h-1.5 rounded-full mt-2 overflow-hidden">
+              <div class="bg-red-500 h-full rounded-full" style="width: ${{Math.min(100, vc.dependency_pct)}}%"></div>
+            </div>
+          </div>
+          <button onclick="openCountryModal('${{vc.code}}')" class="px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-[11px] text-slate-300 transition">Röntgen &rarr;</button>
+        </div>
+      `).join('');
+
+      const mitigationsHtml = (sc.mitigation_corridors || []).map(m => `
+        <div class="p-3 rounded-xl bg-slate-900/60 border border-slate-800 space-y-1 text-xs">
+          <div class="font-bold text-emerald-400 flex items-center justify-between">
+            <span>🛣️ ${{m.route}}</span>
+            ${{m.capacity_mbpd ? `<span class="text-slate-400 text-[11px] font-mono">${{m.capacity_mbpd}} mbpd</span>` : ''}}
+          </div>
+          <p class="text-slate-300">${{m.status}}</p>
+        </div>
+      `).join('');
+
+      const secondaryHtml = (sc.secondary_impacts || []).map(si => `
+        <li class="flex items-start gap-2">
+          <span class="text-amber-400 font-bold">•</span>
+          <span>${{si}}</span>
+        </li>
+      `).join('');
+
+      container.innerHTML = `
+        <!-- Scenario Master Card -->
+        <div class="glass-card p-5 rounded-2xl border border-slate-800 space-y-4">
+          <div class="flex flex-wrap items-center justify-between gap-2 border-b border-slate-800/80 pb-3">
+            <div>
+              <div class="flex items-center gap-2">
+                <span class="px-2.5 py-0.5 rounded-full bg-red-950/80 text-red-300 border border-red-800/60 text-xs font-bold">${{sc.severity}}</span>
+                <span class="text-xs text-slate-400 font-medium">${{sc.category}}</span>
+              </div>
+              <h3 class="text-xl font-bold text-white mt-1">${{sc.title}}</h3>
+            </div>
+            <div class="text-right text-xs">
+              <div class="text-slate-400">Boğum / Lokasyon:</div>
+              <div class="font-bold text-blue-300">${{sc.chokepoint || '-'}}</div>
+            </div>
+          </div>
+
+          <div class="text-xs text-slate-300 leading-relaxed bg-slate-900/40 p-3 rounded-xl border border-slate-800/60">
+            <span class="font-bold text-amber-400">Tetikleyici Dinamik:</span> ${{sc.core_trigger}}
+          </div>
+
+          <!-- Exposure Numbers -->
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+            ${{exposureHtml}}
+          </div>
+        </div>
+
+        <!-- 2 Columns: Vulnerable Countries vs Mitigations -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <div class="space-y-3">
+            <h4 class="text-xs font-bold uppercase tracking-wider text-red-400 flex items-center gap-1.5">
+              <span>🎯</span> En Yüksek Maruziyete Sahip Ülkeler & Sektörler
+            </h4>
+            <div class="space-y-2.5">
+              ${{vulnHtml}}
+            </div>
+          </div>
+
+          <div class="space-y-4">
+            <div class="space-y-3">
+              <h4 class="text-xs font-bold uppercase tracking-wider text-emerald-400 flex items-center gap-1.5">
+                <span>🔄</span> Alternatif Lojistik ve İkmal Koridorları
+              </h4>
+              <div class="space-y-2.5">
+                ${{mitigationsHtml}}
+              </div>
+            </div>
+
+            <div class="space-y-2">
+              <h4 class="text-xs font-bold uppercase tracking-wider text-amber-400 flex items-center gap-1.5">
+                <span>⚠️</span> İkincil Küresel Sistemik Etkiler
+              </h4>
+              <ul class="p-3.5 rounded-xl bg-slate-900/60 border border-slate-800 space-y-2 text-xs text-slate-300">
+                ${{secondaryHtml}}
+              </ul>
+            </div>
+          </div>
+        </div>
+      `;
+    }}
+
+    // Run dynamic shock simulation trigger
+    function runShockSimulation() {{
+      const crises = DATA.crises || [];
+      const sc = crises.find(x => x.id === activeScenarioId) || crises[0];
+      const box = document.getElementById('sim-alert-box');
+      if (!box) return;
+
+      const impactedCount = (sc.most_vulnerable_countries || []).length;
+      box.classList.remove('hidden');
+      box.innerHTML = `
+        <div class="flex items-center justify-between">
+          <div class="font-bold text-sm text-red-300 flex items-center gap-2">
+            <span>🚨</span> CANLI SİMÜLASYON TETİKLENDİ: ${{sc.title.toUpperCase()}}
+          </div>
+          <button onclick="document.getElementById('sim-alert-box').classList.add('hidden')" class="text-slate-400 hover:text-white">&times;</button>
+        </div>
+        <p class="leading-relaxed">
+          Sistemik domino etkisi hesaplandı: <b>${{impactedCount}} ana ithalatçı devlet</b> ilk 72 saat içinde kritik tedarik şokuna girmektedir.
+          Denizcilik savaş riski sigorta primleri <b>%1200</b> fırlamış, alternatif koridor kapasitesi <b>%94 doluluk oranına</b> ulaşmıştır.
+        </p>
+        <div class="flex flex-wrap gap-2 pt-1">
+          ${{(sc.most_vulnerable_countries || []).map(vc => `<span class="px-2 py-0.5 rounded bg-red-900/80 text-white font-mono text-[10px]">${{vc.name}}: %${{vc.dependency_pct}} Risk</span>`).join(' ')}}
+        </div>
+      `;
     }}
 
     // INITIALIZATION

@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "updated": "2026-11-02",
+    "description": "Küresel Jeopolitik ve Jeoekonomik Kriz & Şok Simülasyon Senaryoları",
+    "framework": "Global-X-Ray OSINT & Risk Assessment Framework",
+    "total_scenarios": 8
+  },
+  "scenarios": [
+    {
+      "id": "hormuz_blockade",
+      "title": "Hürmüz Boğazı Deniz Ablukası ve Enerji Şoku",
+      "category": "Enerji & Deniz Taşımacılığı",
+      "severity": "Kritik (Seviye 5)",
+      "chokepoint": "Hürmüz Boğazı",
+      "location": "Basra Körfezi - Umman Körfezi",
+      "core_trigger": "İran veya vekil güçlerin boğazı mayınlaması, kıyı gemisavar füzeleri ve İHA saldırıları ile tanker trafiğini durdurması.",
+      "strategic_exposure": {
+        "crude_oil_flow_risk_mbpd": 21.0,
+        "global_oil_share_pct": 21.0,
+        "global_lng_share_pct": 20.0,
+        "immediate_brent_spike_usd": "130 - 150 $/varil (+%80 artış)",
+        "european_gas_price_surge_pct": "+%180"
+      },
+      "most_vulnerable_countries": [
+        {"code": "JPN", "name": "Japonya", "dependency_pct": 76, "sector": "Ham Petrol İthalatı"},
+        {"code": "KOR", "name": "Güney Kore", "dependency_pct": 72, "sector": "Ham Petrol ve LNG"},
+        {"code": "IND", "name": "Hindistan", "dependency_pct": 55, "sector": "Ham Petrol ve LPG"},
+        {"code": "CHN", "name": "Çin", "dependency_pct": 45, "sector": "Körfez Petrolü & Petrokimya"},
+        {"code": "SGP", "name": "Singapur", "dependency_pct": 80, "sector": "Rafinaj & Deniz Yakıtı"}
+      ],
+      "mitigation_corridors": [
+        {"route": "Suudi Arabistan Doğu-Batı Petroline", "capacity_mbpd": 5.0, "status": "Kısmi alternatif (Kızıldeniz Yanbu limanına)"},
+        {"route": "BAE ADCOP Boru Hattı (Habshan-Füceyre)", "capacity_mbpd": 1.5, "status": "Aktif (Hürmüz'ü bypass ederek Füceyre'ye)"},
+        {"route": "ABD & IEA Stratejik Petrol Rezervi (SPR) Boşaltımı", "capacity_mbpd": 4.0, "status": "Geçici tampon (maks. 90-180 gün)"}
+      ],
+      "secondary_impacts": [
+        "Küresel gübre ve amonyak kıtlığı (doğalgaz krizine bağlı gıda enflasyonu)",
+        "Deniz sigortası (War Risk Premium) primlerinin %1200 artması",
+        "Körfez hava sahasında ticari uçuşların durması ve Asya-Avrupa yakıt maliyeti artışı"
+      ]
+    },
+    {
+      "id": "taiwan_semiconductor_shock",
+      "title": "Tayvan Boğazı ve İleri Düzey Yarı İletken Ambargosu",
+      "category": "Yüksek Teknoloji & Savunma Sanayii",
+      "severity": "Kritik (Seviye 5)",
+      "chokepoint": "Tayvan Boğazı & Doğu Çin Denizi",
+      "core_trigger": "Çin'in Tayvan adası çevresinde deniz ve hava karantinası uygulaması, TSMC çip dökümhanelerinin lojistiğinin kesilmesi.",
+      "strategic_exposure": {
+        "sub_5nm_chip_monopoly_pct": 92.0,
+        "global_foundry_revenue_pct": 68.0,
+        "first_year_gdp_loss_trillion_usd": 2.5,
+        "automotive_production_halt_pct": 40.0
+      },
+      "most_vulnerable_countries": [
+        {"code": "USA", "name": "Amerika Birleşik Devletleri", "dependency_pct": 85, "sector": "Savunma Çipleri, AI/GPU, Veri Merkezleri"},
+        {"code": "DEU", "name": "Almanya", "dependency_pct": 75, "sector": "Otomotiv ECU ve Endüstriyel Otomasyon"},
+        {"code": "JPN", "name": "Japonya", "dependency_pct": 70, "sector": "Robotik, Tüketici Elektroniği, Otomotiv"},
+        {"code": "KOR", "name": "Güney Kore", "dependency_pct": 60, "sector": "Bellek Çipi (DRAM/NAND) paketleme & lojistiği"},
+        {"code": "CHN", "name": "Çin", "dependency_pct": 50, "sector": "Akıllı Telefon Montajı & İhracat Sanayisi"}
+      ],
+      "mitigation_corridors": [
+        {"route": "ABD CHIPS Act & TSMC Arizona Fab 21", "capacity_mbpd": 0, "status": "Orta-uzun vadeli (2027+ tam kapasite)"},
+        {"route": "Avrupa Çip Yasası (ESMC Dresden)", "capacity_mbpd": 0, "status": "İnşaat aşamasında (2028+ devreye alım)"},
+        {"route": "Güney Kore Samsung Foundry Alternatifi", "capacity_mbpd": 0, "status": "Yüksek verim kısıtlaması, sınırlı hacim"}
+      ],
+      "secondary_impacts": [
+        "F-35, güdümlü mühimmat ve radar sistemleri üretim bantlarının donması",
+        "Küresel hisse senedi piyasalarında teknoloji sektörü çöküşü",
+        "Otomobil teslimat sürelerinin 18-24 aya uzaması"
+      ]
+    },
+    {
+      "id": "malacca_disruption",
+      "title": "Malakka Boğazı Deniz Trafiği Kesintisi",
+      "category": "Deniz Ticareti & Konteyner Taşımacılığı",
+      "severity": "Yüksek (Seviye 4)",
+      "chokepoint": "Malakka ve Singapur Boğazı",
+      "location": "Endonezya - Malezya - Singapur",
+      "core_trigger": "Boğazın en dar noktası olan Phillip Kanalı'nda (2.8 km genişlik) dev bir VLCC tanker çarpışması veya terör saldırısı ile seyrüseferin kilitlenmesi.",
+      "strategic_exposure": {
+        "annual_vessels_transit": 100000,
+        "east_asia_oil_flow_pct": 80.0,
+        "global_trade_share_pct": 30.0,
+        "diversion_delay_days": "4 - 7 Gün",
+        "extra_fuel_cost_per_voyage_usd": "800,000 - 1,200,000 $"
+      },
+      "most_vulnerable_countries": [
+        {"code": "CHN", "name": "Çin", "dependency_pct": 80, "sector": "Malakka İkilemi (Ham Petrol ve Hammadde)"},
+        {"code": "JPN", "name": "Japonya", "dependency_pct": 85, "sector": "Petrol, Kömür ve Demir Cevheri"},
+        {"code": "SGP", "name": "Singapur", "dependency_pct": 95, "sector": "Liman Aktarma Hacmi (Transshipment Hub)"},
+        {"code": "KOR", "name": "Güney Kore", "dependency_pct": 78, "sector": "Enerji İthalatı ve Konteyner İhracatı"},
+        {"code": "MYS", "name": "Malezya", "dependency_pct": 70, "sector": "Deniz Lojistiği ve Rafineri Çıktısı"}
+      ],
+      "mitigation_corridors": [
+        {"route": "Sunda Boğazı Geçişi", "capacity_mbpd": 0, "status": "Sığ su derinliği kısıtı, VLCC süpertankerler için riskli"},
+        {"route": "Lombok ve Makasar Boğazı Derin Deniz Hattı", "capacity_mbpd": 0, "status": "Açık ve derin ancak +1.200 mil mesafe ve yüksek yakıt"},
+        {"route": "Çin-Myanmar Petrol & Gaz Boru Hattı (Kyaukpyu-Kunming)", "capacity_mbpd": 0.44, "status": "Kısmi bypass (Çin'in ihtiyacının %4'ü)"}
+      ],
+      "secondary_impacts": [
+        "Singapur limanında devasa konteyner tıkanıklığı ve demurraj patlaması",
+        "Doğu Asya fabrikalarında hammadde stoklarının tükenmesi",
+        "Avustralya-Çin demir cevheri navlun ücretlerinin %150 artması"
+      ]
+    },
+    {
+      "id": "rare_earths_embargo",
+      "title": "Kritik Nadir Toprak Elementleri ve Rafinaj İhracat Yasağı",
+      "category": "Stratejik Hammaddeler & Yeşil Dönüşüm",
+      "severity": "Yüksek (Seviye 4)",
+      "chokepoint": "Çin Madencilik ve Metalurjik Rafinaj Tesisleri (Baotou)",
+      "core_trigger": "Çin'in batı teknoloji kısıtlamalarına misilleme olarak Neodim, Disprozyum, Galyum, Germanyum ve Grafit ihracatını tamamen durdurması.",
+      "strategic_exposure": {
+        "china_ree_refining_monopoly_pct": 90.0,
+        "permanent_magnet_market_share_pct": 93.0,
+        "f35_fighter_ree_requirement_kg": 417,
+        "ev_traction_motor_dependency_pct": 95.0
+      },
+      "most_vulnerable_countries": [
+        {"code": "USA", "name": "Amerika Birleşik Devletleri", "dependency_pct": 74, "sector": "Havacılık, Savunma Radarları, Güdümlü Füze Manyetikleri"},
+        {"code": "DEU", "name": "Almanya", "dependency_pct": 88, "sector": "Elektrikli Araç Motorları, Rüzgar Türbinleri"},
+        {"code": "JPN", "name": "Japonya", "dependency_pct": 65, "sector": "Yüksek Hassasiyetli Hibrit Motorlar & Alaşımlar"},
+        {"code": "FRA", "name": "Fransa", "dependency_pct": 82, "sector": "Nükleer Reaktör Alaşımları ve Savunma Elektroniği"},
+        {"code": "GBR", "name": "Birleşik Krallık", "dependency_pct": 80, "sector": "Aero-motor İmalatı (Rolls-Royce) ve Radar"}
+      ],
+      "mitigation_corridors": [
+        {"route": "MP Materials (Mountain Pass, Kaliforniya)", "capacity_mbpd": 0, "status": "Madencilik aktif, ancak ağır REE rafinajı yetersiz"},
+        {"route": "Lynas Rare Earths (Avustralya & Malezya)", "capacity_mbpd": 0, "status": "Küresel pazarın %10-12'sini karşılayabiliyor"},
+        {"route": "Grönland & Orta Asya (Kazakistan) Yeni Maden Projeleri", "capacity_mbpd": 0, "status": "Ruhsat ve inşaat süresi 5-7 yıl"}
+      ],
+      "secondary_impacts": [
+        "Elektrikli araç (EV) üretim hedeflerinin ve karbon nötr planlarının çökmesi",
+        "Batı savunma tedarikçilerinin stratejik manyetik stokları karneye bağlaması",
+        "Galyum ve Germanyum kıtlığı sebebiyle yarı iletken lazer diyot üretiminin durması"
+      ]
+    },
+    {
+      "id": "red_sea_bab_el_mandeb",
+      "title": "Babülmendep & Kızıldeniz Deniz Güvenliği ve Süveyş İzolasyonu",
+      "category": "Kritik Boğazlar & Transit Ticaret",
+      "severity": "Yüksek (Seviye 4)",
+      "chokepoint": "Babülmendep Boğazı ve Süveyş Kanalı Koridoru",
+      "location": "Yemen - Cibuti - Kızıldeniz",
+      "core_trigger": "Bölgesel aktörlerin balistik füzeler, deniz mayınları ve insansız su üstü araçlarıyla (USV) ticari gemileri hedef alması.",
+      "strategic_exposure": {
+        "global_trade_share_pct": 12.0,
+        "global_container_traffic_pct": 30.0,
+        "cape_good_hope_detour_delay_days": "10 - 14 Gün",
+        "extra_voyage_distance_nm": 3500,
+        "suez_canal_revenue_loss_pct": 55.0
+      },
+      "most_vulnerable_countries": [
+        {"code": "EGY", "name": "Mısır", "dependency_pct": 85, "sector": "Süveyş Kanalı Döviz Gelirleri (Yıllık ~$10B kayıp)"},
+        {"code": "ITA", "name": "İtalya", "dependency_pct": 42, "sector": "Akdeniz Limanları (Trieste, Cenova) İthalat Akışı"},
+        {"code": "DEU", "name": "Almanya", "dependency_pct": 35, "sector": "Asya Tüketici Malları ve Kimyasal İthalatı"},
+        {"code": "GRC", "name": "Yunanistan", "dependency_pct": 50, "sector": "Pire Limanı Konteyner Hub Kapasitesi"},
+        {"code": "SAU", "name": "Suudi Arabistan", "dependency_pct": 40, "sector": "Cidde Limanı Kızıldeniz İkmal Hattı"}
+      ],
+      "mitigation_corridors": [
+        {"route": "Ümit Burnu (Cape of Good Hope) Güney Afrika Rotası", "capacity_mbpd": 0, "status": "Aktif ana rota (+12 gün sefer, +%40 navlun artışı)"},
+        {"route": "Birleşik Deniz Kuvvetleri Askeri Konvoy Eşliği (Prosperity Guardian)", "capacity_mbpd": 0, "status": "Yüksek füze savunma maliyeti ($2M/SM-2 füzesi)"},
+        {"route": "Körfez-Akdeniz Kara Lojistik Koridoru (BAE-Suudi Arabistan-Ürdün-İsrail)", "capacity_mbpd": 0, "status": "Sınırlı tır kapasitesi, yüksek sınır geçiş maliyeti"}
+      ],
+      "secondary_impacts": [
+        "Mısır merkez bankası döviz rezervlerinde ani erime ve devalüasyon baskısı",
+        "Avrupa süpermarketlerinde tüketim mallarında enflasyonist gecikmeler",
+        "Boş konteynerlerin Asya fabrikalarına dönüş sürelerinin uzamasıyla lojistik kriz"
+      ]
+    },
+    {
+      "id": "panama_canal_drought",
+      "title": "Panama Kanalı Tatlı Su Kuraklığı ve Tonaj Sınırlandırması",
+      "category": "Kanal & Lojistik Darboğazı",
+      "severity": "Orta-Yüksek (Seviye 3)",
+      "chokepoint": "Panama Kanalı (Gatun Gölü Havzası)",
+      "location": "Panama",
+      "core_trigger": "El Niño kaynaklı rekor kuraklık sebebiyle Gatun Gölü su seviyesinin düşmesi ve günlük gemi geçiş kotasının 36'dan 20'ye indirilmesi.",
+      "strategic_exposure": {
+        "global_maritime_trade_pct": 5.0,
+        "us_grain_export_pct": 14.0,
+        "daily_transit_slot_cut_pct": 40.0,
+        "priority_auction_slot_fee_usd": "2,000,000 - 4,000,000 $"
+      },
+      "most_vulnerable_countries": [
+        {"code": "USA", "name": "Amerika Birleşik Devletleri", "dependency_pct": 40, "sector": "Körfez Kıyısı LNG/LPG İhracatı & Doğu Kıyısı Limanları"},
+        {"code": "CHL", "name": "Şili", "dependency_pct": 45, "sector": "Bakır ve Lityumun ABD/Avrupa'ya Deniz İhracatı"},
+        {"code": "PER", "name": "Peru", "dependency_pct": 35, "sector": "Maden Cevheri ve Balık Unu Taşımacılığı"},
+        {"code": "JPN", "name": "Japonya", "dependency_pct": 25, "sector": "ABD LNG İthalatı (Sabine Pass ve Freeport terminalleri)"},
+        {"code": "CHN", "name": "Çin", "dependency_pct": 20, "sector": "ABD Soya Fasulyesi ve Tahıl İthalatı"}
+      ],
+      "mitigation_corridors": [
+        {"route": "ABD Doğu-Batı Demiryolu Kara Köprüsü (Intermodal Rail Landbridge)", "capacity_mbpd": 0, "status": "Mevcut vagon kapasitesi sınırlı, yüksek tonaj maliyeti"},
+        {"route": "Macellan Boğazı & Cape Horn Rotası", "capacity_mbpd": 0, "status": "+20 gün sefer süresi, fırtına riski ve yakıt maliyeti"},
+        {"route": "Meksika Tehuantepec Okyanuslararası Demiryolu Koridoru", "capacity_mbpd": 0, "status": "Geliştirilme aşamasında (kısmi kapasite)"}
+      ],
+      "secondary_impacts": [
+        "ABD LNG tankerlerinin Asya'ya Ümit Burnu üzerinden gitmesiyle küresel spot gaz fiyat artışı",
+        "Küresel tarım emtia vadeli işlemlerinde dalgalanma",
+        "Panama devlet bütçesinde kanal gelirlerinin düşmesi"
+      ]
+    },
+    {
+      "id": "suwalki_gap_crisis",
+      "title": "Suwalki Koridoru Hibrit Gerilimi ve Baltık İzolasyonu",
+      "category": "Kara Güvenliği & Askeri Caydırıcılık",
+      "severity": "Yüksek (Seviye 4)",
+      "chokepoint": "Suwalki Koridoru (65 km dar kara şeridi)",
+      "location": "Polonya - Litvanya Sınırı (Kaliningrad ile Belarus arası)",
+      "core_trigger": "Kaliningrad eksenli elektronik harp, GPS karıştırma, sınır ihlalleri ve hibrit tehditlerle Baltık ülkelerinin karayolu/demiryolu bağlantısının tehdit edilmesi.",
+      "strategic_exposure": {
+        "baltic_nato_land_connection_width_km": 65,
+        "baltic_population_at_risk": 6000000,
+        "energy_grid_desynchronization_risk": "BRELL şebekesinden kopuş baskısı",
+        "nato_article_5_trigger_risk": "Kritik Eşik"
+      },
+      "most_vulnerable_countries": [
+        {"code": "LTU", "name": "Litvanya", "dependency_pct": 90, "sector": "Avrupa Kara Ticaret ve Askeri İkmal Yolu"},
+        {"code": "LVA", "name": "Letonya", "dependency_pct": 85, "sector": "Kara Lojistiği ve Akaryakıt İkmali"},
+        {"code": "EST", "name": "Estonya", "dependency_pct": 80, "sector": "Orta Avrupa ile Kesintisiz Kara Bağlantısı"},
+        {"code": "POL", "name": "Polonya", "dependency_pct": 45, "sector": "Kuzeydoğu Sınır Güvenliği ve Savunma Konuşlanması"},
+        {"code": "DEU", "name": "Almanya", "dependency_pct": 30, "sector": "Litvanya'daki Kalıcı Tugay Konuşlanması"}
+      ],
+      "mitigation_corridors": [
+        {"route": "Rail Baltica Standart Açıklıklı Demiryolu Hattı", "capacity_mbpd": 0, "status": "İnşaat devam ediyor (2030 tam operasyonel)"},
+        {"route": "Baltık Denizi Deniz Köprüsü (İsveç Gotland & Danimarka Boğazları)", "capacity_mbpd": 0, "status": "NATO donanma devriyesiyle açık tutulabilir"},
+        {"route": "Polonya-Litvanya LitPol Link Enerji Enterkonneksiyonu", "capacity_mbpd": 0, "status": "Aktif (Senkronize elektrik iletimi)"}
+      ],
+      "secondary_impacts": [
+        "Baltık hava sahasında sivil havacılık GPS sinyallerinin tamamen karartılması",
+        "NATO Doğu Kanadı hava savunma ve patriot bataryalarının teyakkuza geçmesi",
+        "Bölgesel sigorta primleri ve sınır ötesi lojistiğin durma noktasına gelmesi"
+      ]
+    },
+    {
+      "id": "subsea_cables_severance",
+      "title": "Stratejik Denizaltı Fiber Optik Kablo Sabotajı",
+      "category": "Siber Altyapı & Küresel Finans",
+      "severity": "Yüksek (Seviye 4)",
+      "chokepoint": "Kızıldeniz & Kuzey Atlantik Denizaltı Kablo Demetleri",
+      "location": "Kızıldeniz tabanı, İrlanda batı sahilleri ve Luzon Boğazı",
+      "core_trigger": "Derin deniz araştırma gemileri veya denizaltı dronları tarafından kilit transatlantik ve Kızıldeniz fiber optik hatlarının eşzamanlı kesilmesi.",
+      "strategic_exposure": {
+        "global_internet_traffic_share_pct": 97.0,
+        "daily_swift_financial_transactions_trillion_usd": 5.0,
+        "latency_increase_ms": "120 - 250 ms",
+        "satellite_fallback_capacity_pct": 7.0
+      },
+      "most_vulnerable_countries": [
+        {"code": "GBR", "name": "Birleşik Krallık", "dependency_pct": 95, "sector": "Londra Finans Merkezi (City of London) Veri Hatları"},
+        {"code": "IRL", "name": "İrlanda", "dependency_pct": 98, "sector": "Küresel Teknoloji Devleri (Big Tech) Veri Merkezleri"},
+        {"code": "USA", "name": "Amerika Birleşik Devletleri", "dependency_pct": 90, "sector": "Transatlantik Finansal Arbitraj ve Bulut Bilişim"},
+        {"code": "SGP", "name": "Singapur", "dependency_pct": 92, "sector": "Güneydoğu Asya İnternet Düğüm Noktası (Hub)"},
+        {"code": "EGY", "name": "Mısır", "dependency_pct": 85, "sector": "Kızıldeniz-Akdeniz Karasal Kablo Geçiş Gelirleri"}
+      ],
+      "mitigation_corridors": [
+        {"route": "Trans-Kafkas & Orta Koridor Fiber Karasal Hattı", "capacity_mbpd": 0, "status": "Yüksek güvenlikli karasal yedekleme (inşa halinde)"},
+        {"route": "LEO Alçak Yörünge Uydu Takımyıldızları (Starlink/Kuiper)", "capacity_mbpd": 0, "status": "Kritik devlet/askeri veri için yeterli, ticari hacim için dar"},
+        {"route": "Kutup Rotası Denizaltı Kablosu (Far North Fiber)", "capacity_mbpd": 0, "status": "Proje aşamasında (Kuzeybatı Geçidi rotası)"}
+      ],
+      "secondary_impacts": [
+        "Yüksek frekanslı borsa algoritmalarının (HFT) çökmesi ve küresel arbitrajın durması",
+        "Uluslararası bankacılık SWIFT ödemelerinde 48 saate varan takas gecikmeleri",
+        "Bulut bilişim veri eşzamanlama krizleri ve çok uluslu şirket operasyonlarında aksama"
+      ]
+    }
+  ]
+}

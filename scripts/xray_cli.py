@@ -31,6 +31,9 @@ Kullanım:
   python scripts/xray_cli.py research [konu]
   python scripts/xray_cli.py cases
   python scripts/xray_cli.py list [bolge]
+  python scripts/xray_cli.py briefing <ulke_adi> (stratejik 4-katmanlı yönetici istihbarat brifingi)
+  python scripts/xray_cli.py crisis-sim [senaryo_veya_ulke] (küresel jeopolitik kriz & darboğaz simülatörü)
+  python scripts/xray_cli.py matrix [havza_adi] (9 küresel medeniyet havzası & güç matrisi)
   python scripts/xray_cli.py rank [olcut] [limit] (guc ve kirilganlik siralamasi: csfi, gdp, shadow, percapita)
   python scripts/xray_cli.py export <ulke_adi> [--format md|json] [--out dosya_adi]
   python scripts/xray_cli.py graph <ulke_adi> (oligark ve iktidar sermaye agi mermaid grafigi)
@@ -67,10 +70,17 @@ DARKFLEET_PATH = BASE_DIR / "global_datasets" / "shadow_fleet_maritime_registry.
 NUCLEAR_PATH = BASE_DIR / "global_datasets" / "nuclear_arsenals_and_triad_registry.json"
 ARMSTRADE_PATH = BASE_DIR / "global_datasets" / "global_arms_trade_and_contractors.json"
 CULTURE_PATH = BASE_DIR / "global_datasets" / "cultural_codes_and_civilizations_registry.json"
+CRISIS_PATH = BASE_DIR / "global_datasets" / "geopolitical_crisis_scenarios.json"
 DOSSIERS_DIR = BASE_DIR / "dossiers"
 RESEARCH_DIR = BASE_DIR / "research"
 
 OUTPUT_JSON = False
+
+def load_crises():
+    if CRISIS_PATH.exists():
+        with open(CRISIS_PATH, "r", encoding="utf-8") as f:
+            return json.load(f).get("scenarios", [])
+    return []
 
 def load_registry():
     with open(REGISTRY_PATH, "r", encoding="utf-8") as f:
@@ -1022,6 +1032,331 @@ def export_country_dossier(query: str, fmt="md", output_file=None):
     else:
         print(res_str)
 
+def show_crisis_sim(query=None):
+    crises = load_crises()
+    if not crises:
+        print("[-] Kriz senaryoları veri seti bulunamadı!")
+        return
+
+    if OUTPUT_JSON:
+        if query:
+            q = query.lower().strip()
+            matched = [s for s in crises if q in s["id"].lower() or q in s["title"].lower() or q in s.get("chokepoint", "").lower() or any(q == c["code"].lower() or q in c["name"].lower() for c in s.get("most_vulnerable_countries", []))]
+            print(json.dumps(matched, ensure_ascii=False, indent=2))
+        else:
+            print(json.dumps(crises, ensure_ascii=False, indent=2))
+        return
+
+    if not query:
+        print("=" * 90)
+        print("⚡ MEDENİYET ATLASI - KÜRESEL JEOPOLİTİK KRİZ & DARBOĞAZ SİMÜLATÖRÜ")
+        print("=" * 90)
+        print(f"{'Senaryo ID':<26} | {'Kategori':<24} | {'Risk / Şiddet':<20} | {'Boğum Noktası'}")
+        print("-" * 90)
+        for s in crises:
+            print(f"{s['id']:<26} | {s['category'][:23]:<24} | {s['severity']:<20} | {s.get('chokepoint', '')}")
+        print("=" * 90)
+        print("💡 Detay için: python scripts/xray_cli.py crisis-sim <senaryo_id_veya_ulke>")
+        print("   Örnek: python scripts/xray_cli.py crisis-sim hormuz_blockade")
+        print("   Örnek: python scripts/xray_cli.py crisis-sim turkiye")
+        return
+
+    q = query.lower().strip()
+    matched_scenario = next((s for s in crises if q == s["id"].lower() or q in s["title"].lower() or q in s.get("chokepoint", "").lower()), None)
+    
+    if matched_scenario:
+        s = matched_scenario
+        print("=" * 80)
+        print(f"🚨 KRİZ SENARYOSU: {s['title'].upper()}")
+        print("=" * 80)
+        print(f"• ID:                    {s['id']}")
+        print(f"• Kategori:              {s['category']}")
+        print(f"• Tehdit Seviyesi:       {s['severity']}")
+        print(f"• Boğum / Odak Noktası:  {s.get('chokepoint', '')} ({s.get('location', '')})")
+        print(f"• Tetikleyici Unsur:     {s['core_trigger']}")
+        print("\n📈 Stratejik Etki ve Maruziyet:")
+        for k, v in s.get("strategic_exposure", {}).items():
+            print(f"  - {k.replace('_', ' ').title()}: {v}")
+        print("\n🎯 En Yüksek Kırılganlığa Sahip Ülkeler:")
+        for c in s.get("most_vulnerable_countries", []):
+            print(f"  • {c['name']} ({c['code']}): %{c['dependency_pct']} bağımlılık — [{c['sector']}]")
+        print("\n🔄 Alternatif Bypass ve İkmal Koridorları:")
+        for m in s.get("mitigation_corridors", []):
+            cap = f" ({m['capacity_mbpd']} mbpd)" if m.get('capacity_mbpd') else ""
+            print(f"  • {m['route']}{cap}: {m['status']}")
+        print("\n⚠️ İkincil Dalga Etkileri:")
+        for sec in s.get("secondary_impacts", []):
+            print(f"  - {sec}")
+        print("=" * 80)
+        return
+
+    # Country query match
+    country_matches = []
+    for s in crises:
+        for c in s.get("most_vulnerable_countries", []):
+            if q == c["code"].lower() or q in c["name"].lower():
+                country_matches.append((s, c))
+                break
+
+    if country_matches:
+        country_name = country_matches[0][1]["name"]
+        print("=" * 80)
+        print(f"🎯 {country_name.upper()} İÇİN JEOPOLİTİK KRİZ VE ŞOK MARUZİYET ANALİZİ")
+        print("=" * 80)
+        print(f"Bu ülke toplam {len(country_matches)} kritik küresel darboğaz ve kriz senaryosuna doğrudan maruz kalmaktadır:\n")
+        for s, c in country_matches:
+            print(f"⚡ [{s['id']}] {s['title']}")
+            print(f"   Boğum: {s.get('chokepoint', '')} | Seviye: {s['severity']}")
+            print(f"   Doğrudan Bağımlılık / Risk: %{c['dependency_pct']} — Sektör: {c['sector']}")
+            print(f"   Tetikleyici: {s['core_trigger']}")
+            mit = s.get('mitigation_corridors', [{}])[0].get('route', 'Yok')
+            print(f"   Alternatif Koridor: {mit}\n")
+        print("=" * 80)
+    else:
+        print(f"[-] Eşleşen kriz senaryosu veya etkilenen ülke bulunamadı: '{query}'")
+
+def show_briefing(query: str):
+    c = find_country(query)
+    if not c:
+        print(f"[-] Ülke bulunamadı: '{query}'")
+        return
+
+    code = c["code"]
+    c_dir = BASE_DIR / c.get("economy_path", c.get("path", f"countries/{c['slug']}"))
+    if not c_dir.exists():
+        c_dir = BASE_DIR / c.get("path", f"countries/{c['slug']}")
+
+    # 1. Cultural DNA
+    c_dna = {}
+    if CULTURE_PATH.exists():
+        with open(CULTURE_PATH, "r", encoding="utf-8") as f:
+            c_dna_list = json.load(f).get("countries_cultural_dna", [])
+        c_dna = next((x for x in c_dna_list if x.get("code") == code or x.get("country", "").lower() == c["name"].lower()), {})
+
+    # 2. Power matrix
+    matrix = load_matrix()
+    pwr = next((x for x in matrix if x.get("code") == code or x.get("slug") == c["slug"]), {})
+
+    # 3. Macroeconomics
+    macro = {}
+    macro_path = c_dir / "03_official_economy" / "macroeconomics.json"
+    if macro_path.exists():
+        try:
+            with open(macro_path, "r", encoding="utf-8") as f:
+                macro = json.load(f)
+        except Exception:
+            pass
+
+    # 4. Oligarchs
+    oligarchs = []
+    oligarch_path = c_dir / "04_shadow_power_osint" / "oligarch_network.csv"
+    if oligarch_path.exists():
+        try:
+            with open(oligarch_path, "r", encoding="utf-8") as f:
+                oligarchs = list(csv.DictReader(f))
+        except Exception:
+            pass
+
+    # 5. Alliances & Treaties
+    member_alliances = []
+    if ALLIANCES_PATH.exists():
+        try:
+            with open(ALLIANCES_PATH, "r", encoding="utf-8") as f:
+                alliances = json.load(f).get("alliances", [])
+                for a in alliances:
+                    key_mems = a.get("key_members", a.get("members", []))
+                    if code in key_mems or c["name"] in key_mems or any(str(m).lower() == code.lower() for m in key_mems):
+                        member_alliances.append(f"{a.get('name')} [{a.get('id', '')}]")
+        except Exception:
+            pass
+
+    # 6. Nuclear Status
+    nuclear_info = None
+    if NUCLEAR_PATH.exists():
+        try:
+            with open(NUCLEAR_PATH, "r", encoding="utf-8") as f:
+                npowers = json.load(f).get("nuclear_powers", [])
+                for n in npowers:
+                    if n.get("code") == code or c["name"].lower() in n.get("country", "").lower():
+                        nuclear_info = n
+                        break
+        except Exception:
+            pass
+
+    # 7. Intel agency
+    intel_agency = None
+    intel_data = load_intel()
+    for ag in intel_data.get("agencies", []):
+        if ag.get("country", "").lower() == c["name"].lower() or ag.get("iso2", "").lower() == code[:2].lower() or code in ag.get("country", ""):
+            intel_agency = ag
+            break
+
+    # 8. Crisis exposure
+    crises = load_crises()
+    exposed_crises = []
+    for s in crises:
+        for vc in s.get("most_vulnerable_countries", []):
+            if vc.get("code") == code or c["name"].lower() in vc.get("name", "").lower():
+                exposed_crises.append({"scenario_id": s["id"], "title": s["title"], "dependency_pct": vc.get("dependency_pct"), "sector": vc.get("sector")})
+
+    if OUTPUT_JSON:
+        briefing_obj = {
+            "country": c,
+            "cultural_dna": c_dna,
+            "power_matrix": pwr,
+            "macroeconomics": macro,
+            "alliances": member_alliances,
+            "nuclear": nuclear_info,
+            "intel_agency": intel_agency,
+            "oligarchs": oligarchs,
+            "crisis_exposures": exposed_crises
+        }
+        print(json.dumps(briefing_obj, ensure_ascii=False, indent=2))
+        return
+
+    # Terminal Dashboard Display
+    print("=" * 80)
+    print(f"📑 STRATEJİK İSTİHBARAT & MEDENİYET BRİFİNGİ: {c['name'].upper()} ({code})")
+    print("=" * 80)
+    print(f"🏛️  Devlet Kimliği:      {c['name']} | Başkent: {c['capital']} | Bölge: {c['region']}")
+    print(f"👥  Nüfus:               {c['population']:,} Kişi")
+    print(f"💰  Ekonomi Büyüklüğü:   GSYİH: ${c['gdp_usd_b']:,.1f} Milyar | Kişi Başı: ${pwr.get('gdp_per_capita_usd', macro.get('gdp_per_capita_usd', 0)):,}")
+    print(f"🕵️  Gölge Ekonomi:       %{c['shadow_economy_pct']} | Kırılganlık (CSFI): {pwr.get('fragility_index_csfi', 'N/A')} ({pwr.get('risk_tier', 'Bilinmiyor')})")
+    print(f"🏷️  Ekonomik Blok:       {c.get('economy_group_name', 'Orta Gelir Düzeyi')} [{c.get('economy_group_id', '-')}]")
+    print("-" * 80)
+
+    print("🎭 KÜLTÜREL DNA VE RUH DOKUSU:")
+    crossroads = c_dna.get('civilization_crossroads', c_dna.get('civilization_realm', 'Kayıtlı Havza Bilgisi Bulunmuyor'))
+    print(f"   • Medeniyet Havzası:    {crossroads}")
+    ethos = c_dna.get('core_cultural_ethos', c_dna.get('core_ethos', 'Bilinmiyor'))
+    print(f"   • Temel Karakter & Ruh: {ethos}")
+    
+    concepts = c_dna.get('untranslatable_soul_concepts', [])
+    if concepts and isinstance(concepts, list):
+        concepts_formatted = []
+        for it in concepts[:3]:
+            if isinstance(it, dict):
+                w = it.get('word', '')
+                m = it.get('meaning', '')
+                concepts_formatted.append(f"'{w}': {m}")
+            elif isinstance(it, str):
+                concepts_formatted.append(it)
+        if concepts_formatted:
+            print(f"   • Ruh Kavramları:       {'; '.join(concepts_formatted)}")
+
+    rituals = c_dna.get('social_rituals_and_lifestyle')
+    if rituals:
+        print(f"   • Yaşam & Ritüeller:    {rituals[:180]}...")
+    comm = c_dna.get('communication_style')
+    if comm:
+        print(f"   • İletişim Karakteri:   {comm}")
+    taboos = c_dna.get('social_taboos_and_etiquette')
+    if taboos:
+        print(f"   • Tabular & Görgü:      {taboos[:180]}...")
+    print("-" * 80)
+
+    print("🛡️ SAVUNMA, İTTİFAK VE İSTİHBARAT MİMARİSİ:")
+    alliances_str = ", ".join(member_alliances) if member_alliances else "Bağımsız / Bağlantısız"
+    print(f"   • Savunma Paktları:     {alliances_str}")
+    if nuclear_info:
+        print(f"   • Nükleer Statü:        ☢️ AKTİF NÜKLEER GÜÇ ({nuclear_info.get('total_warheads', 0)} Savaş Başlığı, Triad: {nuclear_info.get('triad_status', 'Yok')})")
+    else:
+        print("   • Nükleer Statü:        Nükleer Silahı Bulunmayan Devlet (NPT Rejimi)")
+    if intel_agency:
+        p_for = intel_agency.get('primary_foreign', '')
+        p_sig = intel_agency.get('primary_signals', '')
+        bgt = intel_agency.get('estimated_annual_budget_usd', '')
+        print(f"   • Dış İstihbarat:       {p_for}")
+        if p_sig:
+            print(f"   • Sinyal/SIGINT:        {p_sig}")
+        if bgt:
+            print(f"   • Tahmini Bütçe:        ${bgt}")
+    print("-" * 80)
+
+    print("👑 OLİGARKİ VE İKTİDAR SERMAYESİ:")
+    if oligarchs:
+        for idx, o in enumerate(oligarchs[:4], 1):
+            wealth = f" (${o.get('estimated_wealth_usd_m')}M)" if o.get('estimated_wealth_usd_m') != "0" else ""
+            print(f"   {idx}. {o.get('person_or_entity')}{wealth} | Rol: {o.get('role_or_title')} | Sektör: {o.get('connected_sector')}")
+        if len(oligarchs) > 4:
+            print(f"   ... ve {len(oligarchs)-4} diğer kilit güç odağı (detay: xray_cli.py graph {c['slug']})")
+    else:
+        print("   *(Doğrudan kayıtlı oligark ağı verisi bulunamadı)*")
+    print("-" * 80)
+
+    print("⚡ JEOPOLİTİK KRİZ & BOĞUM NOKTASI MARUZİYETİ:")
+    if exposed_crises:
+        for ec in exposed_crises:
+            print(f"   ⚠️ [{ec['scenario_id']}] {ec['title']}")
+            print(f"      Bağımlılık Oranı: %{ec['dependency_pct']} — Kritik Sektör: {ec['sector']}")
+    else:
+        print("   ✅ Doğrudan küresel kriz senaryolarında yüksek tekil kırılganlık tespit edilmedi.")
+    print("=" * 80)
+
+def show_civilization_matrix(realm_query=None):
+    if not CULTURE_PATH.exists():
+        print("[-] Kültür veri seti bulunamadı!")
+        return
+
+    with open(CULTURE_PATH, "r", encoding="utf-8") as f:
+        cdata = json.load(f)
+
+    realms = cdata.get("civilization_realms", [])
+    dnas = cdata.get("countries_cultural_dna", [])
+    registry = load_registry()
+    countries_by_code = {c["code"]: c for c in registry}
+
+    aggregated = []
+    for r in realms:
+        rid = r.get("id")
+        rname = r.get("name")
+        rep_states = r.get("representative_states", [])
+        
+        # Match countries
+        c_objs = []
+        for c in registry:
+            if c["name"] in rep_states or any(rs.lower() in c["name"].lower() for rs in rep_states):
+                c_objs.append(c)
+
+        pop = sum(c.get("population", 0) for c in c_objs)
+        gdp = sum(c.get("gdp_usd_b", 0) for c in c_objs)
+        avg_sh = sum(c.get("shadow_economy_pct", 0) for c in c_objs) / len(c_objs) if c_objs else 0
+
+        aggregated.append({
+            "id": rid,
+            "name": rname,
+            "core_philosophy": r.get("core_philosophy", ""),
+            "representative_states": rep_states,
+            "matched_country_count": len(c_objs),
+            "sample_population": pop,
+            "sample_gdp_usd_b": round(gdp, 1),
+            "avg_shadow_economy_pct": round(avg_sh, 1)
+        })
+
+    if OUTPUT_JSON:
+        if realm_query:
+            rq = realm_query.lower()
+            filtered = [x for x in aggregated if rq in x["id"].lower() or rq in x["name"].lower()]
+            print(json.dumps(filtered, ensure_ascii=False, indent=2))
+        else:
+            print(json.dumps(aggregated, ensure_ascii=False, indent=2))
+        return
+
+    print("=" * 88)
+    print("🏛️  MEDENİYET ATLASI - 9 KÜRESEL MEDENİYET HAVZASI & FELSEFİ ÖZET")
+    print("=" * 88)
+    print(f"{'Medeniyet Havzası':<35} | {'Örnek Devletler':<35} | {'Ort. Gölge'}")
+    print("-" * 88)
+    for a in aggregated:
+        if realm_query and (realm_query.lower() not in a["id"].lower() and realm_query.lower() not in a["name"].lower()):
+            continue
+        states_str = ", ".join(a['representative_states'][:4])
+        sh_str = f"%{a['avg_shadow_economy_pct']:.1f}" if a['avg_shadow_economy_pct'] > 0 else "-"
+        print(f"{a['name'][:34]:<35} | {states_str[:34]:<35} | {sh_str}")
+        print(f"  └─ Felsefe: {a['core_philosophy'][:100]}...\n")
+    print("=" * 88)
+    print("💡 Detay için: python scripts/xray_cli.py culture <ulke_veya_havza>")
+
 def show_stats():
     registry = load_registry()
     total_gdp = sum(c.get("gdp_usd_b", 0) for c in registry)
@@ -1211,7 +1546,7 @@ def dispatch_command(args):
         print(f"📋 Toplam {len(reg)} Ülke Kayıtlı:")
         for c in reg:
             print(f"  • {c['name']:<25} ({c['code']}) - {c['region']}")
-    elif cmd in ["rank", "siralama", "matrix", "guc-matrisi"]:
+    elif cmd in ["rank", "siralama", "guc-siralamasi"]:
         q = args[1] if len(args) > 1 else None
         lim = 20
         if len(args) > 2:
@@ -1223,6 +1558,14 @@ def dispatch_command(args):
             lim = int(args[1])
             q = None
         show_rank(q, limit=lim)
+    elif cmd in ["briefing", "brifing", "rapor"] and len(args) > 1:
+        show_briefing(" ".join(args[1:]))
+    elif cmd in ["crisis-sim", "sim", "kriz", "kriz-sim"]:
+        q = " ".join(args[1:]) if len(args) > 1 else None
+        show_crisis_sim(q)
+    elif cmd in ["matrix", "civilization-matrix", "realms", "havzalar", "medeniyet-matrisi"]:
+        q = " ".join(args[1:]) if len(args) > 1 else None
+        show_civilization_matrix(q)
     elif cmd in ["export", "disa-aktar"] and len(args) > 1:
         country_q = args[1]
         fmt = "md"
@@ -1247,7 +1590,7 @@ def interactive_shell():
     print("=" * 80)
     print("🏛️  MEDENİYET ATLASI - İNTERAKTİF KOMUT SATIRI KABUĞU (SHELL)")
     print("   Ülkeleri, kültürleri, destanları ve güç dinamiklerini canlı sorgulayın.")
-    print("   Örnekler: 'culture turkiye', 'compare-culture turkiye japonya', 'epics'")
+    print("   Örnekler: 'briefing turkiye', 'crisis-sim hormuz_blockade', 'matrix', 'epics'")
     print("   Çıkmak için: 'exit', 'quit' veya 'q' yazabilirsiniz.")
     print("=" * 80)
     while True:

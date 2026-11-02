@@ -2,7 +2,7 @@
 
 > *"Büyük veri havuzları ancak güçlü ve ergonomik sorgu araçlarıyla anlam kazanır."*
 
-Bu dizin, **Medeniyet Atlası** veri tabanını komut satırından sorgulamak, ülkeleri kültürel ve jeopolitik olarak karşılaştırmak, otomatik keşif raporları üretmek ve proje belgelerini derlemek için geliştirilmiş Python motorlarını içerir.
+Bu dizin, **Medeniyet Atlası** veri tabanını komut satırından sorgulamak, ülkeleri kültürel ve jeopolitik olarak karşılaştırmak, otomatik keşif raporları üretmek, oligark ilişkilerini görselleştirmek ve proje belgelerini derlemek için geliştirilmiş Python motorlarını içerir.
 
 ---
 
@@ -10,7 +10,9 @@ Bu dizin, **Medeniyet Atlası** veri tabanını komut satırından sorgulamak, �
 
 | Araç | Açıklama | Örnek Çalıştırma |
 | :--- | :--- | :--- |
-| 💻 [**`xray_cli.py`**](xray_cli.py) | **Merkezi CLI Terminal Sorgu Motoru** | `python scripts/xray_cli.py country turkiye`<br/>`python scripts/xray_cli.py rank gdp 10`<br/>`python scripts/xray_cli.py export almanya --format md`<br/>`python scripts/xray_cli.py stats --json` |
+| 💻 [**`xray_cli.py`**](xray_cli.py) | **Merkezi CLI Terminal Sorgu Motoru** | `python scripts/xray_cli.py country turkiye`<br/>`python scripts/xray_cli.py rank gdp 10`<br/>`python scripts/xray_cli.py export almanya --format md`<br/>`python scripts/xray_cli.py graph turkiye` |
+| 🌐 [**`generate_web_atlas.py`**](generate_web_atlas.py) | **İnteraktif Web Atlası Üreteci (`index.html`)** | `python scripts/generate_web_atlas.py` |
+| 🕸️ [**`network_graph_gen.py`**](network_graph_gen.py) | **Oligark & Siyaset Güç Ağı Görselleştirici** | `python scripts/network_graph_gen.py turkiye`<br/>`python scripts/network_graph_gen.py DEU --save ag.mmd` |
 | 🎯 [**`deep_recon.py`**](deep_recon.py) | **Çok Katmanlı Derin Keşif Motoru** | `python scripts/deep_recon.py almanya`<br/>`python scripts/deep_recon.py --export turkiye` |
 | 📚 [**`build_culture_dossiers.py`**](build_culture_dossiers.py) | **Kültür Kütüphanesi Derleme Motoru** | `python scripts/build_culture_dossiers.py` |
 | 📄 [**`generate_master_readme.py`**](generate_master_readme.py) | **Master README.md Otomasyon Motoru** | `python scripts/generate_master_readme.py` |
@@ -37,6 +39,9 @@ python scripts/xray_cli.py rank shadow 20
 # Bir ülkenin tüm katmanlarını ve kültürel DNA'sını tek bir rapor olarak dışa aktar
 python scripts/xray_cli.py export turkiye --format md --out REPOR_TURKIYE.md
 python scripts/xray_cli.py export japonya --format json
+
+# Bir ülkenin oligark-siyaset güç ilişkileri ağını Mermaid formatında üret
+python scripts/xray_cli.py graph turkiye
 
 # Makine tarafından okunabilir JSON çıktısı al (--json bayrağı)
 python scripts/xray_cli.py stats --json

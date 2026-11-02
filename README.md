@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="index.html"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%C4%B0nteraktif%20Web%20Atlas%C4%B1-index.html-brightgreen?style=for-the-badge&logo=html5" alt="Interactive Web Atlas"></a>
   <img src="https://img.shields.io/badge/Ansiklopedi-K%C3%BClt%C3%BCrel%20Kodlar%20%26%20Medeniyet-darkgreen?style=for-the-badge&logo=bookstack" alt="Encyclopedia">
   <img src="https://img.shields.io/badge/Kapsam-205%20%C3%9Clke%20%26%20B%C3%B6lge-blue?style=for-the-badge&logo=globe" alt="Coverage">
   <img src="https://img.shields.io/badge/Medeniyet%20Havzas%C4%B1-9%20B%C3%BCy%C3%BCk%20Havza-teal?style=for-the-badge" alt="Civilization">
@@ -1027,6 +1028,24 @@ python scripts/xray_cli.py cases
 
 # 12 derin araştırma tezini ve doktrin dosyalarını listele
 python scripts/xray_cli.py research
+
+# Küresel güç ve kırılganlık matrisini sırala (csfi, gdp, shadow, percapita)
+python scripts/xray_cli.py rank gdp 15
+python scripts/xray_cli.py rank shadow 20
+
+# Bir ülkenin tüm katmanlarını konsolide rapor olarak dışa aktar (Markdown veya JSON)
+python scripts/xray_cli.py export turkiye --format md
+python scripts/xray_cli.py export japonya --format json
+
+# Oligark ve iktidar sermaye ağını Mermaid şeması olarak görselleştir
+python scripts/xray_cli.py graph turkiye
+
+# Makine tarafından okunabilir JSON çıktısı (--json bayrağı)
+python scripts/xray_cli.py stats --json
+python scripts/xray_cli.py rank gdp 5 --json
+
+# Bağımsız İnteraktif Web Atlasını (index.html) derle
+python scripts/generate_web_atlas.py
 ```
 
 ---

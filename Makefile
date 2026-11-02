@@ -5,8 +5,9 @@ TEST_SCRIPT = tests/test_integrity.py
 CLI_SCRIPT = scripts/xray_cli.py
 README_GEN = scripts/generate_master_readme.py
 CULTURE_BUILDER = scripts/build_culture_dossiers.py
+WEB_GEN = scripts/generate_web_atlas.py
 
-.PHONY: all test readme culture cli stats help clean
+.PHONY: all test readme culture cli stats web help clean
 
 all: test
 
@@ -15,6 +16,7 @@ help:
 	@echo "🏛️  MEDENİYET ATLASI - GELİŞTİRİCİ KOMUT REHBERİ"
 	@echo "=========================================================="
 	@echo "  make test      - Bütünlük ve veri doğrulama testlerini çalıştırır"
+	@echo "  make web       - İnteraktif Web Atlası (index.html) oluşturur"
 	@echo "  make culture   - Kültür kütüphanesi dosyalarını derler"
 	@echo "  make readme    - Master README.md dosyasını otomatik üretir"
 	@echo "  make stats     - Küresel veri tabanı istatistiklerini gösterir"
@@ -23,6 +25,9 @@ help:
 
 test:
 	$(PYTHON) $(TEST_SCRIPT) -v
+
+web:
+	$(PYTHON) $(WEB_GEN)
 
 culture:
 	$(PYTHON) $(CULTURE_BUILDER)

@@ -31,3 +31,13 @@ jobs:
         python scripts/xray_cli.py epics
         python scripts/xray_cli.py architecture
         python scripts/xray_cli.py compare-culture turkiye japonya
+        python scripts/xray_cli.py rank gdp 5 --json
+        python scripts/xray_cli.py export turkiye --format json
+        python scripts/xray_cli.py graph turkiye
+        python scripts/xray_cli.py minerals ree
+        python scripts/xray_cli.py alliances nato
+
+    - name: İnteraktif Web Atlası Üretimi Doğrulama (generate_web_atlas.py)
+      run: |
+        python scripts/generate_web_atlas.py
+        test -f index.html

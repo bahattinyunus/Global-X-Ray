@@ -33,6 +33,7 @@ Kullanım:
   python scripts/xray_cli.py list [bolge]
   python scripts/xray_cli.py rank [olcut] [limit] (guc ve kirilganlik siralamasi: csfi, gdp, shadow, percapita)
   python scripts/xray_cli.py export <ulke_adi> [--format md|json] [--out dosya_adi]
+  python scripts/xray_cli.py graph <ulke_adi> (oligark ve iktidar sermaye agi mermaid grafigi)
   python scripts/xray_cli.py <komut> --json (makine tarafindan okunabilir JSON ciktisi)
   python scripts/xray_cli.py stats
   python scripts/xray_cli.py interactive (canlı interaktif sorgu kabuğu)
@@ -1120,6 +1121,18 @@ def dispatch_command(args):
         interactive_shell()
     elif cmd in ["country", "ulke", "c"] and len(args) > 1:
         show_country(" ".join(args[1:]))
+    elif cmd in ["graph", "ag", "sema", "mermaid"] and len(args) > 1:
+        from network_graph_gen import generate_mermaid_network, find_country_csv
+        csv_p, c_name = find_country_csv(" ".join(args[1:]))
+        if csv_p:
+            if OUTPUT_JSON:
+                with open(csv_p, "r", encoding="utf-8") as f:
+                    print(json.dumps(list(csv.DictReader(f)), ensure_ascii=False, indent=2))
+            else:
+                print(f"📊 {c_name} Oligark & Siyaset Güç Ağı (Mermaid Grafiği):\n")
+                print(generate_mermaid_network(csv_p, c_name))
+        else:
+            print(f"[-] Ülke veya ağ dosyası bulunamadı: {' '.join(args[1:])}")
     elif cmd in ["culture", "kultur", "medeniyet", "kod"]:
         q = " ".join(args[1:]) if len(args) > 1 else None
         show_culture(q)

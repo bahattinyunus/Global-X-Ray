@@ -449,6 +449,24 @@ class TestMedeniyetAtlasiIntegrity(unittest.TestCase):
         self.assertEqual(exp_obj["metadata"]["code"], "TUR")
         self.assertIn("cultural_dna", exp_obj)
 
+        # 4. graph turkiye
+        res_graph = subprocess.run(["python", str(BASE_DIR / "scripts" / "xray_cli.py"), "graph", "turkiye"], capture_output=True, encoding="utf-8")
+        self.assertEqual(res_graph.returncode, 0, f"CLI graph başarısız: {res_graph.stderr}")
+        self.assertIn("graph TD", res_graph.stdout)
+        self.assertIn("Cengiz Holding", res_graph.stdout)
+
+    def test_interactive_web_atlas_integrity(self):
+        """index.html dosyasının varlığı, boyutu ve veri bütünlüğü doğrulanır."""
+        web_path = BASE_DIR / "index.html"
+        self.assertTrue(web_path.exists(), "index.html bulunamadı! 'python scripts/generate_web_atlas.py' çalıştırılmalı.")
+        self.assertGreater(web_path.stat().st_size, 500000, "index.html boyutu 500KB'den küçük olamaz!")
+        
+        html_text = web_path.read_text(encoding="utf-8")
+        self.assertIn("MEDENİYET ATLASI", html_text)
+        self.assertIn("TUR", html_text)
+        self.assertIn("Gönül", html_text)
+        self.assertIn("critical_raw_materials_semiconductors.jpg", html_text)
+
     def test_case_studies_and_research_counts(self):
         """dossiers/ ve research/ altındaki dosyaların asgari sayıları doğrulanır."""
         dossiers_dir = BASE_DIR / "dossiers"

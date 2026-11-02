@@ -11,7 +11,7 @@ Bu dizin, **Medeniyet Atlası** projesinin tüm analitik, kültürel, makroekono
 | Veri Seti Dosyası | Format | Kapsam & Kayıt Sayısı | İçerik & Analitik Kullanım |
 | :--- | :---: | :---: | :--- |
 | [**`countries_registry.json`**](countries_registry.json) | JSON | 205 Ülke | Tüm egemen ülkelerin Türkçe isimleri, ISO kodları, başkentleri, bölgeleri, GSYİH, nüfus ve ekonomik grup eşleşmeleri. |
-| [**`cultural_codes_and_civilizations_registry.json`**](cultural_codes_and_civilizations_registry.json) | JSON | 9 Havza & 40 Ülke | 9 küresel medeniyet havzası felsefesi ve 40 çapa ülkenin kültürel DNA'sı, çevrilemeyen ruh kavramları, sofra ritüelleri ve tabuları. |
+| [**`cultural_codes_and_civilizations_registry.json`**](cultural_codes_and_civilizations_registry.json) | JSON | 9 Havza & 205 Ülke | 9 küresel medeniyet havzası felsefesi ve 205 dünya ulusunun tamamının kültürel DNA'sı, çevrilemeyen ruh kavramları, sofra ritüelleri ve tabuları. |
 | [**`global_power_matrix.json`**](global_power_matrix.json) | JSON | 205 Ülke | Birleşik Egemen Kırılganlık İndeksi (CSFI), kayıt dışı gölge ekonomi oranları ve 4 katmanlı risk sınıflandırması. |
 | [**`nuclear_arsenals_and_triad_registry.json`**](nuclear_arsenals_and_triad_registry.json) | JSON | 9 Nükleer Güç | 12.121 nükleer savaş başlığı envanteri, stratejik nükleer triad (ICBM, SSBN, Bombardıman), hipersonik sistemler ve doktrinler. |
 | [**`global_arms_trade_and_contractors.json`**](global_arms_trade_and_contractors.json) | JSON | 12 Savunma Tröstü | $2.4 Trilyonluk küresel askeri harcama, ilk 100 savunma şirketi cirosu, Lockheed, Raytheon, Rostec gibi devlerin tekel alanları. |

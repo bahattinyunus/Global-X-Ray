@@ -34,6 +34,9 @@ Kullanım:
   python scripts/xray_cli.py briefing <ulke_adi> (stratejik 4-katmanlı yönetici istihbarat brifingi)
   python scripts/xray_cli.py crisis-sim [senaryo_veya_ulke] (küresel jeopolitik kriz & darboğaz simülatörü)
   python scripts/xray_cli.py matrix [havza_adi] (9 küresel medeniyet havzası & güç matrisi)
+  python scripts/xray_cli.py currency [kod_veya_ag] (rezerv paralar, de-dolarizasyon, CIPS/mBridge, altın)
+  python scripts/xray_cli.py cyber [grup_veya_casus] (devlet destekli APT grupları & Pegasus/Predator casus yazılımları)
+  python scripts/xray_cli.py audit <ulke_adi> (360° çok vektörlü stratejik egemenlik ve kırılganlık denetimi)
   python scripts/xray_cli.py rank [olcut] [limit] (guc ve kirilganlik siralamasi: csfi, gdp, shadow, percapita)
   python scripts/xray_cli.py export <ulke_adi> [--format md|json] [--out dosya_adi]
   python scripts/xray_cli.py graph <ulke_adi> (oligark ve iktidar sermaye agi mermaid grafigi)
@@ -71,10 +74,24 @@ NUCLEAR_PATH = BASE_DIR / "global_datasets" / "nuclear_arsenals_and_triad_regist
 ARMSTRADE_PATH = BASE_DIR / "global_datasets" / "global_arms_trade_and_contractors.json"
 CULTURE_PATH = BASE_DIR / "global_datasets" / "cultural_codes_and_civilizations_registry.json"
 CRISIS_PATH = BASE_DIR / "global_datasets" / "geopolitical_crisis_scenarios.json"
+CURRENCY_PATH = BASE_DIR / "global_datasets" / "currency_hegemony_and_dedollarization.json"
+CYBER_PATH = BASE_DIR / "global_datasets" / "cognitive_warfare_and_cyber_arsenals.json" 
 DOSSIERS_DIR = BASE_DIR / "dossiers"
 RESEARCH_DIR = BASE_DIR / "research"
 
 OUTPUT_JSON = False
+
+def load_currency():
+    if CURRENCY_PATH.exists():
+        with open(CURRENCY_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+def load_cyber():
+    if CYBER_PATH.exists():
+        with open(CYBER_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
 
 def load_crises():
     if CRISIS_PATH.exists():
@@ -1357,6 +1374,234 @@ def show_civilization_matrix(realm_query=None):
     print("=" * 88)
     print("💡 Detay için: python scripts/xray_cli.py culture <ulke_veya_havza>")
 
+def show_currency(query=None):
+    data = load_currency()
+    if not data:
+        print("[-] Para birimleri ve de-dolarizasyon veri seti bulunamadı!")
+        return
+
+    if OUTPUT_JSON:
+        if query:
+            q = query.lower().strip()
+            res = {
+                "currencies": [c for c in data.get("global_reserve_currencies", []) if q in c["code"].lower() or q in c["currency"].lower()],
+                "networks": [n for n in data.get("alternative_clearing_networks", []) if q in n["id"].lower() or q in n["name"].lower()],
+                "gold_buyers": [g for g in data.get("top_central_bank_gold_buyers_metric_tons", []) if q in g["country"].lower() or q in g["code"].lower()],
+                "treasury_holders": [t for t in data.get("top_us_treasury_holders_usd_b", []) if q in t["country"].lower() or q in t["code"].lower()]
+            }
+            print(json.dumps(res, ensure_ascii=False, indent=2))
+        else:
+            print(json.dumps(data, ensure_ascii=False, indent=2))
+        return
+
+    if not query:
+        print("=" * 88)
+        print("💱 MEDENİYET ATLASI - KÜRESEL REZERV PARA BİRİMLERİ & HEGEMONYA")
+        print("=" * 88)
+        print(f"{'Kod':<6} | {'Para Birimi':<30} | {'Rezerv Payı':<12} | {'SWIFT Payı':<12} | {'Hegemonya Sütunu'}")
+        print("-" * 88)
+        for c in data.get("global_reserve_currencies", []):
+            print(f"{c['code']:<6} | {c['currency'][:28]:<30} | %{c['fx_reserves_share_pct']:<11.1f} | %{c['swift_payment_share_pct']:<11.1f} | {c['hegemonic_pillar'][:45]}...")
+        print("\n🌐 ALTERNATİF SINIR ÖTESİ TAKAS VE MESAJLAŞMA AĞLARI (DE-DOLARİZASYON):")
+        print(f"{'Ağ ID':<12} | {'Öncü Devlet / Çatı':<28} | {'Katılımcı':<12} | {'Yıllık Hacim'}")
+        print("-" * 88)
+        for n in data.get("alternative_clearing_networks", []):
+            print(f"{n['id']:<12} | {n['lead_country'][:27]:<28} | {n['participant_banks']} Banka    | ${n['annual_transaction_volume_trillion_usd']}T")
+
+        print("\n🥇 EN ÇOK ALTIN REZERVİ BİRİKTİREN MERKEZ BANKALARI:")
+        for g in data.get("top_central_bank_gold_buyers_metric_tons", []):
+            print(f"  • {g['country']:<20}: {g['total_gold_tonnage']} Ton (Rezervlerin %{g['pct_of_total_reserves']}'i) | Yıllık Alım: +{g['recent_annual_purchases_tons']} Ton")
+        print("=" * 88)
+        print("💡 Detay için: python scripts/xray_cli.py currency <usd|cny|gold|cips|mbridge>")
+        return
+
+    q = query.lower().strip()
+    matched_curr = next((c for c in data.get("global_reserve_currencies", []) if q == c["code"].lower() or q in c["currency"].lower()), None)
+    if matched_curr:
+        c = matched_curr
+        print("=" * 80)
+        print(f"💵 REZERV PARA DETAYI: {c['currency'].upper()}")
+        print("=" * 80)
+        print(f"• İhraç Eden:          {c['issuing_entity']}")
+        print(f"• Küresel Rezerv Payı:  %{c['fx_reserves_share_pct']}")
+        print(f"• SWIFT İşlem Payı:    %{c['swift_payment_share_pct']}")
+        print(f"• Hegemonik Dayanak:   {c['hegemonic_pillar']}")
+        print(f"• Yapısal Riskler:     {c['vulnerability_points']}")
+        print("=" * 80)
+        return
+
+    matched_net = next((n for n in data.get("alternative_clearing_networks", []) if q == n["id"].lower() or q in n["name"].lower()), None)
+    if matched_net:
+        n = matched_net
+        print("=" * 80)
+        print(f"🌐 ALTERNATİF TAKAS AĞI: {n['name'].upper()}")
+        print("=" * 80)
+        print(f"• Kod:                 {n['id']}")
+        print(f"• Öncü Ülke / Çatı:    {n['lead_country']}")
+        print(f"• Merkez:              {n['headquarters']}")
+        print(f"• Üye / Katılımcı:     {n['participant_banks']} Banka ({n['direct_countries']} Ülke)")
+        print(f"• Yıllık İşlem Hacmi:  ${n['annual_transaction_volume_trillion_usd']} Trilyon")
+        print(f"• Stratejik Misyon:    {n['purpose']}")
+        print("=" * 80)
+        return
+
+    print(f"[-] Eşleşen para birimi veya takas ağı bulunamadı: '{query}'")
+
+def show_cyber(query=None):
+    data = load_cyber()
+    if not data:
+        print("[-] Siber ve bilişsel harp veri seti bulunamadı!")
+        return
+
+    if OUTPUT_JSON:
+        if query:
+            q = query.lower().strip()
+            res = {
+                "apt_units": [a for a in data.get("apt_units", []) if q in a["id"].lower() or q in a["alias"].lower() or q in a["sponsoring_state"].lower()],
+                "spyware_cartel": [s for s in data.get("commercial_spyware_cartel", []) if q in s["vendor"].lower() or q in s["flagship_spyware"].lower() or q in s["country"].lower()]
+            }
+            print(json.dumps(res, ensure_ascii=False, indent=2))
+        else:
+            print(json.dumps(data, ensure_ascii=False, indent=2))
+        return
+
+    if not query:
+        print("=" * 90)
+        print("🛰️ MEDENİYET ATLASI - DEVLET DESTEKLİ SİBER HARP BİRLİKLERİ (APT) & CASUS YAZILIMLAR")
+        print("=" * 90)
+        print(f"{'Grup ID':<16} | {'Yaygın Takma Ad':<28} | {'Bağlı Devlet':<20} | {'Teşkilat'}")
+        print("-" * 90)
+        for a in data.get("apt_units", []):
+            print(f"{a['id']:<16} | {a['alias'][:26]:<28} | {a['sponsoring_state'][:19]:<20} | {a['affiliated_agency'][:22]}")
+
+        print("\n🕵️ TİCARİ CASUS YAZILIM TRÖSTLERİ (COMMERCIAL SURVEILLANCE VENDORS):")
+        print(f"{'Üretici Şirket':<26} | {'Casus Yazılım':<18} | {'Menşe Ülke':<20} | {'Saldırı Vektörü'}")
+        print("-" * 90)
+        for s in data.get("commercial_spyware_cartel", []):
+            print(f"{s['vendor'][:24]:<26} | {s['flagship_spyware']:<18} | {s['country'][:18]:<20} | {s['infection_vector'][:22]}")
+        print("=" * 90)
+        print("💡 Detay için: python scripts/xray_cli.py cyber <apt28|lazarus|pegasus|predator>")
+        return
+
+    q = query.lower().strip()
+    matched_apt = next((a for a in data.get("apt_units", []) if q == a["id"].lower() or q in a["alias"].lower() or q in a["sponsoring_state"].lower()), None)
+    if matched_apt:
+        a = matched_apt
+        print("=" * 80)
+        print(f"👾 DEVLET DESTEKLİ SİBER TEHDİT GRUBU: {a['id']} ({a['alias']})")
+        print("=" * 80)
+        print(f"• Destekleyen Devlet:    {a['sponsoring_state']}")
+        print(f"• Bağlı Teşkilat:        {a['affiliated_agency']}")
+        print(f"• Hedef Sektörler:       {a['target_sectors']}")
+        print(f"• İmzalı Siber Silahlar: {', '.join(a['signature_tools'])}")
+        print("\n🎯 Bilinen Büyük Siber Operasyonlar:")
+        for op in a.get("notable_operations", []):
+            print(f"  • {op}")
+        print("=" * 80)
+        return
+
+    matched_spy = next((s for s in data.get("commercial_spyware_cartel", []) if q in s["vendor"].lower() or q in s["flagship_spyware"].lower() or q in s["country"].lower()), None)
+    if matched_spy:
+        s = matched_spy
+        print("=" * 80)
+        print(f"📱 TİCARİ CASUS YAZILIM: {s['flagship_spyware'].upper()} ({s['vendor']})")
+        print("=" * 80)
+        print(f"• Menşe Ülke:         {s['country']}")
+        print(f"• Bulaşma Vektörü:    {s['infection_vector']}")
+        print(f"• İstihbarat Gücü:    {s['capabilities']}")
+        print(f"• Hukuki/OFAC Durumu: {s['legal_sanctions']}")
+        print("=" * 80)
+        return
+
+    print(f"[-] Eşleşen siber grup veya casus yazılım bulunamadı: '{query}'")
+
+def show_audit(query: str):
+    c = find_country(query)
+    if not c:
+        print(f"[-] Ülke bulunamadı: '{query}'")
+        return
+
+    code = c["code"]
+    c_dir = BASE_DIR / c.get("economy_path", c.get("path", f"countries/{c['slug']}"))
+    if not c_dir.exists():
+        c_dir = BASE_DIR / c.get("path", f"countries/{c['slug']}")
+
+    # Power matrix
+    pwr = next((x for x in load_matrix() if x.get("code") == code or x.get("slug") == c["slug"]), {})
+    # Macro
+    macro = {}
+    macro_path = c_dir / "03_official_economy" / "macroeconomics.json"
+    if macro_path.exists():
+        try:
+            with open(macro_path, "r", encoding="utf-8") as f:
+                macro = json.load(f)
+        except Exception:
+            pass
+
+    # Press freedom
+    press_score = c.get("press_score", "N/A")
+    # US Treasury holding
+    curr_data = load_currency()
+    treasury_entry = next((t for t in curr_data.get("top_us_treasury_holders_usd_b", []) if t.get("code") == code or t.get("country", "").lower() == c["name"].lower()), None)
+    gold_entry = next((g for g in curr_data.get("top_central_bank_gold_buyers_metric_tons", []) if g.get("code") == code or c["name"].lower() in g.get("country", "").lower()), None)
+
+    # Chokepoints
+    choke_data = []
+    if CHOKE_PATH.exists():
+        try:
+            with open(CHOKE_PATH, "r", encoding="utf-8") as f:
+                chokes = json.load(f).get("chokepoints", [])
+                for ch in chokes:
+                    deps = ch.get("dependent_countries", [])
+                    ctrl = ch.get("controlling_states", [])
+                    if code in deps or c["name"] in deps or code in ctrl or c["name"] in ctrl:
+                        choke_data.append(ch.get("name"))
+        except Exception:
+            pass
+
+    # Crisis exposure
+    crises = load_crises()
+    exposed_crises = []
+    for s in crises:
+        for vc in s.get("most_vulnerable_countries", []):
+            if vc.get("code") == code or c["name"].lower() in vc.get("name", "").lower():
+                exposed_crises.append(f"{s['title']} (%{vc.get('dependency_pct')})")
+
+    # Cyber / APT alignment
+    cyber_data = load_cyber()
+    state_apts = [a["alias"] for a in cyber_data.get("apt_units", []) if c["name"].lower() in a.get("sponsoring_state", "").lower()]
+
+    if OUTPUT_JSON:
+        audit_payload = {
+            "country": c,
+            "csfi_fragility": pwr.get("fragility_index_csfi"),
+            "risk_tier": pwr.get("risk_tier"),
+            "shadow_economy_pct": c["shadow_economy_pct"],
+            "press_freedom_score": press_score,
+            "us_treasury_holdings_usd_b": treasury_entry.get("holdings_usd_b") if treasury_entry else None,
+            "gold_reserves_tonnage": gold_entry.get("total_gold_tonnage") if gold_entry else None,
+            "chokepoints_exposure": choke_data,
+            "crisis_vulnerabilities": exposed_crises,
+            "state_cyber_units": state_apts
+        }
+        print(json.dumps(audit_payload, ensure_ascii=False, indent=2))
+        return
+
+    print("=" * 80)
+    print(f"🔍 360° STRATEJİK & ADLİ EGEMENLİK DENETİMİ (AUDIT): {c['name'].upper()} ({code})")
+    print("=" * 80)
+    print(f"📊 Kırılganlık Derecesi (CSFI):    {pwr.get('fragility_index_csfi', 'N/A')} ({pwr.get('risk_tier', 'Belirsiz')})")
+    print(f"🕵️ Gölge Ekonomi & Kleptokrasi:    %{c['shadow_economy_pct']} (Kayıt dışı sermaye risk düzeyi)")
+    print(f"📡 Basın & Sansür Skoru:          {press_score}/100")
+    if treasury_entry:
+        print(f"💵 ABD Hazine Tahvili Rezervi:     ${treasury_entry['holdings_usd_b']} Milyar (Küresel pay: %{treasury_entry['share_pct']})")
+    if gold_entry:
+        print(f"🥇 Parasal Altın Rezervleri:       {gold_entry['total_gold_tonnage']} Ton (Toplam rezervin %{gold_entry['pct_of_total_reserves']}'si)")
+    print(f"🚢 Kritik Deniz Darboğazları:      {', '.join(choke_data) if choke_data else 'Doğrudan bağımlılık tespit edilmedi'}")
+    print(f"⚡ Maruz Kalınan Kriz Senaryoları: {', '.join(exposed_crises) if exposed_crises else 'Doğrudan tekil kriz maruziyeti yok'}")
+    print(f"👾 Milli Siber Harp Güçleri:       {', '.join(state_apts) if state_apts else 'Doğrudan kayıtlı APT birimi bulunmuyor'}")
+    print("=" * 80)
+
 def show_stats():
     registry = load_registry()
     total_gdp = sum(c.get("gdp_usd_b", 0) for c in registry)
@@ -1563,6 +1808,14 @@ def dispatch_command(args):
     elif cmd in ["crisis-sim", "sim", "kriz", "kriz-sim"]:
         q = " ".join(args[1:]) if len(args) > 1 else None
         show_crisis_sim(q)
+    elif cmd in ["currency", "para", "dedollar", "rezerv"]:
+        q = " ".join(args[1:]) if len(args) > 1 else None
+        show_currency(q)
+    elif cmd in ["cyber", "siber", "apt", "casus"]:
+        q = " ".join(args[1:]) if len(args) > 1 else None
+        show_cyber(q)
+    elif cmd in ["audit", "denetim"] and len(args) > 1:
+        show_audit(" ".join(args[1:]))
     elif cmd in ["matrix", "civilization-matrix", "realms", "havzalar", "medeniyet-matrisi"]:
         q = " ".join(args[1:]) if len(args) > 1 else None
         show_civilization_matrix(q)

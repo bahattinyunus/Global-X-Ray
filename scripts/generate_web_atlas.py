@@ -49,6 +49,12 @@ def build_web_atlas():
     with open(BASE_DIR / "global_datasets" / "geopolitical_crisis_scenarios.json", "r", encoding="utf-8") as f:
         crises_data = json.load(f).get("scenarios", [])
 
+    with open(BASE_DIR / "global_datasets" / "currency_hegemony_and_dedollarization.json", "r", encoding="utf-8") as f:
+        currency_data = json.load(f)
+
+    with open(BASE_DIR / "global_datasets" / "cognitive_warfare_and_cyber_arsenals.json", "r", encoding="utf-8") as f:
+        cyber_data = json.load(f)
+
     with open(BASE_DIR / "global_datasets" / "sovereign_wealth_funds_registry.json", "r", encoding="utf-8") as f:
         swf_data = json.load(f).get("funds", [])
 
@@ -142,6 +148,8 @@ def build_web_atlas():
         "minerals": minerals_data,
         "swfs": swf_data,
         "crises": crises_data,
+        "currency": currency_data,
+        "cyber": cyber_data,
         "artworks": artworks,
         "stats": {
             "country_count": len(consolidated_countries),
@@ -490,6 +498,58 @@ def build_web_atlas():
           <div id="minerals-list" class="space-y-2.5">
             <!-- Javascript renders minerals -->
           </div>
+        </div>
+      </div>
+
+      <!-- Küresel Rezerv Para & De-Dolarizasyon 2 Sütun -->
+      <div class="glass-card p-5 rounded-xl space-y-4">
+        <div class="flex items-center justify-between">
+          <h3 class="text-base font-bold text-white flex items-center gap-2">
+            <span>💱</span> Küresel Rezerv Para Birimleri, De-Dolarizasyon & Alternatif Takas Ağları
+          </h3>
+          <span class="text-xs px-2 py-0.5 rounded bg-emerald-950/80 text-emerald-300 border border-emerald-800/40">CIPS &bull; mBridge &bull; Altın</span>
+        </div>
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <!-- Rezerv Para Tablosu -->
+          <div class="space-y-2">
+            <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider">Küresel Rezerv Payları & Dayanakları</h4>
+            <div class="overflow-x-auto">
+              <table class="w-full text-left text-xs border border-slate-800/80 rounded-lg overflow-hidden">
+                <thead class="bg-slate-900 text-slate-400 text-[10px] uppercase">
+                  <tr>
+                    <th class="py-2 px-3">Para</th>
+                    <th class="py-2 px-3">Rezerv %</th>
+                    <th class="py-2 px-3">SWIFT %</th>
+                    <th class="py-2 px-3">Hegemonik Sütun</th>
+                  </tr>
+                </thead>
+                <tbody id="currency-tbody" class="divide-y divide-slate-800/60 text-slate-300">
+                  <!-- JS renders -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Alternatif Takas Ağları & Altın -->
+          <div class="space-y-3">
+            <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider">Alternatif Ağlar & Altın Biriktirenler</h4>
+            <div id="clearing-networks-list" class="space-y-2">
+              <!-- JS renders -->
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Devlet Destekli Siber Harp (APT) & Casus Yazılımlar -->
+      <div class="glass-card p-5 rounded-xl space-y-4">
+        <div class="flex items-center justify-between">
+          <h3 class="text-base font-bold text-white flex items-center gap-2">
+            <span>🛰️</span> Devlet Destekli Siber Harp Birlikleri (APT) & Ticari Casus Yazılım Tröstleri
+          </h3>
+          <span class="text-xs px-2 py-0.5 rounded bg-purple-950/80 text-purple-300 border border-purple-800/40">7 APT &bull; 3 Gözetim Karteli</span>
+        </div>
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-4" id="apt-units-grid">
+          <!-- JS renders APT cards -->
         </div>
       </div>
     </div>
@@ -1063,6 +1123,61 @@ def build_web_atlas():
         `;
         chokeList.appendChild(item);
       }});
+
+      // Currency & De-dollarization
+      const currTbody = document.getElementById('currency-tbody');
+      if (currTbody && DATA.currency?.global_reserve_currencies) {{
+        currTbody.innerHTML = '';
+        DATA.currency.global_reserve_currencies.forEach(c => {{
+          const tr = document.createElement('tr');
+          tr.className = 'hover:bg-slate-800/30';
+          tr.innerHTML = `
+            <td class="py-2 px-3 font-bold text-white">${{c.code}}</td>
+            <td class="py-2 px-3 font-semibold text-emerald-400">%${{c.fx_reserves_share_pct}}</td>
+            <td class="py-2 px-3 text-blue-300">%${{c.swift_payment_share_pct}}</td>
+            <td class="py-2 px-3 text-slate-400 text-[11px]">${{c.hegemonic_pillar.substring(0, 45)}}...</td>
+          `;
+          currTbody.appendChild(tr);
+        }});
+      }}
+
+      // Alternative Networks
+      const netList = document.getElementById('clearing-networks-list');
+      if (netList && DATA.currency?.alternative_clearing_networks) {{
+        netList.innerHTML = '';
+        DATA.currency.alternative_clearing_networks.forEach(n => {{
+          const div = document.createElement('div');
+          div.className = 'p-2.5 rounded-lg bg-slate-900/60 border border-slate-800 flex items-center justify-between text-xs';
+          div.innerHTML = `
+            <div>
+              <div class="font-bold text-amber-300">${{n.id}} &bull; <span class="text-slate-300 font-normal">${{n.name}}</span></div>
+              <div class="text-[11px] text-slate-400">${{n.lead_country}} &bull; ${{n.participant_banks}} Banka</div>
+            </div>
+            <div class="text-right font-mono font-bold text-emerald-400 text-xs">$${{n.annual_transaction_volume_trillion_usd}}T/yıl</div>
+          `;
+          netList.appendChild(div);
+        }});
+      }}
+
+      // APT Units
+      const aptGrid = document.getElementById('apt-units-grid');
+      if (aptGrid && DATA.cyber?.apt_units) {{
+        aptGrid.innerHTML = '';
+        DATA.cyber.apt_units.forEach(a => {{
+          const card = document.createElement('div');
+          card.className = 'p-3 rounded-xl bg-slate-900/60 border border-slate-800 space-y-1.5 text-xs';
+          card.innerHTML = `
+            <div class="flex items-center justify-between">
+              <span class="font-bold text-purple-300 text-sm font-mono">${{a.id}} (${{a.alias.split('/')[0].trim()}})</span>
+              <span class="text-[10px] px-2 py-0.5 rounded bg-purple-950 text-purple-300 border border-purple-800/40">${{a.sponsoring_state}}</span>
+            </div>
+            <div class="text-[11px] text-slate-400"><span class="text-slate-500 font-semibold">Bağlı:</span> ${{a.affiliated_agency}}</div>
+            <div class="text-slate-300 text-[11px]"><span class="text-slate-500 font-semibold">Silahlar:</span> ${{a.signature_tools.join(', ')}}</div>
+            <div class="text-[11px] text-amber-300/80"><span class="text-slate-500">Operasyon:</span> ${{a.notable_operations[0]}}</div>
+          `;
+          aptGrid.appendChild(card);
+        }});
+      }}
 
       // Minerals
       const minList = document.getElementById('minerals-list');

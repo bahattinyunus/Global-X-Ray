@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "updated": "2026-11-03",
+    "description": "Küresel Devlet Destekli Siber Harp Birlikleri (APT), Ticari Casus Yazılım Tröstleri ve Bilişsel Harp Matrisi",
+    "framework": "MITRE ATT&CK, Citizen Lab, Amnesty Tech, Mandiant Threat Intelligence"
+  },
+  "apt_units": [
+    {
+      "id": "APT28",
+      "alias": "Fancy Bear / Sofacy / Strontium",
+      "sponsoring_state": "Rusya Federasyonu",
+      "affiliated_agency": "GRU (Askeri İstihbarat Ana Müdürlüğü - 85. Ana Özel Servis Merkezi / Askeri Birlik 26165)",
+      "target_sectors": "NATO müttefikleri, savunma bakanlıkları, enerji altyapısı, seçim sistemleri ve küresel diplomasi.",
+      "signature_tools": ["X-Agent", "CHOPSTICK", "Zebrocy", "Sofacy Malware"],
+      "notable_operations": ["2016 ABD Başkanlık Seçimleri hack-and-leak operasyonu", "Almanya Federal Meclisi (Bundestag) siber saldırısı (2015)", "WADA (Dünya Anti-Doping Ajansı) sızıntıları"]
+    },
+    {
+      "id": "APT29",
+      "alias": "Cozy Bear / Nobelium / Midnight Blizzard",
+      "sponsoring_state": "Rusya Federasyonu",
+      "affiliated_agency": "SVR (Dış İstihbarat Teşkilatı)",
+      "target_sectors": "Batılı hükümetlerin dışişleri bakanlıkları, düşünce kuruluşları, telekomünikasyon ve teknoloji tedarikçileri.",
+      "signature_tools": ["SUNBURST (SolarWinds arka kapısı)", "GoldMax", "EnvyScout", "WellMess"],
+      "notable_operations": ["SolarWinds Tedarik Zinciri Saldırısı (2020 - 18.000 kamu ve özel kuruma sızma)", "Microsoft kurumsal e-posta sistemlerine sızma (2024)", "COVID-19 aşı araştırma laboratuvarı casusluğu"]
+    },
+    {
+      "id": "APT41",
+      "alias": "Double Dragon / Wicked Panda / Barium",
+      "sponsoring_state": "Çin Halk Cumhuriyeti",
+      "affiliated_agency": "MSS (Devlet Güvenlik Bakanlığı) ve PLA Siber Birlikleri taşeronları",
+      "target_sectors": "Telekomünikasyon omurgası, yarı iletken firmaları, sağlık sektörü, havacılık ve eşzamanlı finansal siber soygun.",
+      "signature_tools": ["ShadowPad", "Cobalt Strike özelleştirmeleri", "MESSAGETAP (SMS dinleme arka kapısı)"],
+      "notable_operations": ["Küresel telekom sağlayıcılarının baz istasyonu kayıtlarının izlenmesi", "ASUS yazılım güncelleme sunucusu zehirlenmesi (Operation ShadowHammer)", "100'den fazla küresel şirketin fikri mülkiyet hırsızlığı"]
+    },
+    {
+      "id": "VOLT_TYPHOON",
+      "alias": "Volt Typhoon / Bronze Silhouette / Vanguard Panda",
+      "sponsoring_state": "Çin Halk Cumhuriyeti",
+      "affiliated_agency": "PLA / MSS Stratejik Destek Kuvveti entegrasyonu",
+      "target_sectors": "Kritik ulusal altyapı: ABD enerji şebekesi, su arıtma tesisleri, Guam askeri ikmal limanları ve haberleşme.",
+      "signature_tools": ["Living off the Land (LotL) teknikleri", "SOHO yönlendirici botnetleri (KV-botnet)", "WMI ve PowerShell meşru araç istismarı"],
+      "notable_operations": ["Pasifik'te olası bir Tayvan çatışması anında ABD askeri lojistiğini ve sivil şebekeyi felç etme amaçlı 'uyuyan hücre' yerleşimi (pre-positioning)"]
+    },
+    {
+      "id": "LAZARUS",
+      "alias": "Lazarus Group / Hidden Cobra / Zinc",
+      "sponsoring_state": "Kore Demokratik Halk Cumhuriyeti (Kuzey Kore)",
+      "affiliated_agency": "RGB (Genel Keşif Bürosu - Büro 121)",
+      "target_sectors": "Kripto para borsaları, merkez bankaları (SWIFT), savunma sanayii ve nükleer araştırma kurumları.",
+      "signature_tools": ["WannaCry fidye yazılımı", "AppleJeus", "BLINDINGCAN", "FastCash"],
+      "notable_operations": ["Bangladeş Merkez Bankası $81M SWIFT soygunu (2016)", "WannaCry küresel fidye yazılımı krizi (2017)", "Axie Infinity Ronin Network $620M kripto soygunu (2022)"]
+    },
+    {
+      "id": "EQUATION_GROUP",
+      "alias": "Equation Group / Shadow Brokers Targets",
+      "sponsoring_state": "Amerika Birleşik Devletleri",
+      "affiliated_agency": "NSA (Ulusal Güvenlik Ajansı - Tailored Access Operations / TAO)",
+      "target_sectors": "Telekom omurgaları, nükleer tesisler, askeri komuta kontrol sistemleri, kriptografik altyapı.",
+      "signature_tools": ["ETERNALBLUE (SMB açığı)", "DOUBLEPULSAR", "Fanny worm", "HDD Firmware seviyesinde kalıcı arka kapılar"],
+      "notable_operations": ["Stuxnet (İran Natanz nükleer santrifüj sabotajı - Unit 8200 ortaklığı)", "Küresel fiber optik ve yönlendirici şifre kırma operasyonları"]
+    },
+    {
+      "id": "UNIT_8200",
+      "alias": "Unit 8200 (ISNU) / SIGINT National Unit",
+      "sponsoring_state": "İsrail",
+      "affiliated_agency": "IDF Askeri İstihbarat Direktörlüğü (Aman)",
+      "target_sectors": "Orta Doğu telekom ağları, İran nükleer & füze tesisleri, diplomatik misyonlar, siber gözetim altyapısı.",
+      "signature_tools": ["Stuxnet (ortak geliştirici)", "Duqu", "Flame", "Karmaşık zero-click exploit zincirleri"],
+      "notable_operations": ["Olympic Games Operasyonu (Natanz uranyum zenginleştirme çökertmesi)", "Ticari casus yazılım sektörüne (NSO vb.) know-how ve personel transferi"]
+    }
+  ],
+  "commercial_spyware_cartel": [
+    {
+      "vendor": "NSO Group (Q Cyber Technologies)",
+      "country": "İsrail",
+      "flagship_spyware": "Pegasus",
+      "infection_vector": "Sıfır Tıklama (Zero-Click) iMessage (FORCEDENTRY), WhatsApp VoIP çağrısı",
+      "capabilities": "Mikrofon ve kamera gizli aktivasyonu, uçtan uca şifreli mesajların (Signal/WhatsApp) canlı okunması, GPS gerçek zamanlı konum, e-posta ve şifre dökümü.",
+      "legal_sanctions": "ABD Ticaret Bakanlığı Varlık Listesi (Entity List) kara listesine alındı."
+    },
+    {
+      "vendor": "Intellexa Konsorsiyumu (Cytrox / WiSpear)",
+      "country": "Yunanistan / İrlanda / Kuzey Makedonya / Macaristan",
+      "flagship_spyware": "Predator",
+      "infection_vector": "Tek Tıklama ve Man-in-the-Middle (MitM) web enjeksiyonu",
+      "capabilities": "Pegasus benzeri tam cihaz denetimi, Android ve iOS çekirdek yetki yükseltme (kernel privilege escalation).",
+      "legal_sanctions": "OFAC ve ABD hükümeti tarafından insan hakları ihlalleri sebebiyle küresel yaptırım uygulandı."
+    },
+    {
+      "vendor": "Candiru (Saito Tech)",
+      "country": "İsrail",
+      "flagship_spyware": "DevilsTongue",
+      "infection_vector": "Windows ve tarayıcı tabanlı zero-day açıklar, sahte URL yönlendirmeleri",
+      "capabilities": "Masaüstü işletim sistemleri (Windows), tarayıcı çerezleri, şifre kasaları ve LSASS bellek dökümü.",
+      "legal_sanctions": "ABD Ticaret Bakanlığı kara listesi."
+    }
+  ]
+}

@@ -469,6 +469,9 @@ class TestMedeniyetAtlasiIntegrity(unittest.TestCase):
         self.assertIn("tab-simulator", html_text)
         self.assertIn("exportFilteredCSV", html_text)
         self.assertIn("hormuz_blockade", html_text)
+        self.assertIn("currency-tbody", html_text)
+        self.assertIn("apt-units-grid", html_text)
+        self.assertIn("mBridge", html_text)
 
     def test_geopolitical_crisis_scenarios_dataset(self):
         """geopolitical_crisis_scenarios.json dosyasının varlığı ve senaryo yapısı doğrulanır."""
@@ -510,6 +513,59 @@ class TestMedeniyetAtlasiIntegrity(unittest.TestCase):
         self.assertEqual(res_mat.returncode, 0, f"CLI matrix başarısız: {res_mat.stderr}")
         mat_arr = json.loads(res_mat.stdout)
         self.assertEqual(len(mat_arr), 9, "9 küresel medeniyet havzası bulunmalıdır!")
+
+    def test_currency_and_dedollarization_dataset(self):
+        """currency_hegemony_and_dedollarization.json dosyasının varlığı ve bütünlüğü doğrulanır."""
+        curr_path = self.datasets_dir / "currency_hegemony_and_dedollarization.json"
+        self.assertTrue(curr_path.exists(), "currency_hegemony_and_dedollarization.json bulunamadı!")
+        
+        with open(curr_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            
+        currencies = data.get("global_reserve_currencies", [])
+        networks = data.get("alternative_clearing_networks", [])
+        gold = data.get("top_central_bank_gold_buyers_metric_tons", [])
+        
+        self.assertGreaterEqual(len(currencies), 5, "En az 5 rezerv para tanımlanmalıdır!")
+        self.assertGreaterEqual(len(networks), 4, "CIPS, SPFS, mBridge, BRICS_Pay ağları bulunmalıdır!")
+        self.assertGreaterEqual(len(gold), 5, "En az 5 merkez bankası altın alıcısı listelenmelidir!")
+
+    def test_cognitive_warfare_and_cyber_dataset(self):
+        """cognitive_warfare_and_cyber_arsenals.json dosyasının varlığı ve bütünlüğü doğrulanır."""
+        cyber_path = self.datasets_dir / "cognitive_warfare_and_cyber_arsenals.json"
+        self.assertTrue(cyber_path.exists(), "cognitive_warfare_and_cyber_arsenals.json bulunamadı!")
+        
+        with open(cyber_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            
+        apts = data.get("apt_units", [])
+        spyware = data.get("commercial_spyware_cartel", [])
+        
+        self.assertGreaterEqual(len(apts), 6, "En az 6 küresel APT grubu tanımlanmalıdır!")
+        self.assertGreaterEqual(len(spyware), 3, "Pegasus, Predator, Candiru casus yazılımları bulunmalıdır!")
+
+    def test_cli_currency_cyber_and_audit(self):
+        """CLI currency, cyber ve audit komutlarının JSON çıktı bütünlüğü doğrulanır."""
+        import subprocess
+        
+        # 1. currency --json
+        res_curr = subprocess.run(["python", str(BASE_DIR / "scripts" / "xray_cli.py"), "currency", "--json"], capture_output=True, encoding="utf-8")
+        self.assertEqual(res_curr.returncode, 0, f"CLI currency başarısız: {res_curr.stderr}")
+        curr_obj = json.loads(res_curr.stdout)
+        self.assertIn("global_reserve_currencies", curr_obj)
+        
+        # 2. cyber --json
+        res_cyb = subprocess.run(["python", str(BASE_DIR / "scripts" / "xray_cli.py"), "cyber", "--json"], capture_output=True, encoding="utf-8")
+        self.assertEqual(res_cyb.returncode, 0, f"CLI cyber başarısız: {res_cyb.stderr}")
+        cyb_obj = json.loads(res_cyb.stdout)
+        self.assertIn("apt_units", cyb_obj)
+        
+        # 3. audit turkiye --json
+        res_aud = subprocess.run(["python", str(BASE_DIR / "scripts" / "xray_cli.py"), "audit", "turkiye", "--json"], capture_output=True, encoding="utf-8")
+        self.assertEqual(res_aud.returncode, 0, f"CLI audit başarısız: {res_aud.stderr}")
+        aud_obj = json.loads(res_aud.stdout)
+        self.assertEqual(aud_obj["country"]["code"], "TUR")
+        self.assertIn("csfi_fragility", aud_obj)
 
     def test_case_studies_and_research_counts(self):
         """dossiers/ ve research/ altındaki dosyaların asgari sayıları doğrulanır."""

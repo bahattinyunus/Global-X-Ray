@@ -34,6 +34,9 @@ jobs:
         python scripts/xray_cli.py briefing turkiye --json
         python scripts/xray_cli.py crisis-sim hormuz_blockade --json
         python scripts/xray_cli.py matrix --json
+        python scripts/xray_cli.py currency --json
+        python scripts/xray_cli.py cyber --json
+        python scripts/xray_cli.py audit turkiye --json
         python scripts/xray_cli.py rank gdp 5 --json
         python scripts/xray_cli.py export turkiye --format json
         python scripts/xray_cli.py graph turkiye

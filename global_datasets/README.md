@@ -2,7 +2,7 @@
 
 > *"Veri olmadan yapılan istihbarat tahminden, felsefe olmadan yapılan veri analizi ise kuru tablolardan ibarettir."*
 
-Bu dizin, **Medeniyet Atlası** projesinin tüm analitik, kültürel, makroekonomik ve jeopolitik veri tabanlarını barındıran açık kaynaklı veri ambarıdır. Veriler; resmi hükümet istatistikleri, uluslararası kuruluş raporları (BM, UNESCO, Dünya Bankası, IMF, FATF, SIPRI, IEA), mahkeme iddianameleri ve bağımsız araştırmacı gazetecilik konsorsiyumları (ICIJ, OCCRP) tarafından yayımlanan belgelere dayanır.
+Bu dizin, **Medeniyet Atlası** projesinin tüm analitik, kültürel, makroekonomik ve jeopolitik veri tabanlarını barındıran açık kaynaklı veri ambarıdır. Veriler; resmi hükümet istatistikleri, uluslararası kuruluş raporları (BM, UNESCO, Dünya Bankası, IMF, FATF, SIPRI, IEA, BIS), mahkeme iddianameleri ve bağımsız araştırmacı gazetecilik konsorsiyumları (ICIJ, OCCRP, Citizen Lab) tarafından yayımlanan belgelere dayanır.
 
 ---
 
@@ -24,8 +24,10 @@ Bu dizin, **Medeniyet Atlası** projesinin tüm analitik, kültürel, makroekono
 | [**`chokepoints_registry.json`**](chokepoints_registry.json) | JSON | 8 Kilit Geçit | Hürmüz, Malakka, Babülmendep, Süveyş, Türk Boğazları, Panama; günlük petrol ve konteyner tonaj transit hacimleri. |
 | [**`pmc_mercenary_groups.json`**](pmc_mercenary_groups.json) | JSON | 8 Şirket | Wagner / Afrika Kolordusu, Constellis, Sadat, Executive Outcomes; tahmini personel, hukuki statü ve aktif çatışma sahaları. |
 | [**`intelligence_agencies_registry.json`**](intelligence_agencies_registry.json) | JSON | 10 Teşkilat | CIA, MI6, MİT, Mossad, SVR, MSS, BND, RAW; HUMINT/SIGINT/iç güvenlik mimarisi, kara bütçeler ve meşhur operasyonlar. |
+| [**`currency_hegemony_and_dedollarization.json`**](currency_hegemony_and_dedollarization.json) | JSON | 6 Para Birimi & 4 Ağ | Dolar hegemonyası (%58.4 rezerv), Euro, Yuan (CIPS), mBridge, BRICS Pay, merkez bankaları altın alımları ve ABD tahvil sahipleri. |
+| [**`cognitive_warfare_and_cyber_arsenals.json`**](cognitive_warfare_and_cyber_arsenals.json) | JSON | 7 APT & 3 Casus Yazılım | APT28 (GRU), APT29 (SVR), APT41 (MSS), Volt Typhoon, Lazarus (Kuzey Kore), Pegasus (NSO), Predator (Cytrox) ve zero-click saldırı mimarisi. |
+| [**`geopolitical_crisis_scenarios.json`**](geopolitical_crisis_scenarios.json) | JSON | 8 Kriz Senaryosu | Hürmüz, Malakka, Tayvan yarı iletken, nadir topraklar, Babülmendep, Panama, Suwalki koridoru kriz modellemeleri ve etki matrisleri. |
 | [**`press_freedom_real_index.json`**](press_freedom_real_index.json) | JSON | 205 Ülke | Gerçek basın özgürlüğü, medya mülkiyeti tekelleri, devlet sansür filtreleri ve cezaevi istatistikleri. |
 | [**`offshore_havens_matrix.csv`**](offshore_havens_matrix.csv) | CSV | 20 Merkez | İsviçre, Cayman, BVI, Lüksemburg, Delaware, Jersey; kurumlar vergisi, gizlilik yasaları ve FATF risk kategorileri. |
 | [**`global_shadow_economy.csv`**](global_shadow_economy.csv) | CSV | 205 Ülke | Ülke bazında kayıt dışı gölge ekonomi oranları ve IMF/Dünya Bankası tahminleri. |
-| [**`geopolitical_crisis_scenarios.json`**](geopolitical_crisis_scenarios.json) | JSON | 8 Kriz Senaryosu | Hürmüz, Malakka, Tayvan yarı iletken, nadir topraklar, Babülmendep, Panama, Suwalki koridoru kriz modellemeleri ve etki matrisleri. |
 | [**`GLOBAL_RANKINGS_REPORT.md`**](GLOBAL_RANKINGS_REPORT.md) | Markdown | Rapor | Küresel güç, kırılganlık ve makroekonomik sıralamaların detaylı analiz raporu. |

@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "updated": "2026-11-03",
+    "description": "Küresel Rezerv Para Birimleri, De-Dolarizasyon Eğilimleri, Takas Koridorları ve Altın Rezervleri Matrisi",
+    "source_standards": "IMF COFER, BIS Triennial Survey, World Gold Council, SWIFT RMB Tracker, PBOC"
+  },
+  "global_reserve_currencies": [
+    {
+      "code": "USD",
+      "currency": "Amerikan Doları (USD)",
+      "issuing_entity": "ABD Merkez Bankası (Federal Reserve)",
+      "fx_reserves_share_pct": 58.4,
+      "swift_payment_share_pct": 47.8,
+      "hegemonic_pillar": "Petro-dolar sistemi, derin ABD Hazine tahvili (Treasury) piyasası, küresel bankacılık takas omurgası (CHIPS / Fedwire).",
+      "vulnerability_points": "$35+ Trilyon federal borç, dondurulan rezervler (Rusya emsali) sebebiyle tarafsızlık algısının erozyona uğraması, ikiz açıklar."
+    },
+    {
+      "code": "EUR",
+      "currency": "Euro (EUR)",
+      "issuing_entity": "Avrupa Merkez Bankası (ECB)",
+      "fx_reserves_share_pct": 19.8,
+      "swift_payment_share_pct": 22.5,
+      "hegemonic_pillar": "Avrupa Birliği ortak pazar hacmi, sermaye serbestisi ve likit Alman/Fransız devlet tahvilleri.",
+      "vulnerability_points": "Ortak maliye politikasının yokluğu, üye ülkelerin borç uçurumları, enerji bağımlılığı ve jeopolitik kırılganlıklar."
+    },
+    {
+      "code": "CNY",
+      "currency": "Çin Yuanı / Renminbi (CNY)",
+      "issuing_entity": "Çin Halk Bankası (PBOC)",
+      "fx_reserves_share_pct": 2.3,
+      "swift_payment_share_pct": 4.7,
+      "hegemonic_pillar": "Dünyanın en büyük mal ihracatçısı olması, Kuşak ve Yol yatırımlarında yuan kullanımı, Rusya ve Körfez ile enerji ticaretinde yerel para birimi.",
+      "vulnerability_points": "Sıkı sermaye kontrolleri, tam konvertibilite eksikliği ve yabancı yatırımcının finansal şeffaflık çekinceleri."
+    },
+    {
+      "code": "JPY",
+      "currency": "Japon Yeni (JPY)",
+      "issuing_entity": "Japonya Merkez Bankası (BOJ)",
+      "fx_reserves_share_pct": 5.7,
+      "swift_payment_share_pct": 3.9,
+      "hegemonic_pillar": "Geleneksel küresel güvenli liman (safe haven), yüksek net dış yatırım varlıkları ve 'Carry Trade' likidite kaynağı.",
+      "vulnerability_points": "GSYİH'nin %260'ını aşan devasa kamu borcu ve yaşlanan demografi."
+    },
+    {
+      "code": "GBP",
+      "currency": "İngiliz Sterlini (GBP)",
+      "issuing_entity": "İngiltere Merkez Bankası (Bank of England)",
+      "fx_reserves_share_pct": 4.9,
+      "swift_payment_share_pct": 6.8,
+      "hegemonic_pillar": "Londra'nın (City of London) küresel finans ve döviz piyasası (Forex) merkeziliği, İngiliz Hukuku güvenilirliği.",
+      "vulnerability_points": "Brexit sonrası reel ekonomi daralması ve cari denge açıkları."
+    },
+    {
+      "code": "GOLD",
+      "currency": "Parasal Altın (Sovereign Gold Reserves)",
+      "issuing_entity": "Egemen Merkez Bankaları Kasaları",
+      "fx_reserves_share_pct": 15.2,
+      "swift_payment_share_pct": 0.0,
+      "hegemonic_pillar": "Karşı taraf riski olmayan (zero counterparty risk) nihai değer saklama aracı; yaptırım ve dondurulamama güvencesi.",
+      "vulnerability_points": "Fiziksel depolama ve nakliye maliyetleri, doğrudan günlük uluslararası ticarette ödeme aracı olarak kullanım zorluğu."
+    }
+  ],
+  "alternative_clearing_networks": [
+    {
+      "id": "CIPS",
+      "name": "Cross-Border Interbank Payment System (CIPS)",
+      "lead_country": "Çin",
+      "headquarters": "Şanghay, Çin",
+      "participant_banks": 1500,
+      "direct_countries": 110,
+      "purpose": "SWIFT ve CHIPS'e bağımlılığı azaltarak uluslararası ticarette Yuan bazlı sınır ötesi takas ve mutabakat sağlamak.",
+      "annual_transaction_volume_trillion_usd": 18.2
+    },
+    {
+      "id": "SPFS",
+      "name": "System for Transfer of Financial Messages (SPFS)",
+      "lead_country": "Rusya",
+      "headquarters": "Moskova, Rusya",
+      "participant_banks": 550,
+      "direct_countries": 20,
+      "purpose": "Rusya'nın SWIFT sisteminden çıkarılması sonrası geliştirilen, bankalar arası şifreli mali mesajlaşma ağı.",
+      "annual_transaction_volume_trillion_usd": 2.4
+    },
+    {
+      "id": "mBridge",
+      "name": "Multiple Central Bank Digital Currency (mBridge) Projesi",
+      "lead_country": "BIS Hub / Çin, BAE, Tayland, Hong Kong, Suudi Arabistan",
+      "headquarters": "Uluslararası Ödemeler Bankası (BIS) İnovasyon Merkezi",
+      "participant_banks": 30,
+      "direct_countries": 5,
+      "purpose": "Dağıtık defter teknolojisi (DLT / Blockchain) ile merkez bankası dijital para birimleri (CBDC) üzerinden anlık, eşler arası ve dolarsız sınır ötesi döviz takası.",
+      "annual_transaction_volume_trillion_usd": 0.5
+    },
+    {
+      "id": "BRICS_PAY",
+      "name": "BRICS Pay / Sınır Ötesi Çok Taraflı Mutabakat Mimarisi",
+      "lead_country": "BRICS+ Birliği (Brezilya, Rusya, Hindistan, Çin, Güney Afrika, BAE, İran)",
+      "headquarters": "Rotasyonel BRICS Dönem Başkanlığı",
+      "participant_banks": 180,
+      "direct_countries": 9,
+      "purpose": "Ulusal para birimleri cinsinden karekod (QR) ve tokenize varlık tabanlı perakende ve toptan sınır ötesi ödeme altyapısı.",
+      "annual_transaction_volume_trillion_usd": 0.8
+    }
+  ],
+  "top_central_bank_gold_buyers_metric_tons": [
+    {"country": "Çin (PBOC)", "code": "CHN", "total_gold_tonnage": 2262, "recent_annual_purchases_tons": 225, "pct_of_total_reserves": 4.9},
+    {"country": "Polonya (NBP)", "code": "POL", "total_gold_tonnage": 420, "recent_annual_purchases_tons": 130, "pct_of_total_reserves": 14.8},
+    {"country": "Singapur (MAS)", "code": "SGP", "total_gold_tonnage": 230, "recent_annual_purchases_tons": 76, "pct_of_total_reserves": 5.2},
+    {"country": "Türkiye (TCMB)", "code": "TUR", "total_gold_tonnage": 585, "recent_annual_purchases_tons": 65, "pct_of_total_reserves": 34.2},
+    {"country": "Hindistan (RBI)", "code": "IND", "total_gold_tonnage": 840, "recent_annual_purchases_tons": 50, "pct_of_total_reserves": 9.3},
+    {"country": "Rusya (CBR)", "code": "RUS", "total_gold_tonnage": 2335, "recent_annual_purchases_tons": 35, "pct_of_total_reserves": 30.1}
+  ],
+  "top_us_treasury_holders_usd_b": [
+    {"country": "Japonya", "code": "JPN", "holdings_usd_b": 1150.0, "share_pct": 14.2},
+    {"country": "Çin", "code": "CHN", "holdings_usd_b": 775.0, "share_pct": 9.5},
+    {"country": "Birleşik Krallık", "code": "GBR", "holdings_usd_b": 745.0, "share_pct": 9.2},
+    {"country": "Lüksemburg", "code": "LUX", "holdings_usd_b": 405.0, "share_pct": 5.0},
+    {"country": "Kanada", "code": "CAN", "holdings_usd_b": 355.0, "share_pct": 4.4},
+    {"country": "Belçika", "code": "BEL", "holdings_usd_b": 320.0, "share_pct": 3.9},
+    {"country": "İrlanda", "code": "IRL", "holdings_usd_b": 315.0, "share_pct": 3.8},
+    {"country": "Cayman Adaları", "code": "CYM", "holdings_usd_b": 310.0, "share_pct": 3.8},
+    {"country": "İsviçre", "code": "CHE", "holdings_usd_b": 290.0, "share_pct": 3.6},
+    {"country": "Tayvan", "code": "TWN", "holdings_usd_b": 260.0, "share_pct": 3.2}
+  ]
+}

@@ -785,6 +785,20 @@ python scripts/xray_cli.py crisis-sim turkiye
 # 9 küresel medeniyet havzası ve felsefi güç matrisi özeti
 python scripts/xray_cli.py matrix
 
+# Küresel rezerv para birimleri, de-dolarizasyon ve CIPS/mBridge alternatif takas ağları
+python scripts/xray_cli.py currency
+python scripts/xray_cli.py currency cny
+python scripts/xray_cli.py currency mbridge
+
+# Devlet destekli siber harp birlikleri (APT) ve ticari casus yazılımlar (Pegasus/Predator)
+python scripts/xray_cli.py cyber
+python scripts/xray_cli.py cyber apt28
+python scripts/xray_cli.py cyber pegasus
+
+# Bir ülkenin 360° çok vektörlü stratejik egemenlik ve kırılganlık denetimi (Audit)
+python scripts/xray_cli.py audit turkiye
+python scripts/xray_cli.py audit almanya
+
 # Dünya kurucu destanları ve mitolojilerini sorgula veya listele
 python scripts/xray_cli.py epics
 

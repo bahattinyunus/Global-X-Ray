@@ -7,7 +7,7 @@ README_GEN = scripts/generate_master_readme.py
 CULTURE_BUILDER = scripts/build_culture_dossiers.py
 WEB_GEN = scripts/generate_web_atlas.py
 
-.PHONY: all test readme culture cli stats web help briefing sim matrix clean
+.PHONY: all test readme culture cli stats web help briefing sim matrix currency cyber audit clean
 
 all: test
 
@@ -20,6 +20,9 @@ help:
 	@echo "  make briefing  - Türkiye yönetici istihbarat brifingini gösterir"
 	@echo "  make sim       - Jeopolitik kriz & boğum simülatörünü listeler"
 	@echo "  make matrix    - 9 medeniyet havzası ve felsefi güç matrisini açar"
+	@echo "  make currency  - Rezerv paralar ve de-dolarizasyon tablosunu açar"
+	@echo "  make cyber     - Devlet destekli APT birlikleri ve casus yazılımları listeler"
+	@echo "  make audit     - Türkiye 360 derece egemenlik ve kırılganlık denetimini çalıştırır"
 	@echo "  make culture   - Kültür kütüphanesi dosyalarını derler"
 	@echo "  make readme    - Master README.md dosyasını otomatik üretir"
 	@echo "  make stats     - Küresel veri tabanı istatistiklerini gösterir"
@@ -40,6 +43,15 @@ sim:
 
 matrix:
 	$(PYTHON) $(CLI_SCRIPT) matrix
+
+currency:
+	$(PYTHON) $(CLI_SCRIPT) currency
+
+cyber:
+	$(PYTHON) $(CLI_SCRIPT) cyber
+
+audit:
+	$(PYTHON) $(CLI_SCRIPT) audit turkiye
 
 culture:
 	$(PYTHON) $(CULTURE_BUILDER)
